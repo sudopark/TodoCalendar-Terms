@@ -41,6 +41,8 @@ When you use an AI command, the **text of that command** and your time zone are 
 
 **To interpret your command, our servers pass it to our AI model provider, Anthropic (Claude API).** While carrying out the command, the model may request your existing data, and **the to-dos and schedules it requests — including titles, times, notes, places and tags — are sent to Anthropic as well.** Anthropic handles this under its own policy and does not use data submitted through its API to train its models.
 
+If you do not use AI features, none of this is sent.
+
 The record of an AI command (the command text, the result and the token usage) is stored on our servers and **is deleted automatically after 24 hours.** We separately record daily usage totals in order to apply the usage limit of your plan; those totals do not contain the content of your commands.
 
 ### 1.4 Payments
