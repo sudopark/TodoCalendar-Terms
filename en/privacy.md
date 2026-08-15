@@ -57,7 +57,7 @@ If you allow notifications, we store a push token and your device model so that 
 
 When you contact us through the app, we receive the message, your email address, your user identifier, and your app version, operating system version and device model, so that we can reproduce and answer the problem.
 
-**Enquiries are delivered to Slack, the messaging tool we use to handle them.**
+**Enquiries are delivered to Slack, the messaging tool we use to handle them. They do not pass through our own servers.**
 
 ### 1.7 Diagnostics
 
@@ -113,6 +113,7 @@ Each permission is requested only at the point you first use the corresponding f
 | Google Sign-In and Google Calendar API | Google account sign-in and calendar integration |
 | Apple (App Store / StoreKit, EventKit, Speech) | Purchases, Apple Calendar integration, speech recognition |
 | Anthropic (Claude API) | Interpreting and carrying out AI commands |
+| Slack | Receiving and handling support enquiries |
 
 These providers handle data under their own privacy policies.
 
@@ -145,6 +146,7 @@ The following processing, however, takes place outside that country:
 | Google Cloud / Firebase | United States | Account data and to-do/schedule data as it passes through API requests, sign-in data, push tokens, diagnostics | Running our server functions, authentication, delivering notifications, diagnosing errors |
 | Anthropic | United States | AI command text, and the to-do/schedule data needed to carry out the command | Interpreting and carrying out AI commands |
 | Apple | United States | Purchase transaction records | Processing and verifying purchases |
+| Slack | United States | Enquiry text, email address, user identifier, app and device information | Receiving and answering support enquiries |
 
 Transfers happen over the network at the moment you use the corresponding feature, and retention follows section 8. We rely on the safeguards those providers offer for such transfers.
 
