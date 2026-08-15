@@ -2,7 +2,7 @@
 
 **Effective date: 2026-08-15**
 
-To-do Calendar ("the Service") is developed and operated by sudo.park ("we", "us"). This policy explains what data the Service handles, why, and what choices you have.
+To-do Calendar ("the Service") is developed and operated by Hyunsoo Park ("we", "us"). This policy explains what data the Service handles, why, and what choices you have.
 
 If you have questions, contact us at **sudo.park@kakao.com**.
 
@@ -133,6 +133,15 @@ We disclose data only:
 - when you ask us to; or
 - when we are required to by law.
 
+### Connected external apps
+
+You can grant an external app — for example, an AI assistant connecting to the Service as a tool — access to your to-dos and schedules. A connection is only ever made when you approve it yourself on a consent screen.
+
+- A connected app operates **only within the scope you approved.** There are two scopes, read (`read:calendar`) and write (`write:calendar`), and the consent screen shows which are being requested.
+- We store the tokens issued for that connection, the details of the connected app, and the scopes you approved. Access tokens expire after 2 hours and refresh tokens after 30 days at most.
+- **Data passed to a connected app goes to that app's operator, and what happens to it afterwards is governed by that app's privacy policy.** That part is outside our control.
+- You can end a connection from the app you connected; doing so invalidates the issued tokens immediately. If that app offers no way to do so, contact us at the address below.
+
 ---
 
 ## 7. International transfers
@@ -185,6 +194,7 @@ Authentication credentials are stored in the device Keychain. Communication with
 - **Use without an account** — the core calendar and to-do features work offline, with no data sent to us.
 - **Disconnect an external calendar** — at any time, in the app's settings.
 - **Turn off notifications** — in your device settings.
+- **Disconnect an external app** — from the app you connected; access ends immediately.
 - **Delete your account** — in the app, which also requests deletion of your server-side data.
 - **Ask us anything about your data** — at the contact address below.
 
@@ -198,4 +208,11 @@ We may update this policy. When we do, we will change the effective date at the 
 
 ## 13. Contact
 
-**sudo.park@kakao.com**
+For questions about how your data is handled, or to request access, correction or deletion:
+
+| | |
+|---|---|
+| Data controller | Hyunsoo Park |
+| Business registration number (Republic of Korea) | 757-58-00882 |
+| Data protection officer | Hyunsoo Park (developer) |
+| Email | **sudo.park@kakao.com** |

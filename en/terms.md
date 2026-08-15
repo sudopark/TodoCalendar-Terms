@@ -90,13 +90,23 @@ These are services operated by third parties. Their availability, behaviour, dat
 
 You may disconnect an integration at any time in the app's settings. Doing so removes the locally cached data for that account.
 
-## 8. Changes to the Service
+## 8. Connected external apps
+
+You may grant an external app access to your to-dos and schedules. A connection is only made where you approve it yourself on a consent screen, and it is valid only within the scope you approved (read or write).
+
+**Anything a connected app does within that scope is treated as done by you.** Deciding which apps to authorise, and for what, is your responsibility.
+
+We do not endorse the external apps that can be connected, and we are not responsible for their behaviour, quality or data handling. What happens to data passed to them is set out in section 6 of the [Privacy Policy](./privacy.md).
+
+You may end a connection from that app at any time. We may block a connection that places unreasonable load on the Service or is used in breach of these terms.
+
+## 9. Changes to the Service
 
 We may add, change or remove features. Where a change materially reduces functionality you have paid for, we will give notice in the app in advance where it is reasonably possible to do so.
 
 We may suspend the Service temporarily for maintenance, or permanently if we can no longer operate it. In the case of permanent discontinuation we will give reasonable advance notice so that you can export or migrate your data.
 
-## 9. Disclaimers and limitation of liability
+## 10. Disclaimers and limitation of liability
 
 The Service is provided on an "as is" basis. We do not warrant that it will be uninterrupted, error-free, or that it will meet a particular purpose.
 
@@ -104,16 +114,16 @@ The Service is provided on an "as is" basis. We do not warrant that it will be u
 
 To the extent permitted by law, we are not liable for indirect or consequential loss, loss of profit, or loss of data. Nothing in these terms limits liability that cannot be limited by law, including liability for wilful misconduct or gross negligence.
 
-## 10. Governing law and disputes
+## 11. Governing law and disputes
 
 These terms are governed by the laws of the Republic of Korea. Disputes will be resolved in the courts having jurisdiction under Korean law.
 
 If you are a consumer resident elsewhere, this does not deprive you of the protection of mandatory provisions of the law of your country of residence.
 
-## 11. Changes to these terms
+## 12. Changes to these terms
 
 We may revise these terms. When we do, we will change the effective date at the top of this page and publish the new version here. Material changes will be announced in the app before they take effect. Continuing to use the Service after that point means you accept the revised terms.
 
-## 12. Contact
+## 13. Contact
 
 **sudo.park@kakao.com**
