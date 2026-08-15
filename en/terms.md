@@ -58,6 +58,8 @@ AI features are subject to usage limits.
 
 AI output is generated automatically and may be inaccurate or incomplete. **Review anything the AI proposes before you accept it.** You remain responsible for the content of your own calendar.
 
+AI features are processed through an external AI provider (currently Anthropic's Claude API). What is sent is set out in section 1.3 of the [Privacy Policy](./privacy.md).
+
 We may adjust limits, change or discontinue AI features, or change the underlying provider, in order to keep the Service operable.
 
 ## 5. Your content

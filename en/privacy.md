@@ -20,7 +20,7 @@ You can use the core features of the Service offline without an account. Signing
 | Sign-in provider (Google or Apple) | Authentication |
 | First and most recent sign-in time | Account management and abuse prevention |
 
-Authentication tokens are stored in the Keychain on your device. They are shared with the app's own widgets and extensions through an app group so that they can display your data.
+Authentication tokens are stored in the Keychain on your device. They are shared, through an app group, with the app's own widgets, share extension and Siri shortcut extensions so that those can display and update your data; those extensions talk to our servers using the same token.
 
 ### 1.2 Content you create
 
@@ -39,11 +39,9 @@ When you use an AI command, the **text of that command** and your time zone are 
 - **Voice input** is transcribed by Apple's on-device speech recognition. The audio itself is never sent to our servers — only the resulting text.
 - **Image input** is read by Apple's on-device text recognition. The image itself is never sent to our servers — only the recognised text.
 
-**Commands are interpreted using Anthropic's Claude API.** The text of your command, together with any event information (such as titles and times) that is looked up in the course of carrying out that command, is sent to Anthropic. Anthropic does not use data submitted through its API to train its models.
+**To interpret your command, our servers pass it to our AI model provider, Anthropic (Claude API).** While carrying out the command, the model may request your existing data, and **the to-dos and schedules it requests — including titles, times, notes, places and tags — are sent to Anthropic as well.** Anthropic handles this under its own policy and does not use data submitted through its API to train its models.
 
-If you do not use AI features, none of this is sent.
-
-We also record how many AI requests you have made, in order to apply the usage limit of your plan.
+The record of an AI command (the command text, the result and the token usage) is stored on our servers and **is deleted automatically after 24 hours.** We separately record daily usage totals in order to apply the usage limit of your plan; those totals do not contain the content of your commands.
 
 ### 1.4 Payments
 
@@ -63,7 +61,7 @@ When you contact us through the app, we receive the message, your email address,
 
 ### 1.7 Diagnostics
 
-The Service includes Google Firebase Analytics and Crashlytics, which collect usage statistics and crash reports. These may include device and operating-system information, an app instance identifier, and the state of the app at the time of a crash. We use this only to find and fix defects and to understand which features are used.
+The Service includes Google Firebase Analytics and Crashlytics, which collect usage statistics and crash reports. These may include device and operating-system information, an app instance identifier, and the state of the app at the time of a crash. **We do not send any custom events of our own — only the SDKs' standard collection (app opens, screen views) and crash reports.** We use this only to find and fix defects and to understand which features are used.
 
 ---
 
@@ -114,8 +112,7 @@ Each permission is requested only at the point you first use the corresponding f
 | Google Firebase (Authentication, Cloud Messaging, Analytics, Crashlytics) | Sign-in, push notifications, usage statistics, crash reports |
 | Google Sign-In and Google Calendar API | Google account sign-in and calendar integration |
 | Apple (App Store / StoreKit, EventKit, Speech) | Purchases, Apple Calendar integration, speech recognition |
-| Anthropic (Claude API) | Interpreting AI commands |
-| Slack | Delivering support enquiries |
+| Anthropic (Claude API) | Interpreting and carrying out AI commands |
 
 These providers handle data under their own privacy policies.
 
@@ -139,7 +136,17 @@ We disclose data only:
 
 ## 7. International transfers
 
-The Service runs on Google Cloud and Firebase infrastructure and uses Apple services. Your data may therefore be processed in countries other than the one you live in. We rely on the safeguards those providers offer for such transfers.
+The to-dos, schedules and other content you store are held in a Google Cloud database located in the **Republic of Korea (Seoul) region**.
+
+The following processing, however, takes place outside that country:
+
+| Recipient | Country | What is transferred | Purpose |
+|---|---|---|---|
+| Google Cloud / Firebase | United States | Account data and to-do/schedule data as it passes through API requests, sign-in data, push tokens, diagnostics | Running our server functions, authentication, delivering notifications, diagnosing errors |
+| Anthropic | United States | AI command text, and the to-do/schedule data needed to carry out the command | Interpreting and carrying out AI commands |
+| Apple | United States | Purchase transaction records | Processing and verifying purchases |
+
+Transfers happen over the network at the moment you use the corresponding feature, and retention follows section 8. We rely on the safeguards those providers offer for such transfers.
 
 ---
 
@@ -147,7 +154,9 @@ The Service runs on Google Cloud and Firebase infrastructure and uses Apple serv
 
 We keep your data for as long as your account exists.
 
-You can delete your account from within the app at any time. Doing so requests deletion of your server-side data and removes your authentication record. Copies held in routine backups are purged as those backups rotate, so removal is not always instantaneous. We retain data beyond this point only where the law requires it.
+Records of AI commands are deleted automatically after 24 hours (see section 1.3).
+
+You can delete your account from within the app at any time. Doing so requests deletion of your server-side data and removes your authentication record. We retain data beyond this point only where the law requires it.
 
 Deleting the app without deleting your account removes the local database from your device but leaves your account data on our servers.
 
