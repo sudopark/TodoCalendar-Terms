@@ -2,7 +2,7 @@
 
 **Effective date: 2026-08-15**
 
-These terms govern your use of To-do Calendar ("the Service"), developed and operated by sudo.park ("we", "us"). By using the Service you agree to them. If you do not agree, please stop using the Service.
+These terms govern your use of To-do Calendar ("the Service"), developed and operated by Hyunsoo Park ("we", "us"). By using the Service you agree to them. If you do not agree, please stop using the Service.
 
 Our handling of personal data is described separately in the [Privacy Policy](./privacy.md).
 
@@ -126,4 +126,4 @@ We may revise these terms. When we do, we will change the effective date at the 
 
 ## 13. Contact
 
-**sudo.park@kakao.com**
+**todocalendar.help@gmail.com**

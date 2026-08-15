@@ -7,4 +7,4 @@
 | Terms of Use / 이용약관 | [en/terms.md](en/terms.md) | [ko/terms.md](ko/terms.md) |
 | Privacy Policy / 개인정보처리방침 | [en/privacy.md](en/privacy.md) | [ko/privacy.md](ko/privacy.md) |
 
-문의: sudo.park@kakao.com
+문의: todocalendar.help@gmail.com

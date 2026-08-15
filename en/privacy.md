@@ -4,7 +4,7 @@
 
 To-do Calendar ("the Service") is developed and operated by Hyunsoo Park ("we", "us"). This policy explains what data the Service handles, why, and what choices you have.
 
-If you have questions, contact us at **sudo.park@kakao.com**.
+If you have questions, contact us at **todocalendar.help@gmail.com**.
 
 ---
 
@@ -179,7 +179,7 @@ The Service is a general-purpose productivity tool. It is not directed at childr
 
 **We do not collect or verify age information.** We therefore cannot determine whether a given user is a child.
 
-If a parent or guardian believes that a child's personal data has been provided to us, please contact **sudo.park@kakao.com**. We will verify the request and delete the data.
+If a parent or guardian believes that a child's personal data has been provided to us, please contact **todocalendar.help@gmail.com**. We will verify the request and delete the data.
 
 ---
 
@@ -213,6 +213,5 @@ For questions about how your data is handled, or to request access, correction o
 | | |
 |---|---|
 | Data controller | Hyunsoo Park |
-| Business registration number (Republic of Korea) | 757-58-00882 |
 | Data protection officer | Hyunsoo Park (developer) |
-| Email | **sudo.park@kakao.com** |
+| Email | **todocalendar.help@gmail.com** |
