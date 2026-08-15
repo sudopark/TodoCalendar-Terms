@@ -39,6 +39,10 @@ When you use an AI command, the **text of that command** and your time zone are 
 - **Voice input** is transcribed by Apple's on-device speech recognition. The audio itself is never sent to our servers — only the resulting text.
 - **Image input** is read by Apple's on-device text recognition. The image itself is never sent to our servers — only the recognised text.
 
+**Commands are interpreted using Anthropic's Claude API.** The text of your command, together with any event information (such as titles and times) that is looked up in the course of carrying out that command, is sent to Anthropic. Anthropic does not use data submitted through its API to train its models.
+
+If you do not use AI features, none of this is sent.
+
 We also record how many AI requests you have made, in order to apply the usage limit of your plan.
 
 ### 1.4 Payments
@@ -54,6 +58,8 @@ If you allow notifications, we store a push token and your device model so that 
 ### 1.6 Support enquiries
 
 When you contact us through the app, we receive the message, your email address, your user identifier, and your app version, operating system version and device model, so that we can reproduce and answer the problem.
+
+**Enquiries are delivered to Slack, the messaging tool we use to handle them.**
 
 ### 1.7 Diagnostics
 
@@ -108,6 +114,8 @@ Each permission is requested only at the point you first use the corresponding f
 | Google Firebase (Authentication, Cloud Messaging, Analytics, Crashlytics) | Sign-in, push notifications, usage statistics, crash reports |
 | Google Sign-In and Google Calendar API | Google account sign-in and calendar integration |
 | Apple (App Store / StoreKit, EventKit, Speech) | Purchases, Apple Calendar integration, speech recognition |
+| Anthropic (Claude API) | Interpreting AI commands |
+| Slack | Delivering support enquiries |
 
 These providers handle data under their own privacy policies.
 
