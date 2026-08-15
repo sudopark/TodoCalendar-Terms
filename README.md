@@ -1,41 +1,10 @@
 # TodoCalendar-Terms
 
-To-do Calendar 의 이용약관과 개인정보처리방침 원본.
+[To-do Calendar](https://apps.apple.com/kr/app/to-do-calendar/id6639620385) 의 이용약관과 개인정보처리방침.
 
-`sudopark/TodoCalendar-Web` 이 이 문서를 렌더해 `/terms`·`/privacy` 로 서빙하고, iOS 앱은 그 URL 을 연다. 이 레포는 원본만 보관한다.
+| | English | 한국어 |
+|---|---|---|
+| Terms of Use / 이용약관 | [en/terms.md](en/terms.md) | [ko/terms.md](ko/terms.md) |
+| Privacy Policy / 개인정보처리방침 | [en/privacy.md](en/privacy.md) | [ko/privacy.md](ko/privacy.md) |
 
-## 구조
-
-```
-en/privacy.md   Privacy Policy
-en/terms.md     Terms of Use
-ko/privacy.md   개인정보처리방침
-ko/terms.md     이용약관
-```
-
-언어를 최상위 디렉토리로 가른다. 언어를 늘릴 땐 디렉토리를 추가하고 같은 파일명을 쓴다.
-
-## 개정 절차
-
-1. 해당 md 를 수정한다. en/ko 는 **항상 함께** 갱신한다 — 한쪽만 고치면 두 언어가 다른 내용을 말하게 된다.
-2. 문서 상단의 **시행일**을 갱신한다.
-3. 중요한 변경이면 앱에서 사전 안내한다 (약관 §11 / 방침 §12 가 그렇게 약속하고 있다).
-
-앱 동작이 바뀌면 문서도 따라와야 한다. 특히 수집 항목·전송 대상·플랜 구조·권한이 바뀌는 변경은 방침 갱신이 짝이다.
-
-## 게시 전 확인 필요
-
-이 문서들은 앱 코드를 근거로 작성한 초안이다. 게시 전에 아래를 확인할 것.
-
-- [ ] **법률 검토** — 개발자가 최종 확인. 이 레포의 초안은 법률 자문이 아니다
-- [ ] **시행일** — 현재 `2026-08-15`. 실제 게시일과 맞추기
-- [ ] **준거법·관할** — 현재 대한민국으로 기재 (약관 §10)
-- [ ] **국외 이전** — 현재 "Google Cloud·Firebase 및 Apple 인프라" 수준으로만 서술 (방침 §7). 서버 리전을 특정해 밝힐지 결정
-- [ ] **보유 기간** — 백업 사본 제거 기간을 숫자로 명시할지 결정 (방침 §8, 현재 기간 미기재)
-- [ ] **연락처** — `sudo.park@kakao.com` 로 통일돼 있다
-
-## 관련
-
-- sudopark/TodoCalendar#857 — 상위 작업 (문서·웹 게시·앱 반영)
-- sudopark/TodoCalendar-Web#206 — 웹 렌더 페이지
-- sudopark/TodoCalendar#871 — 구글 OAuth 재심사 (방침의 Limited Use 고지가 요건)
+문의: sudo.park@kakao.com
