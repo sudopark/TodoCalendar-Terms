@@ -52,18 +52,27 @@ A to-do needs only a name. A schedule needs a name and a time.
 
 ## Repeating events
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Repeat options" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Repeat options" width="240">
 
-Six repeat patterns:
+Instead of asking you to assemble a rule out of dropdowns, the app reads the date you picked and offers ready-made options for it. Choose a Thursday and the list literally says **Every Thursday** and **The third Thursday of every month**.
 
-- **Daily** — every N days
-- **Weekly** — every N weeks, on the weekdays you pick
-- **Monthly** — every N months, on a date or on the "third Tuesday" style position
-- **Yearly** — every N years
-- **Yearly on a fixed date**
-- **Lunar yearly** — for birthdays and anniversaries kept on the lunar calendar
+**Common intervals**
 
-Each one ends **never**, **on a date**, or **after N occurrences**.
+- Every day
+- Every Week · Every 2 Weeks · Every 3 Weeks · Every 4 Weeks — on the same weekday as the event
+- Every Month — on the same date each month
+- Every Year
+- Every year (lunar calendar) — for birthdays and anniversaries kept on the lunar calendar
+
+**By position in the month**
+
+- Every Weekday — Monday through Friday. Offered when the event starts on a weekday
+- All days of the last week of every month
+- The first / second / third / fourth / last *weekday* of every month — for things like "the last Friday of the month"
+
+**Repeat Ends**
+
+Once you pick a repeat, choose how it stops: **Never**, **On** a specific date, or **After** a number of occurrences.
 
 Repeating to-dos behave differently from repeating schedules:
 
@@ -73,6 +82,8 @@ Repeating to-dos behave differently from repeating schedules:
 - When the repeat has an end condition and there is no next occurrence, the series finishes.
 
 When you edit or delete an occurrence of a repeating event, you choose the scope: **only this time**, **from this time on**, or **all events**.
+
+For events on a connected external calendar, the lunar option isn't offered — that calendar has no way to express it.
 
 ---
 
