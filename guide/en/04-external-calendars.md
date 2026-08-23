@@ -17,7 +17,8 @@ Connect from **Settings › Event settings and external calendars › External c
 | How it connects | Sign in to your Google account | Grant calendar access on this device |
 | Accounts | **Multiple at once** — work and personal side by side | The calendars already set up on your iPhone |
 | Read events | Yes | Yes |
-| Create, edit, delete | Yes | Yes |
+| Edit, delete | Yes | Yes |
+| Create new events | No — create them in the app's own calendar | No — create them in the app's own calendar |
 | Where the data lives | Stays in your Google account | Stays on your device |
 
 ---
@@ -63,7 +64,7 @@ If access was denied earlier, the app points you to iOS Settings. On managed dev
 
 ### Working with an Apple event
 
-Apple events show attendees and organizer, and can be created, edited and deleted from inside the app. For a repeating event you choose whether the change applies to **this event only** or **this and all future events**.
+Apple events show attendees and organizer, and can be edited and deleted from inside the app. For a repeating event you choose whether the change applies to **this event only** or **this and all future events**.
 
 Read-only calendars stay read-only, and fields the app can't edit are shown but not editable — same as Google. You can always open the event in Apple Calendar instead.
 
