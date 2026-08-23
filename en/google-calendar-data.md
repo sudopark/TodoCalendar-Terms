@@ -1,6 +1,6 @@
 # Google Calendar Integration & Data Policy
 
-**Effective date: 2026-08-17**
+**Effective date: 2026-08-23**
 
 This page explains what To-do Calendar ("the Service", "we", "us") does with your Google Calendar data. How we handle every other kind of personal data is described in the [Privacy Policy](./privacy.md).
 
@@ -22,7 +22,10 @@ The connection is entirely optional. Every core feature works without it, and yo
 
 ## 3. Scope and use of the data
 
-**What we request.** Access to the events in the Google calendars you choose to connect, so that we can read them and — where you ask us to — change them.
+**What we request, and when.** We ask for access in two steps, so that you are never asked for more than the app currently needs.
+
+- **When you connect an account**, we ask only for read access to the events in the Google calendars you choose (`https://www.googleapis.com/auth/calendar.readonly`).
+- **The first time you save or delete a Google Calendar event inside the app**, we ask you to sign in again to grant write access (`https://www.googleapis.com/auth/calendar`). If you never edit an event, we never ask for it. If you decline — or if the account belongs to an organisation that does not allow write access — the change is not made and the app tells you so.
 
 **Why we request it.** Your Google Calendar events are shown in the Service's calendar views, event lists and widgets, giving you one screen that covers your whole schedule. Where you edit or delete such an event inside the app, we apply that change to your Google Calendar on your behalf.
 
