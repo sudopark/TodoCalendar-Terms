@@ -1,0 +1,52 @@
+# 6. Compte et synchronisation
+
+[← Sommaire](./README.md)
+
+---
+
+## Vous n'avez pas besoin de compte
+
+To-do Calendar fonctionne **hors ligne d'abord**. Chaque événement que vous créez est écrit sur votre appareil en premier : l'application s'ouvre instantanément, marche en avion, et ne vous bloque jamais sur un appel réseau.
+
+Ce n'est pas un mode dégradé — créer des événements, les règles de répétition, les rappels, les types d'événement, les jours fériés, les widgets et les calendriers externes fonctionnent tous sans le moindre compte. Rien n'est retenu derrière un mur d'inscription.
+
+---
+
+## Ce qu'apporte la connexion
+
+Connectez-vous avec **Google** ou **Apple** et vous obtenez en plus :
+
+- **La sauvegarde** — vos événements vivent dans votre compte, pas seulement sur ce téléphone
+- **La synchronisation entre vos appareils** — le même calendrier sur chaque appareil iOS où vous êtes connecté
+- **La [saisie rapide par IA](./02-ai-input.md)** — la seule fonction qui exige un compte, parce que la demande est traitée sur un serveur
+
+---
+
+## Les événements déjà créés
+
+Si vous utilisiez l'application sans compte, vous connecter n'abandonne pas ce travail en route. Tout ce que vous aviez créé avant est **migré automatiquement vers votre compte** — les types d'événement d'abord, puis les tâches, les rendez-vous, les détails d'événement et les tâches terminées — et l'application vous dit combien d'événements elle déplace et quand elle a fini.
+
+Vous n'avez rien à faire, et rien n'est supprimé au passage.
+
+---
+
+## Rester synchronisé
+
+La synchronisation tourne toute seule en arrière-plan — après une modification, quand l'application revient au premier plan, et périodiquement pendant que vous regardez ailleurs. Les widgets se rafraîchissent une fois qu'elle est terminée.
+
+Si quelque chose vous semble dépassé, **Forcer la synchronisation** dans les réglages des événements jette la position de synchronisation locale et récupère tout depuis le début.
+
+Quand le même événement a été modifié à deux endroits, c'est la version du serveur qui l'emporte.
+
+---
+
+## Gérer votre compte
+
+Depuis **Réglages › Compte**, vous voyez par quel moyen vous vous êtes connecté, l'e-mail rattaché au compte et votre dernière connexion.
+
+- **Déconnexion** — l'application repasse en mode hors ligne et continue de fonctionner avec les données locales.
+- **Supprimer le compte** — efface votre compte et ses données. C'est irréversible, et l'application vous demande de confirmer avant d'aller plus loin.
+
+---
+
+[← Sommaire](./README.md)
