@@ -54,12 +54,12 @@ Tři cesty dovnitř podle toho, kolik toho chcete psát:
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/repeat-options.png" alt="Možnosti opakování" width="240">
 
-Místo aby po vás aplikace chtěla poskládat pravidlo z rozbalovacích nabídek, přečte si datum, které jste vybrali, a nabídne k němu hotové možnosti. Vyberte čtvrtek a v seznamu doslova stojí **Každé Čtvrtek** a **Třetí Čtvrtek každého měsíce**.
+Místo aby po vás aplikace chtěla poskládat pravidlo z rozbalovacích nabídek, přečte si datum, které jste vybrali, a nabídne k němu hotové možnosti. Vyberte čtvrtek a v seznamu doslova stojí **Každý týden: čtvrtek** a **Třetí čtvrtek každého měsíce**.
 
 **Běžné intervaly**
 
 - Každý den
-- Každý týden · Každých 2 týdnů · Každých 3 týdnů · Každých 4 týdnů — ve stejný den v týdnu jako událost
+- Každý týden · Po 2 týdnech · Po 3 týdnech · Po 4 týdnech — ve stejný den v týdnu jako událost
 - Každý měsíc — vždy na stejné datum v měsíci
 - Každý rok
 - Každý rok (lunární kalendář) — pro narozeniny a výročí držená podle lunárního kalendáře

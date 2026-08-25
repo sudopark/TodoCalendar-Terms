@@ -54,12 +54,12 @@ Zadatku treba samo naziv. Terminu trebaju naziv i vrijeme.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/repeat-options.png" alt="Opcije ponavljanja" width="240">
 
-Umjesto da od vas traži slaganje pravila iz padajućih izbornika, aplikacija čita datum koji ste odabrali i nudi gotove opcije za njega. Odaberite četvrtak i na popisu doslovno piše **Svaki Četvrtak** i **Treći Četvrtak svakog mjeseca**.
+Umjesto da od vas traži slaganje pravila iz padajućih izbornika, aplikacija čita datum koji ste odabrali i nudi gotove opcije za njega. Odaberite četvrtak i na popisu doslovno piše **Svaki tjedan: četvrtak** i **Treći četvrtak svakog mjeseca**.
 
 **Uobičajeni intervali**
 
 - Svaki dan
-- Svaki tjedan · Svaka 2 tjedna · Svaka 3 tjedna · Svaka 4 tjedna — na isti dan u tjednu kao i događaj
+- Svaki tjedan · Svaki 2. tjedan · Svaki 3. tjedan · Svaki 4. tjedan — na isti dan u tjednu kao i događaj
 - Svaki mjesec — na isti datum svakog mjeseca
 - Svake godine
 - Svake godine (lunarni kalendar) — za rođendane i godišnjice koje se prate po lunarnom kalendaru

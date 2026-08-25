@@ -54,12 +54,12 @@ Zadaniu wystarczy nazwa. Termin potrzebuje nazwy i czasu.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/repeat-options.png" alt="Opcje powtarzania" width="240">
 
-Zamiast kazać Ci składać regułę z rozwijanych list, aplikacja czyta wybraną datę i podsuwa opcje gotowe właśnie dla niej. Wybierz czwartek, a na liście zobaczysz wprost **Trzeci Czwartek każdego miesiąca** albo **Ostatni Czwartek każdego miesiąca**.
+Zamiast kazać Ci składać regułę z rozwijanych list, aplikacja czyta wybraną datę i podsuwa opcje gotowe właśnie dla niej. Wybierz czwartek, a na liście zobaczysz wprost **Trzeci czwartek każdego miesiąca** albo **Ostatni czwartek każdego miesiąca**.
 
 **Typowe cykle**
 
 - Codziennie
-- Co tydzień · Co 2 tygodni · Co 3 tygodni · Co 4 tygodni — w ten sam dzień tygodnia co wydarzenie
+- Co tydzień · Co 2. tydzień · Co 3. tydzień · Co 4. tydzień — w ten sam dzień tygodnia co wydarzenie
 - Co miesiąc — tego samego dnia każdego miesiąca
 - Co rok
 - Co rok (kalendarz księżycowy) — dla urodzin i rocznic liczonych według kalendarza księżycowego

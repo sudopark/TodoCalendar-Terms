@@ -54,12 +54,12 @@ Tri cesty dnu, podľa toho, koľko toho chcete napísať:
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/repeat-options.png" alt="Možnosti opakovania" width="240">
 
-Namiesto skladania pravidla z rozbaľovacích ponúk aplikácia prečíta dátum, ktorý ste vybrali, a ponúkne k nemu hotové možnosti. Vyberte štvrtok a v zozname doslova stojí **Každý štvrtok** a **Tretí štvrtok každého mesiaca**.
+Namiesto skladania pravidla z rozbaľovacích ponúk aplikácia prečíta dátum, ktorý ste vybrali, a ponúkne k nemu hotové možnosti. Vyberte štvrtok a v zozname doslova stojí **Každý týždeň: štvrtok** a **Tretí štvrtok každého mesiaca**.
 
 **Bežné intervaly**
 
 - Každý deň
-- Každý týždeň · Každých 2 týždňov · Každých 3 týždňov · Každých 4 týždňov — v ten istý deň v týždni ako udalosť
+- Každý týždeň · Po 2 týždňoch · Po 3 týždňoch · Po 4 týždňoch — v ten istý deň v týždni ako udalosť
 - Každý mesiac — v ten istý dátum každého mesiaca
 - Každý rok
 - Každý rok (lunárny kalendár) — pre narodeniny a výročia držané podľa lunárneho kalendára
