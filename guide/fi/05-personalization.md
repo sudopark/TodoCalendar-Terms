@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Asetukset" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/settings.png" alt="Asetukset" width="280">
 
 ---
 
 ## Ulkoasu
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Ulkoasuasetukset" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/appearance-setting.png" alt="Ulkoasuasetukset" width="280">
 
 Kaikki tällä näytöllä näkyy esikatselussa heti, kun muutat sitä, joten näet miltä kalenteri tulee näyttämään ennen kuin sitoudut.
 

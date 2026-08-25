@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Pengaturan" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/settings.png" alt="Pengaturan" width="280">
 
 ---
 
 ## Tampilan
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Pengaturan tampilan" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/appearance-setting.png" alt="Pengaturan tampilan" width="280">
 
 Semua yang ada di layar ini langsung terlihat di pratinjau begitu Anda mengubahnya, jadi Anda bisa melihat wujud kalendernya sebelum benar-benar menerapkannya.
 

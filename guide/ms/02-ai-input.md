@@ -6,7 +6,7 @@
 
 Huraikan apa yang anda mahu dalam bahasa harian dan aplikasi akan membinanya untuk anda — "makan tengah hari dengan Sara Jumaat tengah hari", "alihkan temu janji doktor gigi ke Selasa depan", "tandakan cucian selesai". Tiada borang, tiada memilih tarikh daripada roda.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Input pantas AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/ai-input.png" alt="Input pantas AI" width="280">
 
 Input pantas AI memerlukan akaun yang telah log masuk. Semua yang lain dalam aplikasi berfungsi tanpa akaun.
 
@@ -65,7 +65,7 @@ Permintaan daripada helaian Kongsi juga berjalan di latar belakang. Anda akan me
 3. **Pengesahan diperlukan** — jika permintaan itu akan mengubah sesuatu yang penting, aplikasi meminta kelulusan anda dahulu dan menunjukkan dengan tepat apa yang bakal dilakukannya. Ada kira detik; jika ia tamat tempoh, anda mohon semula sahaja.
 4. **Arahan selesai** — hasilnya mendarat pada kalendar anda serta-merta, dengan ringkasan tentang apa yang berubah.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Hasil AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/ai-result.png" alt="Hasil AI" width="280">
 
 Hanya satu permintaan berjalan pada satu masa. Jika anda menghantar satu lagi sedang yang lain masih menunggu kelulusan anda, aplikasi memberitahu anda supaya menguruskan yang pertama dahulu.
 

@@ -12,7 +12,7 @@ Rostul unui widget de calendar este să nu mai fiți nevoit să deschideți cale
 
 ### Astăzi și ce urmează
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widgetul Astăzi și ce urmează" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-today-and-next.png" alt="Widgetul Astăzi și ce urmează" width="360">
 
 În stânga, data de azi și ce a mai rămas din zi; în dreapta, ce urmează. Cea mai densă privire de ansamblu asupra lui „ce acum, ce după”.
 
@@ -20,7 +20,7 @@ Rostul unui widget de calendar este să nu mai fiți nevoit să deschideți cale
 
 ### Evenimente
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widgetul Evenimente" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-event-list.png" alt="Widgetul Evenimente" width="300">
 
 O listă continuă a evenimentelor viitoare, grupate pe zile, inclusiv lista actuală de sarcini. Vine în trei dimensiuni și arată cu atât mai multe zile cu cât e mai mare.
 
@@ -28,7 +28,7 @@ O listă continuă a evenimentelor viitoare, grupate pe zile, inclusiv lista act
 
 ### ASTĂZI
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widgetul ASTĂZI" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-today.png" alt="Widgetul ASTĂZI" width="200">
 
 Doar ziua de azi — data, sărbătoarea dacă există și câte sarcini și programări aveți.
 
@@ -36,7 +36,7 @@ Doar ziua de azi — data, sărbătoarea dacă există și câte sarcini și pro
 
 ### Eveniment principal
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widgetul Eveniment principal" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-foremost.png" alt="Widgetul Eveniment principal" width="200">
 
 Singurul eveniment pe care l-ați fixat drept cel mai important, mereu la vedere. Vedeți [Eveniment principal](./01-basics.md#eveniment-principal).
 
@@ -44,7 +44,7 @@ Singurul eveniment pe care l-ați fixat drept cel mai important, mereu la vedere
 
 ### Calendarul și săptămânile
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widgetul Calendar" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-month.png" alt="Widgetul Calendar" width="360">
 
 Grila calendarului în sine, pe intervalul dorit:
 

@@ -6,7 +6,7 @@
 
 Décrivez ce que vous voulez en langage courant et l'application le construit pour vous — « déjeuner avec Sara vendredi à midi », « décale le dentiste à mardi prochain », « marque la lessive comme faite ». Pas de formulaire, pas de date à faire tourner dans une roulette.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Saisie rapide par IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/ai-input.png" alt="Saisie rapide par IA" width="280">
 
 La saisie rapide par IA demande d'être connecté à un compte. Tout le reste de l'application fonctionne sans.
 
@@ -65,7 +65,7 @@ La demande envoyée depuis la feuille de partage part elle aussi en arrière-pla
 3. **Confirmation requise** — si la demande doit changer quelque chose d'important, l'application vous demande de l'approuver d'abord et vous montre exactement ce qu'elle s'apprête à faire. Un compte à rebours défile ; s'il expire, il suffit de redemander.
 4. **Commande terminée** — le résultat arrive immédiatement sur votre calendrier, avec un résumé de ce qui a changé.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Résultat de l'IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/ai-result.png" alt="Résultat de l'IA" width="280">
 
 Une seule demande est traitée à la fois. Si vous en envoyez une autre pendant que la première attend votre approbation, l'application vous invite à régler la première.
 

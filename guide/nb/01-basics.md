@@ -6,7 +6,7 @@
 
 ## Kalenderen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/calendar.png" alt="Kalender" width="280">
 
 Månedsrutenettet er appens hjemskjerm. Sveip til venstre og høyre for å bla mellom måneder, og trykk på en dag for å åpne hendelseslisten under.
 
@@ -32,7 +32,7 @@ En **oppgave uten tidspunkt** er for noe du må gjøre snart, men ikke har satt 
 
 Du kan konvertere begge veier når som helst – **Konverter til avtale** / **Konverter til oppgave** fra mer-menyen til hendelsen. Å konvertere en oppgave til en avtale krever et tidspunkt.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Hendelsesdetaljer" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/event-detail.png" alt="Hendelsesdetaljer" width="280">
 
 Hver hendelse kan ha et **sted** (med kartforhåndsvisning og ett trykk for å åpne den i kartappen du foretrekker), en **lenke** med forhåndsvisning, og et **notat**.
 
@@ -52,7 +52,7 @@ En oppgave trenger bare et navn. En avtale trenger både navn og tidspunkt.
 
 ## Gjentakende hendelser
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Alternativer for gjentakelse" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/repeat-options.png" alt="Alternativer for gjentakelse" width="240">
 
 I stedet for å be deg sette sammen en regel av nedtrekksmenyer, leser appen datoen du valgte og tilbyr ferdige alternativer for akkurat den. Velg en torsdag, og listen sier bokstavelig talt **Hver Torsdag** og **Den tredje Torsdag i hver måned**.
 
@@ -89,7 +89,7 @@ For hendelser i en tilkoblet ekstern kalender tilbys ikke månekalender-alternat
 
 ## Hendelsestyper og farger
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Hendelsestyper" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/event-type-list.png" alt="Hendelsestyper" width="280">
 
 Hendelsestyper er dine egne kategorier, og de bestemmer fargen en hendelse får i kalenderen. Lag så mange du vil, hver med sin egen farge.
 
@@ -131,7 +131,7 @@ Oppgaver uten tidspunkt og oppgaver fram i tid regnes ikke som uferdige – de h
 
 ## Fullførte oppgaver
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Fullførte oppgaver" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/done-todos.png" alt="Fullførte oppgaver" width="280">
 
 Alt du krysser av, blir tatt vare på og gruppert etter når du ble ferdig – **I dag**, **I går**, **Denne måneden**, og deretter etter måned og år.
 

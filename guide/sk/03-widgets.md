@@ -12,7 +12,7 @@ Zmyslom kalendárového widgetu je nemusieť kalendár otvárať. To-do Calendar
 
 ### Dnes a čo bude ďalej
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Dnes a čo bude ďalej" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-today-and-next.png" alt="Widget Dnes a čo bude ďalej" width="360">
 
 Vľavo dnešný dátum a to, čo z dneška zostáva, vpravo to, čo príde ďalej. Najhutnejší jediný pohľad na „čo teraz a čo potom“.
 
@@ -20,7 +20,7 @@ Vľavo dnešný dátum a to, čo z dneška zostáva, vpravo to, čo príde ďale
 
 ### Udalosti
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget so zoznamom udalostí" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-event-list.png" alt="Widget so zoznamom udalostí" width="300">
 
 Priebežný zoznam nadchádzajúcich udalostí zoskupených po dňoch vrátane vašich aktuálnych úloh. Prichádza v troch veľkostiach a čím väčší je, tým viac dní ukáže.
 
@@ -28,7 +28,7 @@ Priebežný zoznam nadchádzajúcich udalostí zoskupených po dňoch vrátane v
 
 ### DNES
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget DNES" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-today.png" alt="Widget DNES" width="200">
 
 Iba dnešok — dátum, sviatok, ak nejaký je, a koľko máte úloh a termínov.
 
@@ -36,7 +36,7 @@ Iba dnešok — dátum, sviatok, ak nejaký je, a koľko máte úloh a termínov
 
 ### Najdôležitejšia udalosť
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Najdôležitejšia udalosť" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-foremost.png" alt="Widget Najdôležitejšia udalosť" width="200">
 
 Tá jedna udalosť, ktorú ste pripli ako najdôležitejšiu, stále na očiach. Pozrite si [Najdôležitejšia udalosť](./01-basics.md#najdôležitejšia-udalosť).
 
@@ -44,7 +44,7 @@ Tá jedna udalosť, ktorú ste pripli ako najdôležitejšiu, stále na očiach.
 
 ### Kalendár a týždne
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget Kalendár" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-month.png" alt="Widget Kalendár" width="360">
 
 Samotná kalendárová mriežka, v rozsahu, aký chcete:
 

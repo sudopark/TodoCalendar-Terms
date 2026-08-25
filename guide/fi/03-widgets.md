@@ -12,7 +12,7 @@ Kalenteriwidgetin koko idea on siinä, ettei kalenteria tarvitse avata. To-do Ca
 
 ### Tänään ja mitä seuraavaksi
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Tänään ja mitä seuraavaksi -widget" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-today-and-next.png" alt="Tänään ja mitä seuraavaksi -widget" width="360">
 
 Vasemmalla tämän päivän päivämäärä ja se, mitä päivästä on jäljellä; oikealla se, mitä on tulossa seuraavaksi. Tiivein yksittäinen näkymä siihen, mitä nyt ja mitä sen jälkeen.
 
@@ -20,7 +20,7 @@ Vasemmalla tämän päivän päivämäärä ja se, mitä päivästä on jäljell
 
 ### Tapahtumat
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Tapahtumaluettelo-widget" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-event-list.png" alt="Tapahtumaluettelo-widget" width="300">
 
 Jatkuva luettelo tulevista tapahtumista päivittäin ryhmiteltynä, mukaan lukien nykyiset tehtäväsi. Kolmessa koossa: mitä isompi, sitä useampi päivä näkyy.
 
@@ -28,7 +28,7 @@ Jatkuva luettelo tulevista tapahtumista päivittäin ryhmiteltynä, mukaan lukie
 
 ### TÄNÄÄN
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="TÄNÄÄN-widget" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-today.png" alt="TÄNÄÄN-widget" width="200">
 
 Pelkkä tämä päivä — päivämäärä, mahdollinen vapaapäivä ja se, montako tehtävää ja aikataulutapahtumaa sinulla on.
 
@@ -36,7 +36,7 @@ Pelkkä tämä päivä — päivämäärä, mahdollinen vapaapäivä ja se, mont
 
 ### Tärkein tapahtuma
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Tärkein tapahtuma -widget" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-foremost.png" alt="Tärkein tapahtuma -widget" width="200">
 
 Se yksi tapahtuma, jonka kiinnitit tärkeimmäksi, aina näkyvissä. Katso [Tärkein tapahtuma](./01-basics.md#tärkein-tapahtuma).
 
@@ -44,7 +44,7 @@ Se yksi tapahtuma, jonka kiinnitit tärkeimmäksi, aina näkyvissä. Katso [Tär
 
 ### Kuukausi ja viikot
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Kuukausiwidget" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-month.png" alt="Kuukausiwidget" width="360">
 
 Itse kalenteriruudukko haluamallasi aikavälillä:
 

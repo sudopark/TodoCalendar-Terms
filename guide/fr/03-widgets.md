@@ -12,7 +12,7 @@ Un widget de calendrier existe justement pour vous éviter d'ouvrir le calendrie
 
 ### Aujourd'hui et à venir
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Aujourd'hui et à venir" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-today-and-next.png" alt="Widget Aujourd'hui et à venir" width="360">
 
 La date du jour et ce qu'il reste à faire aujourd'hui à gauche, ce qui arrive ensuite à droite. La vue unique la plus dense pour savoir « et maintenant, et après ».
 
@@ -20,7 +20,7 @@ La date du jour et ce qu'il reste à faire aujourd'hui à gauche, ce qui arrive 
 
 ### Événements
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget liste d'événements" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-event-list.png" alt="Widget liste d'événements" width="300">
 
 Une liste continue des événements à venir, regroupés par jour, y compris vos tâches en cours. Existe en trois tailles, et affiche d'autant plus de jours qu'elle est grande.
 
@@ -28,7 +28,7 @@ Une liste continue des événements à venir, regroupés par jour, y compris vos
 
 ### AUJOURD'HUI
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget AUJOURD'HUI" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-today.png" alt="Widget AUJOURD'HUI" width="200">
 
 Juste aujourd'hui — la date, le jour férié s'il y en a un, et le nombre de tâches et de rendez-vous que vous avez.
 
@@ -36,7 +36,7 @@ Juste aujourd'hui — la date, le jour férié s'il y en a un, et le nombre de t
 
 ### Événement principal
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Événement principal" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-foremost.png" alt="Widget Événement principal" width="200">
 
 L'unique événement que vous avez épinglé comme le plus important, toujours sous les yeux. Voir [Événement principal](./01-basics.md#événement-principal).
 
@@ -44,7 +44,7 @@ L'unique événement que vous avez épinglé comme le plus important, toujours s
 
 ### Mois et semaines
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget Calendrier" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-month.png" alt="Widget Calendrier" width="360">
 
 La grille du calendrier elle-même, sur la plage de votre choix :
 

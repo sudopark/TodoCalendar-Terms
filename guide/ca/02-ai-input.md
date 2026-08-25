@@ -6,7 +6,7 @@
 
 Descriviu el que voleu en llenguatge natural i l'aplicació us ho munta: «dinar amb la Sara divendres al migdia», «mou el dentista a dimarts vinent», «marca la bugada com a feta». Sense formularis ni haver de triar la data en una roda.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Entrada ràpida amb IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/ai-input.png" alt="Entrada ràpida amb IA" width="280">
 
 L'entrada ràpida amb IA requereix haver iniciat sessió. Tota la resta de l'aplicació funciona sense compte.
 
@@ -65,7 +65,7 @@ La petició des del full de compartir també s'executa en segon pla. Rebreu la c
 3. **Confirmació, quan cal** — si la petició ha de canviar alguna cosa important, l'aplicació us demana que ho aproveu primer i us ensenya exactament què està a punt de fer. Hi ha un compte enrere; si caduca, només cal que ho torneu a demanar.
 4. **Feta** — el resultat arriba al calendari a l'instant, amb un resum del que ha canviat.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Resultat de la IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/ai-result.png" alt="Resultat de la IA" width="280">
 
 Només s'executa una petició alhora. Si n'envieu una altra mentre n'hi ha una esperant la vostra aprovació, l'aplicació us diu que primer resolgueu la primera.
 

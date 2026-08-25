@@ -6,7 +6,7 @@
 
 ## Il calendario
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Calendario" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/calendar.png" alt="Calendario" width="280">
 
 La griglia del mese è la schermata principale. Scorri a destra e a sinistra per cambiare mese, tocca un giorno per aprire sotto l'elenco dei suoi eventi.
 
@@ -32,7 +32,7 @@ Un **da fare senza orario** serve per qualcosa che devi fare presto ma che non h
 
 Puoi convertire un tipo nell'altro in qualsiasi momento — **Converti in pianificazione** / **Converti in da fare** dal menu Altro dell'evento. Per convertire un da fare in pianificazione serve un orario.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Dettaglio evento" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/event-detail.png" alt="Dettaglio evento" width="280">
 
 Ogni evento può portare con sé un **Luogo** (con anteprima della mappa e apertura con un tocco nell'app mappe che preferisci), un **Link** con anteprima e una **Nota**.
 
@@ -52,7 +52,7 @@ A un da fare basta un nome. A una pianificazione servono un nome e un orario.
 
 ## Eventi ricorrenti
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opzioni di ricorrenza" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/repeat-options.png" alt="Opzioni di ricorrenza" width="240">
 
 Invece di chiederti di comporre una regola con una serie di menu a discesa, l'app legge la data che hai scelto e ti propone opzioni già pronte per quella data. Scegli un giovedì e l'elenco dice letteralmente **Ogni giovedì** e **Il terzo giovedì di ogni mese**.
 
@@ -89,7 +89,7 @@ Per gli eventi su un calendario esterno collegato l'opzione lunare non viene pro
 
 ## Tipi di evento e colori
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tipi di evento" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/event-type-list.png" alt="Tipi di evento" width="280">
 
 I tipi di evento sono le tue categorie, e portano con sé il colore con cui un evento appare sul calendario. Creane quanti vuoi, ciascuno con il suo colore.
 
@@ -131,7 +131,7 @@ I da fare senza orario e quelli futuri non contano come non completati: semplice
 
 ## Da fare completati
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Da fare completati" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/done-todos.png" alt="Da fare completati" width="280">
 
 Tutto quello che spunti viene conservato e raggruppato in base a quando l'hai concluso: oggi, ieri, questo mese, poi per mese e per anno.
 

@@ -12,7 +12,7 @@ Meningen med en kalenderwidget er, at du ikke skal åbne kalenderen. To-do Calen
 
 ### I dag og hvad der venter
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widgeten I dag og hvad der venter" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-today-and-next.png" alt="Widgeten I dag og hvad der venter" width="360">
 
 Dagens dato og resten af dagen til venstre, det der kommer bagefter til højre. Den tætteste enkeltvisning af "hvad nu, hvad så".
 
@@ -20,7 +20,7 @@ Dagens dato og resten af dagen til venstre, det der kommer bagefter til højre. 
 
 ### Begivenheder
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widgeten Begivenheder" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-event-list.png" alt="Widgeten Begivenheder" width="300">
 
 En løbende liste over kommende begivenheder grupperet efter dag – din aktuelle opgaveliste er med. Fås i tre størrelser og viser flere dage, jo større den er.
 
@@ -28,7 +28,7 @@ En løbende liste over kommende begivenheder grupperet efter dag – din aktuell
 
 ### I DAG
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widgeten I DAG" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-today.png" alt="Widgeten I DAG" width="200">
 
 Kun i dag – datoen, helligdagen hvis der er en, og hvor mange opgaver og aftaler du har.
 
@@ -36,7 +36,7 @@ Kun i dag – datoen, helligdagen hvis der er en, og hvor mange opgaver og aftal
 
 ### Vigtigste begivenhed
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widgeten Vigtigste begivenhed" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-foremost.png" alt="Widgeten Vigtigste begivenhed" width="200">
 
 Den ene begivenhed, du har fastgjort som den vigtigste, altid synlig. Se [Vigtigste begivenhed](./01-basics.md#vigtigste-begivenhed).
 
@@ -44,7 +44,7 @@ Den ene begivenhed, du har fastgjort som den vigtigste, altid synlig. Se [Vigtig
 
 ### Måned og uger
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widgeten Kalender" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-month.png" alt="Widgeten Kalender" width="360">
 
 Selve kalendergitteret, i det omfang du vil have:
 

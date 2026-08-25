@@ -6,7 +6,7 @@
 
 Opisz zwykłym językiem, czego chcesz, a aplikacja to zbuduje — „obiad z Sarą w piątek w południe”, „przenieś dentystę na przyszły wtorek”, „odhacz pranie”. Bez formularzy i bez kręcenia datą na kółku.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Szybkie wprowadzanie AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/ai-input.png" alt="Szybkie wprowadzanie AI" width="280">
 
 Szybkie wprowadzanie AI wymaga zalogowania. Cała reszta aplikacji działa bez konta.
 
@@ -65,7 +65,7 @@ Polecenie z arkusza udostępniania też idzie w tle. Dostaniesz potwierdzenie wy
 3. **Wymagane potwierdzenie** — jeśli polecenie zmieniłoby coś istotnego, aplikacja najpierw prosi o zgodę i pokazuje dokładnie, co zamierza zrobić. Jest na to odliczanie; gdy czas upłynie, po prostu poproś jeszcze raz.
 4. **Polecenie wykonane** — wynik ląduje w kalendarzu od razu, wraz z podsumowaniem tego, co się zmieniło.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Wynik AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/ai-result.png" alt="Wynik AI" width="280">
 
 Naraz przetwarzane jest tylko jedno polecenie. Jeśli wyślesz kolejne, gdy poprzednie wciąż czeka na Twoją zgodę, aplikacja poprosi, żebyś najpierw zajął się tamtym.
 

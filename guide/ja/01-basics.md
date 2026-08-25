@@ -6,7 +6,7 @@
 
 ## カレンダー画面
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="カレンダー" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/calendar.png" alt="カレンダー" width="280">
 
 月のグリッドがホーム画面です。左右にスワイプして月を移動し、日付をタップするとその下にその日のイベント一覧が開きます。
 
@@ -32,7 +32,7 @@
 
 いつでも相互に変換できます — イベントのその他メニューから**予定に変換** / **タスクに変換**。タスクを予定に変換するには時刻情報が必要です。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="イベント詳細" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/event-detail.png" alt="イベント詳細" width="280">
 
 どのイベントにも**場所**（地図のプレビューと、お好みの地図アプリでワンタップで開く機能つき）、プレビューが付く**リンク**、**メモ**を持たせられます。
 
@@ -52,7 +52,7 @@
 
 ## 繰り返しイベント
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="繰り返しオプション" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/repeat-options.png" alt="繰り返しオプション" width="240">
 
 ドロップダウンを組み合わせてルールを作らせる代わりに、アプリが選んだ日付を読み取って、その日付に合った選択肢をあらかじめ用意します。木曜日を選べば、リストにはそのまま**毎週木曜日**、**毎月第3木曜日**と並びます。
 
@@ -89,7 +89,7 @@
 
 ## イベントタイプと色
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="イベントタイプ" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/event-type-list.png" alt="イベントタイプ" width="280">
 
 イベントタイプは自分だけの分類で、カレンダーに表示される色もここで決まります。好きなだけ作って、それぞれに色を指定してください。
 
@@ -131,7 +131,7 @@
 
 ## 完了したタスク
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="完了したタスク" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/done-todos.png" alt="完了したタスク" width="280">
 
 チェックしたものはすべて保管され、完了した時点でまとめられます — 今日、昨日、今月、そのあとは月別・年別に。
 

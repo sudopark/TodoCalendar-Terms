@@ -12,7 +12,7 @@
 
 ### 今天與接下來的行程
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="今天與接下來的行程小工具" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/widget-today-and-next.png" alt="今天與接下來的行程小工具" width="360">
 
 左邊是今天的日期與今天剩下的事，右邊是接下來要來的事。用一個畫面把「現在做什麼、之後做什麼」講得最完整。
 
@@ -20,7 +20,7 @@
 
 ### 活動
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="活動小工具" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/widget-event-list.png" alt="活動小工具" width="300">
 
 依日期分組，把即將到來的活動一路列出來，也包含目前的待辦事項。共有三種尺寸，愈大顯示的天數愈多。
 
@@ -28,7 +28,7 @@
 
 ### 今天
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="今天小工具" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/widget-today.png" alt="今天小工具" width="200">
 
 只有今天——日期、有假日的話還有假日名稱，以及有幾項待辦事項和行程。
 
@@ -36,7 +36,7 @@
 
 ### 最重要活動
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="最重要活動小工具" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/widget-foremost.png" alt="最重要活動小工具" width="200">
 
 您釘選為最重要的那一個活動，隨時看得到。請參閱 [最重要活動](./01-basics.md#最重要活動)。
 
@@ -44,7 +44,7 @@
 
 ### 日曆與週
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="日曆小工具" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/widget-month.png" alt="日曆小工具" width="360">
 
 直接顯示行事曆格線本身，範圍由您決定：
 

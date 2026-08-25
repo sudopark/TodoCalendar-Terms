@@ -12,7 +12,7 @@ Lý do tồn tại của một tiện ích lịch là để bạn khỏi phải 
 
 ### Hôm nay và sắp tới
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Tiện ích Hôm nay và sắp tới" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-today-and-next.png" alt="Tiện ích Hôm nay và sắp tới" width="360">
 
 Bên trái là ngày hôm nay cùng những gì còn lại của hôm nay, bên phải là những gì sắp tới. Đây là cách gói gọn nhất câu hỏi "giờ làm gì, rồi tới gì".
 
@@ -20,7 +20,7 @@ Bên trái là ngày hôm nay cùng những gì còn lại của hôm nay, bên 
 
 ### Sự kiện
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Tiện ích danh sách sự kiện" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-event-list.png" alt="Tiện ích danh sách sự kiện" width="300">
 
 Một danh sách chạy dài các sự kiện sắp tới, nhóm theo ngày, kèm cả việc cần làm hiện tại của bạn. Có ba cỡ, càng lớn thì càng hiển thị nhiều ngày.
 
@@ -28,7 +28,7 @@ Một danh sách chạy dài các sự kiện sắp tới, nhóm theo ngày, kè
 
 ### HÔM NAY
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Tiện ích HÔM NAY" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-today.png" alt="Tiện ích HÔM NAY" width="200">
 
 Chỉ hôm nay — ngày tháng, tên ngày lễ nếu có, và bạn đang có bao nhiêu việc cần làm cùng bao nhiêu lịch trình.
 
@@ -36,7 +36,7 @@ Chỉ hôm nay — ngày tháng, tên ngày lễ nếu có, và bạn đang có 
 
 ### Sự kiện quan trọng nhất
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Tiện ích Sự kiện quan trọng nhất" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-foremost.png" alt="Tiện ích Sự kiện quan trọng nhất" width="200">
 
 Sự kiện duy nhất bạn đã ghim là quan trọng nhất, luôn nằm trong tầm mắt. Xem [Sự kiện quan trọng nhất](./01-basics.md#sự-kiện-quan-trọng-nhất).
 
@@ -44,7 +44,7 @@ Sự kiện duy nhất bạn đã ghim là quan trọng nhất, luôn nằm tron
 
 ### Lịch và tuần
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Tiện ích lịch" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-month.png" alt="Tiện ích lịch" width="360">
 
 Chính lưới lịch, trong khoảng bạn muốn:
 

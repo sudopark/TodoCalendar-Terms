@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Ρυθμίσεις" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/settings.png" alt="Ρυθμίσεις" width="280">
 
 ---
 
 ## Εμφάνιση
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Ρυθμίσεις εμφάνισης" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/appearance-setting.png" alt="Ρυθμίσεις εμφάνισης" width="280">
 
 Όλα σε αυτή την οθόνη εμφανίζονται ζωντανά σε προεπισκόπηση καθώς τα αλλάζετε, ώστε να δείτε πώς θα δείχνει το ημερολόγιο πριν το οριστικοποιήσετε.
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="การตั้งค่า" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/settings.png" alt="การตั้งค่า" width="280">
 
 ---
 
 ## รูปลักษณ์
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="ตั้งค่ารูปลักษณ์" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/appearance-setting.png" alt="ตั้งค่ารูปลักษณ์" width="280">
 
 ทุกอย่างในหน้านี้แสดงตัวอย่างทันทีที่คุณเปลี่ยน คุณจึงเห็นได้ว่าปฏิทินจะออกมาหน้าตาแบบไหนก่อนจะใช้จริง
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="設定" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/settings.png" alt="設定" width="280">
 
 ---
 
 ## 外觀
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="外觀設定" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/appearance-setting.png" alt="外觀設定" width="280">
 
 這個畫面上的每一項都會在您變更的當下即時預覽，套用之前就能看到行事曆會變成什麼樣子。
 

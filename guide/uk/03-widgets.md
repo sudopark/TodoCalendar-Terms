@@ -12,7 +12,7 @@
 
 ### Сьогодні і що далі
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Віджет «Сьогодні і що далі»" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/widget-today-and-next.png" alt="Віджет «Сьогодні і що далі»" width="360">
 
 Ліворуч — сьогоднішня дата й те, що лишилося на сьогодні, праворуч — те, що буде далі. Найщільніший спосіб побачити «що зараз і що потім» одним поглядом.
 
@@ -20,7 +20,7 @@
 
 ### Події
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Віджет списку подій" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/widget-event-list.png" alt="Віджет списку подій" width="300">
 
 Суцільний список майбутніх подій, згрупованих за днями, разом із вашими поточними завданнями. Є в трьох розмірах: що більший, то більше днів показує.
 
@@ -28,7 +28,7 @@
 
 ### СЬОГОДНІ
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Віджет «СЬОГОДНІ»" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/widget-today.png" alt="Віджет «СЬОГОДНІ»" width="200">
 
 Тільки сьогодні — дата, свято, якщо воно є, і скільки у вас завдань та зустрічей.
 
@@ -36,7 +36,7 @@
 
 ### Головна подія
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Віджет «Головна подія»" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/widget-foremost.png" alt="Віджет «Головна подія»" width="200">
 
 Та єдина подія, яку ви закріпили як найважливішу, — завжди на очах. Дивіться [Головну подію](./01-basics.md#головна-подія).
 
@@ -44,7 +44,7 @@
 
 ### Місяць і тижні
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Віджет місяця" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/widget-month.png" alt="Віджет місяця" width="360">
 
 Сама сітка календаря — у потрібному вам діапазоні:
 

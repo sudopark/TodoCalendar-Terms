@@ -6,7 +6,7 @@
 
 ## Календарь
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Календарь" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/calendar.png" alt="Календарь" width="280">
 
 Месячная сетка — это главный экран. Листайте влево и вправо, чтобы переходить между месяцами, и нажмите на день, чтобы открыть под ним список его событий.
 
@@ -32,7 +32,7 @@
 
 Одно в другое можно превратить в любой момент — **Преобразовать во встречу** / **Преобразовать в задачу** в меню «Ещё» у события. Чтобы превратить задачу во встречу, нужно указать время.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Детали события" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/event-detail.png" alt="Детали события" width="280">
 
 В любом событии можно хранить **Место** (с превью карты и открытием в один тап в вашем любимом приложении карт), **ссылку** с превью и **Заметку**.
 
@@ -52,7 +52,7 @@
 
 ## Повторяющиеся события
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Варианты повтора" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/repeat-options.png" alt="Варианты повтора" width="240">
 
 Вместо того чтобы собирать правило из выпадающих списков, приложение читает выбранную вами дату и предлагает готовые варианты именно для неё. Выберите четверг — и в списке прямо так и будет написано: **Каждое Четверг** и **Третье Четверг каждого месяца**.
 
@@ -89,7 +89,7 @@
 
 ## Типы событий и цвета
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Типы событий" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/event-type-list.png" alt="Типы событий" width="280">
 
 Типы событий — это ваши категории, и они несут цвет, которым событие показывается в календаре. Создавайте сколько угодно, каждый со своим цветом.
 
@@ -131,7 +131,7 @@
 
 ## Выполненные задачи
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Выполненные задачи" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/done-todos.png" alt="Выполненные задачи" width="280">
 
 Всё, что вы отметили, сохраняется и группируется по моменту выполнения — сегодня, вчера, этот месяц, а дальше по месяцам и годам.
 

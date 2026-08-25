@@ -12,7 +12,7 @@ Sens widżetu kalendarza polega na tym, żeby nie trzeba było otwierać kalenda
 
 ### Dziś i co dalej
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widżet Dziś i co dalej" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-today-and-next.png" alt="Widżet Dziś i co dalej" width="360">
 
 Po lewej dzisiejsza data i to, co zostało z dnia, po prawej to, co nadchodzi. Najgęstszy pojedynczy obraz tego, „co teraz, a co potem”.
 
@@ -20,7 +20,7 @@ Po lewej dzisiejsza data i to, co zostało z dnia, po prawej to, co nadchodzi. N
 
 ### Wydarzenia
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widżet Wydarzenia" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-event-list.png" alt="Widżet Wydarzenia" width="300">
 
 Ciągła lista nadchodzących wydarzeń pogrupowana według dni, razem z bieżącymi zadaniami. Jest w trzech rozmiarach, a im większy, tym więcej dni pokazuje.
 
@@ -28,7 +28,7 @@ Ciągła lista nadchodzących wydarzeń pogrupowana według dni, razem z bieżą
 
 ### DZIŚ
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widżet DZIŚ" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-today.png" alt="Widżet DZIŚ" width="200">
 
 Tylko dziś — data, nazwa święta, jeśli jakieś wypada, i tyle zadań i terminów, ile masz.
 
@@ -36,7 +36,7 @@ Tylko dziś — data, nazwa święta, jeśli jakieś wypada, i tyle zadań i ter
 
 ### Najważniejsze wydarzenie
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widżet Najważniejsze wydarzenie" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-foremost.png" alt="Widżet Najważniejsze wydarzenie" width="200">
 
 To jedno wydarzenie, które przypiąłeś jako najistotniejsze, zawsze na widoku. Zobacz [Najważniejsze wydarzenie](./01-basics.md#najważniejsze-wydarzenie).
 
@@ -44,7 +44,7 @@ To jedno wydarzenie, które przypiąłeś jako najistotniejsze, zawsze na widoku
 
 ### Kalendarz i tygodnie
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widżet Kalendarz" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-month.png" alt="Widżet Kalendarz" width="360">
 
 Sama siatka kalendarza, w zakresie, jaki Ci odpowiada:
 

@@ -6,7 +6,7 @@
 
 ## 日历界面
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="日历" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/calendar.png" alt="日历" width="280">
 
 月视图网格就是主界面。左右滑动切换月份，点一下某天，下方就会展开当天的事件列表。
 
@@ -32,7 +32,7 @@
 
 两者随时可以互相转换 —— 在事件的更多菜单里选 **转换为日程** / **转换为待办**。把待办转成日程需要时间信息。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="事件详情" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/event-detail.png" alt="事件详情" width="280">
 
 每个事件都能带上 **位置**（附地图预览，一点就用你偏好的地图应用打开）、带预览的 **链接**，以及 **备注**。
 
@@ -52,7 +52,7 @@
 
 ## 重复事件
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="重复选项" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/repeat-options.png" alt="重复选项" width="240">
 
 应用不会让你从一堆下拉框里拼出一条规则，而是读懂你选的那个日期，直接给出为它准备好的选项。选一个星期四，列表上就明明白白写着 **每星期四** 和 **每月第三个星期四**。
 
@@ -89,7 +89,7 @@
 
 ## 事件类型与颜色
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="事件类型" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/event-type-list.png" alt="事件类型" width="280">
 
 事件类型就是你自己的分类，事件在日历上显示的颜色也由它决定。想建多少个就建多少个，每个都能有自己的颜色。
 
@@ -131,7 +131,7 @@
 
 ## 已完成待办
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="已完成待办" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/done-todos.png" alt="已完成待办" width="280">
 
 勾掉的事都会被保留，按你完成的时间分组 —— 今天、昨天、本月，再往前按月和年。
 

@@ -6,7 +6,7 @@
 
 Beschrijf in gewone taal wat je wilt en de app bouwt het voor je — "vrijdag om twaalf uur lunchen met Sara", "verplaats de tandarts naar volgende week dinsdag", "vink de was af". Geen formulieren, geen datum uit een wieltje kiezen.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI-snelinvoer" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/ai-input.png" alt="AI-snelinvoer" width="280">
 
 Voor AI-snelinvoer moet je ingelogd zijn. Al het andere in de app werkt zonder account.
 
@@ -65,7 +65,7 @@ Ook een verzoek uit het deelmenu draait op de achtergrond. Je krijgt een bevesti
 3. **Bevestiging vereist** — zou het verzoek iets ingrijpends veranderen, dan vraagt de app eerst om je goedkeuring en laat precies zien wat er staat te gebeuren. Er loopt een aftelling; verloopt die, dan vraag je het gewoon opnieuw.
 4. **Opdracht voltooid** — het resultaat landt meteen op je kalender, met een samenvatting van wat er veranderd is.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI-resultaat" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/ai-result.png" alt="AI-resultaat" width="280">
 
 Er draait maar één verzoek tegelijk. Stuur je er nog een terwijl het vorige nog op je goedkeuring wacht, dan zegt de app dat je eerst het eerste moet afhandelen.
 

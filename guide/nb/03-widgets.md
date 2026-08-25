@@ -12,7 +12,7 @@ Poenget med en kalenderwidget er å slippe å åpne kalenderen. To-do Calendar k
 
 ### I dag og hva som kommer
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widgeten I dag og hva som kommer" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-today-and-next.png" alt="Widgeten I dag og hva som kommer" width="360">
 
 Dagens dato og det som er igjen av i dag til venstre, det som kommer nest til høyre. Den tetteste enkeltvisningen av «hva nå, hva etterpå».
 
@@ -20,7 +20,7 @@ Dagens dato og det som er igjen av i dag til venstre, det som kommer nest til h�
 
 ### Hendelser
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Hendelseslistewidget" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-event-list.png" alt="Hendelseslistewidget" width="300">
 
 En løpende liste over kommende hendelser gruppert etter dag, inkludert Gjeldende oppgaveliste. Kommer i tre størrelser, og viser flere dager jo større den blir.
 
@@ -28,7 +28,7 @@ En løpende liste over kommende hendelser gruppert etter dag, inkludert Gjeldend
 
 ### I DAG
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widgeten I DAG" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-today.png" alt="Widgeten I DAG" width="200">
 
 Bare i dag – datoen, helligdagen hvis det er en, og hvor mange oppgaver og avtaler du har.
 
@@ -36,7 +36,7 @@ Bare i dag – datoen, helligdagen hvis det er en, og hvor mange oppgaver og avt
 
 ### Viktigste hendelse
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widgeten Viktigste hendelse" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-foremost.png" alt="Widgeten Viktigste hendelse" width="200">
 
 Den ene hendelsen du festet som viktigst, alltid synlig. Se [Viktigste hendelse](./01-basics.md#viktigste-hendelse).
 
@@ -44,7 +44,7 @@ Den ene hendelsen du festet som viktigst, alltid synlig. Se [Viktigste hendelse]
 
 ### Måned og uker
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Månedswidget" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-month.png" alt="Månedswidget" width="360">
 
 Selve kalenderrutenettet, i det omfanget du vil ha:
 

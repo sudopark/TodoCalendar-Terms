@@ -6,7 +6,7 @@
 
 Опишіть звичайною мовою, що вам потрібно, і додаток зробить це за вас — «обід із Сарою в п'ятницю опівдні», «перенеси стоматолога на наступний вівторок», «познач прання як виконане». Ніяких форм і вибору дати колесом.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Швидке введення ШІ" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/ai-input.png" alt="Швидке введення ШІ" width="280">
 
 Швидке введення ШІ потребує входу в обліковий запис. Усе інше в додатку працює й без нього.
 
@@ -65,7 +65,7 @@
 3. **Потрібне підтвердження** — якщо запит змінить щось суттєве, додаток спершу попросить схвалення й покаже, що саме збирається зробити. Є зворотний відлік; якщо час мине, просто попросіть ще раз.
 4. **Команду виконано** — результат одразу лягає у ваш календар разом із підсумком того, що змінилося.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Результат ШІ" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/ai-result.png" alt="Результат ШІ" width="280">
 
 Одночасно виконується лише один запит. Якщо надіслати наступний, поки попередній чекає на ваше схвалення, додаток попросить спершу розібратися з першим.
 

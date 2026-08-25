@@ -6,7 +6,7 @@
 
 ## El calendario
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Calendario" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/calendar.png" alt="Calendario" width="280">
 
 La cuadrícula del mes es la pantalla principal. Desliza a izquierda y derecha para cambiar de mes, y toca un día para abrir debajo su lista de eventos.
 
@@ -32,7 +32,7 @@ Una **tarea sin hora** es para algo que necesitas hacer pronto pero que aún no 
 
 Puedes convertir en cualquier dirección y en cualquier momento — **Convertir en evento de calendario** / **Convertir en tarea**, desde el menú de más opciones del evento. Convertir una tarea en un evento de calendario necesita una hora.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detalle del evento" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/event-detail.png" alt="Detalle del evento" width="280">
 
 Todos los eventos pueden llevar una **Ubicación** (con vista previa del mapa y apertura con un toque en tu app de mapas preferida), un enlace con **Vista previa de URL** y una **Nota**.
 
@@ -52,7 +52,7 @@ Una tarea solo necesita un nombre. Un evento de calendario necesita un nombre y 
 
 ## Eventos repetidos
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opciones de repetición" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/repeat-options.png" alt="Opciones de repetición" width="240">
 
 En lugar de pedirte que montes una regla a base de desplegables, la app lee la fecha que elegiste y te ofrece opciones ya hechas para ella. Elige un jueves y la lista dirá literalmente **Cada jueves** y **El tercer jueves de cada mes**.
 
@@ -89,7 +89,7 @@ En los eventos de un calendario externo conectado no se ofrece la opción lunar 
 
 ## Tipos de evento y colores
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tipos de evento" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/event-type-list.png" alt="Tipos de evento" width="280">
 
 Los tipos de evento son tus categorías, y llevan el color con el que el evento se muestra en el calendario. Crea todos los que quieras, cada uno con su propio color.
 
@@ -131,7 +131,7 @@ Las tareas sin hora y las futuras no cuentan como pendientes — simplemente aú
 
 ## Tareas completadas
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Tareas completadas" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/done-todos.png" alt="Tareas completadas" width="280">
 
 Todo lo que marcas se guarda, agrupado por cuándo lo terminaste — hoy, ayer, este mes, y después por mes y año.
 

@@ -6,7 +6,7 @@
 
 Jelaskan apa yang Anda inginkan dengan bahasa sehari-hari, dan aplikasi akan menyusunnya untuk Anda — "makan siang dengan Sara Jumat pukul 12", "pindahkan dokter gigi ke Selasa depan", "tandai cucian sudah selesai". Tanpa formulir, tanpa memutar roda tanggal.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Input cepat AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/ai-input.png" alt="Input cepat AI" width="280">
 
 Input cepat AI memerlukan akun yang sudah masuk. Semua fitur lain di aplikasi ini berjalan tanpa akun.
 
@@ -65,7 +65,7 @@ Permintaan dari lembar berbagi juga berjalan di latar belakang. Anda hanya mener
 3. **Perlu konfirmasi** — kalau permintaan itu akan mengubah sesuatu yang penting, aplikasi meminta persetujuan Anda lebih dulu sambil menunjukkan persis apa yang hendak dilakukannya. Ada hitung mundurnya; kalau waktunya habis, tinggal minta lagi.
 4. **Perintah selesai** — hasilnya langsung mendarat di kalender Anda, lengkap dengan ringkasan apa saja yang berubah.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Hasil AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/ai-result.png" alt="Hasil AI" width="280">
 
 Hanya satu permintaan yang berjalan pada satu waktu. Kalau Anda mengirim permintaan lain saat masih ada yang menunggu persetujuan, aplikasi meminta Anda menuntaskan yang pertama dulu.
 

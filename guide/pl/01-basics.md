@@ -6,7 +6,7 @@
 
 ## Kalendarz
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalendarz" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/calendar.png" alt="Kalendarz" width="280">
 
 Siatka miesiąca jest ekranem głównym. Przesuwaj w lewo i w prawo, żeby zmieniać miesiące, a stuknij dzień, żeby otworzyć pod spodem listę jego wydarzeń.
 
@@ -32,7 +32,7 @@ Aplikacja zna dwa rodzaje wydarzeń, a różnica polega na tym, czy daną rzecz 
 
 W każdej chwili przejdziesz z jednego na drugie — **Zmień na termin** / **Zmień na zadanie** w menu wydarzenia. Zmiana zadania w termin wymaga podania czasu.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Szczegóły wydarzenia" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/event-detail.png" alt="Szczegóły wydarzenia" width="280">
 
 Każde wydarzenie może nieść **Miejsce** (z podglądem mapy i otwarciem jednym stuknięciem w ulubionej aplikacji map), **Link** z podglądem oraz **Notatkę**.
 
@@ -52,7 +52,7 @@ Zadaniu wystarczy nazwa. Termin potrzebuje nazwy i czasu.
 
 ## Wydarzenia powtarzające się
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opcje powtarzania" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/repeat-options.png" alt="Opcje powtarzania" width="240">
 
 Zamiast kazać Ci składać regułę z rozwijanych list, aplikacja czyta wybraną datę i podsuwa opcje gotowe właśnie dla niej. Wybierz czwartek, a na liście zobaczysz wprost **Trzeci Czwartek każdego miesiąca** albo **Ostatni Czwartek każdego miesiąca**.
 
@@ -89,7 +89,7 @@ Dla wydarzeń z połączonego kalendarza zewnętrznego opcja księżycowa się n
 
 ## Typy wydarzeń i kolory
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Typy wydarzeń" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/event-type-list.png" alt="Typy wydarzeń" width="280">
 
 Typy wydarzeń to Twoje kategorie i to one niosą kolor, którym wydarzenie świeci w kalendarzu. Utwórz ich tyle, ile chcesz, każdy w swoim kolorze.
 
@@ -131,7 +131,7 @@ Zadania bez godziny i te z przyszłości nie liczą się jako niezakończone —
 
 ## Ukończone zadania
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Ukończone zadania" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/done-todos.png" alt="Ukończone zadania" width="280">
 
 Wszystko, co odhaczysz, zostaje zachowane i pogrupowane według momentu ukończenia — dziś, wczoraj, ten miesiąc, a dalej według miesięcy i lat.
 

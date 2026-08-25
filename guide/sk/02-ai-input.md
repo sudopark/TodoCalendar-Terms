@@ -6,7 +6,7 @@
 
 Opíšte bežnou rečou, čo chcete, a aplikácia to za vás zostaví — „obed so Sárou v piatok napoludnie“, „presuň zubára na budúci utorok“, „označ pranie ako hotové“. Žiadne formuláre, žiadne vyberanie dátumu z kolieska.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Rýchle zadávanie AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/ai-input.png" alt="Rýchle zadávanie AI" width="280">
 
 Rýchle zadávanie AI vyžaduje prihlásený účet. Všetko ostatné v aplikácii funguje aj bez neho.
 
@@ -65,7 +65,7 @@ Aj požiadavka z hárka zdieľania beží na pozadí. Dostanete potvrdenie, že 
 3. **Vyžaduje sa potvrdenie** — ak by požiadavka zmenila niečo podstatné, aplikácia vás najprv požiada o schválenie a presne ukáže, čo sa chystá urobiť. Beží pri tom odpočet; ak vyprší, jednoducho požiadate znova.
 4. **Príkaz dokončený** — výsledok pristane v kalendári okamžite, spolu so zhrnutím toho, čo sa zmenilo.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Výsledok AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/ai-result.png" alt="Výsledok AI" width="280">
 
 Naraz beží iba jedna požiadavka. Ak pošlete ďalšiu, kým predchádzajúca stále čaká na vaše schválenie, aplikácia vám povie, aby ste najprv vybavili tú prvú.
 

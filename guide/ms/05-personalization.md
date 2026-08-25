@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Tetapan" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/settings.png" alt="Tetapan" width="280">
 
 ---
 
 ## Rupa
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Tetapan rupa" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/appearance-setting.png" alt="Tetapan rupa" width="280">
 
 Semua yang ada pada skrin ini dipratonton secara langsung sambil anda mengubahnya, jadi anda boleh melihat rupa kalendar sebelum melaksanakannya.
 

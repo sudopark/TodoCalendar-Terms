@@ -6,7 +6,7 @@
 
 Beskriv det du vill ha med vanliga ord så bygger appen det åt dig – "lunch med Sara på fredag kl. 12", "flytta tandläkaren till nästa tisdag", "markera tvätten som klar". Inga formulär, inget datumhjul att snurra på.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI-snabbinmatning" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/ai-input.png" alt="AI-snabbinmatning" width="280">
 
 AI-snabbinmatning kräver att du är inloggad. Allt annat i appen fungerar utan konto.
 
@@ -65,7 +65,7 @@ Dela **text eller en bild från vilken annan app som helst** direkt till To-do C
 3. **Bekräftelse krävs** – skulle begäran ändra något betydelsefullt ber appen dig godkänna först och visar exakt vad den tänker göra. Det finns en nedräkning; går den ut är det bara att fråga igen.
 4. **Kommandot slutfört** – resultatet landar i kalendern direkt, med en sammanfattning av vad som ändrades.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI-resultat" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/ai-result.png" alt="AI-resultat" width="280">
 
 Bara en begäran körs åt gången. Skickar du en till medan en annan väntar på ditt godkännande säger appen till att du behöver ta hand om den första.
 

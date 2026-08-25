@@ -6,7 +6,7 @@
 
 ## Le calendrier
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Calendrier" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/calendar.png" alt="Calendrier" width="280">
 
 La grille mensuelle est l'écran d'accueil. Balayez vers la gauche ou la droite pour changer de mois, appuyez sur un jour pour ouvrir la liste de ses événements en dessous.
 
@@ -32,7 +32,7 @@ Une **tâche sans heure** sert à ce que vous devez faire bientôt sans l'avoir 
 
 Vous pouvez passer de l'un à l'autre à tout moment — **Convertir en rendez-vous** / **Convertir en tâche** depuis le menu « plus » de l'événement. Convertir une tâche en rendez-vous demande une heure.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Détail d'un événement" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/event-detail.png" alt="Détail d'un événement" width="280">
 
 Chaque événement peut porter un **Lieu** (avec aperçu cartographique et ouverture en un geste dans l'application de plans de votre choix), un **Lien** avec aperçu, et une **Note**.
 
@@ -52,7 +52,7 @@ Une tâche n'a besoin que d'un nom. Un rendez-vous a besoin d'un nom et d'une he
 
 ## Événements récurrents
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Options de répétition" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/repeat-options.png" alt="Options de répétition" width="240">
 
 Plutôt que de vous faire assembler une règle à coups de menus déroulants, l'application lit la date que vous avez choisie et propose les options qui lui correspondent. Choisissez un jeudi et la liste affiche littéralement **Tous les Jeudi** et **Le troisième Jeudi de chaque mois**.
 
@@ -89,7 +89,7 @@ Pour les événements d'un calendrier externe connecté, l'option lunaire n'est 
 
 ## Types d'événement et couleurs
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Types d'événement" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/event-type-list.png" alt="Types d'événement" width="280">
 
 Les types d'événement sont vos catégories, et ils portent la couleur sous laquelle un événement apparaît sur le calendrier. Créez-en autant que vous voulez, chacun avec sa couleur.
 
@@ -131,7 +131,7 @@ Les tâches sans heure et celles à venir ne comptent pas comme non terminées �
 
 ## Tâches terminées
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Tâches terminées" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/done-todos.png" alt="Tâches terminées" width="280">
 
 Tout ce que vous cochez est conservé et regroupé selon le moment où vous l'avez terminé — aujourd'hui, hier, ce mois-ci, puis par mois et par année.
 

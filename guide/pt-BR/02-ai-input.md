@@ -6,7 +6,7 @@
 
 Descreva o que você quer em linguagem natural e o app monta para você — "almoço com a Sara sexta ao meio-dia", "passa o dentista para terça que vem", "marca a lavanderia como concluída". Sem formulários, sem escolher data em roda.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Entrada rápida por IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/ai-input.png" alt="Entrada rápida por IA" width="280">
 
 A entrada rápida por IA exige login. Todo o resto do app funciona sem conta.
 
@@ -65,7 +65,7 @@ A solicitação vinda do menu de compartilhamento também roda em segundo plano.
 3. **Confirmação necessária** — se a solicitação for mexer em algo importante, o app pede sua aprovação antes e mostra exatamente o que pretende fazer. Há uma contagem regressiva; se ela expirar, é só pedir de novo.
 4. **Concluído** — o resultado cai no seu calendário na hora, com um resumo do que mudou.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Resultado da IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/ai-result.png" alt="Resultado da IA" width="280">
 
 Só uma solicitação roda por vez. Se você enviar outra enquanto uma ainda espera sua aprovação, o app pede que você resolva a primeira.
 

@@ -12,7 +12,7 @@
 
 ### วันนี้และกิจกรรมถัดไป
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="วิดเจ็ตวันนี้และกิจกรรมถัดไป" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/widget-today-and-next.png" alt="วิดเจ็ตวันนี้และกิจกรรมถัดไป" width="360">
 
 ด้านซ้ายคือวันที่ของวันนี้และสิ่งที่เหลือของวันนี้ ด้านขวาคือสิ่งที่กำลังจะมาถึง เป็นมุมมองเดียวที่อัดแน่นที่สุดของ "ตอนนี้อะไร แล้วต่อไปอะไร"
 
@@ -20,7 +20,7 @@
 
 ### กิจกรรม
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="วิดเจ็ตกิจกรรม" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/widget-event-list.png" alt="วิดเจ็ตกิจกรรม" width="300">
 
 รายการกิจกรรมที่กำลังจะมาถึงเรียงต่อกัน จัดกลุ่มตามวัน รวมถึงรายการที่ต้องทำตอนนี้ด้วย มีสามขนาด ยิ่งใหญ่ยิ่งแสดงได้หลายวัน
 
@@ -28,7 +28,7 @@
 
 ### วันนี้
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="วิดเจ็ตวันนี้" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/widget-today.png" alt="วิดเจ็ตวันนี้" width="200">
 
 เฉพาะวันนี้ — วันที่ ชื่อวันหยุดถ้ามี และมีสิ่งที่ต้องทำกับนัดหมายอย่างละกี่รายการ
 
@@ -36,7 +36,7 @@
 
 ### กิจกรรมสำคัญที่สุด
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="วิดเจ็ตกิจกรรมสำคัญที่สุด" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/widget-foremost.png" alt="วิดเจ็ตกิจกรรมสำคัญที่สุด" width="200">
 
 กิจกรรมหนึ่งเดียวที่คุณปักหมุดว่าสำคัญที่สุด แสดงให้เห็นตลอดเวลา ดูที่ [กิจกรรมสำคัญที่สุด](./01-basics.md#กิจกรรมสำคัญที่สุด)
 
@@ -44,7 +44,7 @@
 
 ### ปฏิทินและรายสัปดาห์
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="วิดเจ็ตปฏิทิน" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/widget-month.png" alt="วิดเจ็ตปฏิทิน" width="360">
 
 ตัวตารางปฏิทินเอง ในช่วงที่คุณต้องการ
 

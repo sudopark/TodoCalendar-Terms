@@ -6,7 +6,7 @@
 
 ## Calendarul
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Calendar" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/calendar.png" alt="Calendar" width="280">
 
 Grila lunară este ecranul principal. Glisați stânga-dreapta ca să treceți de la o lună la alta și atingeți o zi ca să deschideți dedesubt lista ei de evenimente.
 
@@ -32,7 +32,7 @@ O **sarcină fără oră** e potrivită pentru ceva ce trebuie făcut curând, d
 
 Puteți face conversia în ambele sensuri oricând — **Convertește în programare** / **Convertește în sarcină**, din meniul de acțiuni suplimentare al evenimentului. Conversia unei sarcini în programare cere o oră.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detaliile evenimentului" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/event-detail.png" alt="Detaliile evenimentului" width="280">
 
 Orice eveniment poate purta o **Locație** (cu previzualizare pe hartă și deschidere dintr-o singură atingere în aplicația de hărți preferată), un **Link** cu previzualizare și o **Notă**.
 
@@ -52,7 +52,7 @@ O sarcină are nevoie doar de un nume. O programare are nevoie de nume și de or
 
 ## Evenimente repetitive
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opțiuni de repetare" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/repeat-options.png" alt="Opțiuni de repetare" width="240">
 
 În loc să vă ceară să asamblați o regulă din liste derulante, aplicația citește data aleasă și vă oferă opțiuni gata făcute pentru ea. Alegeți o zi de joi și lista chiar scrie **În fiecare joi** și **A treia joi din fiecare lună**.
 
@@ -89,7 +89,7 @@ Pentru evenimentele dintr-un calendar extern conectat, opțiunea lunară nu este
 
 ## Tipuri de evenimente și culori
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tipuri de evenimente" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/event-type-list.png" alt="Tipuri de evenimente" width="280">
 
 Tipurile de evenimente sunt categoriile dvs. și ele poartă culoarea cu care apare un eveniment în calendar. Creați câte doriți, fiecare cu propria culoare.
 
@@ -131,7 +131,7 @@ Sarcinile fără oră și cele viitoare nu se socotesc drept neterminate — pur
 
 ## Sarcini finalizate
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Sarcini finalizate" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/done-todos.png" alt="Sarcini finalizate" width="280">
 
 Tot ce bifați se păstrează, grupat după momentul în care ați terminat — astăzi, ieri, luna aceasta, apoi pe luni și pe ani.
 

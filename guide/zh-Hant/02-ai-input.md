@@ -6,7 +6,7 @@
 
 用日常語言說出您想要的，應用程式就會幫您建立——「星期五中午和 Sara 吃午餐」、「把牙醫改到下星期二」、「洗衣服完成了」。不用填表單，也不用在滾輪上挑日期。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI 快速輸入" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/ai-input.png" alt="AI 快速輸入" width="280">
 
 AI 快速輸入需要登入帳號，應用程式的其餘功能不必登入也能使用。
 
@@ -65,7 +65,7 @@ AI 快速輸入需要登入帳號，應用程式的其餘功能不必登入也�
 3. **需要確認** — 如果這個要求會造成重要的變更，應用程式會先把它打算做的事完整列出來，請您核准。核准有時間限制，過期了再問一次就好。
 4. **工作完成** — 結果會立刻反映在行事曆上，並附上變更內容的摘要。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI 處理結果" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/ai-result.png" alt="AI 處理結果" width="280">
 
 一次只會處理一個要求。前一個要求還在等您核准時又送出新的，應用程式會請您先處理前一個。
 

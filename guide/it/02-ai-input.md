@@ -6,7 +6,7 @@
 
 Descrivi quello che vuoi in linguaggio naturale e l'app lo costruisce per te: «pranzo con Sara venerdì a mezzogiorno», «sposta il dentista a martedì prossimo», «segna il bucato come fatto». Niente moduli, nessuna data da cercare su una rotella.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Inserimento rapido AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-input.png" alt="Inserimento rapido AI" width="280">
 
 L'inserimento rapido AI richiede l'accesso a un account. Tutto il resto dell'app funziona anche senza.
 
@@ -65,7 +65,7 @@ Anche la richiesta dal foglio di condivisione viene eseguita in background. Rice
 3. **Conferma, quando serve** — se la richiesta comporta un cambiamento importante, l'app ti chiede prima di approvarla e ti mostra esattamente che cosa sta per fare. C'è un conto alla rovescia; se scade, basta chiedere di nuovo.
 4. **Attività completata** — il risultato arriva subito sul tuo calendario, con un riepilogo di che cosa è cambiato.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Risultato AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-result.png" alt="Risultato AI" width="280">
 
 Viene elaborata una sola richiesta alla volta. Se ne invii un'altra mentre la prima è ancora in attesa della tua approvazione, l'app ti invita a occuparti prima di quella.
 

@@ -6,7 +6,7 @@
 
 Hãy mô tả điều bạn muốn bằng ngôn ngữ thường ngày và ứng dụng sẽ dựng nó giúp bạn — "ăn trưa với Sara thứ Sáu lúc 12 giờ", "dời lịch nha sĩ sang thứ Ba tuần sau", "đánh dấu đã giặt đồ xong". Không biểu mẫu, không phải xoay bánh xe chọn ngày.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Nhập nhanh AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/ai-input.png" alt="Nhập nhanh AI" width="280">
 
 Nhập nhanh AI cần một tài khoản đã đăng nhập. Mọi thứ khác trong ứng dụng đều dùng được mà không cần tài khoản.
 
@@ -65,7 +65,7 @@ Yêu cầu từ bảng chia sẻ cũng chạy ở chế độ nền. Bạn sẽ 
 3. **Cần xác nhận** — nếu yêu cầu sẽ thay đổi điều gì đó đáng kể, ứng dụng xin bạn phê duyệt trước và cho xem chính xác nó sắp làm gì. Có một đồng hồ đếm ngược; nếu hết giờ thì bạn chỉ cần yêu cầu lại.
 4. **Hoàn thành** — kết quả xuất hiện ngay trên lịch của bạn, kèm tóm tắt những gì đã thay đổi.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Kết quả AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/ai-result.png" alt="Kết quả AI" width="280">
 
 Mỗi lần chỉ có một yêu cầu được chạy. Nếu bạn gửi thêm một yêu cầu trong khi yêu cầu trước còn đang chờ bạn phê duyệt, ứng dụng sẽ nhắc bạn xử lý cái trước đã.
 

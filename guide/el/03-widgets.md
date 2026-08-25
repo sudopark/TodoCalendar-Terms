@@ -12,7 +12,7 @@
 
 ### Σήμερα και τι ακολουθεί
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Σήμερα και τι ακολουθεί" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/widget-today-and-next.png" alt="Widget Σήμερα και τι ακολουθεί" width="360">
 
 Αριστερά η σημερινή ημερομηνία και ό,τι απομένει από σήμερα, δεξιά αυτό που έρχεται μετά. Η πιο πυκνή ενιαία εικόνα του «τι τώρα, τι μετά».
 
@@ -20,7 +20,7 @@
 
 ### Συμβάντα
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget Συμβάντα" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/widget-event-list.png" alt="Widget Συμβάντα" width="300">
 
 Μια συνεχής λίστα με τα επερχόμενα συμβάντα ομαδοποιημένα ανά ημέρα, μαζί με την τρέχουσα λίστα εργασιών σας. Έρχεται σε τρία μεγέθη, και όσο μεγαλώνει δείχνει περισσότερες ημέρες.
 
@@ -28,7 +28,7 @@
 
 ### ΣΗΜΕΡΑ
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget ΣΗΜΕΡΑ" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/widget-today.png" alt="Widget ΣΗΜΕΡΑ" width="200">
 
 Μόνο το σήμερα — η ημερομηνία, η αργία αν υπάρχει, και πόσες εργασίες και ραντεβού έχετε.
 
@@ -36,7 +36,7 @@
 
 ### Κύριο συμβάν
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Κύριο συμβάν" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/widget-foremost.png" alt="Widget Κύριο συμβάν" width="200">
 
 Το ένα συμβάν που καρφιτσώσατε ως πιο σημαντικό, πάντα μπροστά σας. Δείτε το [Κύριο συμβάν](./01-basics.md#κύριο-συμβάν).
 
@@ -44,7 +44,7 @@
 
 ### Μήνας και εβδομάδες
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget Ημερολόγιο" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/widget-month.png" alt="Widget Ημερολόγιο" width="360">
 
 Το ίδιο το πλέγμα του ημερολογίου, στο εύρος που θέλετε:
 

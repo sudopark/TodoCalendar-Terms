@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="설정" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/settings.png" alt="설정" width="280">
 
 ---
 
 ## 외관
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="외관 설정" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/appearance-setting.png" alt="외관 설정" width="280">
 
 이 화면의 항목은 바꾸는 즉시 미리보기에 반영돼요. 적용하기 전에 캘린더가 어떻게 보일지 확인할 수 있어요.
 

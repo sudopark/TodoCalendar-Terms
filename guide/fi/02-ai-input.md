@@ -6,7 +6,7 @@
 
 Kuvaile tavallisin sanoin, mitä haluat, ja sovellus rakentaa sen puolestasi — ”lounas Saran kanssa perjantaina keskipäivällä”, ”siirrä hammaslääkäri ensi tiistaille”, ”merkitse pyykit tehdyiksi”. Ei lomakkeita, ei päivämäärän vierittämistä rullalta.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI-pikasyöttö" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/ai-input.png" alt="AI-pikasyöttö" width="280">
 
 AI-pikasyöttö vaatii sisäänkirjautumisen. Kaikki muu sovelluksessa toimii ilman tiliä.
 
@@ -65,7 +65,7 @@ Myös jakovalikosta lähetetty pyyntö suoritetaan taustalla. Saat vahvistuksen 
 3. **Vahvistus tarvittaessa** — jos pyyntö muuttaisi jotain merkittävää, sovellus pyytää ensin hyväksyntääsi ja näyttää tarkalleen, mitä se aikoo tehdä. Aikaa on rajallisesti; jos se loppuu, pyydä vain uudelleen.
 4. **Komento suoritettu** — tulos päätyy kalenteriisi välittömästi, ja mukana on yhteenveto siitä, mikä muuttui.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI:n tulos" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/ai-result.png" alt="AI:n tulos" width="280">
 
 Vain yksi pyyntö suoritetaan kerrallaan. Jos lähetät toisen, kun edellinen odottaa vielä hyväksyntääsi, sovellus kehottaa hoitamaan ensimmäisen ensin.
 

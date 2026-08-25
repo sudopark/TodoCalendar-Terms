@@ -6,7 +6,7 @@
 
 원하는 걸 일상 언어로 말하면 앱이 만들어줘요 — "금요일 12시에 사라랑 점심", "치과 다음 주 화요일로 옮겨줘", "빨래 완료 처리해줘". 양식도, 날짜 휠도 필요 없어요.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI 빠른 입력" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/ai-input.png" alt="AI 빠른 입력" width="280">
 
 AI 빠른 입력은 로그인이 필요해요. 그 외 기능은 계정 없이도 전부 쓸 수 있어요.
 
@@ -65,7 +65,7 @@ AI 빠른 입력은 로그인이 필요해요. 그 외 기능은 계정 없이�
 3. **확인 필요** — 중요한 변경이 될 요청이면 앱이 무엇을 하려는지 보여주고 먼저 승인을 받아요. 제한 시간이 있고, 지나면 다시 요청하면 돼요.
 4. **작업 완료** — 결과가 곧바로 캘린더에 반영되고, 무엇이 바뀌었는지 요약해서 알려줘요.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI 처리 결과" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/ai-result.png" alt="AI 처리 결과" width="280">
 
 한 번에 하나의 요청만 처리돼요. 승인을 기다리는 요청이 있는 상태에서 또 보내면, 앞선 요청을 먼저 처리해 달라고 안내해요.
 

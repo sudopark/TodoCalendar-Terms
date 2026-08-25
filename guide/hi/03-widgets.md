@@ -12,7 +12,7 @@
 
 ### आज और आगे क्या है
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="आज और आगे क्या है विजेट" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/widget-today-and-next.png" alt="आज और आगे क्या है विजेट" width="360">
 
 बाईं तरफ़ आज की तारीख और आज का बचा हुआ काम, दाईं तरफ़ आगे क्या आ रहा है। "अभी क्या, उसके बाद क्या" का सबसे सघन नज़ारा।
 
@@ -20,7 +20,7 @@
 
 ### इवेंट
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="इवेंट सूची विजेट" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/widget-event-list.png" alt="इवेंट सूची विजेट" width="300">
 
 आने वाले इवेंट की चलती हुई सूची, दिन के हिसाब से समूह में, आपकी वर्तमान कार्य सूची के साथ। तीन आकारों में आता है और जितना बड़ा, उतने ज़्यादा दिन दिखाता है।
 
@@ -28,7 +28,7 @@
 
 ### आज
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="आज विजेट" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/widget-today.png" alt="आज विजेट" width="200">
 
 सिर्फ़ आज — तारीख, कोई अवकाश हो तो उसका नाम, और आपके कितने कार्य और कितनी अनुसूचियां हैं।
 
@@ -36,7 +36,7 @@
 
 ### सबसे महत्वपूर्ण इवेंट
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="सबसे महत्वपूर्ण इवेंट विजेट" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/widget-foremost.png" alt="सबसे महत्वपूर्ण इवेंट विजेट" width="200">
 
 जिस एक इवेंट को आपने सबसे ज़रूरी मानकर पिन किया है, वह हमेशा सामने। देखिए [सबसे महत्वपूर्ण इवेंट](./01-basics.md#सबसे-महत्वपूर्ण-इवेंट)।
 
@@ -44,7 +44,7 @@
 
 ### महीना और सप्ताह
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="महीना विजेट" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/widget-month.png" alt="महीना विजेट" width="360">
 
 कैलेंडर का ग्रिड ख़ुद, जिस दायरे में आप चाहें।
 

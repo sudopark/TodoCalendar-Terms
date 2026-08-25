@@ -12,7 +12,7 @@
 
 ### 今天及接下来的安排
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="今天及接下来的安排小组件" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/widget-today-and-next.png" alt="今天及接下来的安排小组件" width="360">
 
 左边是今天的日期和今天剩下的事，右边是接下来要发生的。把「现在做什么、之后做什么」装得最密的一个视图。
 
@@ -20,7 +20,7 @@
 
 ### 事件
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="事件小组件" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/widget-event-list.png" alt="事件小组件" width="300">
 
 按天分组、一路排下去的待办与日程列表，也包含你的当前待办。有三种尺寸，越大能看到的天数越多。
 
@@ -28,7 +28,7 @@
 
 ### 今天
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="今天小组件" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/widget-today.png" alt="今天小组件" width="200">
 
 只有今天 —— 日期、当天如果是假期就显示假期名称，还有你有几个待办和几个日程。
 
@@ -36,7 +36,7 @@
 
 ### 最重要事件
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="最重要事件小组件" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/widget-foremost.png" alt="最重要事件小组件" width="200">
 
 你钉为最重要的那一个事件，始终在视线里。请参考 [最重要事件](./01-basics.md#最重要事件)。
 
@@ -44,7 +44,7 @@
 
 ### 日历与周视图
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="日历小组件" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/widget-month.png" alt="日历小组件" width="360">
 
 日历网格本身，范围由你决定：
 

@@ -6,7 +6,7 @@
 
 ## De kalender
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/calendar.png" alt="Kalender" width="280">
 
 Het maandraster is het startscherm. Veeg naar links en rechts om van maand te wisselen, en tik op een dag om eronder de lijst met gebeurtenissen van die dag te openen.
 
@@ -32,7 +32,7 @@ Een **taak zonder tijd** is bedoeld voor iets dat je binnenkort moet doen maar n
 
 Je kunt op elk moment beide kanten op omzetten — **Omzetten naar afspraak** / **Omzetten naar taak** in het meer-menu van de gebeurtenis. Voor het omzetten van een taak naar een afspraak is een tijdstip nodig.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Gebeurtenisdetails" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/event-detail.png" alt="Gebeurtenisdetails" width="280">
 
 Elke gebeurtenis kan een **Locatie** dragen (met kaartvoorbeeld en met één tik openen in je favoriete kaarten-app), een **Link** met voorbeeld, en een **Notitie**.
 
@@ -52,7 +52,7 @@ Een taak heeft alleen een naam nodig. Een afspraak heeft een naam en een tijdsti
 
 ## Herhalende gebeurtenissen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Herhaalopties" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/repeat-options.png" alt="Herhaalopties" width="240">
 
 In plaats van je een regel uit dropdowns te laten samenstellen, leest de app de datum die je koos en biedt daar kant-en-klare opties bij aan. Kies een donderdag en de lijst zegt letterlijk **Elke donderdag** en **De derde donderdag van elke maand**.
 
@@ -89,7 +89,7 @@ Voor gebeurtenissen in een gekoppelde externe agenda wordt de maankalender-optie
 
 ## Gebeurtenistypen en kleuren
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Gebeurtenistypen" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/event-type-list.png" alt="Gebeurtenistypen" width="280">
 
 Gebeurtenistypen zijn jouw categorieën, en ze bepalen de kleur waarmee een gebeurtenis op de kalender verschijnt. Maak er zoveel als je wilt, elk met een eigen kleur.
 
@@ -131,7 +131,7 @@ Taken zonder tijd en toekomstige taken tellen niet als onvoltooid — die zijn s
 
 ## Voltooide taken
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Voltooide taken" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/done-todos.png" alt="Voltooide taken" width="280">
 
 Alles wat je afvinkt wordt bewaard, gegroepeerd op wanneer je het afrondde — vandaag, gisteren, deze maand, en daarna per maand en jaar.
 

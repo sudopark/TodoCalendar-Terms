@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Setări" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/settings.png" alt="Setări" width="280">
 
 ---
 
 ## Aspect
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Setări de aspect" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/appearance-setting.png" alt="Setări de aspect" width="280">
 
 Tot ce se află pe acest ecran se previzualizează pe loc, pe măsură ce modificați, așa că vedeți cum va arăta calendarul înainte de a vă hotărî.
 

@@ -6,7 +6,7 @@
 
 ## A naptár
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Naptár" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/calendar.png" alt="Naptár" width="280">
 
 A havi rács a kezdőképernyő. Húzza balra vagy jobbra az ujját a hónapok közti váltáshoz, és koppintson egy napra, hogy alatta megnyíljon az aznapi eseménylista.
 
@@ -32,7 +32,7 @@ Az **időpont nélküli feladat** olyasmire való, amit hamarosan meg kell tenni
 
 Bármikor átalakíthatja bármelyik irányba — **Átalakítás programmá** / **Átalakítás feladattá** az esemény további műveletek menüjéből. A feladat programmá alakításához időpont kell.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Esemény részletei" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/event-detail.png" alt="Esemény részletei" width="280">
 
 Minden eseményhez tartozhat **Helyszín** (térkép-előnézettel és egykoppintásos megnyitással a kedvenc térképalkalmazásában), **Hivatkozás** előnézettel, valamint **Jegyzet**.
 
@@ -52,7 +52,7 @@ A feladathoz csak név kell. A programhoz név és időpont.
 
 ## Ismétlődő események
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Ismétlési beállítások" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/repeat-options.png" alt="Ismétlési beállítások" width="240">
 
 Ahelyett, hogy legördülő menükből kellene összeraknia egy szabályt, az alkalmazás elolvassa a kiválasztott dátumot, és kész lehetőségeket kínál hozzá. Válasszon egy csütörtököt, és a listában szó szerint az áll, hogy **Minden Csütörtök** és **Minden hónap harmadik Csütörtök**.
 
@@ -89,7 +89,7 @@ Csatlakoztatott külső naptáron lévő eseményeknél a holdnaptár szerinti l
 
 ## Eseménytípusok és színek
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Eseménytípusok" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/event-type-list.png" alt="Eseménytípusok" width="280">
 
 Az eseménytípusok az Ön saját kategóriái, és ezek hordozzák azt a színt, amellyel az esemény megjelenik a naptárban. Hozzon létre belőlük, amennyit csak szeretne, mindegyiket saját színnel.
 
@@ -131,7 +131,7 @@ Az időpont nélküli és a jövőbeli feladatok nem számítanak befejezetlenne
 
 ## Befejezett feladatok
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Befejezett feladatok" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/done-todos.png" alt="Befejezett feladatok" width="280">
 
 Minden kipipált tétel megmarad, aszerint csoportosítva, hogy mikor végzett vele — ma, tegnap, ebben a hónapban, azután pedig hónapok és évek szerint.
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Настройки" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/settings.png" alt="Настройки" width="280">
 
 ---
 
 ## Внешний вид
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Настройки внешнего вида" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/appearance-setting.png" alt="Настройки внешнего вида" width="280">
 
 Всё на этом экране показывается в превью сразу, как вы это меняете, — так что вы увидите, каким станет календарь, ещё до того, как решитесь.
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="設定" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/settings.png" alt="設定" width="280">
 
 ---
 
 ## 外観
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="外観設定" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/appearance-setting.png" alt="外観設定" width="280">
 
 この画面の項目は、変えた瞬間にプレビューへ反映されます。適用する前に、カレンダーがどう見えるかを確かめられます。
 

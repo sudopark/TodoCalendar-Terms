@@ -6,7 +6,7 @@
 
 ## Kalenderen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/calendar.png" alt="Kalender" width="280">
 
 Månedsgitteret er appens forside. Stryg til venstre og højre for at skifte måned, og tryk på en dag for at åbne dagens begivenhedsliste nedenunder.
 
@@ -32,7 +32,7 @@ En **opgave uden tidspunkt** er til noget, du skal have gjort snart, men ikke ha
 
 Du kan konvertere begge veje når som helst – **Konverter til aftale** / **Konverter til opgave** i begivenhedens menu. For at konvertere en opgave til en aftale skal der være et tidspunkt.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Begivenhedsdetaljer" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/event-detail.png" alt="Begivenhedsdetaljer" width="280">
 
 Enhver begivenhed kan have et **Sted** (med kortforhåndsvisning og ét tryk til at åbne i din foretrukne kortapp), et **Link** med forhåndsvisning og et **Notat**.
 
@@ -52,7 +52,7 @@ En opgave kræver kun et navn. En aftale kræver et navn og et tidspunkt.
 
 ## Gentagne begivenheder
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Gentagelsesmuligheder" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/repeat-options.png" alt="Gentagelsesmuligheder" width="240">
 
 I stedet for at bede dig sætte en regel sammen af rullemenuer læser appen den dato, du har valgt, og tilbyder færdige valgmuligheder til netop den. Vælg en torsdag, og listen siger direkte **Hver torsdag** og **Den tredje torsdag i hver måned**.
 
@@ -89,7 +89,7 @@ For begivenheder i en forbundet ekstern kalender tilbydes månekalenderen ikke �
 
 ## Begivenhedstyper og farver
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Begivenhedstyper" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/event-type-list.png" alt="Begivenhedstyper" width="280">
 
 Begivenhedstyper er dine egne kategorier, og de bestemmer den farve, en begivenhed får i kalenderen. Opret lige så mange, du vil, hver med sin egen farve.
 
@@ -131,7 +131,7 @@ Opgaver uden tidspunkt og opgaver, der ligger frem i tiden, tælles ikke som uaf
 
 ## Udførte opgaver
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Udførte opgaver" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/done-todos.png" alt="Udførte opgaver" width="280">
 
 Alt, du sætter flueben ved, bliver gemt og grupperet efter, hvornår du blev færdig – I dag, I går, Denne måned og derefter efter måned og år.
 

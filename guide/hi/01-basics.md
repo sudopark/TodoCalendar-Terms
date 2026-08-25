@@ -6,7 +6,7 @@
 
 ## कैलेंडर
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="कैलेंडर" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/calendar.png" alt="कैलेंडर" width="280">
 
 महीने का ग्रिड ही होम स्क्रीन है। महीना बदलने के लिए बाएं-दाएं स्वाइप कीजिए, और किसी दिन पर टैप कीजिए तो नीचे उस दिन की इवेंट सूची खुल जाती है।
 
@@ -32,7 +32,7 @@
 
 आप जब चाहें दोनों में से किसी भी तरफ़ बदल सकते हैं — इवेंट के मोर मेन्यू से **अनुसूची में बदलें** / **कार्य में बदलें**। कार्य को अनुसूची में बदलने के लिए समय देना ज़रूरी है।
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="इवेंट विवरण" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/event-detail.png" alt="इवेंट विवरण" width="280">
 
 हर इवेंट के साथ **स्थान** (मानचित्र पूर्वावलोकन और आपके पसंदीदा मानचित्र ऐप में एक टैप से खुलने के साथ), पूर्वावलोकन वाला **लिंक**, और **मेमो** रखा जा सकता है।
 
@@ -52,7 +52,7 @@
 
 ## दोहराए जाने वाले इवेंट
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="दोहराव के विकल्प" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/repeat-options.png" alt="दोहराव के विकल्प" width="240">
 
 ड्रॉपडाउन जोड़-जोड़कर नियम बनवाने के बजाय, ऐप आपकी चुनी हुई तारीख को पढ़ता है और उसी के हिसाब से तैयार विकल्प सामने रख देता है। गुरुवार चुनिए और सूची में सीधे **हर गुरुवार** और **हर महीने का तीसरा गुरुवार** लिखा आ जाता है।
 
@@ -89,7 +89,7 @@
 
 ## इवेंट प्रकार और रंग
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="इवेंट प्रकार" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/event-type-list.png" alt="इवेंट प्रकार" width="280">
 
 इवेंट प्रकार आपकी अपनी श्रेणियां हैं, और कैलेंडर पर इवेंट किस रंग में दिखेगा यह भी इन्हीं से तय होता है। जितने चाहें बनाइए, हर एक का अपना रंग।
 
@@ -131,7 +131,7 @@
 
 ## पूर्ण कार्य
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="पूर्ण कार्य" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/done-todos.png" alt="पूर्ण कार्य" width="280">
 
 आप जो कुछ भी टिक करते हैं वह सहेजा जाता है, और पूरा करने के समय के हिसाब से समूह में रहता है — आज, कल, इस महीने, और उसके बाद महीने और साल के हिसाब से।
 

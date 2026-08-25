@@ -6,7 +6,7 @@
 
 ## Màn hình lịch
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Lịch" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/calendar.png" alt="Lịch" width="280">
 
 Lưới tháng chính là màn hình chủ. Vuốt sang trái hoặc phải để chuyển tháng, chạm vào một ngày để mở danh sách sự kiện của ngày đó ở bên dưới.
 
@@ -32,7 +32,7 @@ Lưới dày hay thưa — chiều cao hàng, cỡ chữ sự kiện, chữ đ�
 
 Bạn có thể chuyển đổi qua lại bất cứ lúc nào — **Chuyển thành lịch trình** / **Chuyển thành việc cần làm** trong menu tùy chọn của sự kiện. Muốn chuyển một việc cần làm thành lịch trình thì phải có thông tin thời gian.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Chi tiết sự kiện" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/event-detail.png" alt="Chi tiết sự kiện" width="280">
 
 Mỗi sự kiện đều có thể mang theo **Vị trí** (kèm xem trước bản đồ và mở bằng một chạm trong ứng dụng bản đồ bạn thích), **Liên kết** có xem trước, và **Ghi chú**.
 
@@ -52,7 +52,7 @@ Việc cần làm chỉ cần một cái tên. Lịch trình cần tên và th�
 
 ## Sự kiện lặp lại
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Tùy chọn lặp lại" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/repeat-options.png" alt="Tùy chọn lặp lại" width="240">
 
 Thay vì bắt bạn ghép một quy tắc từ các danh sách thả xuống, ứng dụng đọc ngày bạn đã chọn và đưa ra sẵn những lựa chọn hợp với ngày đó. Chọn một Thứ Năm thì danh sách sẽ ghi đúng là **Mỗi Thứ Năm** và **Thứ Năm thứ ba của mỗi tháng**.
 
@@ -89,7 +89,7 @@ Với sự kiện nằm trên lịch bên ngoài đã kết nối, tùy chọn �
 
 ## Loại sự kiện và màu sắc
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Loại sự kiện" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/event-type-list.png" alt="Loại sự kiện" width="280">
 
 Loại sự kiện là cách phân nhóm của riêng bạn, và nó quyết định màu mà sự kiện hiện trên lịch. Hãy tạo bao nhiêu tùy thích, mỗi loại một màu riêng.
 
@@ -131,7 +131,7 @@ Việc cần làm không có thời gian và việc của tương lai không b�
 
 ## Việc đã hoàn thành
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Việc đã hoàn thành" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/done-todos.png" alt="Việc đã hoàn thành" width="280">
 
 Mọi thứ bạn đánh dấu xong đều được giữ lại, nhóm theo thời điểm bạn hoàn thành — hôm nay, hôm qua, tháng này, rồi tới theo tháng và theo năm.
 
