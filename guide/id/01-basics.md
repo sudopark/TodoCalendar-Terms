@@ -6,7 +6,7 @@
 
 ## Layar kalender
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/calendar.png" alt="Kalender" width="280">
 
 Grid bulanan adalah layar utamanya. Geser ke kiri dan ke kanan untuk berpindah bulan, ketuk sebuah tanggal untuk membuka daftar acaranya di bawah.
 
@@ -32,7 +32,7 @@ Aplikasi ini punya dua jenis acara, dan bedanya ada pada apakah hal itu bisa *di
 
 Anda bisa mengubahnya bolak-balik kapan saja — **Ubah menjadi jadwal** / **Ubah menjadi tugas** dari menu lainnya pada acara tersebut. Mengubah tugas menjadi jadwal membutuhkan informasi waktu.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detail acara" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/event-detail.png" alt="Detail acara" width="280">
 
 Setiap acara bisa membawa **Lokasi** (dengan pratinjau peta dan sekali ketuk untuk membukanya di aplikasi peta pilihan Anda), **Tautan** berikut pratinjaunya, dan **Catatan**.
 
@@ -52,7 +52,7 @@ Tugas cukup butuh nama. Jadwal butuh nama dan waktu.
 
 ## Acara berulang
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opsi pengulangan" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/repeat-options.png" alt="Opsi pengulangan" width="240">
 
 Alih-alih meminta Anda merakit aturan dari daftar dropdown, aplikasi membaca tanggal yang Anda pilih dan menyodorkan opsi yang sudah jadi untuk tanggal itu. Pilih hari Kamis, dan daftarnya benar-benar berbunyi **Setiap Kamis** dan **Kamis ketiga setiap bulan**.
 
@@ -89,7 +89,7 @@ Untuk acara di kalender eksternal yang terhubung, opsi lunar tidak ditawarkan �
 
 ## Jenis acara dan warna
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Jenis acara" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/event-type-list.png" alt="Jenis acara" width="280">
 
 Jenis acara adalah kategori Anda sendiri, dan dari sanalah warna yang tampil di kalender berasal. Buat sebanyak yang Anda mau, masing-masing dengan warnanya sendiri.
 
@@ -131,7 +131,7 @@ Tugas tanpa waktu dan tugas yang masih akan datang tidak dihitung sebagai belum 
 
 ## Tugas yang sudah selesai
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Tugas yang sudah selesai" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/done-todos.png" alt="Tugas yang sudah selesai" width="280">
 
 Semua yang Anda centang tetap disimpan, dikelompokkan menurut kapan Anda menuntaskannya — hari ini, kemarin, bulan ini, lalu per bulan dan per tahun.
 

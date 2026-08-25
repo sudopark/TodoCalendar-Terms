@@ -12,7 +12,7 @@ Het nut van een kalenderwidget is dat je de kalender niet hoeft te openen. To-do
 
 ### Vandaag en wat komt hierna
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Vandaag en wat komt hierna" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-today-and-next.png" alt="Widget Vandaag en wat komt hierna" width="360">
 
 Links de datum van vandaag en wat er van vandaag over is, rechts wat er hierna komt. De dichtste weergave van "wat nu, wat daarna" in één widget.
 
@@ -20,7 +20,7 @@ Links de datum van vandaag en wat er van vandaag over is, rechts wat er hierna k
 
 ### Gebeurtenissen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget Gebeurtenissen" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-event-list.png" alt="Widget Gebeurtenissen" width="300">
 
 Een doorlopende lijst met aankomende gebeurtenissen, gegroepeerd per dag, inclusief je huidige taken. Er zijn drie formaten; hoe groter, hoe meer dagen je ziet.
 
@@ -28,7 +28,7 @@ Een doorlopende lijst met aankomende gebeurtenissen, gegroepeerd per dag, inclus
 
 ### VANDAAG
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget VANDAAG" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-today.png" alt="Widget VANDAAG" width="200">
 
 Alleen vandaag — de datum, de feestdag als die er is, en hoeveel taken en afspraken je hebt.
 
@@ -36,7 +36,7 @@ Alleen vandaag — de datum, de feestdag als die er is, en hoeveel taken en afsp
 
 ### Belangrijkste gebeurtenis
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Belangrijkste gebeurtenis" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-foremost.png" alt="Widget Belangrijkste gebeurtenis" width="200">
 
 De ene gebeurtenis die je als belangrijkste hebt vastgezet, altijd in beeld. Zie [Belangrijkste gebeurtenis](./01-basics.md#belangrijkste-gebeurtenis).
 
@@ -44,7 +44,7 @@ De ene gebeurtenis die je als belangrijkste hebt vastgezet, altijd in beeld. Zie
 
 ### Kalender en weken
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget Kalender" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-month.png" alt="Widget Kalender" width="360">
 
 Het kalenderraster zelf, in het bereik dat je wilt:
 

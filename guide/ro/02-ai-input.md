@@ -6,7 +6,7 @@
 
 Descrieți ce doriți în limbaj obișnuit și aplicația construiește totul pentru dvs. — „prânz cu Sara vineri la ora 12”, „mută dentistul marțea viitoare”, „marchează rufele ca finalizate”. Fără formulare, fără ales o dată dintr-o rotiță.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Introducere rapidă AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/ai-input.png" alt="Introducere rapidă AI" width="280">
 
 Introducerea rapidă AI cere un cont autentificat. Tot restul aplicației funcționează și fără.
 
@@ -65,7 +65,7 @@ Distribuiți **text sau o imagine din orice altă aplicație** direct către AI-
 3. **Este necesară confirmarea** — dacă solicitarea ar schimba ceva important, aplicația vă cere mai întâi aprobarea și vă arată exact ce urmează să facă. Există o numărătoare inversă; dacă expiră, solicitați pur și simplu din nou.
 4. **Comandă finalizată** — rezultatul ajunge imediat în calendar, împreună cu un rezumat al modificărilor.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Rezultatul AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/ai-result.png" alt="Rezultatul AI" width="280">
 
 Rulează o singură solicitare pe rând. Dacă trimiteți alta în timp ce una încă vă așteaptă aprobarea, aplicația vă spune să o rezolvați mai întâi pe prima.
 

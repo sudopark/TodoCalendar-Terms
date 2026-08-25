@@ -6,7 +6,7 @@
 
 Beschreiben Sie in normaler Sprache, was Sie möchten, und die App baut es für Sie — „Mittagessen mit Sara am Freitag um 12 Uhr“, „verschiebe den Zahnarzt auf nächsten Dienstag“, „hake die Wäsche ab“. Keine Formulare, kein Datum aus einem Drehrad.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="KI-Schnelleingabe" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/ai-input.png" alt="KI-Schnelleingabe" width="280">
 
 Die KI-Schnelleingabe setzt ein angemeldetes Konto voraus. Alles andere in der App funktioniert auch ohne.
 
@@ -65,7 +65,7 @@ Auch die Anfrage aus dem Teilen-Menü läuft im Hintergrund. Sie erhalten eine B
 3. **Bestätigung erforderlich** — würde die Anfrage etwas Wesentliches ändern, bittet die App zuerst um Ihre Zustimmung und zeigt genau, was sie vorhat. Dafür läuft ein Countdown; ist er abgelaufen, fragen Sie einfach erneut.
 4. **Befehl abgeschlossen** — das Ergebnis landet sofort in Ihrem Kalender, mit einer Zusammenfassung der Änderungen.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="KI-Ergebnis" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/ai-result.png" alt="KI-Ergebnis" width="280">
 
 Es läuft immer nur eine Anfrage. Senden Sie eine weitere, während die erste noch auf Ihre Zustimmung wartet, weist die App Sie darauf hin, zuerst die erste zu erledigen.
 

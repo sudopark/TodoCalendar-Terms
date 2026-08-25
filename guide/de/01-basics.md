@@ -6,7 +6,7 @@
 
 ## Der Kalender
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/calendar.png" alt="Kalender" width="280">
 
 Das Monatsraster ist der Startbildschirm. Wischen Sie nach links und rechts, um zwischen Monaten zu wechseln, und tippen Sie auf einen Tag, um darunter seine Ereignisliste zu öffnen.
 
@@ -32,7 +32,7 @@ Eine **Aufgabe ohne Zeit** ist für etwas gedacht, das Sie bald erledigen müsse
 
 Sie können jederzeit in beide Richtungen umwandeln — **In Termin umwandeln** / **In Aufgabe umwandeln** im Mehr-Menü des Ereignisses. Für die Umwandlung einer Aufgabe in einen Termin ist eine Zeitangabe erforderlich.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Ereignisdetails" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/event-detail.png" alt="Ereignisdetails" width="280">
 
 Jedes Ereignis kann einen **Ort** (mit Kartenvorschau und einem Tipp zum Öffnen in Ihrer bevorzugten Karten-App), einen **Link** mit Vorschau und eine **Notiz** enthalten.
 
@@ -52,7 +52,7 @@ Eine Aufgabe braucht nur einen Namen. Ein Termin braucht einen Namen und eine Ze
 
 ## Wiederkehrende Ereignisse
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Wiederholungsoptionen" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/repeat-options.png" alt="Wiederholungsoptionen" width="240">
 
 Statt Sie eine Regel aus Auswahlmenüs zusammenbauen zu lassen, liest die App das gewählte Datum und bietet passende, fertige Optionen an. Wählen Sie einen Donnerstag, und in der Liste steht wörtlich **Jeden Donnerstag** und **Der dritte Donnerstag jeden Monats**.
 
@@ -89,7 +89,7 @@ Für Ereignisse in einem verbundenen externen Kalender wird die Mondkalender-Opt
 
 ## Ereignistypen und Farben
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Ereignistypen" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/event-type-list.png" alt="Ereignistypen" width="280">
 
 Ereignistypen sind Ihre Kategorien, und sie tragen die Farbe, mit der ein Ereignis im Kalender erscheint. Legen Sie so viele an, wie Sie möchten, jeden mit eigener Farbe.
 
@@ -131,7 +131,7 @@ Aufgaben ohne Zeit und Aufgaben in der Zukunft zählen nicht als unerledigt — 
 
 ## Erledigte Aufgaben
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Erledigte Aufgaben" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/done-todos.png" alt="Erledigte Aufgaben" width="280">
 
 Alles, was Sie abhaken, bleibt erhalten, gruppiert nach dem Zeitpunkt der Erledigung — heute, gestern, diesen Monat, danach nach Monat und Jahr.
 

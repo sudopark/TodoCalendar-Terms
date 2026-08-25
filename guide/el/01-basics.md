@@ -6,7 +6,7 @@
 
 ## Το ημερολόγιο
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Ημερολόγιο" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/calendar.png" alt="Ημερολόγιο" width="280">
 
 Το μηνιαίο πλέγμα είναι η αρχική οθόνη. Σύρετε αριστερά και δεξιά για να αλλάξετε μήνα, και πατήστε μια ημέρα για να ανοίξει από κάτω η λίστα των συμβάντων της.
 
@@ -32,7 +32,7 @@
 
 Μπορείτε να μετατρέψετε από το ένα στο άλλο ανά πάσα στιγμή — **Μετατροπή σε ραντεβού** / **Μετατροπή σε εργασία** από το μενού των περισσότερων ενεργειών του συμβάντος. Η μετατροπή μιας εργασίας σε ραντεβού απαιτεί ώρα.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Λεπτομέρειες συμβάντος" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/event-detail.png" alt="Λεπτομέρειες συμβάντος" width="280">
 
 Κάθε συμβάν μπορεί να κρατά μια **Τοποθεσία** (με προεπισκόπηση χάρτη και άνοιγμα με ένα πάτημα στην εφαρμογή χαρτών που προτιμάτε), έναν **Σύνδεσμο** με προεπισκόπηση, και μια **Σημείωση**.
 
@@ -52,7 +52,7 @@
 
 ## Επαναλαμβανόμενα συμβάντα
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Επιλογές επανάληψης" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/repeat-options.png" alt="Επιλογές επανάληψης" width="240">
 
 Αντί να σας ζητά να συναρμολογήσετε έναν κανόνα από αναπτυσσόμενες λίστες, η εφαρμογή διαβάζει την ημερομηνία που διαλέξατε και προσφέρει έτοιμες επιλογές γι' αυτήν. Διαλέξτε μια Πέμπτη και η λίστα λέει κυριολεκτικά **Κάθε Πέμπτη** και **Η τρίτη Πέμπτη κάθε μήνα**.
 
@@ -89,7 +89,7 @@
 
 ## Τύποι συμβάντων και χρώματα
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Τύποι συμβάντων" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/event-type-list.png" alt="Τύποι συμβάντων" width="280">
 
 Οι τύποι συμβάντων είναι οι δικές σας κατηγορίες, και κουβαλούν το χρώμα με το οποίο εμφανίζεται ένα συμβάν στο ημερολόγιο. Φτιάξτε όσους θέλετε, τον καθένα με το δικό του χρώμα.
 
@@ -131,7 +131,7 @@
 
 ## Ολοκληρωμένες εργασίες
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Ολοκληρωμένες εργασίες" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/el/done-todos.png" alt="Ολοκληρωμένες εργασίες" width="280">
 
 Ό,τι τσεκάρετε φυλάσσεται, ομαδοποιημένο κατά το πότε το τελειώσατε — σήμερα, χθες, αυτόν τον μήνα, και μετά ανά μήνα και έτος.
 

@@ -12,7 +12,7 @@
 
 ### 今日とこれからの予定
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="今日とこれからの予定ウィジェット" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/widget-today-and-next.png" alt="今日とこれからの予定ウィジェット" width="360">
 
 左に今日の日付と今日の残り、右にこれから来るもの。「いま何で、その次は何か」をいちばん密に見せてくれるウィジェットです。
 
@@ -20,7 +20,7 @@
 
 ### イベント
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="イベントウィジェット" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/widget-event-list.png" alt="イベントウィジェット" width="300">
 
 これからのイベントを日付ごとにまとめて並べます。現在のタスクも一緒に出ます。3つのサイズがあり、大きくなるほど先の日まで表示します。
 
@@ -28,7 +28,7 @@
 
 ### TODAY
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="TODAYウィジェット" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/widget-today.png" alt="TODAYウィジェット" width="200">
 
 今日だけ — 日付、祝日があればその名前、そしてタスクと予定が何件あるか。
 
@@ -36,7 +36,7 @@
 
 ### 最重要イベント
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="最重要イベントウィジェット" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/widget-foremost.png" alt="最重要イベントウィジェット" width="200">
 
 いちばん大事だとピン留めしたイベントを、いつでも見えるところに。[最重要イベント](./01-basics.md#最重要イベント)をご覧ください。
 
@@ -44,7 +44,7 @@
 
 ### カレンダーと週
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="カレンダーウィジェット" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/widget-month.png" alt="カレンダーウィジェット" width="360">
 
 カレンダーのグリッドそのものを、好きな範囲で。
 

@@ -6,7 +6,7 @@
 
 Describe en lenguaje natural lo que quieres y la app lo construye por ti — "comida con Sara el viernes a mediodía", "pasa el dentista al martes que viene", "marca la colada como hecha". Sin formularios, sin elegir la fecha en una ruleta.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Entrada rápida con IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/ai-input.png" alt="Entrada rápida con IA" width="280">
 
 La entrada rápida con IA necesita una cuenta con la sesión iniciada. Todo lo demás en la app funciona sin ella.
 
@@ -65,7 +65,7 @@ La solicitud de la hoja de compartir también se ejecuta en segundo plano. Recib
 3. **Se necesita confirmación**, cuando toca — si la solicitud va a cambiar algo importante, la app te pide que lo apruebes primero y te enseña exactamente lo que va a hacer. Hay una cuenta atrás; si se acaba, solo tienes que pedirlo otra vez.
 4. **Comando completado** — el resultado aparece en tu calendario al momento, con un resumen de lo que cambió.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Resultado de la IA" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/ai-result.png" alt="Resultado de la IA" width="280">
 
 Solo se ejecuta una solicitud a la vez. Si envías otra mientras una sigue esperando tu aprobación, la app te dice que resuelvas primero la anterior.
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Beállítások" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/settings.png" alt="Beállítások" width="280">
 
 ---
 
 ## Megjelenés
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Megjelenés beállításai" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/appearance-setting.png" alt="Megjelenés beállításai" width="280">
 
 Ezen a képernyőn minden élőben mutatja az előnézetet, ahogy változtat rajta, így már azelőtt látja, hogyan fog kinézni a naptár, hogy elköteleződne.
 

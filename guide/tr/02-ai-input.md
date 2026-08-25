@@ -6,7 +6,7 @@
 
 Ne istediğinizi günlük dille anlatın, uygulama sizin için kursun — "cuma öğlen Sara ile öğle yemeği", "diş hekimini gelecek salıya al", "çamaşırı tamamlandı olarak işaretle". Form yok, tekerlekten tarih seçme yok.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Hızlı AI girişi" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/ai-input.png" alt="Hızlı AI girişi" width="280">
 
 Hızlı AI girişi için giriş yapmış bir hesap gerekir. Uygulamadaki diğer her şey hesapsız çalışır.
 
@@ -65,7 +65,7 @@ Paylaşım sayfasından gelen istek de arka planda çalışır. Gönderildiğine
 3. **Gerektiğinde onay** — istek önemli bir şeyi değiştirecekse uygulama tam olarak ne yapacağını gösterir ve önce onayınızı ister. Bir geri sayım vardır; süresi dolarsa yeniden istemeniz yeter.
 4. **İşlem tamamlandı** — sonuç, neyin değiştiğinin özetiyle birlikte anında takviminize düşer.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI sonucu" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/ai-result.png" alt="AI sonucu" width="280">
 
 Aynı anda yalnızca bir istek çalışır. Biri hâlâ onayınızı beklerken bir yenisini gönderirseniz uygulama önce ilkini halletmenizi söyler.
 

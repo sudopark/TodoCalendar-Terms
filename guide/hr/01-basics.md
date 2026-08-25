@@ -6,7 +6,7 @@
 
 ## Kalendar
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalendar" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/calendar.png" alt="Kalendar" width="280">
 
 Mjesečna mreža je početni zaslon. Povlačite lijevo i desno za promjenu mjeseca, a dodirom na dan otvarate popis njegovih događaja ispod.
 
@@ -32,7 +32,7 @@ Aplikacija ima dvije vrste događaja, a razlika je u tome može li se stvar *dov
 
 Pretvorbu možete napraviti u oba smjera i bilo kada — **Pretvori u termin** / **Pretvori u zadatak** iz izbornika s više radnji na događaju. Za pretvaranje zadatka u termin potrebno je vrijeme.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detalji događaja" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/event-detail.png" alt="Detalji događaja" width="280">
 
 Svaki događaj može nositi **Lokaciju** (s pregledom karte i otvaranjem u vašoj omiljenoj aplikaciji za karte jednim dodirom), **Poveznicu** s pregledom i **Bilješku**.
 
@@ -52,7 +52,7 @@ Zadatku treba samo naziv. Terminu trebaju naziv i vrijeme.
 
 ## Ponavljajući događaji
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opcije ponavljanja" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/repeat-options.png" alt="Opcije ponavljanja" width="240">
 
 Umjesto da od vas traži slaganje pravila iz padajućih izbornika, aplikacija čita datum koji ste odabrali i nudi gotove opcije za njega. Odaberite četvrtak i na popisu doslovno piše **Svaki Četvrtak** i **Treći Četvrtak svakog mjeseca**.
 
@@ -89,7 +89,7 @@ Za događaje na povezanom vanjskom kalendaru lunarna opcija se ne nudi — taj j
 
 ## Tipovi događaja i boje
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tipovi događaja" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/event-type-list.png" alt="Tipovi događaja" width="280">
 
 Tipovi događaja su vaše kategorije i nose boju kojom se događaj prikazuje u kalendaru. Stvorite ih koliko god želite, svaki sa svojom bojom.
 
@@ -131,7 +131,7 @@ Zadaci bez vremena i budući zadaci ne broje se kao nedovršeni — jednostavno 
 
 ## Dovršeni zadaci
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Dovršeni zadaci" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/done-todos.png" alt="Dovršeni zadaci" width="280">
 
 Sve što označite kvačicom ostaje sačuvano, grupirano prema tome kad ste to dovršili — danas, jučer, ovaj mjesec, a zatim po mjesecima i godinama.
 

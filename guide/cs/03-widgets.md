@@ -12,7 +12,7 @@ Smysl kalendářového widgetu je v tom, že kalendář nemusíte otevírat. To-
 
 ### Dnes a co bude dál
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Dnes a co bude dál" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-today-and-next.png" alt="Widget Dnes a co bude dál" width="360">
 
 Vlevo dnešní datum a to, co ze dneška zbývá, vpravo to, co přijde dál. Nejhustší jediný pohled na to, „co teď a co potom“.
 
@@ -20,7 +20,7 @@ Vlevo dnešní datum a to, co ze dneška zbývá, vpravo to, co přijde dál. Ne
 
 ### Události
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget se seznamem událostí" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-event-list.png" alt="Widget se seznamem událostí" width="300">
 
 Průběžný seznam nadcházejících událostí seskupených po dnech, včetně vašeho aktuálního seznamu úkolů. Je ve třech velikostech a čím větší, tím víc dní ukáže.
 
@@ -28,7 +28,7 @@ Průběžný seznam nadcházejících událostí seskupených po dnech, včetně
 
 ### DNES
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget DNES" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-today.png" alt="Widget DNES" width="200">
 
 Jenom dnešek — datum, svátek, pokud nějaký je, a kolik máte úkolů a termínů.
 
@@ -36,7 +36,7 @@ Jenom dnešek — datum, svátek, pokud nějaký je, a kolik máte úkolů a ter
 
 ### Nejdůležitější událost
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Nejdůležitější událost" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-foremost.png" alt="Widget Nejdůležitější událost" width="200">
 
 Ta jedna událost, kterou jste připnuli jako nejdůležitější, pořád na očích. Viz [Nejdůležitější událost](./01-basics.md#nejdůležitější-událost).
 
@@ -44,7 +44,7 @@ Ta jedna událost, kterou jste připnuli jako nejdůležitější, pořád na o�
 
 ### Měsíc a týdny
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget s měsícem" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-month.png" alt="Widget s měsícem" width="360">
 
 Samotná kalendářová mřížka v rozsahu, jaký chcete:
 

@@ -6,7 +6,7 @@
 
 ## Kalendern
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalender" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/calendar.png" alt="Kalender" width="280">
 
 Månadsrutnätet är appens startvy. Svep åt vänster och höger för att byta månad, och tryck på en dag för att öppna dagens händelselista under rutnätet.
 
@@ -32,7 +32,7 @@ En **uppgift utan tid** är till för något du behöver göra snart men inte ha
 
 Du kan konvertera åt båda hållen när som helst – **Konvertera till möte** / **Konvertera till uppgift** från händelsens meny. För att konvertera en uppgift till ett möte krävs en tid.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Händelsedetaljer" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/event-detail.png" alt="Händelsedetaljer" width="280">
 
 Varje händelse kan bära en **plats** (med kartförhandsvisning och ett tryck för att öppna den i din kartapp), en **länk** med förhandsvisning och en **anteckning**.
 
@@ -52,7 +52,7 @@ En uppgift behöver bara ett namn. Ett möte behöver ett namn och en tid.
 
 ## Återkommande händelser
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Alternativ för upprepning" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/repeat-options.png" alt="Alternativ för upprepning" width="240">
 
 I stället för att be dig sätta ihop en regel av rullgardinsmenyer läser appen av datumet du valt och erbjuder färdiga alternativ för just det. Väljer du en torsdag står det bokstavligen **Varje Torsdag** och **Den tredje Torsdag i varje månad** i listan.
 
@@ -89,7 +89,7 @@ För händelser i en ansluten extern kalender erbjuds inte månkalenderalternati
 
 ## Händelsetyper och färger
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Händelsetyper" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/event-type-list.png" alt="Händelsetyper" width="280">
 
 Händelsetyper är dina egna kategorier, och de bär färgen som händelsen visas med i kalendern. Skapa hur många du vill, var och en med sin egen färg.
 
@@ -131,7 +131,7 @@ Uppgifter utan tid och uppgifter i framtiden räknas inte som ej slutförda – 
 
 ## Slutförda uppgifter
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Slutförda uppgifter" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/done-todos.png" alt="Slutförda uppgifter" width="280">
 
 Allt du bockar av sparas, grupperat efter när du blev klar – idag, igår, denna månad, och därefter per månad och år.
 

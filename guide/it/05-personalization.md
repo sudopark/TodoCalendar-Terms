@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Impostazioni" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/settings.png" alt="Impostazioni" width="280">
 
 ---
 
 ## Aspetto
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Impostazioni aspetto" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/appearance-setting.png" alt="Impostazioni aspetto" width="280">
 
 Tutto quello che c'è in questa schermata si vede in anteprima dal vivo mentre lo cambi, così puoi capire come sarà il calendario prima di confermare.
 

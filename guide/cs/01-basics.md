@@ -6,7 +6,7 @@
 
 ## Kalendář
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalendář" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/calendar.png" alt="Kalendář" width="280">
 
 Měsíční mřížka je domovská obrazovka. Přejetím doleva a doprava se posouváte mezi měsíci, klepnutím na den se pod ním otevře seznam jeho událostí.
 
@@ -32,7 +32,7 @@ Aplikace zná dva druhy událostí a rozdíl je v tom, jestli se ta věc dá *do
 
 Kdykoli můžete převádět oběma směry — **Převést na termín** / **Převést na úkol** v nabídce dalších akcí u události. K převodu úkolu na termín jsou potřeba informace o čase.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detail události" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/event-detail.png" alt="Detail události" width="280">
 
 Každá událost může nést **místo** (s náhledem mapy a otevřením ve vaší oblíbené mapové aplikaci jedním klepnutím), **odkaz** s náhledem a **poznámku**.
 
@@ -52,7 +52,7 @@ Tři cesty dovnitř podle toho, kolik toho chcete psát:
 
 ## Opakující se události
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Možnosti opakování" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/repeat-options.png" alt="Možnosti opakování" width="240">
 
 Místo aby po vás aplikace chtěla poskládat pravidlo z rozbalovacích nabídek, přečte si datum, které jste vybrali, a nabídne k němu hotové možnosti. Vyberte čtvrtek a v seznamu doslova stojí **Každé Čtvrtek** a **Třetí Čtvrtek každého měsíce**.
 
@@ -89,7 +89,7 @@ U událostí z připojeného externího kalendáře se lunární možnost nenab�
 
 ## Typy událostí a barvy
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Typy událostí" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/event-type-list.png" alt="Typy událostí" width="280">
 
 Typy událostí jsou vaše kategorie a nesou barvu, kterou událost v kalendáři dostane. Vytvořte si jich, kolik chcete, každý s vlastní barvou.
 
@@ -131,7 +131,7 @@ Jako nejdůležitější lze nastavit úkoly a neopakující se termíny. Opakuj
 
 ## Dokončené úkoly
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Dokončené úkoly" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/done-todos.png" alt="Dokončené úkoly" width="280">
 
 Všechno, co odškrtnete, se uchová a seskupí podle toho, kdy jste to dokončili — **Dnes**, **Včera**, **Tento měsíc** a dál po měsících a letech.
 

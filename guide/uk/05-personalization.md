@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Налаштування" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/settings.png" alt="Налаштування" width="280">
 
 ---
 
 ## Вигляд
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Налаштування вигляду" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/uk/appearance-setting.png" alt="Налаштування вигляду" width="280">
 
 Усе на цьому екрані показується в попередньому перегляді наживо, поки ви змінюєте параметри, — тож ви бачите, яким буде календар, ще до того, як щось закріпити.
 

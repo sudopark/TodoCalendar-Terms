@@ -6,7 +6,7 @@
 
 ## 캘린더 화면
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="캘린더" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/calendar.png" alt="캘린더" width="280">
 
 월간 그리드가 홈 화면이에요. 좌우로 밀어 달을 옮기고, 날짜를 누르면 아래에 그날의 이벤트 목록이 열려요.
 
@@ -32,7 +32,7 @@
 
 언제든 서로 바꿀 수 있어요 — 이벤트 더보기 메뉴의 **일정으로 전환** / **할일로 전환**. 할일을 일정으로 바꾸려면 시간 정보가 필요해요.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="이벤트 상세" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/event-detail.png" alt="이벤트 상세" width="280">
 
 모든 이벤트에 **위치**(지도 미리보기와 원하는 지도 앱으로 바로 열기), 미리보기가 붙는 **링크**, **메모**를 담을 수 있어요.
 
@@ -52,7 +52,7 @@
 
 ## 반복 이벤트
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="반복 옵션" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/repeat-options.png" alt="반복 옵션" width="240">
 
 드롭다운을 조합해 규칙을 만들라고 하는 대신, 앱이 고른 날짜를 읽고 그 날짜에 맞는 선택지를 미리 만들어줘요. 목요일을 골랐다면 목록에 **매주 목요일**, **매달 세번째 목요일**처럼 그대로 적혀 나와요.
 
@@ -89,7 +89,7 @@
 
 ## 이벤트 종류와 색
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="이벤트 종류" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/event-type-list.png" alt="이벤트 종류" width="280">
 
 이벤트 종류는 나만의 분류이고, 캘린더에 표시되는 색도 여기서 정해져요. 원하는 만큼 만들고 각각 색을 지정하세요.
 
@@ -131,7 +131,7 @@
 
 ## 완료된 할일
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="완료된 할일" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/done-todos.png" alt="완료된 할일" width="280">
 
 체크한 일은 전부 보관되고, 완료한 시점 기준으로 묶여요 — 오늘, 어제, 이번달, 그다음은 월별·연도별로.
 

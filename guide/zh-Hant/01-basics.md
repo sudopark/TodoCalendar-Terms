@@ -6,7 +6,7 @@
 
 ## 行事曆畫面
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="行事曆" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/calendar.png" alt="行事曆" width="280">
 
 月曆格線就是主畫面。左右滑動切換月份，點一下日期，當天的活動清單就會在下方展開。
 
@@ -32,7 +32,7 @@
 
 兩者隨時可以互相轉換——在活動的更多選單中選擇 **轉換為行程** / **轉換為待辦事項**。待辦事項要轉成行程，必須有時間資訊。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="活動詳細資訊" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/event-detail.png" alt="活動詳細資訊" width="280">
 
 每個活動都可以帶上**地點**（附地圖預覽，一點就用您偏好的地圖應用程式開啟）、有預覽的**連結**，以及**備註**。
 
@@ -52,7 +52,7 @@
 
 ## 重複活動
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="重複選項" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/repeat-options.png" alt="重複選項" width="240">
 
 應用程式不會要您用一堆下拉選單拼出規則，而是讀取您挑的日期，直接給出對應的現成選項。選了星期四，清單上就會直接寫著 **每星期四** 與 **每個月的第三個星期四**。
 
@@ -89,7 +89,7 @@
 
 ## 活動類型與色彩
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="活動類型" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/event-type-list.png" alt="活動類型" width="280">
 
 活動類型就是您自己的分類，活動在行事曆上顯示的顏色也由它決定。想建立幾個都可以，每個都能指定專屬的色彩。
 
@@ -131,7 +131,7 @@
 
 ## 已完成待辦事項
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="已完成待辦事項" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hant/done-todos.png" alt="已完成待辦事項" width="280">
 
 勾掉的事情都會保留下來，並依完成的時間分組——今天、昨天、本月，再往前則依月份與年份分組。
 

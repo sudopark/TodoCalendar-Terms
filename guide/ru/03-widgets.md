@@ -12,7 +12,7 @@
 
 ### Сегодня и что дальше
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Виджет «Сегодня и что дальше»" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/widget-today-and-next.png" alt="Виджет «Сегодня и что дальше»" width="360">
 
 Слева — сегодняшняя дата и то, что от сегодня осталось; справа — что будет дальше. Самый плотный способ увидеть «что сейчас и что потом» одним взглядом.
 
@@ -20,7 +20,7 @@
 
 ### События
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Виджет со списком событий" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/widget-event-list.png" alt="Виджет со списком событий" width="300">
 
 Сплошной список ближайших событий, сгруппированный по дням, вместе с вашими текущими задачами. Есть в трёх размерах: чем больше виджет, тем больше дней он захватывает.
 
@@ -28,7 +28,7 @@
 
 ### СЕГОДНЯ
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Виджет «СЕГОДНЯ»" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/widget-today.png" alt="Виджет «СЕГОДНЯ»" width="200">
 
 Только сегодня — дата, праздник, если он есть, и сколько у вас задач и встреч.
 
@@ -36,7 +36,7 @@
 
 ### Главное событие
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Виджет «Главное событие»" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/widget-foremost.png" alt="Виджет «Главное событие»" width="200">
 
 То единственное событие, которое вы закрепили как самое важное, всегда на виду. См. [Главное событие](./01-basics.md#главное-событие).
 
@@ -44,7 +44,7 @@
 
 ### Месяц и недели
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Виджет с месяцем" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ru/widget-month.png" alt="Виджет с месяцем" width="360">
 
 Сама сетка календаря в том диапазоне, который вам нужен:
 

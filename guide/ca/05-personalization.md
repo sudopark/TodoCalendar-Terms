@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Configuració" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/settings.png" alt="Configuració" width="280">
 
 ---
 
 ## Aparença
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Configuració d'aparença" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/appearance-setting.png" alt="Configuració d'aparença" width="280">
 
 Tot el que hi ha en aquesta pantalla es previsualitza en directe a mesura que ho canvieu, així veieu quin aspecte tindrà el calendari abans de decidir-vos.
 

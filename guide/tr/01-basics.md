@@ -6,7 +6,7 @@
 
 ## Takvim ekranı
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Takvim" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/calendar.png" alt="Takvim" width="280">
 
 Aylık ızgara ana ekrandır. Aylar arasında geçmek için sağa sola kaydırın, bir güne dokunun ve o günün etkinlik listesi hemen altında açılsın.
 
@@ -32,7 +32,7 @@ Uygulamada iki tür etkinlik var ve aradaki fark, o şeyin *tamamlanabilir* olup
 
 İstediğiniz zaman iki yöne de dönüştürebilirsiniz — etkinliğin diğer seçenekler menüsündeki **Randevuya dönüştür** / **Göreve dönüştür**. Bir görevi randevuya dönüştürmek için saat bilgisi gerekir.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Etkinlik ayrıntısı" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/event-detail.png" alt="Etkinlik ayrıntısı" width="280">
 
 Her etkinlik bir **Konum** (harita önizlemesi ve tercih ettiğiniz harita uygulamasında tek dokunuşla açma ile), önizlemeli bir **Bağlantı** ve bir **Not** taşıyabilir.
 
@@ -52,7 +52,7 @@ Bir görev için yalnızca ad yeterlidir; bir randevu için ad ve saat gerekir.
 
 ## Tekrarlayan etkinlikler
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Tekrarlama seçenekleri" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/repeat-options.png" alt="Tekrarlama seçenekleri" width="240">
 
 Uygulama sizden açılır menülerden bir kural kurmanızı istemez; seçtiğiniz tarihi okur ve ona uygun hazır seçenekler sunar. Bir perşembe seçin, listede birebir **Her Perşembe** ve **Her ayın üçüncü Perşembe günü** yazar.
 
@@ -89,7 +89,7 @@ Bağlı bir harici takvimdeki etkinliklerde ay takvimi seçeneği sunulmaz — o
 
 ## Etkinlik türleri ve renkler
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Etkinlik türleri" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/event-type-list.png" alt="Etkinlik türleri" width="280">
 
 Etkinlik türleri sizin kategorilerinizdir ve etkinliğin takvimde göründüğü rengi de onlar taşır. Her birine kendi rengini vererek dilediğiniz kadar tür oluşturun.
 
@@ -131,7 +131,7 @@ Saatsiz görevler ve gelecekteki görevler tamamlanmamış sayılmaz — henüz 
 
 ## Tamamlanan görevler
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Tamamlanan görevler" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/done-todos.png" alt="Tamamlanan görevler" width="280">
 
 İşaretlediğiniz her şey saklanır ve ne zaman bitirdiğinize göre gruplanır — bugün, dün, bu ay, sonrası ay ve yıl bazında.
 

@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Nastavenia" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/settings.png" alt="Nastavenia" width="280">
 
 ---
 
 ## Vzhľad
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Nastavenia vzhľadu" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/appearance-setting.png" alt="Nastavenia vzhľadu" width="280">
 
 Všetko na tejto obrazovke sa zobrazuje v živom náhľade hneď pri zmene, takže ešte pred potvrdením vidíte, ako bude kalendár vyzerať.
 

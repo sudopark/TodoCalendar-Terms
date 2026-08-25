@@ -12,7 +12,7 @@ Un widget de calendari existeix per no haver d'obrir el calendari. To-do Calenda
 
 ### Avui i el que ve després
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Avui i el que ve després" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-today-and-next.png" alt="Widget Avui i el que ve després" width="360">
 
 La data d'avui i el que queda del dia a l'esquerra, i el que ve tot seguit a la dreta. La vista única més densa de «què toca ara i què després».
 
@@ -20,7 +20,7 @@ La data d'avui i el que queda del dia a l'esquerra, i el que ve tot seguit a la 
 
 ### Esdeveniments
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget de llista d'esdeveniments" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-event-list.png" alt="Widget de llista d'esdeveniments" width="300">
 
 Una llista contínua dels esdeveniments propers agrupats per dia, amb les vostres tasques actuals incloses. Ve en tres mides, i com més gran és, més dies mostra.
 
@@ -28,7 +28,7 @@ Una llista contínua dels esdeveniments propers agrupats per dia, amb les vostre
 
 ### AVUI
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget AVUI" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-today.png" alt="Widget AVUI" width="200">
 
 Només avui: la data, el festiu si n'hi ha, i quantes tasques i cites teniu.
 
@@ -36,7 +36,7 @@ Només avui: la data, el festiu si n'hi ha, i quantes tasques i cites teniu.
 
 ### Esdeveniment principal
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget d'esdeveniment principal" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-foremost.png" alt="Widget d'esdeveniment principal" width="200">
 
 L'únic esdeveniment que heu fixat com el més important, sempre a la vista. Consulteu [Esdeveniment principal](./01-basics.md#esdeveniment-principal).
 
@@ -44,7 +44,7 @@ L'únic esdeveniment que heu fixat com el més important, sempre a la vista. Con
 
 ### Mes i setmanes
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget de mes" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-month.png" alt="Widget de mes" width="360">
 
 La graella del calendari mateixa, en l'interval que vulgueu:
 

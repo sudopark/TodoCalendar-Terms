@@ -6,7 +6,7 @@
 
 เล่าสิ่งที่ต้องการด้วยภาษาธรรมดา แล้วแอปจะสร้างให้ — "มื้อเที่ยงกับซาร่าวันศุกร์เที่ยงตรง", "เลื่อนนัดหมอฟันไปวันอังคารหน้า", "ทำเครื่องหมายว่าซักผ้าเสร็จแล้ว" ไม่ต้องกรอกฟอร์ม ไม่ต้องหมุนเลือกวันที่
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="ป้อนข้อมูลด่วนด้วย AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/ai-input.png" alt="ป้อนข้อมูลด่วนด้วย AI" width="280">
 
 ป้อนข้อมูลด่วนด้วย AI ต้องเข้าสู่ระบบก่อน ส่วนฟีเจอร์อื่นทั้งหมดในแอปใช้ได้โดยไม่ต้องมีบัญชี
 
@@ -65,7 +65,7 @@
 3. **ต้องการการยืนยัน** — ถ้าคำขอจะเปลี่ยนอะไรที่สำคัญ แอปจะแสดงให้ดูว่ากำลังจะทำอะไรและขออนุมัติจากคุณก่อน มีเวลานับถอยหลังอยู่ ถ้าหมดเวลาก็แค่ส่งคำขอใหม่อีกครั้ง
 4. **ทำเสร็จแล้ว** — ผลลัพธ์จะปรากฏบนปฏิทินทันที พร้อมสรุปว่ามีอะไรเปลี่ยนไปบ้าง
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="ผลลัพธ์จาก AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/ai-result.png" alt="ผลลัพธ์จาก AI" width="280">
 
 ระบบทำงานทีละคำขอเท่านั้น ถ้าคุณส่งคำขอใหม่ขณะที่ยังมีคำขอรออนุมัติอยู่ แอปจะบอกให้จัดการคำขอก่อนหน้าให้เสร็จก่อน
 

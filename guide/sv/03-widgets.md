@@ -12,7 +12,7 @@ Poängen med en kalenderwidget är att slippa öppna kalendern. To-do Calendar l
 
 ### Idag och vad som väntar
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widgeten Idag och vad som väntar" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-today-and-next.png" alt="Widgeten Idag och vad som väntar" width="360">
 
 Dagens datum och det som är kvar av idag till vänster, det som kommer härnäst till höger. Den tätaste enskilda vyn av "vad nu, vad sen".
 
@@ -20,7 +20,7 @@ Dagens datum och det som är kvar av idag till vänster, det som kommer härnäs
 
 ### Händelser
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widgeten Händelser" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-event-list.png" alt="Widgeten Händelser" width="300">
 
 En löpande lista över kommande händelser grupperade per dag, inklusive din Aktuella uppgiftslista. Finns i tre storlekar och visar fler dagar ju större den blir.
 
@@ -28,7 +28,7 @@ En löpande lista över kommande händelser grupperade per dag, inklusive din Ak
 
 ### IDAG
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widgeten IDAG" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-today.png" alt="Widgeten IDAG" width="200">
 
 Bara idag – datumet, helgdagen om det finns någon, och hur många uppgifter och möten du har.
 
@@ -36,7 +36,7 @@ Bara idag – datumet, helgdagen om det finns någon, och hur många uppgifter o
 
 ### Viktigaste händelsen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widgeten Viktigaste händelsen" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-foremost.png" alt="Widgeten Viktigaste händelsen" width="200">
 
 Den enda händelse du fäst som viktigast, alltid i blickfånget. Se [Viktigaste händelsen](./01-basics.md#viktigaste-händelsen).
 
@@ -44,7 +44,7 @@ Den enda händelse du fäst som viktigast, alltid i blickfånget. Se [Viktigaste
 
 ### Månad och veckor
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widgeten Kalender" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-month.png" alt="Widgeten Kalender" width="360">
 
 Själva kalenderrutnätet, i det omfång du vill ha:
 

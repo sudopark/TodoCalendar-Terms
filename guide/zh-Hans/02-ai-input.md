@@ -6,7 +6,7 @@
 
 用日常语言说出你想要什么，应用就替你建好 —— 「周五中午和 Sara 吃午饭」「把牙医改到下周二」「洗衣服标记为完成」。不用填表单，也不用在滚轮上挑日期。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI快捷输入" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/ai-input.png" alt="AI快捷输入" width="280">
 
 AI快捷输入需要登录账户。应用里的其他功能不登录也能用。
 
@@ -65,7 +65,7 @@ AI快捷输入需要登录账户。应用里的其他功能不登录也能用。
 3. **需要确认** —— 如果这个请求会造成重要的改动，应用会先把它准备做什么原原本本地展示给你，等你批准。这里有倒计时，超时了再请求一次就好。
 4. **任务完成** —— 结果立刻落到你的日历上，并附上改了什么的摘要。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI 处理结果" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/ai-result.png" alt="AI 处理结果" width="280">
 
 一次只处理一个请求。前一个还在等你批准时又发了新的，应用会提示你先把前一个处理掉。
 

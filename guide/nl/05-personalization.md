@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Instellingen" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/settings.png" alt="Instellingen" width="280">
 
 ---
 
 ## Weergave
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Weergave-instellingen" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/appearance-setting.png" alt="Weergave-instellingen" width="280">
 
 Alles op dit scherm is meteen zichtbaar in het voorbeeld terwijl je het wijzigt, zodat je ziet hoe de kalender eruit gaat zien voor je iets vastlegt.
 

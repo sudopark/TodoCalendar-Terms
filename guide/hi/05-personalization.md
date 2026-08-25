@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="सेटिंग्स" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/settings.png" alt="सेटिंग्स" width="280">
 
 ---
 
 ## रूप-रंग
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="रूप-रंग सेटिंग्स" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/appearance-setting.png" alt="रूप-रंग सेटिंग्स" width="280">
 
 इस स्क्रीन पर आप जो भी बदलते हैं वह तुरंत पूर्वावलोकन में दिख जाता है, तो लागू करने से पहले ही देख सकते हैं कि कैलेंडर कैसा लगेगा।
 

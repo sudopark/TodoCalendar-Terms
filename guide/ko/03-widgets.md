@@ -12,7 +12,7 @@
 
 ### 오늘 그리고 남은 일정
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="오늘 그리고 남은 일정 위젯" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/widget-today-and-next.png" alt="오늘 그리고 남은 일정 위젯" width="360">
 
 왼쪽엔 오늘 날짜와 오늘 남은 일들, 오른쪽엔 다음에 올 일들. "지금 뭐고, 그다음 뭐냐"를 가장 촘촘하게 보여주는 위젯이에요.
 
@@ -20,7 +20,7 @@
 
 ### 이벤트
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="이벤트 위젯" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/widget-event-list.png" alt="이벤트 위젯" width="300">
 
 다가오는 이벤트를 날짜별로 묶어 쭉 보여줘요. 지금 할일도 함께 나와요. 세 가지 크기가 있고, 커질수록 더 먼 날까지 보여줘요.
 
@@ -28,7 +28,7 @@
 
 ### TODAY
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="TODAY 위젯" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/widget-today.png" alt="TODAY 위젯" width="200">
 
 오늘만 — 날짜, 공휴일이 있으면 그 이름, 그리고 할일과 일정이 몇 개인지.
 
@@ -36,7 +36,7 @@
 
 ### 제일 중요한 이벤트
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="제일 중요한 이벤트 위젯" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/widget-foremost.png" alt="제일 중요한 이벤트 위젯" width="200">
 
 제일 중요하다고 고정해둔 이벤트 하나를 항상 보여줘요. [제일 중요한 이벤트](./01-basics.md#제일-중요한-이벤트)를 참고하세요.
 
@@ -44,7 +44,7 @@
 
 ### 캘린더와 주간
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="캘린더 위젯" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ko/widget-month.png" alt="캘린더 위젯" width="360">
 
 캘린더 그리드 자체를 원하는 범위로 보여줘요.
 

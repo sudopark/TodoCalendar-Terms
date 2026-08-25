@@ -6,7 +6,7 @@
 
 आम बोलचाल में बता दीजिए कि आपको क्या चाहिए और ऐप उसे बना देगा — "शुक्रवार दोपहर सारा के साथ लंच", "डेंटिस्ट को अगले मंगलवार पर खिसका दो", "कपड़े धोने वाला काम पूरा कर दो"। न कोई फ़ॉर्म, न व्हील से तारीख चुनना।
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI क्विक इनपुट" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/ai-input.png" alt="AI क्विक इनपुट" width="280">
 
 AI क्विक इनपुट के लिए लॉगिन ज़रूरी है। ऐप का बाक़ी सब कुछ बिना खाते के चलता है।
 
@@ -65,7 +65,7 @@ AI क्विक इनपुट के लिए लॉगिन ज़रू
 3. **ज़रूरत पड़ने पर पुष्टि** — अगर अनुरोध से कुछ बड़ा बदलाव होने वाला हो, तो ऐप पहले आपकी स्वीकृति मांगता है और ठीक-ठीक दिखाता है कि वह क्या करने जा रहा है। एक काउंटडाउन चलता है; समय बीत जाए तो बस दोबारा कह दीजिए।
 4. **निर्देश पूर्ण हुआ** — नतीजा तुरंत आपके कैलेंडर पर आ जाता है, साथ में क्या बदला इसका सारांश भी।
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI का नतीजा" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hi/ai-result.png" alt="AI का नतीजा" width="280">
 
 एक बार में सिर्फ़ एक अनुरोध चलता है। कोई अनुरोध आपकी स्वीकृति का इंतज़ार कर रहा हो और आप दूसरा भेज दें, तो ऐप पहले वाले को निपटाने के लिए कहता है।
 

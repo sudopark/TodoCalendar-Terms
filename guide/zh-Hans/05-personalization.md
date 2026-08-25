@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="设置" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/settings.png" alt="设置" width="280">
 
 ---
 
 ## 外观
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="外观设置" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/zh-Hans/appearance-setting.png" alt="外观设置" width="280">
 
 这个界面上的每一项都会边改边预览，所以你可以在真正应用之前，先看到日历会变成什么样。
 

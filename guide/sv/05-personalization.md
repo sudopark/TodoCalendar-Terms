@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Inställningar" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/settings.png" alt="Inställningar" width="280">
 
 ---
 
 ## Utseende
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Inställningar för utseende" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/appearance-setting.png" alt="Inställningar för utseende" width="280">
 
 Allt på den här skärmen förhandsvisas direkt medan du ändrar, så du ser hur kalendern kommer att se ut innan du bestämmer dig.
 

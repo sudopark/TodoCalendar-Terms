@@ -6,7 +6,7 @@
 
 ## El calendari
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Calendari" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/calendar.png" alt="Calendari" width="280">
 
 La graella mensual és la pantalla principal. Llisqueu cap a l'esquerra i cap a la dreta per canviar de mes, i toqueu un dia per obrir-ne la llista d'esdeveniments a sota.
 
@@ -32,7 +32,7 @@ Una **tasca sense hora** serveix per a allò que heu de fer aviat però encara n
 
 Podeu convertir-les en tots dos sentits quan vulgueu: **Converteix en cita** / **Converteix en tasca** des del menú de més opcions de l'esdeveniment. Per convertir una tasca en cita cal una hora.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Detall de l'esdeveniment" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/event-detail.png" alt="Detall de l'esdeveniment" width="280">
 
 Tot esdeveniment pot portar una **Ubicació** (amb previsualització al mapa i obertura amb un sol toc a la vostra aplicació de mapes preferida), un **Enllaç** amb previsualització i una **Nota**.
 
@@ -52,7 +52,7 @@ Una tasca només necessita un nom. Una cita necessita un nom i una hora.
 
 ## Esdeveniments repetitius
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Opcions de repetició" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/repeat-options.png" alt="Opcions de repetició" width="240">
 
 En comptes de fer-vos muntar una regla a base de desplegables, l'aplicació llegeix la data que heu triat i us ofereix opcions ja fetes per a aquella data. Trieu un dijous i la llista dirà literalment **Cada dijous** i **El tercer dijous de cada mes**.
 
@@ -89,7 +89,7 @@ Per als esdeveniments d'un calendari extern connectat, l'opció lunar no s'ofere
 
 ## Tipus d'esdeveniment i colors
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tipus d'esdeveniments" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/event-type-list.png" alt="Tipus d'esdeveniments" width="280">
 
 Els tipus d'esdeveniment són les vostres categories, i porten el color amb què un esdeveniment es mostra al calendari. Creeu-ne tants com vulgueu, cadascun amb el seu color.
 
@@ -131,7 +131,7 @@ Les tasques sense hora i les futures no compten com a pendents: simplement encar
 
 ## Tasques completades
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Tasques completades" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/done-todos.png" alt="Tasques completades" width="280">
 
 Tot el que marqueu es conserva, agrupat pel moment en què les vau acabar: avui, ahir, aquest mes i, després, per mes i any.
 

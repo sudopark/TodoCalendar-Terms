@@ -12,7 +12,7 @@ Takvim widget'ının varlık nedeni, takvimi hiç açmak zorunda kalmamanızdır
 
 ### Bugün ve Sıradakiler
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Bugün ve Sıradakiler widget'ı" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-today-and-next.png" alt="Bugün ve Sıradakiler widget'ı" width="360">
 
 Solda bugünün tarihi ve günden kalanlar, sağda sırada ne olduğu. "Şimdi ne var, sonra ne var" sorusunun en yoğun tek görünümü.
 
@@ -20,7 +20,7 @@ Solda bugünün tarihi ve günden kalanlar, sağda sırada ne olduğu. "Şimdi n
 
 ### Etkinlikler
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Etkinlik listesi widget'ı" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-event-list.png" alt="Etkinlik listesi widget'ı" width="300">
 
 Güne göre gruplanmış, akıp giden bir yaklaşan etkinlik listesi; güncel görevleriniz de dahil. Üç boyutu var ve büyüdükçe daha çok gün gösterir.
 
@@ -28,7 +28,7 @@ Güne göre gruplanmış, akıp giden bir yaklaşan etkinlik listesi; güncel g�
 
 ### BUGÜN
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="BUGÜN widget'ı" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-today.png" alt="BUGÜN widget'ı" width="200">
 
 Yalnızca bugün — tarih, varsa tatil ve kaç göreviniz ile randevunuz olduğu.
 
@@ -36,7 +36,7 @@ Yalnızca bugün — tarih, varsa tatil ve kaç göreviniz ile randevunuz olduğ
 
 ### En Önemli Etkinlik
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="En önemli etkinlik widget'ı" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-foremost.png" alt="En önemli etkinlik widget'ı" width="200">
 
 En önemli diye sabitlediğiniz tek etkinlik, hep göz önünde. Bkz. [En önemli etkinlik](./01-basics.md#en-önemli-etkinlik).
 
@@ -44,7 +44,7 @@ En önemli diye sabitlediğiniz tek etkinlik, hep göz önünde. Bkz. [En öneml
 
 ### Takvim ve haftalar
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Takvim widget'ı" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-month.png" alt="Takvim widget'ı" width="360">
 
 İstediğiniz aralıkta takvim ızgarasının kendisi:
 

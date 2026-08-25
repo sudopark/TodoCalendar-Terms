@@ -12,7 +12,7 @@ A razão de existir de um widget de calendário é você não precisar abrir o c
 
 ### Hoje e o que vem a seguir
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Hoje e o que vem a seguir" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-today-and-next.png" alt="Widget Hoje e o que vem a seguir" width="360">
 
 A data de hoje e o que resta do dia à esquerda; o que vem a seguir à direita. A visão mais densa de "o que agora, o que depois".
 
@@ -20,7 +20,7 @@ A data de hoje e o que resta do dia à esquerda; o que vem a seguir à direita. 
 
 ### Eventos
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget de lista de eventos" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-event-list.png" alt="Widget de lista de eventos" width="300">
 
 Uma lista corrida dos próximos eventos agrupados por dia, incluindo suas tarefas atuais. Vem em três tamanhos, mostrando mais dias conforme aumenta.
 
@@ -28,7 +28,7 @@ Uma lista corrida dos próximos eventos agrupados por dia, incluindo suas tarefa
 
 ### HOJE
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget HOJE" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-today.png" alt="Widget HOJE" width="200">
 
 Só hoje — a data, o feriado se houver, e quantas tarefas e compromissos você tem.
 
@@ -36,7 +36,7 @@ Só hoje — a data, o feriado se houver, e quantas tarefas e compromissos você
 
 ### Evento Principal
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget de evento principal" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-foremost.png" alt="Widget de evento principal" width="200">
 
 O único evento que você fixou como o mais importante, sempre à vista. Veja [Evento principal](./01-basics.md#evento-principal).
 
@@ -44,7 +44,7 @@ O único evento que você fixou como o mais importante, sempre à vista. Veja [E
 
 ### Mês e semanas
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget de mês" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-month.png" alt="Widget de mês" width="360">
 
 A própria grade do calendário, no intervalo que você quiser:
 

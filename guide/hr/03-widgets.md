@@ -12,7 +12,7 @@ Smisao kalendarskog widgeta je da ne morate otvarati kalendar. To-do Calendar do
 
 ### Danas i što slijedi
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Danas i što slijedi" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-today-and-next.png" alt="Widget Danas i što slijedi" width="360">
 
 Današnji datum i ono što je ostalo od danas s lijeve strane, a ono što slijedi s desne. Najgušći pojedinačni prikaz „što sad, što poslije”.
 
@@ -20,7 +20,7 @@ Današnji datum i ono što je ostalo od danas s lijeve strane, a ono što slijed
 
 ### Događaji
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget s popisom događaja" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-event-list.png" alt="Widget s popisom događaja" width="300">
 
 Tekući popis nadolazećih događaja grupiran po danima, uključujući vaš trenutni popis zadataka. Dolazi u tri veličine i pokazuje više dana kako raste.
 
@@ -28,7 +28,7 @@ Tekući popis nadolazećih događaja grupiran po danima, uključujući vaš tren
 
 ### DANAS
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget DANAS" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-today.png" alt="Widget DANAS" width="200">
 
 Samo danas — datum, blagdan ako ga ima te koliko imate zadataka i termina.
 
@@ -36,7 +36,7 @@ Samo danas — datum, blagdan ako ga ima te koliko imate zadataka i termina.
 
 ### Najvažniji događaj
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget Najvažniji događaj" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-foremost.png" alt="Widget Najvažniji događaj" width="200">
 
 Jedan događaj koji ste prikvačili kao najvažniji, uvijek na vidiku. Pogledajte [Najvažniji događaj](./01-basics.md#najvažniji-događaj).
 
@@ -44,7 +44,7 @@ Jedan događaj koji ste prikvačili kao najvažniji, uvijek na vidiku. Pogledajt
 
 ### Mjesec i tjedni
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget Kalendar" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-month.png" alt="Widget Kalendar" width="360">
 
 Sama kalendarska mreža, u rasponu koji želite:
 

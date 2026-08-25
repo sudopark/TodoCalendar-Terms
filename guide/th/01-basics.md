@@ -6,7 +6,7 @@
 
 ## หน้าจอปฏิทิน
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="ปฏิทิน" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/calendar.png" alt="ปฏิทิน" width="280">
 
 ตารางรายเดือนคือหน้าจอหลัก ปัดซ้ายขวาเพื่อเปลี่ยนเดือน แตะที่วันไหนก็จะเปิดรายการกิจกรรมของวันนั้นขึ้นมาด้านล่าง
 
@@ -32,7 +32,7 @@
 
 สลับไปมาได้ตลอดเวลา — **เปลี่ยนเป็นนัดหมาย** / **เปลี่ยนเป็นสิ่งที่ต้องทำ** ในเมนูเพิ่มเติมของกิจกรรม การเปลี่ยนสิ่งที่ต้องทำเป็นนัดหมายต้องระบุเวลาก่อน
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="รายละเอียดกิจกรรม" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/event-detail.png" alt="รายละเอียดกิจกรรม" width="280">
 
 ทุกกิจกรรมใส่ **สถานที่** ได้ (พร้อมตัวอย่างแผนที่ และแตะครั้งเดียวเพื่อเปิดในแอปแผนที่ที่คุณเลือกไว้) ใส่ **ลิงก์** พร้อมตัวอย่างหน้าเว็บ และ **บันทึกช่วยจำ** ได้ด้วย
 
@@ -52,7 +52,7 @@
 
 ## กิจกรรมที่ทำซ้ำ
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="ตัวเลือกการทำซ้ำ" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/repeat-options.png" alt="ตัวเลือกการทำซ้ำ" width="240">
 
 แทนที่จะให้คุณประกอบกฎขึ้นมาเองจากดรอปดาวน์ แอปจะอ่านวันที่คุณเลือกแล้วเสนอตัวเลือกสำเร็จรูปให้ เลือกวันพฤหัสบดี รายการก็จะขึ้นว่า **ทุกวันพฤหัสบดี** และ **วันพฤหัสบดีที่สามของทุกเดือน** ตรง ๆ แบบนั้นเลย
 
@@ -89,7 +89,7 @@
 
 ## ประเภทกิจกรรมและสี
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="ประเภทกิจกรรม" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/event-type-list.png" alt="ประเภทกิจกรรม" width="280">
 
 ประเภทกิจกรรมคือหมวดหมู่ของคุณเอง และเป็นตัวกำหนดสีที่กิจกรรมแสดงบนปฏิทิน สร้างได้มากเท่าที่ต้องการ แต่ละอันกำหนดสีของตัวเองได้
 
@@ -131,7 +131,7 @@
 
 ## สิ่งที่ทำเสร็จแล้ว
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="สิ่งที่ทำเสร็จแล้ว" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/th/done-todos.png" alt="สิ่งที่ทำเสร็จแล้ว" width="280">
 
 ทุกอย่างที่คุณกดเสร็จจะถูกเก็บไว้ และจัดกลุ่มตามเวลาที่ทำเสร็จ — วันนี้ เมื่อวาน เดือนนี้ แล้วจึงแยกตามเดือนและปี
 

@@ -12,7 +12,7 @@ Inti dari widget kalender adalah supaya Anda tidak perlu membuka kalendernya. To
 
 ### Hari Ini dan Selanjutnya
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget Hari Ini dan Selanjutnya" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-today-and-next.png" alt="Widget Hari Ini dan Selanjutnya" width="360">
 
 Tanggal hari ini beserta sisa agenda hari ini di kiri, dan apa yang akan datang berikutnya di kanan. Tampilan tunggal paling padat untuk "sekarang apa, habis itu apa".
 
@@ -20,7 +20,7 @@ Tanggal hari ini beserta sisa agenda hari ini di kiri, dan apa yang akan datang 
 
 ### Acara
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget daftar acara" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-event-list.png" alt="Widget daftar acara" width="300">
 
 Daftar berjalan berisi acara mendatang yang dikelompokkan per hari, termasuk Daftar Tugas Saat Ini Anda. Tersedia dalam tiga ukuran; makin besar, makin banyak hari yang ditampilkan.
 
@@ -28,7 +28,7 @@ Daftar berjalan berisi acara mendatang yang dikelompokkan per hari, termasuk Daf
 
 ### HARI INI
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget HARI INI" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-today.png" alt="Widget HARI INI" width="200">
 
 Hanya hari ini — tanggalnya, nama hari libur kalau ada, dan berapa banyak tugas serta jadwal yang Anda punya.
 
@@ -36,7 +36,7 @@ Hanya hari ini — tanggalnya, nama hari libur kalau ada, dan berapa banyak tuga
 
 ### Acara Terpenting
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget acara terpenting" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-foremost.png" alt="Widget acara terpenting" width="200">
 
 Satu acara yang Anda sematkan sebagai yang paling penting, selalu terlihat. Lihat [Acara terpenting](./01-basics.md#acara-terpenting).
 
@@ -44,7 +44,7 @@ Satu acara yang Anda sematkan sebagai yang paling penting, selalu terlihat. Liha
 
 ### Kalender dan mingguan
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget kalender" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-month.png" alt="Widget kalender" width="360">
 
 Grid kalendernya sendiri, dalam rentang yang Anda inginkan:
 

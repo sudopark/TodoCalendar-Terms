@@ -6,7 +6,7 @@
 
 Írja le hétköznapi nyelven, mit szeretne, és az alkalmazás felépíti — „ebéd Sárával pénteken délben”, „tedd át a fogorvost jövő keddre”, „a mosás kész”. Semmi űrlap, semmi dátumtárcsázás.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI gyorsbevitel" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/ai-input.png" alt="AI gyorsbevitel" width="280">
 
 Az AI gyorsbevitelhez bejelentkezett fiók kell. Az alkalmazásban minden más fiók nélkül is működik.
 
@@ -65,7 +65,7 @@ A megosztási lapról indított kérés is a háttérben fut. Visszajelzést kap
 3. **Megerősítés, ha kell** — ha a kérés valami lényegeset változtatna, az alkalmazás előbb jóváhagyást kér, és pontosan megmutatja, mire készül. Van visszaszámlálás; ha lejár, egyszerűen kérje újra.
 4. **Kész** — az eredmény azonnal megjelenik a naptárában, összefoglalóval arról, mi változott.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI-eredmény" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/ai-result.png" alt="AI-eredmény" width="280">
 
 Egyszerre csak egy kérés fut. Ha küld egy másikat, miközben az előző még a jóváhagyására vár, az alkalmazás szól, hogy előbb az elsővel foglalkozzon.
 

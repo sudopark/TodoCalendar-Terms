@@ -12,7 +12,7 @@ A naptárwidget értelme az, hogy ne kelljen megnyitnia a naptárt. A To-do Cale
 
 ### Ma és ami ezután következik
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Ma és ami ezután következik widget" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-today-and-next.png" alt="Ma és ami ezután következik widget" width="360">
 
 Balra a mai dátum és az, ami a mai napból hátravan, jobbra pedig ami következik. A „mi most, mi utána” legsűrűbb egyetlen nézete.
 
@@ -20,7 +20,7 @@ Balra a mai dátum és az, ami a mai napból hátravan, jobbra pedig ami követk
 
 ### Események
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Eseménylista widget" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-event-list.png" alt="Eseménylista widget" width="300">
 
 A közelgő események folyó listája napok szerint csoportosítva, benne az aktuális feladataival is. Három méretben kapható, és minél nagyobb, annál több napot mutat.
 
@@ -28,7 +28,7 @@ A közelgő események folyó listája napok szerint csoportosítva, benne az ak
 
 ### MA
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="MA widget" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-today.png" alt="MA widget" width="200">
 
 Csak a mai nap — a dátum, az ünnep, ha van, és hogy hány feladata és programja van.
 
@@ -36,7 +36,7 @@ Csak a mai nap — a dátum, az ünnep, ha van, és hogy hány feladata és prog
 
 ### Legfontosabb esemény
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Legfontosabb esemény widget" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-foremost.png" alt="Legfontosabb esemény widget" width="200">
 
 Az az egy esemény, amelyet a legfontosabbként tűzött ki, mindig szem előtt. Lásd: [Legfontosabb esemény](./01-basics.md#legfontosabb-esemény).
 
@@ -44,7 +44,7 @@ Az az egy esemény, amelyet a legfontosabbként tűzött ki, mindig szem előtt.
 
 ### Hónap és hetek
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Hónap widget" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-month.png" alt="Hónap widget" width="360">
 
 Maga a naptárrács, abban a tartományban, amelyikben szeretné:
 

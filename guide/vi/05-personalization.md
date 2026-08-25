@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Cài đặt" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/settings.png" alt="Cài đặt" width="280">
 
 ---
 
 ## Giao diện
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Cài đặt giao diện" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/appearance-setting.png" alt="Cài đặt giao diện" width="280">
 
 Mọi mục trên màn hình này đều hiện xem trước ngay khi bạn thay đổi, nên bạn thấy được lịch sẽ trông thế nào trước khi quyết định.
 

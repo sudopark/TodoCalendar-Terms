@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Postavke" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/settings.png" alt="Postavke" width="280">
 
 ---
 
 ## Izgled
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Postavke izgleda" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/appearance-setting.png" alt="Postavke izgleda" width="280">
 
 Sve na ovom zaslonu odmah se vidi u pregledu dok mijenjate, pa možete vidjeti kako će kalendar izgledati prije nego što se odlučite.
 

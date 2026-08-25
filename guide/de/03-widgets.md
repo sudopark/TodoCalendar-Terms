@@ -12,7 +12,7 @@ Der Sinn eines Kalender-Widgets ist, den Kalender gar nicht erst öffnen zu müs
 
 ### Heute und was als Nächstes kommt
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Widget „Heute und was als Nächstes kommt“" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-today-and-next.png" alt="Widget „Heute und was als Nächstes kommt“" width="360">
 
 Links das heutige Datum und was von heute übrig ist, rechts das, was als Nächstes kommt. Die dichteste Einzelansicht von „was jetzt, was danach“.
 
@@ -20,7 +20,7 @@ Links das heutige Datum und was von heute übrig ist, rechts das, was als Nächs
 
 ### Ereignisse
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-event-list.png" alt="Widget „Ereignisse“" width="300">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-event-list.png" alt="Widget „Ereignisse“" width="300">
 
 Eine fortlaufende Liste kommender Ereignisse, nach Tagen gruppiert, einschließlich Ihrer aktuellen Aufgaben. Gibt es in drei Größen, die jeweils mehr Tage zeigen.
 
@@ -28,7 +28,7 @@ Eine fortlaufende Liste kommender Ereignisse, nach Tagen gruppiert, einschließl
 
 ### HEUTE
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today.png" alt="Widget „HEUTE“" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-today.png" alt="Widget „HEUTE“" width="200">
 
 Nur heute — das Datum, der Feiertag, falls es einen gibt, und wie viele Aufgaben und Termine anstehen.
 
@@ -36,7 +36,7 @@ Nur heute — das Datum, der Feiertag, falls es einen gibt, und wie viele Aufgab
 
 ### Wichtigstes Ereignis
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-foremost.png" alt="Widget „Wichtigstes Ereignis“" width="200">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-foremost.png" alt="Widget „Wichtigstes Ereignis“" width="200">
 
 Das eine Ereignis, das Sie als wichtigstes angeheftet haben, immer im Blick. Siehe [Wichtigstes Ereignis](./01-basics.md#wichtigstes-ereignis).
 
@@ -44,7 +44,7 @@ Das eine Ereignis, das Sie als wichtigstes angeheftet haben, immer im Blick. Sie
 
 ### Monat und Wochen
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Widget „Kalender“" width="360">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-month.png" alt="Widget „Kalender“" width="360">
 
 Das Kalenderraster selbst, in dem Zeitraum, den Sie möchten:
 

@@ -6,7 +6,7 @@
 
 Beskriv det du vil ha med vanlige ord, så bygger appen det for deg – «lunsj med Sara fredag kl. 12», «flytt tannlegen til neste tirsdag», «merk klesvasken som fullført». Ingen skjemaer, ingen datovelger å snurre på.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI-hurtiginntasting" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/ai-input.png" alt="AI-hurtiginntasting" width="280">
 
 AI-hurtiginntasting krever at du er logget inn. Alt annet i appen fungerer uten konto.
 
@@ -65,7 +65,7 @@ Forespørsler fra delingsmenyen kjører også i bakgrunnen. Du får en bekreftel
 3. **Bekreftelse kreves** – hvis forespørselen ville endret noe vesentlig, ber appen deg godkjenne den først og viser nøyaktig hva den er i ferd med å gjøre. Det går en nedtelling, og løper den ut, ber du bare på nytt.
 4. **Kommando fullført** – resultatet havner i kalenderen med én gang, sammen med et sammendrag av hva som ble endret.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI-resultat" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/ai-result.png" alt="AI-resultat" width="280">
 
 Bare én forespørsel kjører om gangen. Sender du en ny mens en annen fortsatt venter på godkjenning fra deg, sier appen fra om at du må ta den første først.
 

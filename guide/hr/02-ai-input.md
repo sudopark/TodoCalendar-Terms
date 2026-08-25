@@ -6,7 +6,7 @@
 
 Opišite običnim riječima što želite i aplikacija to složi umjesto vas — „ručak sa Sarom u petak u podne”, „pomakni zubara na idući utorak”, „označi rublje kao gotovo”. Bez obrazaca, bez biranja datuma s kotačića.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="Brzi AI unos" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/ai-input.png" alt="Brzi AI unos" width="280">
 
 Brzi AI unos zahtijeva prijavljeni račun. Sve ostalo u aplikaciji radi i bez njega.
 
@@ -65,7 +65,7 @@ I zahtjev iz izbornika dijeljenja izvršava se u pozadini. Dobit ćete potvrdu d
 3. **Potvrda, kad je potrebna** — ako bi zahtjev promijenio nešto značajno, aplikacija najprije traži vaše odobrenje i točno pokaže što namjerava učiniti. Postoji odbrojavanje; ako istekne, jednostavno pitajte ponovno.
 4. **Naredba dovršena** — rezultat odmah sleti u vaš kalendar, uz sažetak onoga što se promijenilo.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="Rezultat AI obrade" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/ai-result.png" alt="Rezultat AI obrade" width="280">
 
 Odjednom se izvršava samo jedan zahtjev. Ako pošaljete drugi dok prvi još čeka vaše odobrenje, aplikacija će vam reći da najprije riješite prvi.
 

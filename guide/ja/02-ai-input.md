@@ -6,7 +6,7 @@
 
 やりたいことをふだんの言葉で伝えれば、アプリが組み立ててくれます — 「金曜のお昼にサラとランチ」「歯医者を来週の火曜に移して」「洗濯を完了にして」。フォームも、ホイールで日付を選ぶ操作も要りません。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AIクイック入力" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/ai-input.png" alt="AIクイック入力" width="280">
 
 AIクイック入力にはログインが必要です。それ以外の機能は、アカウントなしですべて使えます。
 
@@ -65,7 +65,7 @@ AIクイック入力にはログインが必要です。それ以外の機能は
 3. **確認が必要なとき** — 大きな変更になるリクエストの場合、アプリはこれから何をするのかを正確に示し、先に承認を求めます。制限時間があり、過ぎてしまったらもう一度リクエストするだけで大丈夫です。
 4. **コマンド完了** — 結果はすぐカレンダーに反映され、何が変わったかを要約して伝えます。
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AIの処理結果" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ja/ai-result.png" alt="AIの処理結果" width="280">
 
 同時に処理されるリクエストはひとつだけです。承認待ちのリクエストがあるときにもう1件送ると、先のリクエストを片付けてほしいと案内します。
 

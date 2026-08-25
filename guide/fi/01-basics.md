@@ -6,7 +6,7 @@
 
 ## Kalenterinäkymä
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/calendar.png" alt="Kalenteri" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/calendar.png" alt="Kalenteri" width="280">
 
 Kuukausiruudukko on sovelluksen aloitusnäkymä. Pyyhkäise vasemmalle ja oikealle vaihtaaksesi kuukautta, ja napauta päivää avataksesi sen tapahtumaluettelon alapuolelle.
 
@@ -32,7 +32,7 @@ Sovelluksessa on kahdenlaisia tapahtumia, ja ero on siinä, voiko asian *merkit�
 
 Voit muuntaa tapahtuman kumpaan tahansa suuntaan milloin tahansa — **Muunna aikatauluksi** / **Muunna tehtäväksi** tapahtuman lisävalikosta. Tehtävän muuntaminen aikataulutapahtumaksi edellyttää ajankohtaa.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Tapahtuman tiedot" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/event-detail.png" alt="Tapahtuman tiedot" width="280">
 
 Jokaiseen tapahtumaan voi liittää **sijainnin** (karttaesikatselulla ja yhden napautuksen avauksella haluamassasi karttasovelluksessa), **linkin** esikatseluineen ja **muistiinpanon**.
 
@@ -52,7 +52,7 @@ Tehtävä tarvitsee vain nimen. Aikataulutapahtuma tarvitsee nimen ja ajankohdan
 
 ## Toistuvat tapahtumat
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Toistovaihtoehdot" width="240">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/repeat-options.png" alt="Toistovaihtoehdot" width="240">
 
 Sen sijaan, että sinun pitäisi koota sääntö pudotusvalikoista, sovellus lukee valitsemasi päivän ja tarjoaa sille valmiita vaihtoehtoja. Valitse torstai, ja listassa lukee kirjaimellisesti **Joka torstai** ja **Kuukauden kolmas torstai**.
 
@@ -89,7 +89,7 @@ Yhdistetyn ulkoisen kalenterin tapahtumille kuukalenterivaihtoehtoa ei tarjota �
 
 ## Tapahtumatyypit ja värit
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-type-list.png" alt="Tapahtumatyypit" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/event-type-list.png" alt="Tapahtumatyypit" width="280">
 
 Tapahtumatyypit ovat omia luokkiasi, ja ne kantavat värin, jolla tapahtuma näkyy kalenterissa. Luo niitä niin monta kuin haluat, kullekin oma värinsä.
 
@@ -131,7 +131,7 @@ Ajattomia ja tulevia tehtäviä ei lasketa keskeneräisiksi — ne eivät yksink
 
 ## Valmiit tehtävät
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/done-todos.png" alt="Valmiit tehtävät" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/done-todos.png" alt="Valmiit tehtävät" width="280">
 
 Kaikki valmiiksi merkitsemäsi säilytetään ja ryhmitellään valmistumisajan mukaan — tänään, eilen, tämä kuukausi ja sen jälkeen kuukausittain ja vuosittain.
 

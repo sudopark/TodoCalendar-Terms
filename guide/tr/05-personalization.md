@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/settings.png" alt="Ayarlar" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/settings.png" alt="Ayarlar" width="280">
 
 ---
 
 ## Görünüm
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Görünüm ayarları" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/appearance-setting.png" alt="Görünüm ayarları" width="280">
 
 Bu ekrandaki her şey siz değiştirdikçe anlık olarak önizlenir; böylece uygulamadan önce takvimin nasıl görüneceğini görebilirsiniz.
 
