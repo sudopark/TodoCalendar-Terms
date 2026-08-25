@@ -54,7 +54,7 @@ Uma tarefa precisa só de um nome. Um compromisso precisa de nome e horário.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/repeat-options.png" alt="Opções de recorrência" width="240">
 
-Em vez de pedir que você monte uma regra a partir de menus, o app lê a data escolhida e oferece opções prontas para ela. Escolha uma quinta-feira e a lista traz, literalmente, **Toda Quinta-feira** e **O terceiro Quinta-feira de cada mês**.
+Em vez de pedir que você monte uma regra a partir de menus, o app lê a data escolhida e oferece opções prontas para ela. Escolha uma quinta-feira e a lista traz, literalmente, **Toda semana: quinta-feira** e **A terceira quinta-feira de cada mês**.
 
 **Intervalos comuns**
 
