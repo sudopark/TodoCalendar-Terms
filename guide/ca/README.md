@@ -4,14 +4,14 @@
 
 **Les vostres tasques i la vostra agenda, en un sol calendari.**
 
-La majoria de calendaris només guarden cites, i la majoria d'aplicacions de tasques no tenen cap noció del mes. To-do Calendar manté totes dues coses a la mateixa graella: una cita se situa al dia en què passa, i una tasca es queda davant vostre fins que la marqueu de debò, encara que no tingui cap hora assignada.
+Un calendari us mostra les cites, però no allò que heu de fer. Una aplicació de tasques us dona una llista, però mai el lloc del mes on cau cada cosa. To-do Calendar manté totes dues coses al mateix calendari: una cita se situa al dia en què passa, i una tasca es queda davant vostre fins que la marqueu de debò, encara que no tingui cap hora assignada.
 
 Funciona del tot sense connexió i sense compte. Inicieu sessió només quan vulgueu tenir les dades amb còpia de seguretat i sincronitzades entre els vostres dispositius.
 
 - **Un calendari, els dos tipus de feina** — cites i tasques de costat, amb el color dels vostres propis tipus d'esdeveniment
-- **Tasques que no desapareixen** — les tasques sense hora i les vençudes es queden fixades a dalt en comptes de perdre's cap al passat
+- **Tasques que no desapareixen** — les tasques sense hora i les vençudes es queden fixades a dalt en comptes de quedar enterrades en una data ja passada
 - **Afegir parlant** — descriviu un esdeveniment en llenguatge natural amb l'entrada ràpida amb IA, la Siri o el botó d'Acció
-- **Veure-ho sense obrir-ho** — un ampli conjunt de widgets per a la pantalla d'inici, la pantalla bloquejada i el Centre de Control
+- **Veure el dia sense obrir l'aplicació** — un ampli conjunt de widgets per a la pantalla d'inici, la pantalla bloquejada i el Centre de Control
 - **Porteu-hi els altres calendaris** — connecteu Google Calendar i Apple Calendar i vegeu-ho tot en un sol lloc
 
 ---

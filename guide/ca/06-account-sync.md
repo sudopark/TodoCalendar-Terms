@@ -32,9 +32,9 @@ No heu de fer res, i pel camí no se suprimeix res.
 
 ## Mantenir-ho sincronitzat
 
-La sincronització va sola en segon pla: després dels canvis, quan l'aplicació torna a primer pla i periòdicament mentre no hi pareu atenció. Els widgets es refresquen quan acaba.
+La sincronització va sola en segon pla: després dels canvis, quan l'aplicació torna a primer pla i a intervals entremig. Els widgets es refresquen quan acaba.
 
-Si alguna cosa sembla desactualitzada, **Sincronitza ara**, a la configuració d'esdeveniments, descarta la posició de sincronització local i ho torna a baixar tot des de zero.
+Si alguna cosa sembla desactualitzada, **Sincronitza ara**, a la configuració d'esdeveniments, esborra el que l'aplicació ja ha sincronitzat i ho torna a baixar tot des de zero.
 
 Quan el mateix esdeveniment s'ha canviat en dos llocs, guanya la versió del servidor.
 

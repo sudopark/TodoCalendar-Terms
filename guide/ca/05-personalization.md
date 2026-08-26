@@ -18,10 +18,10 @@ Tot el que hi ha en aquesta pantalla es previsualitza en directe a mesura que ho
 
 | Opció | Què fa |
 |---|---|
-| Dia d'inici de la setmana | Per quin dia comença la graella |
+| Dia d'inici de la setmana | Per quin dia comença el calendari |
 | Dies destacats | Dona color als diumenges, els dissabtes i els festius, cadascun per separat |
 | Subratllat als dies amb esdeveniments | Marca els dies que tenen alguna cosa |
-| Nivell de detall dels esdeveniments | Com d'altes són les files: Mínim, Mitjà o Complet. Les files altes mostren els noms dels esdeveniments en comptes de punts |
+| Nivell de detall dels esdeveniments | Quant espai ocupa cada dia: Mínim, Mitjà o Complet. Com més espai, més es veuen els noms dels esdeveniments en comptes de punts |
 | Mida de la lletra del text dels esdeveniments | Puja o baixa la mida del text dels esdeveniments |
 | Text en negreta | Noms dels esdeveniments més gruixuts |
 | Color de l'esdeveniment | Mostra o amaga la barra de color de cada esdeveniment |
@@ -39,7 +39,7 @@ Seguiu el sistema, o fixeu l'aplicació a **Clar** o **Fosc** independentment de
 
 ### Tema del widget
 
-Els widgets fan servir el tema del sistema per defecte. Canvieu-ho a un color personalitzat i trieu el fons que vulgueu: l'aplicació dedueix si el text ha de ser clar o fosc segons com de clar sigui el vostre color.
+Els widgets fan servir **Utilitza el tema del sistema** per defecte. Amb **Selecciona un color personalitzat** podeu triar el fons que vulgueu: l'aplicació dedueix si el text ha de ser clar o fosc segons com de clar sigui aquell color.
 
 ### Sensacions
 
