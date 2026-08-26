@@ -8,39 +8,39 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/calendar.png" alt="Kalendarz" width="280">
 
-Siatka miesiąca jest ekranem głównym. Przesuwaj w lewo i w prawo, żeby zmieniać miesiące, a stuknij dzień, żeby otworzyć pod spodem listę jego wydarzeń.
+Kalendarz miesiąca jest ekranem głównym. Przesuwaj w lewo i w prawo, żeby zmieniać miesiące, a stuknij dzień, żeby otworzyć pod spodem listę jego wydarzeń.
 
-- Każdy dzień pokazuje kolorowy pasek dla każdego wydarzenia, a gdy nie mieszczą się wszystkie — wskaźnik **+N**.
+- Każdy dzień pokazuje kolorowy pasek dla każdego wydarzenia, a gdy w wierszu nie mieszczą się wszystkie — wskaźnik **+N**.
 - Lista dnia ma stałą kolejność: zadania bez godziny → zadania z godziną → terminy → święta → wydarzenia z kalendarzy zewnętrznych.
 - Stuknij nagłówek, żeby przeskoczyć do dowolnej daty, albo wybierz ją wprost przez **Przenieś datę**.
 
-To, jak gęsta jest siatka — wysokość wiersza, wielkość tekstu wydarzeń, pogrubienie, kolorowe paski, nazwy świąt, kalendarz księżycowy — da się w całości przestawić. Zajrzyj do [Personalizacji](./05-personalization.md).
+To, ile pokazuje każdy dzień, zależy od Ciebie: ilość szczegółów przy wydarzeniu, wielkość tekstu, kolory, nazwy świąt i kalendarz księżycowy. [Personalizacja](./05-personalization.md) omawia każde ustawienie z nazwy.
 
 ---
 
 ## Zadania i terminy
 
-Aplikacja zna dwa rodzaje wydarzeń, a różnica polega na tym, czy daną rzecz da się *ukończyć*.
+Aplikacja zna dwa rodzaje wydarzeń, a różnica polega na tym, czy daną rzecz się odhacza.
 
 | | Zadanie | Termin |
 |---|---|---|
 | Czas | Opcjonalny | Wymagany |
 | Ukończenie | Tak — odhaczasz je | Nie |
-| Bez godziny | Zostaje w **Bieżącej liście zadań**, dopóki go nie skończysz | Niemożliwe |
+| Bez godziny | Zostaje w sekcji **Bieżąca lista zadań**, dopóki go nie skończysz | Niemożliwe |
 
-**Zadanie bez godziny** jest dla czegoś, co trzeba zrobić wkrótce, ale nie ma jeszcze swojej pory. Siedzi na górze kalendarza i w widżecie z bieżącą listą zadań, dopóki go nie ukończysz.
+**Zadanie bez godziny** jest dla czegoś, co trzeba zrobić wkrótce, ale nie ma jeszcze swojej pory. Siedzi na górze kalendarza i w widżecie **Bieżąca lista zadań**, dopóki go nie ukończysz.
 
 W każdej chwili przejdziesz z jednego na drugie — **Zmień na termin** / **Zmień na zadanie** w menu wydarzenia. Zmiana zadania w termin wymaga podania czasu.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/event-detail.png" alt="Szczegóły wydarzenia" width="280">
 
-Każde wydarzenie może nieść **Miejsce** (z podglądem mapy i otwarciem jednym stuknięciem w ulubionej aplikacji map), **Link** z podglądem oraz **Notatkę**.
+W każdym wydarzeniu mogą się znaleźć **Miejsce**, **Link** i **Notatka**. Miejsce pokazuje podgląd mapy i jednym stuknięciem otwiera się w ulubionej aplikacji map, a Link ma własny podgląd.
 
 ---
 
 ## Dodawanie wydarzeń
 
-Trzy drogi, zależnie od tego, ile chcesz wpisać:
+Trzy sposoby na dodanie wydarzenia — zależnie od tego, ile chcesz wpisać:
 
 - **Szybkie dodawanie** — pole na dole listy dnia. Wpisz nazwę, zatwierdź i masz zadanie.
 - **Pełne szczegóły** — stuknij **+**, żeby otworzyć edytor z czasem, powtarzaniem, przypomnieniami, typem wydarzenia, miejscem, linkiem i notatką.
@@ -54,7 +54,7 @@ Zadaniu wystarczy nazwa. Termin potrzebuje nazwy i czasu.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/repeat-options.png" alt="Opcje powtarzania" width="240">
 
-Zamiast kazać Ci składać regułę z rozwijanych list, aplikacja czyta wybraną datę i podsuwa opcje gotowe właśnie dla niej. Wybierz czwartek, a na liście zobaczysz wprost **Trzeci czwartek każdego miesiąca** albo **Ostatni czwartek każdego miesiąca**.
+Zamiast kazać Ci składać regułę powtarzania z rozwijanych list, aplikacja czyta wybraną datę i podsuwa opcje gotowe właśnie dla niej. Wybierz czwartek, a lista poda **Co tydzień: czwartek** i **Trzeci czwartek każdego miesiąca**.
 
 **Typowe cykle**
 
@@ -68,22 +68,22 @@ Zamiast kazać Ci składać regułę z rozwijanych list, aplikacja czyta wybran�
 
 - Każdego dnia roboczego — od poniedziałku do piątku. Pojawia się, gdy wydarzenie zaczyna się w dzień roboczy
 - Wszystkie dni ostatniego tygodnia każdego miesiąca
-- Pierwszy / Drugi / Trzeci / Czwarty / Ostatni *dzień tygodnia* każdego miesiąca — na rzeczy w rodzaju „ostatni piątek miesiąca”
+- Pierwszy / Drugi / Trzeci / Czwarty / Ostatni **czwartek** każdego miesiąca — dzień tygodnia bierze się z wybranej daty, więc wydarzenie w piątek dostanie **Ostatni piątek każdego miesiąca**
 
 **Koniec powtarzania**
 
-Gdy już wybierzesz powtarzanie, zdecyduj, jak ma się skończyć: **Nigdy**, **W dniu** konkretnej daty albo **Po** określonej liczbie wystąpień.
+Gdy już wybierzesz powtarzanie, zdecyduj, kiedy ma się skończyć: **Nigdy** zostawia je bez końca, **W dniu** ustala stałą datę zakończenia, a **Po** ogranicza liczbę wystąpień.
 
 Powtarzające się zadania zachowują się inaczej niż powtarzające się terminy:
 
-- Nieukończone powtórzenie zostaje widoczne w dzisiejszym kalendarzu nawet po swojej godzinie — nie przeskakuje po cichu dalej.
+- Nieukończone powtórzenie zostaje widoczne w dzisiejszym kalendarzu nawet po swojej godzinie — samo nie przechodzi do następnego wystąpienia.
 - Ukończenie odkłada to wystąpienie na listę ukończonych zadań i tworzy kolejne.
 - **Pomiń to zadanie** przenosi Cię do następnego wystąpienia bez oznaczania obecnego jako zrobione.
 - Gdy powtarzanie ma warunek końca i nie ma już następnego wystąpienia, seria się kończy.
 
 Przy edycji albo usuwaniu jednego wystąpienia wydarzenia powtarzającego się wybierasz zakres: **Tylko tym razem**, **Od teraz** albo **Wszystkie wydarzenia**.
 
-Dla wydarzeń z połączonego kalendarza zewnętrznego opcja księżycowa się nie pojawia — tamten kalendarz nie ma jak jej wyrazić.
+Dla wydarzeń z połączonego kalendarza zewnętrznego opcja księżycowa się nie pojawia — kalendarze zewnętrzne nie mają gdzie zapisać reguły powtarzania według kalendarza księżycowego.
 
 ---
 
@@ -91,7 +91,7 @@ Dla wydarzeń z połączonego kalendarza zewnętrznego opcja księżycowa się n
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/event-type-list.png" alt="Typy wydarzeń" width="280">
 
-Typy wydarzeń to Twoje kategorie i to one niosą kolor, którym wydarzenie świeci w kalendarzu. Utwórz ich tyle, ile chcesz, każdy w swoim kolorze.
+Typy wydarzeń to Twoje kategorie i to one niosą kolor, którym wydarzenie pokazuje się w kalendarzu. Utwórz ich tyle, ile chcesz, każdy w swoim kolorze.
 
 - Wyłącz typ, a wszystkie wydarzenia tego typu znikną z kalendarza — przydaje się, gdy chcesz wyciszyć zabiegany kalendarz służbowy, nie rozłączając go.
 - Przy usuwaniu typu decydujesz, czy zachować, czy skasować przypisane do niego wydarzenia.
@@ -123,7 +123,7 @@ Jako najważniejsze da się ustawić zadania i niepowtarzające się terminy. Po
 
 ## Niezakończone zadania
 
-Zadania, którym minął czas, a nie zostały ukończone, zbierają się w sekcji **Niezakończone zadania** na górze kalendarza, żeby przeoczona sprawa nie odjechała w zeszły tydzień.
+Zadania, którym minął czas, a nie zostały ukończone, zbierają się w sekcji **Niezakończone zadania** na górze kalendarza, żeby przeoczone zadanie nie zostało zagrzebane na minionej dacie.
 
 Zadania bez godziny i te z przyszłości nie liczą się jako niezakończone — po prostu ich pora jeszcze nie nadeszła. Jeśli wolisz tego nie oglądać, całą sekcję da się ukryć w Ustawieniach.
 

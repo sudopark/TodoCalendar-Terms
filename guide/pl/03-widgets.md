@@ -4,7 +4,7 @@
 
 ---
 
-Sens widżetu kalendarza polega na tym, żeby nie trzeba było otwierać kalendarza. To-do Calendar daje szeroki zestaw, więc wybierzesz ten, który pasuje do tego, jak naprawdę sprawdzasz swój dzień — pojedyncze najbliższe wydarzenie, cały miesiąc albo listę zadań z polami do odhaczenia.
+Widżet jest po to, żeby nie trzeba było otwierać aplikacji tylko po to, by zobaczyć, co dalej. To-do Calendar daje szeroki zestaw, więc wybierzesz ten, który pasuje do tego, jak naprawdę sprawdzasz swój dzień — pojedyncze najbliższe wydarzenie, cały miesiąc albo listę zadań z polami do odhaczenia.
 
 ---
 
@@ -14,7 +14,7 @@ Sens widżetu kalendarza polega na tym, żeby nie trzeba było otwierać kalenda
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-today-and-next.png" alt="Widżet Dziś i co dalej" width="360">
 
-Po lewej dzisiejsza data i to, co zostało z dnia, po prawej to, co nadchodzi. Najgęstszy pojedynczy obraz tego, „co teraz, a co potem”.
+Po lewej dzisiejsza data i to, co zostało z dnia, po prawej to, co nadchodzi. Żaden inny widżet nie pokazuje tylu rzeczy naraz.
 
 *Średni.*
 
@@ -46,7 +46,7 @@ To jedno wydarzenie, które przypiąłeś jako najistotniejsze, zawsze na widoku
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-month.png" alt="Widżet Kalendarz" width="360">
 
-Sama siatka kalendarza, w zakresie, jaki Ci odpowiada:
+Sam kalendarz, w zakresie, jaki Ci odpowiada:
 
 | Widżet | Rozmiar |
 |---|---|
@@ -61,8 +61,8 @@ Dwa panele w jednym widżecie, kiedy jeden widok nie wystarcza:
 
 | Widżet | Co pokazuje | Rozmiar |
 |---|---|---|
-| DZIŚ + Kalendarz | Podsumowanie dnia obok siatki miesiąca | Średni |
-| Wydarzenia + Kalendarz | Nadchodzące wydarzenia obok siatki miesiąca | Średni |
+| DZIŚ + Kalendarz | Podsumowanie dnia obok kalendarza miesiąca | Średni |
+| Wydarzenia + Kalendarz | Nadchodzące wydarzenia obok kalendarza miesiąca | Średni |
 | Wydarzenia + Najważniejsze | Nadchodzące wydarzenia obok przypiętego wydarzenia | Średni |
 | Kalendarz + Kalendarz | Dwa miesiące obok siebie | Średni |
 

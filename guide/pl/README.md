@@ -4,14 +4,14 @@
 
 **Twoje zadania i Twój plan dnia — w jednym kalendarzu.**
 
-Większość kalendarzy mieści same spotkania, a większość aplikacji z listą zadań nie ma pojęcia o miesiącu. To-do Calendar trzyma jedno i drugie w tej samej siatce: termin leży w dniu, w którym się odbywa, a zadanie zostaje Ci przed oczami, dopóki naprawdę go nie odhaczysz — nawet jeśli nie ma przypisanej godziny.
+Kalendarz pokazuje spotkania, ale nie to, co masz do zrobienia. Aplikacja z listą zadań pokazuje listę, ale nigdy tego, gdzie te sprawy wypadają w miesiącu. To-do Calendar trzyma jedno i drugie w tym samym kalendarzu: termin leży w dniu, w którym się odbywa, a zadanie zostaje Ci przed oczami, dopóki naprawdę go nie odhaczysz — nawet jeśli nie ma przypisanej godziny.
 
 Aplikacja działa w pełni offline i bez konta. Zaloguj się tylko wtedy, gdy chcesz mieć kopię zapasową danych i ten sam kalendarz na wszystkich swoich urządzeniach.
 
 - **Jeden kalendarz, dwa rodzaje spraw** — terminy i zadania obok siebie, w kolorach Twoich własnych typów wydarzeń
-- **Zadania, które nie znikają** — te bez godziny i te po czasie zostają przypięte na górze, zamiast odjechać w przeszłość
+- **Zadania, które nie znikają** — te bez godziny i te po czasie zostają przypięte na górze, zamiast zostać na minionej dacie
 - **Dodawanie słowami** — opisz wydarzenie zwykłym językiem przez szybkie wprowadzanie AI, Siri albo przycisk Akcji
-- **Podgląd bez otwierania** — szeroki zestaw widżetów na ekran początkowy, ekran blokady i Centrum sterowania
+- **Podgląd dnia bez otwierania aplikacji** — szeroki zestaw widżetów na ekran początkowy, ekran blokady i Centrum sterowania
 - **Twoje pozostałe kalendarze** — połącz Kalendarz Google i Kalendarz Apple, żeby mieć wszystko w jednym miejscu
 
 ---
@@ -34,4 +34,4 @@ Pełny zestaw widżetów i ich rozmiary, co pokazuje każdy z nich, kończenie z
 Wygląd kalendarza, motywy, święta, strefa czasowa, domyślne ustawienia wydarzeń i cała reszta w Ustawieniach.
 
 ### [6. Konto i synchronizacja](./06-account-sync.md)
-Działanie offline w pierwszej kolejności, co daje zalogowanie, przeniesienie danych utworzonych przed zalogowaniem i zarządzanie kontem.
+Działanie offline na pierwszym miejscu, co daje zalogowanie, przeniesienie danych utworzonych przed zalogowaniem i zarządzanie kontem.

@@ -18,10 +18,10 @@ Wszystko na tym ekranie pokazuje się w podglądzie na żywo, w miarę jak to zm
 
 | Ustawienie | Co robi |
 |---|---|
-| Pierwszy dzień tygodnia | Od którego dnia zaczyna się siatka |
+| Pierwszy dzień tygodnia | Od którego dnia zaczyna się kalendarz |
 | Wyróżnione dni | Kolor dla niedziel, sobót i świąt — każde przełączane osobno |
 | Podkreślenie dni z wydarzeniami | Oznacza dni, w których coś się dzieje |
-| Poziom szczegółów wydarzenia | Jak wysoki jest każdy wiersz — Minimalny, Średni albo Pełny. W wyższych wierszach zamiast kropek widać nazwy wydarzeń |
+| Poziom szczegółów wydarzenia | Ile miejsca dostaje każdy dzień — Minimalny, Średni albo Pełny. Przy większym miejscu zamiast kropek widać nazwy wydarzeń |
 | Rozmiar czcionki tekstu wydarzenia | Powiększa albo pomniejsza tekst wydarzeń |
 | Pogrubiony tekst | Cięższe nazwy wydarzeń |
 | Kolor wydarzenia | Pokazuje albo ukrywa kolorowy pasek przy każdym wydarzeniu |
@@ -39,7 +39,7 @@ Idź za systemem albo przypnij aplikację do trybu **Jasny** czy **Ciemny**, nie
 
 ### Motyw widżetu
 
-Widżety domyślnie używają motywu systemowego. Przełącz na własny kolor i wybierz dowolne tło — aplikacja sama wyliczy z jasności Twojego koloru, czy tekst ma być jasny, czy ciemny.
+Widżety domyślnie korzystają z ustawienia **Użyj motywu systemowego**. Opcja **Wybierz własny kolor** pozwala ustawić dowolne tło — aplikacja sama wyliczy z jasności tego koloru, czy tekst ma być jasny, czy ciemny.
 
 ### Odczucia
 
@@ -67,7 +67,7 @@ Tutaj też łączy się **kalendarze zewnętrzne** — zobacz [Kalendarze zewnę
 
 Wybierz swój kraj, a jego święta państwowe pojawią się w kalendarzu. Aplikacja z góry zaznacza kraj ustawiony na urządzeniu, a Ty możesz go w każdej chwili zmienić.
 
-Nie każde święto jest tym, które obchodzisz. Dowolne z nich możesz **Ukryć**, a wtedy przestaje wracać co roku; ukryte święta zbierają się na dole tego samego ekranu, żebyś mógł je później **Pokazać** z powrotem.
+Nie każde święto jest tym, które obchodzisz. Dowolne z nich ukryjesz przyciskiem **Ukryj**, a wtedy przestaje wracać co roku; ukryte święta zbierają się na dole tego samego ekranu w sekcji **Ukryte święta**, więc później przywrócisz je przyciskiem **Pokaż**.
 
 ---
 

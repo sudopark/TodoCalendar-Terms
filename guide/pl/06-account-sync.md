@@ -17,7 +17,7 @@ To nie jest tryb okrojony — tworzenie wydarzeń, reguły powtarzania, przypomn
 Zaloguj się przez **Google** albo **Apple**, a dostaniesz dodatkowo:
 
 - **Kopię zapasową** — Twoje wydarzenia mieszkają na koncie, nie tylko w tym telefonie
-- **Synchronizację między urządzeniami** — ten sam kalendarz na każdym urządzeniu iOS, na którym jesteś zalogowany
+- **Synchronizację między urządzeniami** — ten sam kalendarz na każdym urządzeniu iOS, na którym masz zalogowane konto
 - **[Szybkie wprowadzanie AI](./02-ai-input.md)** — jedyną funkcję, która wymaga konta, bo polecenie wykonuje się na serwerze
 
 ---
@@ -32,9 +32,9 @@ Nie musisz nic robić i nic po drodze nie znika.
 
 ## Utrzymywanie synchronizacji
 
-Synchronizacja chodzi sama w tle — po zmianach, gdy aplikacja wraca na wierzch, i okresowo, kiedy nie patrzysz. Po jej zakończeniu odświeżają się widżety.
+Synchronizacja chodzi sama w tle — po zmianach, gdy aplikacja wraca na wierzch, i okresowo pomiędzy nimi. Po jej zakończeniu odświeżają się widżety.
 
-Jeśli coś wygląda na nieaktualne, **Wymuś synchronizację** w ustawieniach wydarzeń wyrzuca lokalną pozycję synchronizacji i ściąga wszystko od nowa.
+Jeśli coś wygląda na nieaktualne, **Wymuś synchronizację** w ustawieniach wydarzeń czyści to, co aplikacja już zsynchronizowała, i pobiera wszystko od nowa.
 
 Tam, gdzie to samo wydarzenie zmieniło się w dwóch miejscach, wygrywa wersja z serwera.
 
