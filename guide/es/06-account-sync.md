@@ -6,9 +6,9 @@
 
 ## No necesitas una cuenta
 
-To-do Calendar funciona **sin conexión primero**. Cada evento que creas se escribe antes que nada en tu dispositivo, así que la app abre al instante, funciona en un avión y nunca te deja parado esperando a la red.
+To-do Calendar funciona **sin conexión primero**. Cada evento que creas se escribe antes que nada en tu dispositivo, así que la app abre al instante, funciona en un avión y nunca te hace esperar a la red.
 
-Eso no es un modo recortado — crear eventos, reglas de repetición, recordatorios, tipos de evento, días festivos, widgets y calendarios externos funciona todo sin ninguna cuenta. No hay nada guardado detrás de un muro de registro.
+Eso no es un modo recortado — crear eventos, reglas de repetición, recordatorios, tipos de evento, días festivos, widgets y calendarios externos funciona todo sin ninguna cuenta. No hay nada bloqueado hasta que te registres.
 
 ---
 
@@ -32,9 +32,9 @@ No tienes que hacer nada, y por el camino no se elimina nada.
 
 ## Mantener la sincronización
 
-La sincronización va sola en segundo plano — después de los cambios, cuando la app vuelve a primer plano, y de vez en cuando mientras no estás mirando. Los widgets se refrescan cuando termina.
+La sincronización va sola en segundo plano — después de los cambios, cuando la app vuelve a primer plano, y a intervalos entre medias. Los widgets se refrescan cuando termina.
 
-Si algo parece desactualizado, **Forzar sincronización**, en los ajustes de eventos, descarta la posición de sincronización local y vuelve a bajarlo todo desde cero.
+Si algo parece desactualizado, **Forzar sincronización**, en los ajustes de eventos, borra lo que la app ya tenía sincronizado y vuelve a descargarlo todo desde cero.
 
 Cuando el mismo evento se cambió en dos sitios, gana la versión del servidor.
 

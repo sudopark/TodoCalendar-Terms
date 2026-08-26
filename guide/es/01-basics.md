@@ -10,17 +10,17 @@
 
 La cuadrícula del mes es la pantalla principal. Desliza a izquierda y derecha para cambiar de mes, y toca un día para abrir debajo su lista de eventos.
 
-- Cada día muestra una barra de color por evento, y un indicador **+N** cuando hay más de los que caben.
+- Cada día muestra una barra de color por evento, y un **+N** cuando el día tiene más eventos de los que caben en la fila.
 - La lista del día va en este orden: tareas sin hora → tareas con hora → eventos de calendario → días festivos → eventos de calendarios externos.
 - Toca la cabecera para saltar a cualquier fecha, o usa **Mover fecha** para elegirla directamente.
 
-Lo densa que sea la cuadrícula — la altura de las filas, el tamaño del texto de los eventos, el texto en negrita, las barras de color, los nombres de los días festivos, el calendario lunar — se puede cambiar entero. Consulta [Personalización](./05-personalization.md).
+Cuánto muestra cada día lo decides tú: el nivel de detalle de cada evento, el tamaño del texto, los colores, los nombres de los días festivos y el calendario lunar. [Personalización](./05-personalization.md) repasa cada ajuste por su nombre.
 
 ---
 
 ## Tareas y eventos de calendario
 
-La app tiene dos tipos de eventos, y la diferencia está en si la cosa se puede *completar*.
+La app tiene dos tipos de evento, y la diferencia está en si es algo que marcas como hecho.
 
 | | Tarea | Evento de calendario |
 |---|---|---|
@@ -30,19 +30,19 @@ La app tiene dos tipos de eventos, y la diferencia está en si la cosa se puede 
 
 Una **tarea sin hora** es para algo que necesitas hacer pronto pero que aún no has programado. Se queda arriba del todo en el calendario y en el widget Lista de tareas actuales hasta que la completas.
 
-Puedes convertir en cualquier dirección y en cualquier momento — **Convertir en evento de calendario** / **Convertir en tarea**, desde el menú de más opciones del evento. Convertir una tarea en un evento de calendario necesita una hora.
+Puedes convertir en cualquier dirección y en cualquier momento — **Convertir en evento de calendario** / **Convertir en tarea**, desde el menú de más opciones del evento. Solo al convertir una tarea en un evento de calendario hace falta una hora.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/event-detail.png" alt="Detalle del evento" width="280">
 
-Todos los eventos pueden llevar una **Ubicación** (con vista previa del mapa y apertura con un toque en tu app de mapas preferida), un enlace con **Vista previa de URL** y una **Nota**.
+Todos los eventos pueden llevar una **Ubicación**, un **Enlace** y una **Nota**. La ubicación trae vista previa del mapa y se abre con un toque en tu app de mapas preferida; el enlace trae su propia vista previa.
 
 ---
 
 ## Agregar eventos
 
-Tres formas de entrar, según cuánto quieras escribir:
+Tres formas de agregar un evento, según cuánto quieras escribir:
 
-- **Agregado rápido** — el campo de entrada al final de la lista del día. Escribe un nombre, pulsa intro y ya tienes una tarea.
+- **Agregado rápido** — el campo de entrada al final de la lista del día. Escribe un nombre, pulsa intro y la tarea queda creada.
 - **Detalle completo** — toca **+** para abrir el editor con hora, repetición, recordatorios, tipo de evento, ubicación, enlace y nota.
 - **Entrada rápida con IA** — descríbelo en lenguaje natural y deja que la app construya el evento. Consulta [Entrada rápida con IA](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Una tarea solo necesita un nombre. Un evento de calendario necesita un nombre y 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/repeat-options.png" alt="Opciones de repetición" width="240">
 
-En lugar de pedirte que montes una regla a base de desplegables, la app lee la fecha que elegiste y te ofrece opciones ya hechas para ella. Elige un jueves y la lista dirá literalmente **Cada jueves** y **El tercer jueves de cada mes**.
+En lugar de hacerte montar una regla de repetición a base de desplegables, la app lee la fecha que elegiste y te ofrece opciones ya hechas para ella. Elige un jueves y la lista te ofrece **Cada jueves** y **El tercer jueves de cada mes**.
 
 **Intervalos habituales**
 
@@ -68,22 +68,22 @@ En lugar de pedirte que montes una regla a base de desplegables, la app lee la f
 
 - Cada día laborable — de lunes a viernes. Se ofrece cuando el evento empieza en un día laborable
 - Todos los días de la última semana de cada mes
-- El primer / segundo / tercer / cuarto / último *día de la semana* de cada mes — para cosas como "el último viernes del mes"
+- El primer / segundo / tercer / cuarto / último **jueves** de cada mes — el día de la semana se rellena a partir de la fecha que elegiste, así que un evento en viernes ofrece **El último viernes de cada mes**
 
 **Fin de la repetición**
 
-Una vez que eliges una repetición, decide cómo termina: **Nunca**, **El** (una fecha concreta) o **Después de** un número de repeticiones.
+Elegida la repetición, decides también cuándo para: **Nunca** para que siga siempre, **El** para fijar la fecha en que acaba, o **Después de** un número de **repeticiones**.
 
 Las tareas repetidas se comportan de forma distinta a los eventos de calendario repetidos:
 
-- Una repetición sin completar sigue visible en el calendario de hoy aunque pase su hora — no salta a la siguiente en silencio.
-- Al completarla, esa repetición se archiva en las tareas completadas y se crea la siguiente.
+- Una repetición sin completar sigue visible en el calendario de hoy aunque pase su hora — no pasa por su cuenta a la siguiente.
+- Al completarla, esa repetición pasa a las tareas completadas y se crea la siguiente.
 - **Omitir esta tarea** te lleva a la siguiente repetición sin marcarla como hecha.
 - Cuando la repetición tiene una condición de fin y no hay una siguiente, la serie termina.
 
 Cuando editas o eliminas una repetición de un evento repetido, eliges el alcance: **Solo esta vez**, **Desde este momento** o **Todos los eventos**.
 
-En los eventos de un calendario externo conectado no se ofrece la opción lunar — ese calendario no tiene forma de expresarla.
+En los eventos de un calendario externo conectado no se ofrece la opción lunar — los calendarios externos no tienen dónde guardar una regla de repetición lunar.
 
 ---
 
@@ -109,7 +109,7 @@ Pon todos los recordatorios que necesites en cada evento.
 - **Eventos de todo el día** — a las 9:00 a. m. o al mediodía de ese día, o a las 9:00 a. m. 1 / 2 / 7 días antes.
 - **Personalizado** — elige el momento que quieras.
 
-Los valores predeterminados para los eventos con hora y los de todo el día se definen por separado en Ajustes, así que los eventos nuevos ya vienen preparados. Los recordatorios necesitan el permiso de notificaciones; si está desactivado, la app te lleva a los Ajustes de iOS.
+Los valores predeterminados para los eventos con hora y los de todo el día se definen por separado en Ajustes, así que los eventos nuevos ya vienen con sus recordatorios puestos. Los recordatorios necesitan el permiso de notificaciones; si está desactivado, la app te lleva a los Ajustes de iOS.
 
 ---
 
@@ -123,7 +123,7 @@ Las tareas y los eventos de calendario que no se repiten se pueden marcar como p
 
 ## Tareas pendientes
 
-Las tareas cuya hora ya pasó sin haberlas completado se recogen en una sección **Tareas pendientes** arriba del calendario, para que algo que se te ha escapado no se pierda de vista en la semana pasada.
+Las tareas cuya hora ya pasó sin haberlas completado se recogen en una sección **Tareas pendientes** arriba del calendario, para que una tarea que se te escapó no se quede enterrada en una fecha ya pasada.
 
 Las tareas sin hora y las futuras no cuentan como pendientes — simplemente aún no han vencido. Puedes ocultar la sección entera en Ajustes si prefieres no verla.
 
@@ -136,7 +136,7 @@ Las tareas sin hora y las futuras no cuentan como pendientes — simplemente aú
 Todo lo que marcas se guarda, agrupado por cuándo lo terminaste — hoy, ayer, este mes, y después por mes y año.
 
 - Deshaz una finalización para recuperar la tarea.
-- Limpia en bloque: **Todas las tareas completadas**, o solo las **Más antiguas de** 1 mes / 3 meses / 6 meses / 1 año.
+- Limpia en bloque: **Todas las tareas completadas**, o solo las **Más antiguas de 1 mes / 3 meses / 6 meses / 1 año**.
 
 ---
 

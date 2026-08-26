@@ -39,12 +39,12 @@ Sigue al sistema, o fija la app en **Claro** u **Oscuro** independientemente de 
 
 ### Tema del widget
 
-Los widgets usan el tema del sistema por defecto. Cambia a un color personalizado y elige el fondo que quieras — la app deduce si el texto debe ser claro u oscuro según lo brillante que sea tu color.
+Por defecto los widgets están en **Usar tema del sistema**. Cambia a **Seleccionar color personalizado** y elige el fondo que quieras — la app deduce si el texto debe ser claro u oscuro según lo brillante que sea tu color.
 
 ### Sensación
 
-- **Retroalimentación háptica** — pequeños toques mientras interactúas
-- **Minimizar efectos de animación** — reduce el movimiento para una app más tranquila y con sensación de más rapidez
+- **Retroalimentación háptica** — pequeños toques mientras usas la app
+- **Minimizar efectos de animación** — reduce el movimiento para que la app se sienta más tranquila y más rápida
 
 ---
 
