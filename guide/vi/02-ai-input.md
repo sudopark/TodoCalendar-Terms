@@ -4,7 +4,7 @@
 
 ---
 
-Hãy mô tả điều bạn muốn bằng ngôn ngữ thường ngày và ứng dụng sẽ dựng nó giúp bạn — "ăn trưa với Sara thứ Sáu lúc 12 giờ", "dời lịch nha sĩ sang thứ Ba tuần sau", "đánh dấu đã giặt đồ xong". Không biểu mẫu, không phải xoay bánh xe chọn ngày.
+Hãy mô tả điều bạn muốn bằng ngôn ngữ thường ngày và ứng dụng sẽ dựng nó giúp bạn — "ăn trưa với Sara thứ Sáu lúc 12 giờ", "dời lịch nha sĩ sang thứ Ba tuần sau", "đánh dấu đã giặt đồ xong". Không biểu mẫu, không bộ chọn ngày.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/ai-input.png" alt="Nhập nhanh AI" width="280">
 
@@ -43,7 +43,7 @@ Hãy nói **"Thêm bằng AI trong To-do Calendar"** — hoặc "Thêm lịch tr
 
 ### Nút Hành động
 
-Gán nút Hành động cho phím tắt **Thêm bằng AI**. Bấm một lần, nói điều cần nói, xong — ứng dụng thậm chí không cần hiện ra.
+Gán nút Hành động cho phím tắt **Thêm bằng AI**. Bấm một lần, nói ra thứ cần thêm, thế là gửi đi — ứng dụng không cần mở ra.
 
 ### Tiện ích và Trung tâm điều khiển
 
@@ -67,15 +67,15 @@ Yêu cầu từ bảng chia sẻ cũng chạy ở chế độ nền. Bạn sẽ 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/ai-result.png" alt="Kết quả AI" width="280">
 
-Mỗi lần chỉ có một yêu cầu được chạy. Nếu bạn gửi thêm một yêu cầu trong khi yêu cầu trước còn đang chờ bạn phê duyệt, ứng dụng sẽ nhắc bạn xử lý cái trước đã.
+Mỗi lần chỉ có một yêu cầu được chạy. Nếu bạn gửi thêm một yêu cầu trong khi yêu cầu trước còn đang chờ bạn phê duyệt, ứng dụng sẽ nhắc bạn xem lại yêu cầu đang chờ trước đã.
 
 ---
 
-## Tín dụng
+## Credit
 
-Các yêu cầu AI dùng **hạn mức hằng ngày, được đặt lại mỗi ngày**. Phần còn lại hiển thị ở đầu màn hình nhập AI, nên bạn luôn biết mình còn bao nhiêu trước khi gửi.
+Mỗi yêu cầu AI tiêu một ít **credit**, và credit được nạp lại mỗi ngày. Số credit còn lại hiện ở đầu màn hình nhập AI, nên bạn biết mình còn bao nhiêu trước khi gửi.
 
-Nếu hạn mức cạn, nhập nhanh AI tạm nghỉ cho tới lần đặt lại kế tiếp. Mọi thứ khác trong ứng dụng vẫn chạy bình thường.
+Dùng hết thì nhập nhanh AI chờ tới đợt nạp của ngày hôm sau. Mọi thứ khác trong ứng dụng vẫn chạy bình thường.
 
 ---
 

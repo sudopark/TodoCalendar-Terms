@@ -4,7 +4,7 @@
 
 ---
 
-Lý do tồn tại của một tiện ích lịch là để bạn khỏi phải mở lịch. To-do Calendar mang tới một bộ tiện ích rộng, đủ để bạn chọn đúng cái hợp với cách mình thật sự kiểm tra một ngày — một sự kiện kế tiếp duy nhất, cả một tháng, hay danh sách việc cần làm với ô đánh dấu chạm được.
+Tiện ích có mặt để bạn khỏi phải mở ứng dụng chỉ vì muốn xem việc kế tiếp. To-do Calendar mang tới một bộ tiện ích rộng, đủ để bạn chọn đúng cái hợp với cách mình thật sự kiểm tra một ngày — một sự kiện kế tiếp duy nhất, cả một tháng, hay danh sách việc cần làm với ô đánh dấu chạm được.
 
 ---
 
@@ -14,7 +14,7 @@ Lý do tồn tại của một tiện ích lịch là để bạn khỏi phải 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-today-and-next.png" alt="Tiện ích Hôm nay và sắp tới" width="360">
 
-Bên trái là ngày hôm nay cùng những gì còn lại của hôm nay, bên phải là những gì sắp tới. Đây là cách gói gọn nhất câu hỏi "giờ làm gì, rồi tới gì".
+Bên trái là ngày hôm nay cùng những gì còn lại của hôm nay, bên phải là những gì sắp tới. Không tiện ích nào khác cho xem nhiều đến vậy trong một lần.
 
 *Vừa.*
 
@@ -46,7 +46,7 @@ Sự kiện duy nhất bạn đã ghim là quan trọng nhất, luôn nằm tron
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-month.png" alt="Tiện ích lịch" width="360">
 
-Chính lưới lịch, trong khoảng bạn muốn:
+Chính cuốn lịch, trong khoảng bạn muốn:
 
 | Tiện ích | Cỡ |
 |---|---|
@@ -61,8 +61,8 @@ Hai khung trong một tiện ích, khi một khung là chưa đủ:
 
 | Tiện ích | Hiển thị | Cỡ |
 |---|---|---|
-| HÔM NAY + Lịch | Tóm tắt hôm nay bên cạnh lưới tháng | Vừa |
-| Sự kiện + Lịch | Sự kiện sắp tới bên cạnh lưới tháng | Vừa |
+| HÔM NAY + Lịch | Tóm tắt hôm nay bên cạnh lịch tháng | Vừa |
+| Sự kiện + Lịch | Sự kiện sắp tới bên cạnh lịch tháng | Vừa |
 | Sự kiện + Quan trọng nhất | Sự kiện sắp tới bên cạnh sự kiện bạn đã ghim | Vừa |
 | Lịch + Lịch | Hai tháng nằm cạnh nhau | Vừa |
 
@@ -90,7 +90,7 @@ Nhiều tiện ích có dạng dành cho Màn hình khóa: **Sự kiện tiếp 
 
 ### Đếm ngược bằng Hoạt động trực tiếp
 
-Đặt một sự kiện lên Màn hình khóa và nhìn thời gian tới nó đếm ngược dần, với cùng khung hiển thị đó trong Dynamic Island. Hãy chọn **Hiển thị trên màn hình khóa** trong menu tùy chọn của sự kiện.
+Đặt một sự kiện lên Màn hình khóa và nhìn nó đếm ngược, với cùng khung hiển thị đó trong Dynamic Island. Hãy chọn **Hiển thị trên màn hình khóa** trong menu tùy chọn của sự kiện.
 
 - Chỉ dùng được với sự kiện bắt đầu trong vòng 8 giờ tới.
 - Mỗi lần một sự kiện — chọn sự kiện mới thì ứng dụng hỏi bạn có thay cho cái hiện tại không.

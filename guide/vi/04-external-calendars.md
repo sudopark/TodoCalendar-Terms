@@ -4,7 +4,7 @@
 
 ---
 
-Nếu các buổi họp công việc của bạn nằm trong Google Calendar còn lịch chung của gia đình nằm trên iPhone, bạn không nên phải mở ba ứng dụng chỉ để biết thứ Năm của mình trông ra sao. Hãy kết nối chúng lại và chúng sẽ hiện trên cùng một lưới với việc cần làm và lịch trình của riêng bạn.
+Nếu các buổi họp công việc của bạn nằm trong Google Calendar còn lịch chung của gia đình nằm trên iPhone, bạn không nên phải mở ba ứng dụng chỉ để biết thứ Năm của mình trông ra sao. Hãy kết nối chúng lại và chúng sẽ hiện trên cùng cuốn lịch với việc cần làm và lịch trình của riêng bạn.
 
 Kết nối tại **Cài đặt › Cài đặt sự kiện và lịch bên ngoài › Lịch bên ngoài**.
 
@@ -31,21 +31,21 @@ Chạm **Kết nối** bên cạnh Google Calendar rồi đăng nhập. Bạn c�
 
 ### Chọn thứ được hiển thị
 
-Kết nối một tài khoản không có nghĩa là đổ hết mọi lịch lên lưới của bạn. Ứng dụng đi theo những gì bạn đã chọn sẵn trong chính Google Calendar, còn lại thì bắt đầu ở trạng thái ẩn. Bạn bật tắt từng lịch trong danh sách loại sự kiện — chúng nằm trong mục **Google Calendar** riêng, ngay cạnh các loại sự kiện của bạn.
+Kết nối một tài khoản không có nghĩa là mọi lịch lập tức hiện hết lên lịch của bạn. Ứng dụng đi theo những gì bạn đã chọn sẵn trong chính Google Calendar, còn lại thì bắt đầu ở trạng thái ẩn. Bạn bật tắt từng lịch trong danh sách loại sự kiện — chúng nằm trong mục **Google Calendar** riêng, ngay cạnh các loại sự kiện của bạn.
 
 Mỗi lịch giữ nguyên màu nó có bên Google, nên lịch công việc ở đây trông giống hệt như ở bên đó.
 
 ### Làm việc với sự kiện Google
 
-Chạm một sự kiện Google là bạn thấy toàn cảnh: người tham dự và người tổ chức, liên kết cuộc họp cùng các mã truy cập (chạm một lần để sao chép), tệp đính kèm, và trạng thái sự kiện là đã xác nhận, còn tạm hay đã bị hủy.
+Chạm một sự kiện Google là bạn thấy đủ mọi thứ trên đó: người tham dự và người tổ chức, liên kết cuộc họp cùng các mã truy cập (chạm một lần để sao chép), tệp đính kèm, và trạng thái sự kiện là đã xác nhận, còn tạm hay đã bị hủy.
 
 Bạn chỉnh sửa được ngay tại đó — kể cả việc chọn thay đổi chỉ áp dụng cho một lần hay cho cả chuỗi lặp lại — hoặc mở nó trong Google Calendar để sửa.
 
-Có vài thứ nằm ngoài tầm tay bạn, và ứng dụng nói rõ điều đó thay vì lặng lẽ thất bại:
+Có vài thứ không sửa được từ đây, và ứng dụng nói rõ lý do thay vì chỉ báo lỗi:
 
 - **Lịch chỉ đọc** (lịch bạn đăng ký theo dõi, lịch người khác chia sẻ) thì xem được nhưng không chỉnh sửa được.
 - **Những mục do Google quản lý** vẫn hiện giá trị nhưng không đổi được ở đây.
-- **Mô tả có định dạng** sẽ cảnh báo trước khi bạn sửa, vì sửa ở đây sẽ làm mất định dạng.
+- **Mô tả có định dạng** — ứng dụng cảnh báo trước khi bạn sửa, vì sửa ở đây sẽ làm mất định dạng.
 - Nếu lần đăng nhập của bạn chưa mang theo quyền chỉnh sửa, ứng dụng sẽ nhờ bạn đăng nhập lại tài khoản Google đó.
 
 ### Ngắt kết nối

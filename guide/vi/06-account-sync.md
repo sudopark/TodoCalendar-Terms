@@ -6,9 +6,9 @@
 
 ## Bạn không cần tài khoản
 
-To-do Calendar **ưu tiên ngoại tuyến**. Mọi sự kiện bạn tạo đều được ghi xuống thiết bị trước, nên ứng dụng mở ra tức thì, chạy được trên máy bay và không bao giờ bắt bạn chờ một lần gọi mạng.
+To-do Calendar **ưu tiên ngoại tuyến**. Mọi sự kiện bạn tạo đều được ghi xuống thiết bị trước, nên ứng dụng mở ra tức thì, chạy được trên máy bay và không bao giờ bắt bạn chờ mạng.
 
-Đó không phải là một chế độ bị cắt bớt — tạo sự kiện, quy tắc lặp lại, nhắc nhở, loại sự kiện, ngày lễ, tiện ích và lịch bên ngoài đều hoạt động mà không cần tài khoản nào cả. Không có gì bị giữ lại phía sau một bức tường đăng ký.
+Đó không phải là một chế độ bị cắt bớt — tạo sự kiện, quy tắc lặp lại, nhắc nhở, loại sự kiện, ngày lễ, tiện ích và lịch bên ngoài đều hoạt động mà không cần tài khoản nào cả. Không có tính năng nào bị khóa cho tới khi bạn đăng ký.
 
 ---
 
@@ -32,9 +32,9 @@ Bạn không phải làm gì cả, và cũng không có gì bị xóa dọc đư
 
 ## Giữ cho mọi thứ đồng bộ
 
-Đồng bộ tự chạy ở chế độ nền — sau khi có thay đổi, khi ứng dụng quay lại tiền cảnh, và định kỳ ngay cả lúc bạn không để ý. Xong việc thì tiện ích cũng làm mới theo.
+Đồng bộ tự chạy ở chế độ nền — sau khi có thay đổi, khi ứng dụng quay lại tiền cảnh, và định kỳ giữa những lần đó. Xong việc thì tiện ích cũng làm mới theo.
 
-Nếu có gì đó trông cũ kỹ, **Đồng bộ ngay** trong cài đặt sự kiện sẽ vứt bỏ mốc đồng bộ cục bộ và tải lại toàn bộ từ đầu.
+Nếu có gì đó trông cũ kỹ, **Đồng bộ ngay** trong cài đặt sự kiện sẽ xóa những gì ứng dụng đã đồng bộ rồi tải lại toàn bộ từ đầu.
 
 Khi cùng một sự kiện bị thay đổi ở hai nơi, bản trên máy chủ được ưu tiên.
 
