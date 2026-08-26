@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/calendar.png" alt="Kalender" width="280">
 
-Het maandraster is het startscherm. Veeg naar links en rechts om van maand te wisselen, en tik op een dag om eronder de lijst met gebeurtenissen van die dag te openen.
+De maandkalender is het startscherm. Veeg naar links en rechts om van maand te wisselen, en tik op een dag om eronder de lijst met gebeurtenissen van die dag te openen.
 
-- Elke dag toont een gekleurde balk per gebeurtenis, plus een **+N** als er meer zijn dan er passen.
+- Elke dag toont een gekleurde balk per gebeurtenis, plus een **+N** als de dag meer gebeurtenissen heeft dan de rij kan tonen.
 - De daglijst staat in deze volgorde: taken zonder tijd → taken met tijd → afspraken → feestdagen → gebeurtenissen uit externe agenda's.
 - Tik op de kop om naar een willekeurige datum te springen, of kies er direct een met **Datum verplaatsen**.
 
-Hoe dicht het raster is — rijhoogte, lettergrootte van gebeurtenistekst, vetgedrukte tekst, kleurbalken, namen van feestdagen, de maankalender — is allemaal instelbaar. Zie [Personalisatie](./05-personalization.md).
+Hoeveel elke dag laat zien, bepaal je zelf: hoeveel detail per gebeurtenis, de tekstgrootte, de kleuren, de namen van feestdagen en de maankalender. [Personalisatie](./05-personalization.md) loopt elke instelling bij naam langs.
 
 ---
 
 ## Taken en afspraken
 
-De app kent twee soorten gebeurtenissen, en het verschil zit in of iets *voltooid* kan worden.
+De app kent twee soorten gebeurtenissen, en het verschil zit in of je het afvinkt als het klaar is.
 
 | | Taak | Afspraak |
 |---|---|---|
@@ -34,15 +34,15 @@ Je kunt op elk moment beide kanten op omzetten — **Omzetten naar afspraak** / 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/event-detail.png" alt="Gebeurtenisdetails" width="280">
 
-Elke gebeurtenis kan een **Locatie** dragen (met kaartvoorbeeld en met één tik openen in je favoriete kaarten-app), een **Link** met voorbeeld, en een **Notitie**.
+Elke gebeurtenis kan een **Locatie**, een **Link** en een **Notitie** dragen. De locatie toont een kaartvoorbeeld en opent met één tik in je favoriete kaarten-app; de link heeft een eigen voorbeeld.
 
 ---
 
 ## Gebeurtenissen toevoegen
 
-Er zijn drie ingangen, afhankelijk van hoeveel je wilt typen:
+Er zijn drie manieren om een gebeurtenis toe te voegen, afhankelijk van hoeveel je wilt typen:
 
-- **Snel toevoegen** — het invoerveld onder aan de daglijst. Typ een naam, druk op return, en je hebt een taak.
+- **Snel toevoegen** — het invoerveld onder aan de daglijst. Typ een naam, druk op return, en de taak is aangemaakt.
 - **Volledige details** — tik op **+** om de editor te openen met tijd, herhaling, meldingen, gebeurtenistype, locatie, link en notitie.
 - **AI-snelinvoer** — beschrijf het in gewone taal en laat de app de gebeurtenis bouwen. Zie [AI-snelinvoer](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Een taak heeft alleen een naam nodig. Een afspraak heeft een naam en een tijdsti
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/repeat-options.png" alt="Herhaalopties" width="240">
 
-In plaats van je een regel uit dropdowns te laten samenstellen, leest de app de datum die je koos en biedt daar kant-en-klare opties bij aan. Kies een donderdag en de lijst zegt letterlijk **Elke donderdag** en **De derde donderdag van elke maand**.
+In plaats van je een herhaalregel uit keuzemenu's te laten samenstellen, leest de app de datum die je koos en biedt daar kant-en-klare opties bij aan. Kies een donderdag en de lijst biedt je **Elke donderdag** en **De derde donderdag van elke maand**.
 
 **Gebruikelijke intervallen**
 
@@ -68,22 +68,22 @@ In plaats van je een regel uit dropdowns te laten samenstellen, leest de app de 
 
 - Elke werkdag — maandag tot en met vrijdag. Wordt aangeboden als de gebeurtenis op een werkdag begint
 - Alle dagen van de laatste week van elke maand
-- De eerste / tweede / derde / vierde / laatste *dag van de week* van elke maand — voor dingen als "de laatste vrijdag van de maand"
+- De eerste / tweede / derde / vierde / laatste **donderdag** van elke maand — de dag van de week wordt ingevuld vanuit de datum die je koos, dus een gebeurtenis op vrijdag biedt **De laatste vrijdag van elke maand**
 
 **Einde van de herhaling**
 
-Zodra je een herhaling kiest, bepaal je hoe die stopt: **Nooit**, **Op** een bepaalde datum, of **Na** een aantal keer.
+Zodra je een herhaling kiest, bepaal je wanneer die stopt: **Nooit** om hem onbeperkt door te laten lopen, **Op** voor een vaste einddatum, of **Na** een aantal **keer**.
 
 Herhalende taken gedragen zich anders dan herhalende afspraken:
 
-- Een niet-voltooide herhaling blijft zichtbaar op de kalender van vandaag, ook nadat het tijdstip voorbij is — hij schuift niet stilletjes door.
+- Een niet-voltooide herhaling blijft zichtbaar op de kalender van vandaag, ook nadat het tijdstip voorbij is — hij gaat niet uit zichzelf door naar de volgende keer.
 - Voltooi je hem, dan gaat die keer naar Voltooide taken en wordt de volgende aangemaakt.
 - **Deze taak overslaan** brengt je naar de volgende keer zonder hem als voltooid te markeren.
 - Heeft de herhaling een einde en is er geen volgende keer meer, dan stopt de reeks.
 
 Als je één keer van een herhalende gebeurtenis bewerkt of verwijdert, kies je het bereik: **Alleen deze keer**, **Vanaf nu**, of **Alle gebeurtenissen**.
 
-Voor gebeurtenissen in een gekoppelde externe agenda wordt de maankalender-optie niet aangeboden — die agenda kan zoiets niet uitdrukken.
+Voor gebeurtenissen in een gekoppelde externe agenda wordt de maankalender-optie niet aangeboden — externe agenda's hebben geen plek om een maankalender-herhaalregel op te slaan.
 
 ---
 
@@ -109,7 +109,7 @@ Stel per gebeurtenis zoveel meldingen in als je nodig hebt.
 - **Gebeurtenissen van de hele dag** — om 9.00 of 12.00 uur die dag, of om 9.00 uur 1 / 2 / 7 dagen van tevoren.
 - **Aangepast** — kies zelf welk moment je wilt.
 
-De standaardwaarden voor gebeurtenissen met tijd en voor de hele dag stel je apart in bij Instellingen, zodat nieuwe gebeurtenissen meteen goed staan. Meldingen hebben meldingstoestemming nodig; staat die uit, dan wijst de app je naar de instellingen van iOS.
+De standaardwaarden voor gebeurtenissen met tijd en voor de hele dag stel je apart in bij Instellingen, zodat nieuwe gebeurtenissen hun meldingen al hebben staan. Meldingen hebben meldingstoestemming nodig; staat die uit, dan wijst de app je naar de instellingen van iOS.
 
 ---
 
@@ -123,7 +123,7 @@ Taken en niet-herhalende afspraken kun je als belangrijkste instellen. Herhalend
 
 ## Onvoltooide taken
 
-Taken waarvan het tijdstip al voorbij is zonder dat ze voltooid zijn, worden verzameld in het onderdeel **Onvoltooide taken** boven aan de kalender. Zo schuift iets wat je gemist hebt niet naar vorige week uit beeld.
+Taken waarvan het tijdstip al voorbij is zonder dat ze voltooid zijn, worden verzameld in het onderdeel **Onvoltooide taken** boven aan de kalender. Zo blijft een gemiste taak niet achter op een datum die al voorbij is.
 
 Taken zonder tijd en toekomstige taken tellen niet als onvoltooid — die zijn simpelweg nog niet aan de beurt. Zie je dit onderdeel liever niet, dan kun je het helemaal verbergen bij Instellingen.
 

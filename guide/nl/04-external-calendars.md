@@ -4,7 +4,7 @@
 
 ---
 
-Als je werkvergaderingen in Google Calendar staan en de gedeelde agenda van je gezin op je iPhone, zou je geen drie apps nodig moeten hebben om te weten hoe je donderdag eruitziet. Koppel ze en ze verschijnen op hetzelfde raster als je eigen taken en afspraken.
+Als je werkvergaderingen in Google Calendar staan en de gedeelde agenda van je gezin op je iPhone, zou je geen drie apps nodig moeten hebben om te weten hoe je donderdag eruitziet. Koppel ze en ze verschijnen op dezelfde kalender als je eigen taken en afspraken.
 
 Koppelen doe je bij **Instellingen › Gebeurtenisinstellingen en externe agenda's › Externe agenda's**.
 
@@ -31,7 +31,7 @@ Tik op **Verbinden** naast Google Calendar en log in. Je kunt dit herhalen voor 
 
 ### Bepalen wat er zichtbaar is
 
-Een account koppelen stort niet elke agenda op je raster. De app volgt wat je in Google Calendar zelf had geselecteerd, en de rest begint verborgen. Individuele agenda's zet je aan en uit in de lijst met gebeurtenistypen — ze staan in hun eigen onderdeel **Google Calendar**, naast je eigen gebeurtenistypen.
+Een account koppelen zet niet meteen elke agenda in beeld. De app volgt wat je in Google Calendar zelf had geselecteerd, en de rest begint verborgen. Individuele agenda's zet je aan en uit in de lijst met gebeurtenistypen — ze staan in hun eigen onderdeel **Google Calendar**, naast je eigen gebeurtenistypen.
 
 Elke agenda houdt de kleur die hij in Google heeft, dus een werkagenda ziet er hier hetzelfde uit als daar.
 
@@ -41,7 +41,7 @@ Tik op een Google-gebeurtenis en je krijgt het hele plaatje: deelnemers en wie d
 
 Je kunt hem daar meteen bewerken — inclusief de keuze of een wijziging voor **Alleen deze gebeurtenis** of voor **Alle gebeurtenissen** in de herhalingsreeks geldt — of hem in plaats daarvan in Google Calendar openen.
 
-Sommige dingen blijven buiten je bereik, en de app zegt dat in plaats van stilletjes te falen:
+Sommige dingen kun je hier niet wijzigen, en de app zegt waarom in plaats van zomaar te mislukken:
 
 - **Alleen-lezen agenda's** (een geabonneerde agenda, een gedeelde agenda van iemand anders) kun je bekijken maar niet bewerken.
 - **Velden die Google beheert** tonen hun waarde, maar kunnen hier niet worden gewijzigd.
@@ -50,7 +50,7 @@ Sommige dingen blijven buiten je bereik, en de app zegt dat in plaats van stille
 
 ### Verbinding verbreken
 
-Je kunt de verbinding op elk moment verbreken vanuit hetzelfde instellingenscherm. Je eigen gebeurtenissen blijven onaangeroerd, en er wordt niets verwijderd uit je Google-account — de agenda's verschijnen simpelweg niet meer.
+Je kunt de verbinding op elk moment verbreken met **Verbinding verbreken** in hetzelfde instellingenscherm. Je eigen gebeurtenissen blijven onaangeroerd, en er wordt niets verwijderd uit je Google-account — de agenda's verschijnen simpelweg niet meer.
 
 ---
 
