@@ -4,7 +4,7 @@
 
 ---
 
-Jika mesyuarat kerja anda hidup dalam Kalendar Google dan kalendar kongsi keluarga anda hidup pada iPhone anda, anda tidak sepatutnya perlu tiga aplikasi hanya untuk tahu rupa hari Khamis anda. Sambungkan kedua-duanya dan ia muncul pada grid yang sama dengan tugasan dan jadual anda sendiri.
+Jika mesyuarat kerja anda berada dalam Kalendar Google dan kalendar kongsi keluarga anda berada pada iPhone anda, anda tidak sepatutnya memerlukan tiga aplikasi hanya untuk tahu rupa hari Khamis anda. Sambungkan kedua-duanya dan ia muncul pada kalendar yang sama dengan tugasan dan jadual anda sendiri.
 
 Sambungkan daripada **Tetapan › Tetapan acara dan kalendar luaran › Kalendar luaran**.
 
@@ -31,7 +31,7 @@ Ketik **Sambungkan** di sebelah Kalendar Google dan log masuk. Anda boleh mengul
 
 ### Memilih apa yang dipaparkan
 
-Menyambungkan akaun tidak menumpahkan setiap kalendar ke grid anda. Aplikasi mengikut apa yang telah anda pilih dalam Kalendar Google itu sendiri, dan selebihnya bermula dalam keadaan tersembunyi. Hidupkan dan matikan kalendar satu per satu dalam senarai jenis acara — ia duduk dalam bahagian **Kalendar Google** tersendiri, di sebelah jenis acara anda sendiri.
+Menyambungkan akaun tidak bermakna setiap kalendar terus muncul pada kalendar anda. Aplikasi mengikut apa yang telah anda pilih dalam Kalendar Google itu sendiri, dan selebihnya bermula dalam keadaan tersembunyi. Hidupkan dan matikan kalendar satu per satu dalam senarai jenis acara — ia duduk dalam bahagian **Kalendar Google** tersendiri, di sebelah jenis acara anda sendiri.
 
 Setiap kalendar mengekalkan warna yang ada padanya dalam Google, jadi kalendar kerja kelihatan sama di sini seperti di sana.
 
@@ -41,16 +41,16 @@ Ketik acara Google dan anda dapat gambaran penuh: peserta dan penganjurnya, paut
 
 Anda boleh mengeditnya terus di situ — termasuk memilih sama ada perubahan itu terpakai pada satu pusingan atau keseluruhan siri berulang — atau membukanya dalam Kalendar Google sebagai gantinya.
 
-Ada perkara yang kekal di luar kawalan anda, dan aplikasi memberitahunya dan bukannya gagal secara senyap:
+Ada perkara yang tidak boleh diubah dari sini, dan aplikasi memberitahu anda sebabnya dan bukannya gagal begitu sahaja:
 
 - **Kalendar baca sahaja** (kalendar yang dilanggan, kalendar kongsi orang lain) boleh dilihat tetapi tidak boleh diedit.
 - **Medan yang dimiliki Google** memaparkan nilainya tetapi tidak boleh ditukar di sini.
-- **Penerangan berformat kaya** memberi amaran kepada anda sebelum mengedit, kerana mengeditnya di sini akan membuang pemformatan itu.
+- **Penerangan berformat kaya** — aplikasi memberi amaran sebelum anda mengeditnya, kerana mengeditnya di sini akan membuang pemformatan itu.
 - Jika log masuk anda belum membawa kebenaran mengedit, aplikasi meminta anda log masuk semula ke akaun Google itu.
 
 ### Memutuskan sambungan
 
-**Putuskan Sambungan** pada bila-bila masa daripada skrin tetapan yang sama. Acara anda sendiri tidak disentuh, dan tiada apa-apa dipadam daripada akaun Google anda — kalendar itu cuma berhenti muncul.
+Ketik **Putuskan Sambungan** pada bila-bila masa daripada skrin tetapan yang sama. Acara anda sendiri tidak disentuh, dan tiada apa-apa dipadam daripada akaun Google anda — kalendar itu cuma berhenti muncul.
 
 ---
 

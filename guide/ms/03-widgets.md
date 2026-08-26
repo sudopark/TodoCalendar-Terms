@@ -4,7 +4,7 @@
 
 ---
 
-Tujuan widget kalendar ialah supaya anda tidak perlu membuka kalendar. To-do Calendar datang dengan set yang luas supaya anda boleh memilih yang sepadan dengan cara anda benar-benar menyemak hari anda — satu acara seterusnya, sebulan penuh, atau senarai tugasan anda dengan kotak semak yang boleh diketik.
+Widget ada supaya anda tidak perlu membuka aplikasi hanya untuk melihat apa yang seterusnya. To-do Calendar datang dengan set yang luas supaya anda boleh memilih yang sepadan dengan cara anda benar-benar menyemak hari anda — satu acara seterusnya, sebulan penuh, atau senarai tugasan anda dengan kotak semak yang boleh diketik.
 
 ---
 
@@ -14,7 +14,7 @@ Tujuan widget kalendar ialah supaya anda tidak perlu membuka kalendar. To-do Cal
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-today-and-next.png" alt="Widget Hari Ini dan Seterusnya" width="360">
 
-Tarikh hari ini dan apa yang tinggal untuk hari ini di sebelah kiri, apa yang datang seterusnya di sebelah kanan. Paparan tunggal paling padat tentang "apa sekarang, apa selepas ini".
+Tarikh hari ini dan apa yang tinggal untuk hari ini di sebelah kiri, apa yang datang seterusnya di sebelah kanan. Tiada widget lain memaparkan sebanyak ini sekali gus.
 
 *Sederhana.*
 
@@ -46,7 +46,7 @@ Satu acara yang anda sematkan sebagai paling penting, sentiasa kelihatan. Lihat 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-month.png" alt="Widget kalendar" width="360">
 
-Grid kalendar itu sendiri, dalam julat yang anda mahu:
+Kalendar itu sendiri, dalam julat yang anda mahu:
 
 | Widget | Saiz |
 |---|---|
@@ -61,8 +61,8 @@ Dua panel dalam satu widget, apabila satu paparan tidak mencukupi:
 
 | Widget | Memaparkan | Saiz |
 |---|---|---|
-| HARI INI + Kalendar | Ringkasan hari ini di sebelah grid bulanan | Sederhana |
-| Acara + Kalendar | Acara akan datang di sebelah grid bulanan | Sederhana |
+| HARI INI + Kalendar | Ringkasan hari ini di sebelah kalendar bulanan | Sederhana |
+| Acara + Kalendar | Acara akan datang di sebelah kalendar bulanan | Sederhana |
 | Acara + Paling Penting | Acara akan datang di sebelah acara yang anda sematkan | Sederhana |
 | Kalendar + Kalendar | Dua bulan bersebelahan | Sederhana |
 
@@ -90,10 +90,10 @@ Beberapa widget mempunyai bentuk Skrin Kunci: **Acara seterusnya** (sebaris dan 
 
 ### Kira detik Aktiviti Langsung
 
-Letakkan satu acara pada Skrin Kunci anda dan lihat masa ke acara itu mengira detik, dengan paparan yang sama dalam Dynamic Island. Pilih **Papar pada Skrin Kunci** daripada menu Lagi bagi acara itu.
+Letakkan satu acara pada Skrin Kunci anda dan lihat ia mengira detik, dengan paparan yang sama dalam Dynamic Island. Pilih **Papar pada Skrin Kunci** daripada menu Lagi bagi acara itu.
 
 - Tersedia untuk acara yang bermula dalam masa 8 jam berikutnya.
-- Satu acara pada satu masa — memilih yang baharu akan bertanya sama ada mahu menggantikan yang semasa.
+- Satu acara pada satu masa — apabila anda memilih yang baharu, aplikasi bertanya sama ada mahu menggantikan yang semasa.
 - Tugasan boleh diselesaikan terus daripada Aktiviti Langsung.
 
 ---
