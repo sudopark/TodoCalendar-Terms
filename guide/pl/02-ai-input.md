@@ -4,7 +4,7 @@
 
 ---
 
-Opisz zwykłym językiem, czego chcesz, a aplikacja to zbuduje — „obiad z Sarą w piątek w południe”, „przenieś dentystę na przyszły wtorek”, „odhacz pranie”. Bez formularzy i bez kręcenia datą na kółku.
+Opisz zwykłym językiem, czego chcesz, a aplikacja to zbuduje — „obiad z Sarą w piątek w południe”, „przenieś dentystę na przyszły wtorek”, „odhacz pranie”. Bez formularzy i bez wybieraków dat.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/ai-input.png" alt="Szybkie wprowadzanie AI" width="280">
 
@@ -43,7 +43,7 @@ Powiedz **„Dodaj z AI w To-do Calendar”** — albo „Dodaj termin w To-do C
 
 ### Przycisk Akcji
 
-Przypisz do przycisku Akcji skrót **Dodaj z AI**. Jedno naciśnięcie, wypowiedziane zdanie i gotowe — aplikacja nawet nie musi wyjść na wierzch.
+Przypisz do przycisku Akcji skrót **Dodaj z AI**. Jedno naciśnięcie, wypowiedziane zdanie i gotowe — aplikacja w ogóle się nie otwiera.
 
 ### Widżet i Centrum sterowania
 
@@ -73,9 +73,9 @@ Naraz przetwarzane jest tylko jedno polecenie. Jeśli wyślesz kolejne, gdy popr
 
 ## Kredyty
 
-Polecenia AI czerpią z **dziennej puli, która odnawia się każdego dnia**. Ile zostało, widzisz na górze ekranu wprowadzania AI, więc przed wysłaniem zawsze wiesz, na czym stoisz.
+Każde polecenie AI zużywa **kredyty**, a Twoje kredyty odnawiają się każdego dnia. Ile ich zostało, widzisz na górze ekranu wprowadzania AI, więc wiesz to jeszcze przed wysłaniem.
 
-Gdy pula się skończy, szybkie wprowadzanie AI robi przerwę do następnego odnowienia. Reszta aplikacji działa dalej.
+Gdy kredyty się skończą, szybkie wprowadzanie AI czeka na odnowienie następnego dnia. Reszta aplikacji działa dalej.
 
 ---
 
