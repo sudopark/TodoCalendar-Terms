@@ -6,9 +6,9 @@
 
 ## You don't need an account
 
-To-do Calendar is **offline-first**. Every event you create is written to your device first, so the app opens instantly, works on a plane, and never blocks you on a network call.
+To-do Calendar is **offline-first**. Every event you create is written to your device first, so the app opens instantly, works on a plane, and never makes you wait for the network.
 
-That's not a degraded mode — creating events, repeating rules, reminders, event types, holidays, widgets and external calendars all work with no account at all. Nothing is held back behind a sign-up wall.
+That's not a limited mode — creating events, repeating rules, reminders, event types, holidays, widgets and external calendars all work with no account at all. Nothing is locked until you sign up.
 
 ---
 
@@ -32,9 +32,9 @@ You don't have to do anything, and nothing is deleted along the way.
 
 ## Keeping in sync
 
-Sync runs on its own in the background — after changes, when the app comes back to the foreground, and periodically while you're not looking. Widgets refresh once it's done.
+Sync runs on its own in the background — after changes, when the app comes back to the foreground, and at intervals in between. Widgets refresh once it's done.
 
-If something looks out of date, **Force Sync** in event settings throws away the local sync position and pulls everything down again from scratch.
+If something looks out of date, **Force Sync** in event settings clears what the app has already synced and downloads everything again from scratch.
 
 Where the same event was changed in two places, the server's version wins.
 

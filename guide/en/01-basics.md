@@ -10,7 +10,7 @@
 
 The month grid is the home screen. Swipe left and right to move between months, tap a day to open its event list underneath.
 
-- Each day shows a colored bar per event, plus a **+N** indicator when there are more than fit.
+- Each day shows a colored bar per event, plus a **+N** marker when the day has more events than the row can show.
 - The day list is ordered: untimed to-dos → timed to-dos → schedules → holidays → external calendar events.
 - Tap the header to jump to any date, or use **Move date** to pick one directly.
 
@@ -20,7 +20,7 @@ How much each day shows is up to you — the amount of detail per event, text si
 
 ## To-dos and schedules
 
-The app has two kinds of events, and the difference is whether the thing can be *completed*.
+The app has two kinds of events, and the difference is whether it's something you check off.
 
 | | To-do | Schedule |
 |---|---|---|
@@ -34,15 +34,15 @@ You can convert either way at any time — **Convert to schedule** / **Convert t
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/event-detail.png" alt="Event detail" width="280">
 
-Every event can carry a **location** (with a map preview and a one-tap open in your preferred maps app), a **link** with preview, and a **memo**.
+Every event can carry a **location** — with a map preview, and one tap to open it in your preferred maps app — plus a **link** with its own preview, and a **memo**.
 
 ---
 
 ## Adding events
 
-Three ways in, depending on how much you want to type:
+Three ways to add an event, depending on how much you want to type:
 
-- **Quick add** — the input field at the bottom of the day list. Type a name, hit return, and you have a to-do.
+- **Quick add** — the input field at the bottom of the day list. Type a name, press return, and the to-do is created.
 - **Full detail** — tap **+** to open the editor with time, repeat, reminders, event type, location, link and memo.
 - **AI quick input** — describe it in plain language and let the app build the event. See [AI quick input](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ A to-do needs only a name. A schedule needs a name and a time.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/repeat-options.png" alt="Repeat options" width="240">
 
-Instead of asking you to assemble a rule out of dropdowns, the app reads the date you picked and offers ready-made options for it. Choose a Thursday and the list literally says **Every Thursday** and **The third Thursday of every month**.
+Instead of making you build a repeat rule out of dropdowns, the app reads the date you picked and offers ready-made options for it. Choose a Thursday and the list offers **Every Thursday** and **The third Thursday of every month**.
 
 **Common intervals**
 
@@ -68,7 +68,7 @@ Instead of asking you to assemble a rule out of dropdowns, the app reads the dat
 
 - Every Weekday — Monday through Friday. Offered when the event starts on a weekday
 - All days of the last week of every month
-- The first / second / third / fourth / last *weekday* of every month — for things like "the last Friday of the month"
+- The first / second / third / fourth / last *day of the week* of every month — for things like "the last Friday of the month"
 
 **Repeat Ends**
 
@@ -76,14 +76,14 @@ Once you pick a repeat, choose how it stops: **Never**, **On** a specific date, 
 
 Repeating to-dos behave differently from repeating schedules:
 
-- An uncompleted repeat stays visible on today's calendar even after its time passes — it doesn't silently roll forward.
-- Completing it files that occurrence under Completed to-dos and creates the next one.
+- An uncompleted repeat stays visible on today's calendar even after its time passes — it doesn't move on to the next occurrence by itself.
+- Completing it moves that occurrence to Completed to-dos and creates the next one.
 - **Skip this to-do** moves you to the next occurrence without marking it done.
 - When the repeat has an end condition and there is no next occurrence, the series finishes.
 
 When you edit or delete an occurrence of a repeating event, you choose the scope: **only this time**, **from this time on**, or **all events**.
 
-For events on a connected external calendar, the lunar option isn't offered — that calendar has no way to express it.
+For events on a connected external calendar, the lunar option isn't offered — external calendars have no way to store a lunar repeat rule.
 
 ---
 
@@ -109,7 +109,7 @@ Set as many reminders per event as you need.
 - **All-day events** — 9 a.m. or noon on the day, or 9 a.m. 1 / 2 / 7 days before.
 - **Custom** — pick any offset you want.
 
-Defaults for timed and all-day events are set separately in Settings, so new events come pre-armed. Reminders need notification permission; the app points you to iOS Settings if it's off.
+Defaults for timed and all-day events are set separately in Settings, so new events already have their reminders set. Reminders need notification permission; the app points you to iOS Settings if it's off.
 
 ---
 
@@ -123,7 +123,7 @@ To-dos and non-repeating schedules can be set as foremost. Repeating schedules c
 
 ## Uncompleted to-dos
 
-To-dos whose time has already passed without being completed are collected in an **Uncompleted to-dos** section at the top of the calendar, so a missed item doesn't scroll out of sight into last week.
+To-dos whose time has already passed without being completed are collected in an **Uncompleted to-dos** section at the top of the calendar, so a missed to-do doesn't stay buried on a past date.
 
 Untimed to-dos and future to-dos are not counted as uncompleted — they're simply not due yet. You can hide the section entirely in Settings if you'd rather not see it.
 

@@ -31,21 +31,21 @@ Tap **Connect** next to Google Calendar and sign in. You can repeat this for as 
 
 ### Choosing what shows up
 
-Connecting an account doesn't dump every calendar onto your grid. The app follows what you had selected in Google Calendar itself, and anything else starts hidden. Turn individual calendars on and off in the event type list — they sit in their own **Google Calendar** section, alongside your own event types.
+Connecting an account doesn't put every calendar on your grid at once. The app follows what you had selected in Google Calendar itself, and anything else starts hidden. Turn individual calendars on and off in the event type list — they sit in their own **Google Calendar** section, alongside your own event types.
 
 Each calendar keeps the color it has in Google, so a work calendar looks the same here as it does there.
 
 ### Working with a Google event
 
-Tap a Google event and you get the full picture: attendees and who organized it, the meeting link and any access codes (one tap to copy), attachments, and whether the event is confirmed, tentative or cancelled.
+Tap a Google event and you see everything on it: attendees and who organized it, the meeting link and any access codes (one tap to copy), attachments, and whether the event is confirmed, tentative or cancelled.
 
 You can edit it right there — including choosing whether a change applies to one occurrence or the whole repeating series — or open it in Google Calendar instead.
 
-Some things stay out of your hands, and the app says so rather than failing quietly:
+Some things can't be changed from here, and the app tells you why instead of just failing:
 
 - **Read-only calendars** (a subscribed calendar, someone else's shared calendar) can be viewed but not edited.
 - **Fields Google owns** show their value but can't be changed here.
-- **Rich-text descriptions** warn you before editing, since editing here drops the formatting.
+- **Rich-text descriptions** — the app warns you before you edit one, because editing here drops the formatting.
 - If your sign-in doesn't carry edit permission yet, the app asks you to sign in to that Google account again.
 
 ### Disconnecting
