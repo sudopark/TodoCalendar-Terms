@@ -4,12 +4,12 @@
 
 **Vaši zadaci i vaš raspored, u jednom kalendaru.**
 
-Većina kalendara drži samo obveze, a većina aplikacija za zadatke nema osjećaj za mjesec dana. To-do Calendar drži oboje u istoj mreži: termin stoji na danu kad se događa, a zadatak vam ostaje pred očima dok ga stvarno ne označite kao dovršen — čak i ako mu nije pridruženo vrijeme.
+Kalendar vam pokazuje termine, ali ne i ono što morate obaviti. Aplikacija za zadatke daje vam popis, ali nikad ne pokaže gdje te stvari padaju u mjesecu. To-do Calendar drži oboje u istom kalendaru: termin stoji na danu kad se događa, a zadatak vam ostaje pred očima dok ga stvarno ne označite kao dovršen — čak i ako mu nije pridruženo vrijeme.
 
 Radi u potpunosti izvan mreže i bez računa. Prijavite se samo kad želite sigurnosnu kopiju podataka i sinkronizaciju među svojim uređajima.
 
 - **Jedan kalendar, obje vrste posla** — termini i zadaci jedni uz druge, obojani vašim vlastitim tipovima događaja
-- **Zadaci koji ne nestaju** — zadaci bez vremena i oni kojima je rok prošao ostaju prikvačeni na vrhu umjesto da odu u prošlost
+- **Zadaci koji ne nestaju** — zadaci bez vremena i oni kojima je rok prošao ostaju prikvačeni na vrhu umjesto da ostanu zaboravljeni na prošlom datumu
 - **Dodavanje govorom** — opišite događaj običnim riječima kroz brzi AI unos, Siri ili gumb Radnja
 - **Pogled bez otvaranja** — širok skup widgeta za početni zaslon, zaključani zaslon i Kontrolni centar
 - **Ponesite i druge kalendare** — povežite Google kalendar i Apple kalendar pa sve vidite na jednom mjestu

@@ -33,9 +33,9 @@ Dodirnite AI gumb na zaslonu kalendara. Otvara se list za unos s dva načina rad
 
 ### Iz slike
 
-**Čitaj iz slike** pretvara sliku u događaje. **Fotografirajte** ili **odaberite iz knjižnice**; aplikacija pročita tekst s nje — raspored nastave, plakat za događaj, snimku zaslona poruke — i pokaže vam što je pronašla kako biste ispravili sve što je krivo ispalo prije slanja.
+**Čitaj iz slike** pretvara sliku u događaje. Fotografirajte ili odaberite postojeću sliku iz knjižnice; aplikacija pročita tekst s nje — raspored nastave, plakat za događaj, snimku zaslona poruke — i pokaže vam što je pronašla kako biste ispravili sve što je krivo ispalo prije slanja.
 
-Možete priložiti i **dodatne upute (neobavezno)** da usmjerite rezultat, npr. „dodaj ovo kao zadatke”. Ako na slici nema čitljivog teksta, aplikacija će vam to reći umjesto da pošalje prazan zahtjev.
+Možete priložiti i uputu koja usmjerava rezultat, npr. „dodaj ovo kao zadatke”. Ako na slici nema čitljivog teksta, aplikacija će vam to reći umjesto da pošalje prazan zahtjev.
 
 ### Siri
 
@@ -47,7 +47,7 @@ Dodijelite gumbu Radnja prečac **Dodaj pomoću AI**. Jedan pritisak, izgovorite
 
 ### Widget i Kontrolni centar
 
-- **Widget Dodaj pomoću AI** — widget za početni ili zaključani zaslon koji jednim dodirom otvara zaslon AI unosa.
+- Widget **Dodaj pomoću AI** — widget za početni ili zaključani zaslon koji jednim dodirom otvara zaslon AI unosa.
 - **Kontrolni centar** (iOS 18 i noviji) — dodajte istu kontrolu u Kontrolni centar za ulaz povlačenjem prema dolje.
 
 ### Izbornik dijeljenja
@@ -61,7 +61,7 @@ I zahtjev iz izbornika dijeljenja izvršava se u pozadini. Dobit ćete potvrdu d
 ## Kako teče zahtjev
 
 1. **Poslano** — vaš zahtjev odlazi. Ako je stigao sa Sirija, gumba Radnja ili iz izbornika dijeljenja, ne morate držati aplikaciju otvorenom.
-2. **Obrada u tijeku** — aplikacija prikazuje napredak. Zahtjev možete **Zaustaviti** dok traje, ali zaustavljanje odbacuje posao u tijeku i on se ne može nastaviti.
+2. **Obrada u tijeku** — aplikacija prikazuje napredak. Zahtjev možete **zaustaviti** dok traje, ali zaustavljanje odbacuje posao u tijeku i on se ne može nastaviti.
 3. **Potvrda, kad je potrebna** — ako bi zahtjev promijenio nešto značajno, aplikacija najprije traži vaše odobrenje i točno pokaže što namjerava učiniti. Postoji odbrojavanje; ako istekne, jednostavno pitajte ponovno.
 4. **Naredba dovršena** — rezultat odmah sleti u vaš kalendar, uz sažetak onoga što se promijenilo.
 
@@ -73,9 +73,9 @@ Odjednom se izvršava samo jedan zahtjev. Ako pošaljete drugi dok prvi još če
 
 ## Krediti
 
-AI zahtjevi troše **dnevnu količinu kredita koja se obnavlja svaki dan**. Koliko je ostalo prikazano je na vrhu zaslona AI unosa, pa uvijek znate na čemu ste prije slanja.
+Svaki AI zahtjev troši **kredite**, a krediti se obnavljaju svaki dan. Koliko ih je ostalo prikazano je na vrhu zaslona AI unosa, pa uvijek znate na čemu ste prije slanja.
 
-Ako se krediti potroše, brzi AI unos miruje do sljedećeg obnavljanja. Sve ostalo u aplikaciji nastavlja raditi.
+Kad se krediti potroše, brzi AI unos miruje do sljedećeg dnevnog obnavljanja. Sve ostalo u aplikaciji nastavlja raditi.
 
 ---
 

@@ -18,7 +18,7 @@ Sve na ovom zaslonu odmah se vidi u pregledu dok mijenjate, pa možete vidjeti k
 
 | Postavka | Što radi |
 |---|---|
-| Prvi dan u tjednu | Kojim danom mreža počinje |
+| Prvi dan u tjednu | Kojim danom kalendar počinje |
 | Istaknuti dani | Bojanje nedjelja, subota i blagdana — svaki se uključuje zasebno |
 | Podcrtavanje dana s događajima | Označava dane na kojima nešto ima |
 | Razina prikaza detalja događaja | Koliko je svaki redak visok — Minimalna, Srednja ili Puna. Viši redci prikazuju nazive događaja umjesto točkica |
@@ -39,7 +39,7 @@ Slijedite sustav ili prikvačite aplikaciju na **Svijetlu** ili **Tamnu** bez ob
 
 ### Tema widgeta
 
-Widgeti prema zadanim postavkama koriste temu sustava. Prebacite na prilagođenu boju i odaberite pozadinu kakvu želite — aplikacija iz svjetline vaše boje zaključi treba li tekst biti svijetao ili taman.
+Widgeti prema zadanim postavkama slijede temu sustava (**Koristi temu sustava**). Prebacite na **Odaberi prilagođenu boju** i odaberite pozadinu kakvu želite — aplikacija iz svjetline vaše boje zaključi treba li tekst biti svijetao ili taman.
 
 ### Osjećaj
 
@@ -67,7 +67,7 @@ Ovdje se povezuju i **vanjski kalendari** — pogledajte [Vanjske kalendare](./0
 
 Odaberite svoju državu i njezini državni blagdani pojavit će se u kalendaru. Aplikacija unaprijed odabere državu na koju je postavljen vaš uređaj, a vi je možete promijeniti kad god želite.
 
-Nije svaki blagdan onaj koji obilježavate. Bilo koji od njih možete **Sakriti** i prestaje se pojavljivati svake godine; skriveni su navedeni pod **Skriveni blagdani** na dnu istog zaslona, pa ih s **Prikaži** možete kasnije vratiti.
+Nije svaki blagdan onaj koji obilježavate. Bilo koji od njih možete sakriti gumbom **Sakrij** i prestaje se pojavljivati svake godine; skriveni su navedeni pod **Skriveni blagdani** na dnu istog zaslona, pa ih gumbom **Prikaži** možete kasnije vratiti.
 
 ---
 
