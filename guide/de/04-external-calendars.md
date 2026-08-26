@@ -4,7 +4,7 @@
 
 ---
 
-Wenn Ihre beruflichen Meetings in Google Kalender liegen und der Familienkalender auf Ihrem iPhone, sollten Sie nicht drei Apps brauchen, um zu wissen, wie Ihr Donnerstag aussieht. Verbinden Sie sie, und sie erscheinen im selben Raster wie Ihre eigenen Aufgaben und Termine.
+Wenn Ihre beruflichen Meetings in Google Kalender liegen und der Familienkalender auf Ihrem iPhone, sollten Sie nicht drei Apps brauchen, um zu wissen, wie Ihr Donnerstag aussieht. Verbinden Sie sie, und sie erscheinen im selben Kalender wie Ihre eigenen Aufgaben und Termine.
 
 Verbinden können Sie unter **Einstellungen › Ereigniseinstellungen und externe Kalender › Externe Kalender**.
 
@@ -31,7 +31,7 @@ Tippen Sie neben Google Kalender auf **Verbinden** und melden Sie sich an. Das k
 
 ### Auswählen, was angezeigt wird
 
-Ein verbundenes Konto kippt nicht einfach jeden Kalender in Ihr Raster. Die App übernimmt, was Sie in Google Kalender selbst ausgewählt hatten, alles andere startet ausgeblendet. Einzelne Kalender schalten Sie in der Liste der Ereignistypen ein und aus — sie stehen dort in einem eigenen Abschnitt **Google Kalender**, neben Ihren eigenen Ereignistypen.
+Ein verbundenes Konto bringt nicht sofort jeden Kalender in Ihre Ansicht. Die App übernimmt, was Sie in Google Kalender selbst ausgewählt hatten, alles andere startet ausgeblendet. Einzelne Kalender schalten Sie in der Liste der Ereignistypen ein und aus — sie stehen dort in einem eigenen Abschnitt **Google Kalender**, neben Ihren eigenen Ereignistypen.
 
 Jeder Kalender behält die Farbe, die er in Google hat, sodass ein Arbeitskalender hier genauso aussieht wie dort.
 
@@ -41,10 +41,10 @@ Tippen Sie auf ein Google-Ereignis, und Sie sehen das ganze Bild: Teilnehmer und
 
 Sie können es direkt dort bearbeiten — inklusive der Wahl, ob eine Änderung für **Nur dieses Ereignis** oder für **Alle Ereignisse** der Wiederholungsreihe gilt — oder es stattdessen in Google Kalender öffnen.
 
-Manches bleibt außerhalb Ihrer Reichweite, und die App sagt das, statt still zu scheitern:
+Manches lässt sich von hier aus nicht ändern, und die App sagt Ihnen warum, statt einfach zu scheitern:
 
 - **Schreibgeschützte Kalender** (ein abonnierter Kalender, ein von jemand anderem geteilter Kalender) lassen sich ansehen, aber nicht bearbeiten.
-- **Felder, die Google gehören**, zeigen ihren Wert, lassen sich hier aber nicht ändern.
+- **Felder, die Google verwaltet**, zeigen ihren Wert, lassen sich hier aber nicht ändern.
 - **Beschreibungen mit Formatierung** warnen vor dem Bearbeiten, denn beim Bearbeiten hier geht die Formatierung verloren.
 - Trägt Ihre Anmeldung noch keine Bearbeitungsberechtigung, bittet die App Sie, sich bei diesem Google-Konto erneut anzumelden.
 

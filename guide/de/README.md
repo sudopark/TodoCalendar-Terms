@@ -4,14 +4,14 @@
 
 **Ihre Aufgaben und Ihre Termine — in einem Kalender.**
 
-Die meisten Kalender fassen nur Verabredungen, und den meisten Aufgaben-Apps fehlt jedes Gefühl für einen Monat. To-do Calendar hält beides im selben Raster: Ein Termin liegt an dem Tag, an dem er stattfindet, und eine Aufgabe bleibt vor Ihren Augen, bis Sie sie wirklich abhaken — auch wenn keine Zeit daran hängt.
+Ein Kalender zeigt Ihnen Ihre Termine, aber nicht das, was Sie erledigen müssen. Eine Aufgaben-App zeigt Ihnen eine Liste, aber nie, wo im Monat diese Dinge liegen. To-do Calendar hält beides im selben Kalender: Ein Termin liegt an dem Tag, an dem er stattfindet, und eine Aufgabe bleibt vor Ihren Augen, bis Sie sie wirklich abhaken — auch wenn keine Zeit daran hängt.
 
 Die App funktioniert vollständig offline und ohne Konto. Melden Sie sich nur an, wenn Sie Ihre Daten sichern und auf allen Geräten synchronisieren möchten.
 
 - **Ein Kalender, zwei Arten von Arbeit** — Termine und Aufgaben nebeneinander, farblich getrennt nach Ihren eigenen Ereignistypen
-- **Aufgaben, die nicht verschwinden** — Aufgaben ohne Zeit und überfällige Aufgaben bleiben oben angeheftet, statt in die Vergangenheit zu rutschen
+- **Aufgaben, die nicht verschwinden** — Aufgaben ohne Zeit und überfällige Aufgaben bleiben oben angeheftet, statt an einem vergangenen Datum liegen zu bleiben
 - **Einfach sagen, was ansteht** — beschreiben Sie ein Ereignis in normaler Sprache, über die KI-Schnelleingabe, Siri oder die Action-Taste
-- **Sehen, ohne die App zu öffnen** — ein umfangreicher Widget-Satz für Home-Bildschirm, Sperrbildschirm und Kontrollzentrum
+- **Ihren Tag sehen, ohne die App zu öffnen** — ein umfangreicher Widget-Satz für Home-Bildschirm, Sperrbildschirm und Kontrollzentrum
 - **Ihre anderen Kalender mitbringen** — verbinden Sie Google Kalender und Apple Kalender und sehen Sie alles an einem Ort
 
 ---

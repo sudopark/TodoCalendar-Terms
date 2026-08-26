@@ -4,7 +4,7 @@
 
 ---
 
-Beschreiben Sie in normaler Sprache, was Sie möchten, und die App baut es für Sie — „Mittagessen mit Sara am Freitag um 12 Uhr“, „verschiebe den Zahnarzt auf nächsten Dienstag“, „hake die Wäsche ab“. Keine Formulare, kein Datum aus einem Drehrad.
+Beschreiben Sie in normaler Sprache, was Sie möchten, und die App baut es für Sie — „Mittagessen mit Sara am Freitag um 12 Uhr“, „verschiebe den Zahnarzt auf nächsten Dienstag“, „hake die Wäsche ab“. Keine Formulare, keine Datumsauswahl.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/ai-input.png" alt="KI-Schnelleingabe" width="280">
 
@@ -33,9 +33,9 @@ Tippen Sie im Kalender auf die KI-Taste. Das Eingabeblatt öffnet sich mit zwei 
 
 ### Aus einem Bild
 
-**Aus Bild lesen** macht aus einem Bild Ereignisse. **Foto aufnehmen** oder **aus Mediathek wählen** — die App liest den Text darauf, etwa einen Stundenplan, ein Veranstaltungsplakat oder den Screenshot einer Nachricht, und zeigt Ihnen das Gefundene, damit Sie vor dem Senden korrigieren können, was schiefgegangen ist.
+**Aus Bild lesen** macht aus einem Bild Ereignisse. **Foto aufnehmen** oder **Aus Mediathek wählen** — die App liest den Text darauf, etwa einen Stundenplan, ein Veranstaltungsplakat oder den Screenshot einer Nachricht, und zeigt Ihnen das Gefundene, damit Sie vor dem Senden korrigieren können, was schiefgegangen ist.
 
-Sie können **zusätzliche Anweisungen (optional)** anhängen, um das Ergebnis zu steuern, etwa „als Aufgaben hinzufügen“. Ist im Bild kein lesbarer Text, sagt die App das, statt eine leere Anfrage zu senden.
+Sie können **Zusätzliche Anweisungen (optional)** anhängen, um das Ergebnis zu steuern, etwa „als Aufgaben hinzufügen“. Ist im Bild kein lesbarer Text, sagt die App das, statt eine leere Anfrage zu senden.
 
 ### Siri
 
@@ -73,9 +73,9 @@ Es läuft immer nur eine Anfrage. Senden Sie eine weitere, während die erste no
 
 ## Guthaben
 
-KI-Anfragen greifen auf ein **tägliches Guthaben zu, das sich jeden Tag zurücksetzt**. Wie viel übrig ist, steht oben in der KI-Eingabe, sodass Sie vor dem Senden immer wissen, woran Sie sind.
+Jede KI-Anfrage verbraucht **Guthaben**, und Ihr Guthaben füllt sich jeden Tag wieder auf. Wie viel übrig ist, steht oben in der KI-Eingabe, sodass Sie es schon vor dem Senden wissen.
 
-Ist das Guthaben aufgebraucht, pausiert die KI-Schnelleingabe bis zum nächsten Zurücksetzen. Alles andere in der App funktioniert weiter.
+Ist es aufgebraucht, wartet die KI-Schnelleingabe bis zur Auffüllung am nächsten Tag. Alles andere in der App funktioniert weiter.
 
 ---
 

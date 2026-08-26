@@ -4,7 +4,7 @@
 
 ---
 
-Der Sinn eines Kalender-Widgets ist, den Kalender gar nicht erst öffnen zu müssen. To-do Calendar bringt einen breiten Satz mit, damit Sie das Widget wählen können, das dazu passt, wie Sie Ihren Tag tatsächlich prüfen — ein einzelnes nächstes Ereignis, ein ganzer Monat oder Ihre Aufgabenliste mit antippbaren Kreisen.
+Ein Widget ist dafür da, dass Sie die App gar nicht erst öffnen müssen, nur um zu sehen, was als Nächstes ansteht. To-do Calendar bringt einen breiten Satz mit, damit Sie das Widget wählen können, das dazu passt, wie Sie Ihren Tag tatsächlich prüfen — ein einzelnes nächstes Ereignis, ein ganzer Monat oder Ihre Aufgabenliste mit antippbaren Kreisen.
 
 ---
 
@@ -14,7 +14,7 @@ Der Sinn eines Kalender-Widgets ist, den Kalender gar nicht erst öffnen zu müs
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-today-and-next.png" alt="Widget „Heute und was als Nächstes kommt“" width="360">
 
-Links das heutige Datum und was von heute übrig ist, rechts das, was als Nächstes kommt. Die dichteste Einzelansicht von „was jetzt, was danach“.
+Links das heutige Datum und was von heute übrig ist, rechts das, was als Nächstes kommt. Kein anderes Widget zeigt so viel auf einmal.
 
 *Mittel.*
 
@@ -46,7 +46,7 @@ Das eine Ereignis, das Sie als wichtigstes angeheftet haben, immer im Blick. Sie
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-month.png" alt="Widget „Kalender“" width="360">
 
-Das Kalenderraster selbst, in dem Zeitraum, den Sie möchten:
+Der Kalender selbst, in dem Zeitraum, den Sie möchten:
 
 | Widget | Größe |
 |---|---|
@@ -61,8 +61,8 @@ Zwei Bereiche in einem Widget, wenn eine Ansicht allein nicht reicht:
 
 | Widget | Zeigt | Größe |
 |---|---|---|
-| HEUTE + Kalender | Die Tagesübersicht neben dem Monatsraster | Mittel |
-| Ereignisse + Kalender | Kommende Ereignisse neben dem Monatsraster | Mittel |
+| HEUTE + Kalender | Die Tagesübersicht neben dem Monatskalender | Mittel |
+| Ereignisse + Kalender | Kommende Ereignisse neben dem Monatskalender | Mittel |
 | Ereignisse + Wichtigstes | Kommende Ereignisse neben Ihrem angehefteten Ereignis | Mittel |
 | Kalender + Kalender | Zwei Monate nebeneinander | Mittel |
 
