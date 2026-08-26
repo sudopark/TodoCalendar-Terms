@@ -4,7 +4,7 @@
 
 ---
 
-A naptárwidget értelme az, hogy ne kelljen megnyitnia a naptárt. A To-do Calendar bőséges készletet ad, hogy azt választhassa, amelyik illik ahhoz, ahogyan valóban átnézi a napját — egyetlen következő esemény, egy teljes hónap, vagy a feladatlistája koppintható jelölőkkel.
+A widget azért van, hogy ne kelljen megnyitnia az alkalmazást csak azért, hogy lássa, mi következik. A To-do Calendar bőséges készletet ad, hogy azt választhassa, amelyik illik ahhoz, ahogyan valóban átnézi a napját — egyetlen következő esemény, egy teljes hónap, vagy a feladatlistája koppintható jelölőkkel.
 
 ---
 
@@ -14,7 +14,7 @@ A naptárwidget értelme az, hogy ne kelljen megnyitnia a naptárt. A To-do Cale
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-today-and-next.png" alt="Ma és ami ezután következik widget" width="360">
 
-Balra a mai dátum és az, ami a mai napból hátravan, jobbra pedig ami következik. A „mi most, mi utána” legsűrűbb egyetlen nézete.
+Balra a mai dátum és az, ami a mai napból hátravan, jobbra pedig ami következik. Egyetlen másik widget sem mutat ennyit egyszerre.
 
 *Közepes.*
 
@@ -46,7 +46,7 @@ Az az egy esemény, amelyet a legfontosabbként tűzött ki, mindig szem előtt.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-month.png" alt="Hónap widget" width="360">
 
-Maga a naptárrács, abban a tartományban, amelyikben szeretné:
+Maga a naptár, abban a tartományban, amelyikben szeretné:
 
 | Widget | Méret |
 |---|---|
@@ -61,8 +61,8 @@ Két panel egy widgetben, amikor egyetlen nézet nem elég:
 
 | Widget | Mit mutat | Méret |
 |---|---|---|
-| MA + Naptár | A mai összefoglaló a havi rács mellett | Közepes |
-| Események + Naptár | A közelgő események a havi rács mellett | Közepes |
+| MA + Naptár | A mai összefoglaló a havi naptár mellett | Közepes |
+| Események + Naptár | A közelgő események a havi naptár mellett | Közepes |
 | Események + Legfontosabb | A közelgő események a kitűzött eseménye mellett | Közepes |
 | Naptár + Naptár | Két hónap egymás mellett | Közepes |
 
@@ -90,10 +90,10 @@ Több widgetnek van zárolási képernyős formája: **Következő esemény** (b
 
 ### Élő tevékenység visszaszámlálás
 
-Tegyen ki egy eseményt a zárolási képernyőjére, és nézze, ahogy visszaszámlál a hátralévő idő — ugyanez a nézet a Dynamic Islandben is látszik. Válassza a **Megjelenítés a zárolási képernyőn** lehetőséget az esemény további műveletek menüjéből.
+Tegyen ki egy eseményt a zárolási képernyőjére, és nézze, ahogy visszaszámlál — ugyanez a nézet a Dynamic Islandben is látszik. Válassza a **Megjelenítés a zárolási képernyőn** lehetőséget az esemény további műveletek menüjéből.
 
 - A következő 8 órán belül kezdődő eseményeknél érhető el.
-- Egyszerre egy esemény — ha újat választ, megkérdezi, lecserélje-e a jelenlegit.
+- Egyszerre egy esemény — válasszon újat, és az alkalmazás megkérdezi, lecserélje-e a jelenlegit.
 - A feladatok közvetlenül az Élő tevékenységből is befejezhetők.
 
 ---

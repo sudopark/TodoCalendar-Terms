@@ -4,14 +4,14 @@
 
 **A feladatai és a programjai egyetlen naptárban.**
 
-A legtöbb naptár csak a találkozókat tartja számon, a legtöbb feladatkezelőnek pedig fogalma sincs arról, mi az a hónap. A To-do Calendar mindkettőt ugyanabba a rácsba teszi: a program azon a napon ül, amikor megtörténik, a feladat pedig addig marad a szeme előtt, amíg tényleg ki nem pipálja — akkor is, ha nincs hozzá időpont.
+A naptár megmutatja a találkozóit, de azt nem, amit el kell intéznie. A feladatkezelő megmutat egy listát, de sosem azt, hova esnek ezek a dolgok a hónapban. A To-do Calendar mindkettőt ugyanabba a naptárba teszi: a program azon a napon ül, amikor megtörténik, a feladat pedig addig marad a szeme előtt, amíg tényleg ki nem pipálja — akkor is, ha nincs hozzá időpont.
 
 Teljesen működik offline és fiók nélkül. Csak akkor jelentkezzen be, ha menteni szeretné az adatait, és szinkronban tartaná őket az eszközei között.
 
 - **Egy naptár, kétféle teendő** — programok és feladatok egymás mellett, a saját eseménytípusai színeivel
-- **Feladatok, amelyek nem tűnnek el** — az időpont nélküli és a lejárt feladatok felül maradnak, nem csúsznak vissza a múltba
+- **Feladatok, amelyek nem tűnnek el** — az időpont nélküli és a lejárt feladatok felül maradnak kitűzve, nem pedig egy elmúlt dátumon ragadnak
 - **Hozzáadás beszéddel** — mondja el hétköznapi nyelven az AI gyorsbevitelnek, a Sirinek vagy az Action gombnak
-- **Nézze meg anélkül, hogy megnyitná** — bőséges widgetkészlet a kezdőképernyőre, a zárolási képernyőre és a Vezérlőközpontba
+- **Lássa a napját az alkalmazás megnyitása nélkül** — bőséges widgetkészlet a kezdőképernyőre, a zárolási képernyőre és a Vezérlőközpontba
 - **Hozza magával a többi naptárát** — kapcsolja össze a Google Naptárt és az Apple Naptárt, és lásson mindent egy helyen
 
 ---
