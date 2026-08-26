@@ -4,14 +4,14 @@
 
 **Vos tâches et votre agenda, sur un seul calendrier.**
 
-La plupart des calendriers ne retiennent que des rendez-vous, et la plupart des applications de tâches n'ont aucune notion de mois. To-do Calendar réunit les deux dans la même grille : un rendez-vous se pose sur le jour où il a lieu, et une tâche reste sous vos yeux jusqu'à ce que vous la cochiez vraiment — même sans heure définie.
+Un calendrier vous montre vos rendez-vous, mais pas ce que vous avez à faire. Une application de tâches vous donne une liste, mais jamais l'endroit du mois où chaque chose tombe. To-do Calendar garde les deux sur le même calendrier : un rendez-vous se pose sur le jour où il a lieu, et une tâche reste sous vos yeux jusqu'à ce que vous la cochiez vraiment — même sans heure définie.
 
 Tout fonctionne hors ligne et sans compte. Connectez-vous seulement quand vous voulez sauvegarder vos données et les retrouver sur vos autres appareils.
 
 - **Un calendrier, deux façons de s'organiser** — rendez-vous et tâches côte à côte, avec les couleurs de vos propres types d'événement
-- **Des tâches qui ne s'évaporent pas** — sans heure ou en retard, elles restent épinglées en haut au lieu de filer dans le passé
+- **Des tâches qui ne s'évaporent pas** — sans heure ou en retard, elles restent épinglées en haut au lieu de rester enterrées à une date déjà passée
 - **Ajouter en parlant** — décrivez un événement en langage courant avec la saisie rapide par IA, Siri ou le bouton Action
-- **Voir sans ouvrir** — un large choix de widgets pour l'écran d'accueil, l'écran verrouillé et le centre de contrôle
+- **Voir votre journée sans ouvrir l'application** — un large choix de widgets pour l'écran d'accueil, l'écran verrouillé et le centre de contrôle
 - **Vos autres calendriers avec vous** — connectez Google Calendar et Apple Calendar, et voyez tout au même endroit
 
 ---
@@ -19,7 +19,7 @@ Tout fonctionne hors ligne et sans compte. Connectez-vous seulement quand vous v
 ## Guide
 
 ### [1. Les bases](./01-basics.md)
-L'écran du calendrier, les tâches et les rendez-vous, l'ajout d'événements, les événements récurrents, les types d'événement et leurs couleurs, les rappels, l'événement principal, les tâches non terminées et terminées, le partage de votre agenda.
+L'écran du calendrier, les tâches et les rendez-vous, l'ajout d'événements, les événements récurrents, les types d'événement et leurs couleurs, les rappels, l'événement principal, les tâches non terminées et terminées, le partage de votre calendrier.
 
 ### [2. Saisie rapide par IA](./02-ai-input.md)
 Ajouter et modifier des événements en les décrivant. Voix, clavier, image, Siri, bouton Action, widgets, centre de contrôle et feuille de partage.

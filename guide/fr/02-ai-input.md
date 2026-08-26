@@ -4,7 +4,7 @@
 
 ---
 
-Décrivez ce que vous voulez en langage courant et l'application le construit pour vous — « déjeuner avec Sara vendredi à midi », « décale le dentiste à mardi prochain », « marque la lessive comme faite ». Pas de formulaire, pas de date à faire tourner dans une roulette.
+Décrivez ce que vous voulez en langage courant et l'application le construit pour vous — « déjeuner avec Sara vendredi à midi », « décale le dentiste à mardi prochain », « marque la lessive comme faite ». Pas de formulaire, pas de sélecteur de date.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/ai-input.png" alt="Saisie rapide par IA" width="280">
 
@@ -29,7 +29,7 @@ La saisie rapide par IA demande d'être connecté à un compte. Tout le reste de
 Appuyez sur le bouton IA depuis l'écran du calendrier. La feuille de saisie s'ouvre avec deux modes entre lesquels vous pouvez basculer à tout moment :
 
 - **Voix** — parlez et regardez la transcription s'afficher en direct. Nécessite l'autorisation d'accès au micro et à la reconnaissance vocale ; si l'une des deux est refusée, l'application vous propose d'ouvrir les réglages d'iOS ou de **Saisir du texte** à la place.
-- **Clavier** — tapez votre demande. Utile quand vous êtes dans un endroit où l'on ne parle pas.
+- **Clavier** — tapez votre demande. Utile quand vous êtes quelque part où vous ne pouvez pas parler.
 
 ### Depuis une image
 
@@ -43,7 +43,7 @@ Dites **« Ajouter avec l'IA dans To-do Calendar »** — ou « Ajouter un rende
 
 ### Bouton Action
 
-Associez le bouton Action au raccourci **Ajouter avec l'IA**. Une pression, vous dites la chose, c'est réglé — l'application n'a jamais besoin de passer au premier plan.
+Associez le bouton Action au raccourci **Ajouter avec l'IA**. Une pression, vous dites ce que vous voulez ajouter, et c'est envoyé — l'application n'a jamais besoin de s'ouvrir.
 
 ### Widget et centre de contrôle
 
@@ -67,15 +67,15 @@ La demande envoyée depuis la feuille de partage part elle aussi en arrière-pla
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/ai-result.png" alt="Résultat de l'IA" width="280">
 
-Une seule demande est traitée à la fois. Si vous en envoyez une autre pendant que la première attend votre approbation, l'application vous invite à régler la première.
+Une seule demande est traitée à la fois. Si vous en envoyez une autre pendant que la première attend votre approbation, l'application vous demande de traiter d'abord celle qui est en attente.
 
 ---
 
 ## Crédits
 
-Les demandes IA puisent dans un **quota quotidien réinitialisé chaque jour**. Ce qu'il vous reste s'affiche en haut de l'écran de saisie IA, donc vous savez toujours où vous en êtes avant d'envoyer.
+Chaque demande IA consomme des **crédits**, et vos crédits se rechargent chaque jour. Ce qu'il vous reste s'affiche en haut de l'écran de saisie IA, donc vous le savez avant d'envoyer.
 
-Si le quota est épuisé, la saisie rapide par IA se met en pause jusqu'à la prochaine réinitialisation. Tout le reste de l'application continue de fonctionner.
+Une fois vos crédits épuisés, la saisie rapide par IA attend la recharge du lendemain. Tout le reste de l'application continue de fonctionner.
 
 ---
 
@@ -88,7 +88,7 @@ Si le quota est épuisé, la saisie rapide par IA se met en pause jusqu'à la pr
 | Photothèque | Choisir une image existante |
 | Notifications | Vous annoncer le résultat d'une demande en arrière-plan |
 
-Chacune n'est demandée qu'au premier usage de la fonction concernée, et l'application continue de marcher sans — la saisie vocale se replie sur le clavier, et l'image sur la frappe au clavier.
+Chacune n'est demandée qu'au premier usage de la fonction concernée, et l'application continue de marcher sans — la saisie vocale se replie sur le clavier, et la saisie par image sur la frappe.
 
 ---
 

@@ -18,7 +18,7 @@ Tout sur cet écran se prévisualise en direct pendant que vous le modifiez : vo
 
 | Réglage | Ce que ça fait |
 |---|---|
-| Premier jour de la semaine | Le jour par lequel commence la grille |
+| Premier jour de la semaine | Le jour par lequel commence le calendrier |
 | Jours en évidence | Colorer les dimanches, les samedis et les jours fériés — chacun s'active séparément |
 | Souligner les jours avec événements | Marque les jours où il se passe quelque chose |
 | Niveau de détail des événements | La hauteur de chaque ligne — Minimal, Moyen ou Complet. Plus les lignes sont hautes, plus les noms d'événement remplacent les points |
@@ -39,7 +39,7 @@ Suivez le système, ou fixez l'application sur **Clair** ou **Sombre** quoi que 
 
 ### Thème du widget
 
-Les widgets utilisent le thème du système par défaut. Passez sur une couleur personnalisée et choisissez le fond qui vous plaît — l'application déduit de la luminosité de votre couleur si le texte doit être clair ou foncé.
+Les widgets sont sur **Utiliser le thème système** par défaut. Passez sur **Sélectionner une couleur personnalisée** et choisissez le fond qui vous plaît — l'application déduit de la luminosité de votre couleur si le texte doit être clair ou foncé.
 
 ### Sensations
 

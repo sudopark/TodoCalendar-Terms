@@ -4,7 +4,7 @@
 
 ---
 
-Un widget de calendrier existe justement pour vous éviter d'ouvrir le calendrier. To-do Calendar en propose une large gamme, pour que vous preniez celui qui colle à votre façon de vérifier votre journée — un seul prochain événement, un mois entier, ou votre liste de tâches avec des cases à cocher.
+Un widget est là pour vous éviter d'ouvrir l'application juste pour savoir ce qui vient ensuite. To-do Calendar en propose une large gamme, pour que vous preniez celui qui colle à votre façon de vérifier votre journée — un seul prochain événement, un mois entier, ou votre liste de tâches avec des cases à cocher.
 
 ---
 
@@ -14,7 +14,7 @@ Un widget de calendrier existe justement pour vous éviter d'ouvrir le calendrie
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-today-and-next.png" alt="Widget Aujourd'hui et à venir" width="360">
 
-La date du jour et ce qu'il reste à faire aujourd'hui à gauche, ce qui arrive ensuite à droite. La vue unique la plus dense pour savoir « et maintenant, et après ».
+La date du jour et ce qu'il reste à faire aujourd'hui à gauche, ce qui arrive ensuite à droite. Aucun autre widget n'en montre autant d'un coup.
 
 *Moyen.*
 
@@ -46,7 +46,7 @@ L'unique événement que vous avez épinglé comme le plus important, toujours s
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-month.png" alt="Widget Calendrier" width="360">
 
-La grille du calendrier elle-même, sur la plage de votre choix :
+Le calendrier lui-même, sur la période de votre choix :
 
 | Widget | Taille |
 |---|---|
@@ -61,8 +61,8 @@ Deux panneaux dans un seul widget, quand une vue unique ne suffit pas :
 
 | Widget | Affiche | Taille |
 |---|---|---|
-| AUJOURD'HUI + Calendrier | Le résumé du jour à côté de la grille mensuelle | Moyen |
-| Événements + Calendrier | Les événements à venir à côté de la grille mensuelle | Moyen |
+| AUJOURD'HUI + Calendrier | Le résumé du jour à côté du calendrier du mois | Moyen |
+| Événements + Calendrier | Les événements à venir à côté du calendrier du mois | Moyen |
 | Événements + Principal | Les événements à venir à côté de votre événement épinglé | Moyen |
 | Calendrier + Calendrier | Deux mois côte à côte | Moyen |
 
