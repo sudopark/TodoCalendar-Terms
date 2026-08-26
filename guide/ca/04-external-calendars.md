@@ -4,7 +4,7 @@
 
 ---
 
-Si les reunions de feina viuen a Google Calendar i el calendari compartit de la família viu a l'iPhone, no hauríeu de necessitar tres aplicacions per saber com se us presenta el dijous. Connecteu-los i apareixeran a la mateixa graella que les vostres tasques i cites.
+Si les reunions de feina viuen a Google Calendar i el calendari compartit de la família viu a l'iPhone, no hauríeu de necessitar tres aplicacions per saber com se us presenta el dijous. Connecteu-los i apareixeran al mateix calendari que les vostres tasques i cites.
 
 Es connecten des de **Configuració › Configuració d'esdeveniments i calendaris externs › Calendaris externs**.
 
@@ -31,7 +31,7 @@ Toqueu **Connecta** al costat de Google Calendar i inicieu-hi sessió. Podeu rep
 
 ### Triar què es mostra
 
-Connectar un compte no us aboca tots els calendaris a la graella. L'aplicació segueix el que teníeu seleccionat al mateix Google Calendar, i la resta comença amagada. Activeu i desactiveu els calendaris un per un a la llista de tipus d'esdeveniment: hi són en una secció **Google Calendar** pròpia, al costat dels vostres tipus d'esdeveniment.
+Connectar un compte no us posa tots els calendaris a la vista de cop. L'aplicació segueix el que teníeu seleccionat al mateix Google Calendar, i la resta comença amagada. Activeu i desactiveu els calendaris un per un a la llista de tipus d'esdeveniment: hi són en una secció **Google Calendar** pròpia, al costat dels vostres tipus d'esdeveniment.
 
 Cada calendari conserva el color que té a Google, així que un calendari de feina es veu aquí igual que allà.
 
@@ -41,7 +41,7 @@ Toqueu un esdeveniment de Google i en teniu la imatge completa: els assistents i
 
 El podeu editar allà mateix —i triar si un canvi s'aplica a una sola repetició o a tota la sèrie repetitiva— o bé obrir-lo a Google Calendar.
 
-Hi ha coses que queden fora del vostre abast, i l'aplicació ho diu en comptes de fallar en silenci:
+Hi ha coses que no es poden canviar des d'aquí, i l'aplicació us diu per què en comptes de fallar sense més:
 
 - Els **calendaris de només lectura** (un calendari subscrit, el calendari compartit d'una altra persona) es poden consultar però no editar.
 - Els **camps que gestiona Google** mostren el seu valor però no es poden canviar aquí.

@@ -4,7 +4,7 @@
 
 ---
 
-Descriviu el que voleu en llenguatge natural i l'aplicació us ho munta: «dinar amb la Sara divendres al migdia», «mou el dentista a dimarts vinent», «marca la bugada com a feta». Sense formularis ni haver de triar la data en una roda.
+Descriviu el que voleu en llenguatge natural i l'aplicació us ho munta: «dinar amb la Sara divendres al migdia», «mou el dentista a dimarts vinent», «marca la bugada com a feta». Sense formularis ni selectors de data.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/ai-input.png" alt="Entrada ràpida amb IA" width="280">
 
@@ -73,9 +73,9 @@ Només s'executa una petició alhora. Si n'envieu una altra mentre n'hi ha una e
 
 ## Crèdits
 
-Les peticions d'IA consumeixen una **assignació diària que es reinicia cada dia**. El que queda es mostra a la part de dalt de la pantalla d'entrada d'IA, així sempre sabeu com aneu abans d'enviar res.
+Cada petició d'IA gasta **crèdits**, i els crèdits es recarreguen cada dia. Quants us en queden es mostra a la part de dalt de la pantalla d'entrada d'IA, així ho sabeu abans d'enviar res.
 
-Si l'assignació s'esgota, l'entrada ràpida amb IA fa una pausa fins al reinici següent. La resta de l'aplicació continua funcionant.
+Quan s'esgoten, l'entrada ràpida amb IA espera fins a la recàrrega de l'endemà. La resta de l'aplicació continua funcionant.
 
 ---
 

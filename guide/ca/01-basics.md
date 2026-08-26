@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/calendar.png" alt="Calendari" width="280">
 
-La graella mensual és la pantalla principal. Llisqueu cap a l'esquerra i cap a la dreta per canviar de mes, i toqueu un dia per obrir-ne la llista d'esdeveniments a sota.
+El calendari del mes és la pantalla principal. Llisqueu cap a l'esquerra i cap a la dreta per canviar de mes, i toqueu un dia per obrir-ne la llista d'esdeveniments a sota.
 
-- Cada dia mostra una barra de color per esdeveniment, més un indicador **+N** quan n'hi ha més dels que hi caben.
+- Cada dia mostra una barra de color per esdeveniment, més un indicador **+N** quan el dia té més esdeveniments dels que la fila pot mostrar.
 - La llista del dia va ordenada: tasques sense hora → tasques amb hora → cites → festius → esdeveniments de calendaris externs.
 - Toqueu la capçalera per saltar a qualsevol data, o feu servir **Mou la data** per triar-ne una directament.
 
-Com de densa és la graella —l'alçada de les files, la mida del text dels esdeveniments, la negreta, les barres de color, els noms dels festius, el calendari lunar— es pot canviar tot. Consulteu [Personalització](./05-personalization.md).
+Sou vosaltres qui decidiu quant mostra cada dia: la quantitat de detall per esdeveniment, la mida del text, els colors, els noms dels festius i el calendari lunar. [Personalització](./05-personalization.md) repassa cada opció pel seu nom.
 
 ---
 
 ## Tasques i cites
 
-L'aplicació té dos tipus d'esdeveniment, i la diferència és si allò es pot *completar*.
+L'aplicació té dos tipus d'esdeveniment, i la diferència és si es tracta d'una cosa que marqueu quan està feta.
 
 | | Tasca | Cita |
 |---|---|---|
@@ -28,21 +28,21 @@ L'aplicació té dos tipus d'esdeveniment, i la diferència és si allò es pot 
 | Completar | Sí, la podeu marcar | No |
 | Sense hora | Es queda a la **Llista de tasques actuals** fins que l'acabeu | No és possible |
 
-Una **tasca sense hora** serveix per a allò que heu de fer aviat però encara no heu programat. Es queda a la part de dalt del calendari i al widget de tasques actuals fins que està feta.
+Una **tasca sense hora** serveix per a allò que heu de fer aviat però encara no heu programat. Es queda a la part de dalt del calendari i al widget Llista de tasques actuals fins que està feta.
 
-Podeu convertir-les en tots dos sentits quan vulgueu: **Converteix en cita** / **Converteix en tasca** des del menú de més opcions de l'esdeveniment. Per convertir una tasca en cita cal una hora.
+Podeu convertir-les en tots dos sentits quan vulgueu: **Converteix en cita** / **Converteix en tasca** des del menú de més opcions de l'esdeveniment. Només convertir una tasca en cita demana una hora.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/event-detail.png" alt="Detall de l'esdeveniment" width="280">
 
-Tot esdeveniment pot portar una **Ubicació** (amb previsualització al mapa i obertura amb un sol toc a la vostra aplicació de mapes preferida), un **Enllaç** amb previsualització i una **Nota**.
+Tot esdeveniment pot portar una **Ubicació**, un **Enllaç** i una **Nota**. La ubicació mostra una previsualització al mapa i s'obre amb un sol toc a la vostra aplicació de mapes preferida; l'enllaç té la seva pròpia previsualització.
 
 ---
 
 ## Afegir esdeveniments
 
-Hi ha tres camins, segons quant vulgueu escriure:
+Hi ha tres maneres d'afegir un esdeveniment, segons quant vulgueu escriure:
 
-- **Afegir ràpid** — el camp d'entrada a la part inferior de la llista del dia. Escriviu un nom, premeu Retorn i ja teniu una tasca.
+- **Afegir ràpid** — el camp d'entrada a la part inferior de la llista del dia. Escriviu un nom, premeu Retorn i la tasca es crea.
 - **Detall complet** — toqueu **+** per obrir l'editor amb hora, repetició, recordatoris, tipus d'esdeveniment, ubicació, enllaç i nota.
 - **Entrada ràpida amb IA** — descriviu-ho en llenguatge natural i deixeu que l'aplicació munti l'esdeveniment. Consulteu [Entrada ràpida amb IA](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Una tasca només necessita un nom. Una cita necessita un nom i una hora.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/repeat-options.png" alt="Opcions de repetició" width="240">
 
-En comptes de fer-vos muntar una regla a base de desplegables, l'aplicació llegeix la data que heu triat i us ofereix opcions ja fetes per a aquella data. Trieu un dijous i la llista dirà literalment **Cada dijous** i **El tercer dijous de cada mes**.
+En comptes de fer-vos muntar una regla de repetició a base de desplegables, l'aplicació llegeix la data que heu triat i us ofereix opcions ja fetes. Trieu un dijous i la llista us ofereix **Cada dijous** i **El tercer dijous de cada mes**.
 
 **Intervals habituals**
 
@@ -66,24 +66,24 @@ En comptes de fer-vos muntar una regla a base de desplegables, l'aplicació lleg
 
 **Per posició dins del mes**
 
-- Cada dia laborable — de dilluns a divendres. S'ofereix quan l'esdeveniment comença en un dia feiner
+- Cada dia laborable — de dilluns a divendres. S'ofereix quan l'esdeveniment comença en un dia laborable
 - Tots els dies de l'última setmana de cada mes
-- El primer / segon / tercer / quart / últim *dia de la setmana* de cada mes — per a coses com ara «l'últim divendres del mes»
+- El primer / segon / tercer / quart / últim **dijous** de cada mes — el dia de la setmana es completa a partir de la data que heu triat, de manera que un esdeveniment de divendres ofereix **L'últim divendres de cada mes**
 
 **Final de la repetició**
 
-Un cop trieu una repetició, decidiu com s'atura: **Mai**, **El** (una data concreta) o **Després de** (un nombre determinat de repeticions).
+Un cop trieu una repetició, decidiu quan s'atura: **Mai** perquè continuï indefinidament, **El** per fixar la data en què acaba, o **Després de** un nombre determinat de **vegades**.
 
 Les tasques repetitives es comporten de manera diferent de les cites repetitives:
 
-- Una repetició sense completar es continua veient al calendari d'avui fins i tot quan ja ha passat l'hora: no avança sola en silenci.
+- Una repetició sense completar es continua veient al calendari d'avui fins i tot quan ja ha passat l'hora: no passa tota sola a la repetició següent.
 - Completar-la arxiva aquella repetició a les tasques completades i en crea la següent.
 - **Omet aquesta tasca** us porta a la repetició següent sense marcar-la com a feta.
 - Quan la repetició té una condició de final i no hi ha repetició següent, la sèrie s'acaba.
 
 Quan editeu o suprimiu una repetició d'un esdeveniment repetitiu, trieu l'abast: **Només aquesta vegada**, **A partir d'ara** o **Tots els esdeveniments**.
 
-Per als esdeveniments d'un calendari extern connectat, l'opció lunar no s'ofereix: aquell calendari no té manera d'expressar-la.
+Per als esdeveniments d'un calendari extern connectat, l'opció lunar no s'ofereix: els calendaris externs no tenen on desar una regla de repetició lunar.
 
 ---
 
@@ -109,7 +109,7 @@ Poseu tants recordatoris per esdeveniment com necessiteu.
 - **Esdeveniments de tot el dia** — a les 9 del matí o al migdia d'aquell dia, o a les 9 del matí 1 / 2 / 7 dies abans.
 - **Personalitzat** — trieu el moment que vulgueu.
 
-Els valors per defecte dels esdeveniments amb hora i dels de tot el dia s'estableixen per separat a la configuració, de manera que els esdeveniments nous ja venen preparats. Els recordatoris necessiten el permís de notificacions; si el teniu desactivat, l'aplicació us porta a la configuració d'iOS.
+Els valors per defecte dels esdeveniments amb hora i dels de tot el dia s'estableixen per separat a la configuració, de manera que els esdeveniments nous ja porten els recordatoris posats. Els recordatoris necessiten el permís de notificacions; si el teniu desactivat, l'aplicació us porta a la configuració d'iOS.
 
 ---
 
@@ -123,7 +123,7 @@ Les tasques i les cites no repetitives es poden marcar com a principals. Les cit
 
 ## Tasques pendents
 
-Les tasques que ja han passat d'hora sense completar-se es recullen en una secció **Tasques pendents** a la part de dalt del calendari, de manera que allò que se us ha escapat no queda enterrat a la setmana passada.
+Les tasques que ja han passat d'hora sense completar-se es recullen en una secció **Tasques pendents** a la part de dalt del calendari, de manera que una tasca oblidada no queda enterrada en una data ja passada.
 
 Les tasques sense hora i les futures no compten com a pendents: simplement encara no han vençut. Podeu amagar la secció del tot a la configuració si preferiu no veure-la.
 
@@ -144,7 +144,7 @@ Tot el que marqueu es conserva, agrupat pel moment en què les vau acabar: avui,
 
 Compartiu **un dia, una setmana o un mes** com a text o com a targeta d'imatge.
 
-Abans de compartir podeu filtrar quins tipus d'esdeveniment s'hi inclouen i decidir si hi apareixen els noms dels tipus, de manera que podeu enviar la vostra setmana a algú sense ensenyar-hi tot el que hi ha.
+Abans de compartir podeu filtrar quins tipus d'esdeveniment s'hi inclouen i decidir si hi apareixen els noms dels tipus, de manera que podeu enviar la vostra setmana a algú sense ensenyar-ne tot el contingut.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-Un widget de calendari existeix per no haver d'obrir el calendari. To-do Calendar en porta un conjunt ampli perquè trieu el que encaixi amb la manera com realment mireu el vostre dia: un sol esdeveniment següent, un mes sencer, o la llista de tasques amb caselles que podeu tocar.
+Un widget hi és perquè no hàgiu d'obrir l'aplicació només per veure què ve ara. To-do Calendar en porta un conjunt ampli perquè trieu el que encaixi amb la manera com realment mireu el vostre dia: un sol esdeveniment següent, un mes sencer, o la llista de tasques amb caselles que podeu tocar.
 
 ---
 
@@ -14,7 +14,7 @@ Un widget de calendari existeix per no haver d'obrir el calendari. To-do Calenda
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-today-and-next.png" alt="Widget Avui i el que ve després" width="360">
 
-La data d'avui i el que queda del dia a l'esquerra, i el que ve tot seguit a la dreta. La vista única més densa de «què toca ara i què després».
+La data d'avui i el que queda del dia a l'esquerra, i el que ve tot seguit a la dreta. Cap altre widget no mostra tantes coses alhora.
 
 *Mitjà.*
 
@@ -46,7 +46,7 @@ L'únic esdeveniment que heu fixat com el més important, sempre a la vista. Con
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-month.png" alt="Widget de mes" width="360">
 
-La graella del calendari mateixa, en l'interval que vulgueu:
+El calendari mateix, en l'interval que vulgueu:
 
 | Widget | Mida |
 |---|---|
@@ -61,8 +61,8 @@ Dos plafons en un sol widget, quan una sola vista no n'hi ha prou:
 
 | Widget | Què mostra | Mida |
 |---|---|---|
-| AVUI + Calendari | El resum d'avui al costat de la graella del mes | Mitjà |
-| Esdeveniments + Calendari | Els esdeveniments propers al costat de la graella del mes | Mitjà |
+| AVUI + Calendari | El resum d'avui al costat del calendari del mes | Mitjà |
+| Esdeveniments + Calendari | Els esdeveniments propers al costat del calendari del mes | Mitjà |
 | Esdeveniments + Principal | Els esdeveniments propers al costat de l'esdeveniment que heu fixat | Mitjà |
 | Calendari + Calendari | Dos mesos de costat | Mitjà |
 
