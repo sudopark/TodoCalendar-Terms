@@ -68,7 +68,7 @@ Instead of making you build a repeat rule out of dropdowns, the app reads the da
 
 - Every Weekday — Monday through Friday. Offered when the event starts on a weekday
 - All days of the last week of every month
-- The first / second / third / fourth / last *day of the week* of every month — for things like "the last Friday of the month"
+- The first / second / third / fourth / last **Thursday** of every month — the weekday is filled in from the date you picked, so a Friday event offers "the last Friday of the month" instead
 
 **Repeat Ends**
 
