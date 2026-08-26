@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/calendar.png" alt="Kalendár" width="280">
 
-Mesačná mriežka je domovská obrazovka. Potiahnutím doľava a doprava sa presúvate medzi mesiacmi, klepnutím na deň sa pod ním otvorí zoznam jeho udalostí.
+Mesačný kalendár je domovská obrazovka. Potiahnutím doľava a doprava sa presúvate medzi mesiacmi, klepnutím na deň sa pod ním otvorí zoznam jeho udalostí.
 
-- Pri každom dni je farebný pruh za každú udalosť a značka **+N**, keď sa ich viac nezmestí.
+- Pri každom dni je farebný pruh za každú udalosť a značka **+N**, keď má deň viac udalostí, než sa do riadka zmestí.
 - Denný zoznam má poradie: úlohy bez času → úlohy s časom → termíny → sviatky → udalosti z externých kalendárov.
 - Klepnutím na hlavičku preskočíte na ľubovoľný dátum, alebo si ho vyberte priamo cez **Presunúť dátum**.
 
-Ako hustá mriežka bude — výška riadka, veľkosť písma udalostí, tučný text, farebné pruhy, názvy sviatkov, lunárny kalendár — sa dá celé prepnúť. Pozrite si [Prispôsobenie](./05-personalization.md).
+Koľko toho každý deň ukáže, je na vás: množstvo detailov pri udalosti, veľkosť písma, farby, názvy sviatkov aj lunárny kalendár. [Prispôsobenie](./05-personalization.md) rozoberá každé nastavenie po mene.
 
 ---
 
 ## Úlohy a termíny
 
-Aplikácia má dva druhy udalostí a rozdiel je v tom, či sa daná vec dá *splniť*.
+Aplikácia má dva druhy udalostí a rozdiel je v tom, či tú vec odškrtávate.
 
 | | Úloha | Termín |
 |---|---|---|
@@ -28,21 +28,21 @@ Aplikácia má dva druhy udalostí a rozdiel je v tom, či sa daná vec dá *spl
 | Splnenie | Áno — odškrtnete ju | Nie |
 | Bez času | Zostáva v sekcii **Aktuálny zoznam úloh**, kým ju nedokončíte | Nie je možné |
 
-**Úloha bez času** je na niečo, čo treba urobiť čoskoro, ale ešte to nemá svoj termín. Zostáva navrchu kalendára a vo widgete Aktuálny zoznam úloh, kým ju nesplníte.
+**Úloha bez času** je na niečo, čo treba urobiť čoskoro, ale ešte to nemá svoj termín. Zostáva navrchu kalendára a vo widgete **Aktuálny zoznam úloh**, kým ju nesplníte.
 
 Kedykoľvek môžete prevádzať oboma smermi — **Zmeniť na termín** / **Zmeniť na úlohu** v ponuke ďalších možností udalosti. Na prevod úlohy na termín je potrebný čas.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/event-detail.png" alt="Detail udalosti" width="280">
 
-Každá udalosť môže niesť **miesto** (s náhľadom mapy a otvorením v obľúbenej mapovej aplikácii jedným klepnutím), **odkaz** s náhľadom a **poznámku**.
+Pri každej udalosti môže byť **Miesto**, **Odkaz** a **Poznámka**. Miesto ukáže náhľad mapy a jedným klepnutím sa otvorí v obľúbenej mapovej aplikácii; Odkaz má vlastný náhľad.
 
 ---
 
 ## Pridávanie udalostí
 
-Tri cesty dnu, podľa toho, koľko toho chcete napísať:
+Tri spôsoby, ako pridať udalosť — podľa toho, koľko toho chcete napísať:
 
-- **Rýchle pridanie** — vstupné pole naspodku denného zoznamu. Napíšte názov, potvrďte a máte úlohu.
+- **Rýchle pridanie** — vstupné pole naspodku denného zoznamu. Napíšte názov, potvrďte a úloha je vytvorená.
 - **Podrobné zadanie** — klepnutím na **+** otvoríte editor s časom, opakovaním, upozorneniami, typom udalosti, miestom, odkazom a poznámkou.
 - **Rýchle zadávanie AI** — opíšte to bežnou rečou a aplikácia udalosť zostaví za vás. Pozrite si [Rýchle zadávanie AI](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Tri cesty dnu, podľa toho, koľko toho chcete napísať:
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/repeat-options.png" alt="Možnosti opakovania" width="240">
 
-Namiesto skladania pravidla z rozbaľovacích ponúk aplikácia prečíta dátum, ktorý ste vybrali, a ponúkne k nemu hotové možnosti. Vyberte štvrtok a v zozname doslova stojí **Každý týždeň: štvrtok** a **Tretí štvrtok každého mesiaca**.
+Namiesto skladania pravidla opakovania z rozbaľovacích ponúk aplikácia prečíta dátum, ktorý ste vybrali, a ponúkne k nemu hotové možnosti. Vyberte štvrtok a zoznam ponúkne **Každý týždeň: štvrtok** a **Tretí štvrtok každého mesiaca**.
 
 **Bežné intervaly**
 
@@ -68,22 +68,22 @@ Namiesto skladania pravidla z rozbaľovacích ponúk aplikácia prečíta dátum
 
 - Každý pracovný deň — od pondelka do piatka. Ponúkne sa, keď sa udalosť začína v pracovný deň
 - Všetky dni posledného týždňa každého mesiaca
-- Prvý / Druhý / Tretí / Štvrtý / Posledný *deň v týždni* každého mesiaca — na veci ako „posledný piatok v mesiaci“
+- Prvý / Druhý / Tretí / Štvrtý / Posledný **štvrtok** každého mesiaca — deň v týždni sa doplní z vybraného dátumu, takže udalosť v piatok dostane **Posledný piatok každého mesiaca**
 
 **Koniec opakovania**
 
-Keď si vyberiete opakovanie, zvoľte, ako sa skončí: **Nikdy**, **Dňa** ku konkrétnemu dátumu, alebo **Po** určitom počte výskytov.
+Keď si vyberiete opakovanie, zvoľte, kedy sa skončí: **Nikdy** ho nechá bežať bez konca, **Dňa** určí pevný dátum konca a **Po** obmedzí počet opakovaní.
 
 Opakujúce sa úlohy sa správajú inak ako opakujúce sa termíny:
 
-- Nesplnené opakovanie zostáva viditeľné v dnešnom kalendári aj po tom, čo jeho čas uplynie — nepresunie sa potichu dopredu.
+- Nesplnené opakovanie zostáva viditeľné v dnešnom kalendári aj po tom, čo jeho čas uplynie — sám neprejde na ďalší výskyt.
 - Splnením sa daný výskyt zaradí medzi splnené úlohy a vytvorí sa ďalší.
 - **Preskočiť túto úlohu** vás posunie na ďalší výskyt bez toho, aby sa označila ako splnená.
 - Keď má opakovanie podmienku konca a ďalší výskyt už neexistuje, séria sa skončí.
 
 Keď upravujete alebo mažete jeden výskyt opakujúcej sa udalosti, vyberáte si rozsah: **Iba tentokrát**, **Od teraz**, alebo **Všetky udalosti**.
 
-Pri udalostiach z pripojeného externého kalendára sa lunárna možnosť neponúka — taký kalendár ju nevie vyjadriť.
+Pri udalostiach z pripojeného externého kalendára sa lunárna možnosť neponúka — externé kalendáre nemajú kam pravidlo lunárneho opakovania uložiť.
 
 ---
 
@@ -109,7 +109,7 @@ Ku každej udalosti si nastavte toľko upozornení, koľko potrebujete.
 - **Celodenné udalosti** — o 9:00 alebo na obed v daný deň, prípadne o 9:00 1 / 2 / 7 dní vopred.
 - **Vlastný čas** — vyberte si ľubovoľný odstup.
 
-Predvolené hodnoty pre udalosti s časom a pre celodenné udalosti sa v Nastaveniach určujú osobitne, takže nové udalosti prídu už pripravené. Upozornenia potrebujú povolenie na upozornenia; ak je vypnuté, aplikácia vás nasmeruje do Nastavení iOS.
+Predvolené hodnoty pre udalosti s časom a pre celodenné udalosti sa v Nastaveniach určujú osobitne, takže nové udalosti už majú upozornenia nastavené. Upozornenia potrebujú povolenie na upozornenia; ak je vypnuté, aplikácia vás nasmeruje do Nastavení iOS.
 
 ---
 
@@ -123,7 +123,7 @@ Ako najdôležitejšie sa dajú nastaviť úlohy a neopakujúce sa termíny. Opa
 
 ## Nesplnené úlohy
 
-Úlohy, ktorým už uplynul čas a neboli splnené, sa zbierajú v sekcii **Nesplnené úlohy** navrchu kalendára, takže zmeškaná vec neodroluje z dohľadu do minulého týždňa.
+Úlohy, ktorým už uplynul čas a neboli splnené, sa zbierajú v sekcii **Nesplnené úlohy** navrchu kalendára, takže zmeškaná úloha nezostane zapadnutá na minulom dátume.
 
 Úlohy bez času a budúce úlohy sa medzi nesplnené nerátajú — jednoducho ešte nie sú po termíne. Ak túto sekciu nechcete vidieť, v Nastaveniach ju môžete celú skryť.
 

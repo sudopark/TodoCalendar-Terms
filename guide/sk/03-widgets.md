@@ -4,7 +4,7 @@
 
 ---
 
-Zmyslom kalendárového widgetu je nemusieť kalendár otvárať. To-do Calendar prináša širokú sadu, aby ste si vybrali ten, ktorý sedí tomu, ako si deň naozaj kontrolujete — jedna ďalšia udalosť, celý mesiac, alebo zoznam úloh so zaškrtávacími políčkami, na ktoré sa dá klepnúť.
+Widget je na to, aby ste nemuseli otvárať aplikáciu len preto, aby ste videli, čo príde ďalej. To-do Calendar prináša širokú sadu, aby ste si vybrali ten, ktorý sedí tomu, ako si deň naozaj kontrolujete — jedna ďalšia udalosť, celý mesiac, alebo zoznam úloh so zaškrtávacími políčkami, na ktoré sa dá klepnúť.
 
 ---
 
@@ -14,7 +14,7 @@ Zmyslom kalendárového widgetu je nemusieť kalendár otvárať. To-do Calendar
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-today-and-next.png" alt="Widget Dnes a čo bude ďalej" width="360">
 
-Vľavo dnešný dátum a to, čo z dneška zostáva, vpravo to, čo príde ďalej. Najhutnejší jediný pohľad na „čo teraz a čo potom“.
+Vľavo dnešný dátum a to, čo z dneška zostáva, vpravo to, čo príde ďalej. Žiadny iný widget neukáže naraz toľko.
 
 *Stredný.*
 
@@ -46,7 +46,7 @@ Tá jedna udalosť, ktorú ste pripli ako najdôležitejšiu, stále na očiach.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/widget-month.png" alt="Widget Kalendár" width="360">
 
-Samotná kalendárová mriežka, v rozsahu, aký chcete:
+Samotný kalendár, v rozsahu, aký chcete:
 
 | Widget | Veľkosť |
 |---|---|
@@ -61,8 +61,8 @@ Dva panely v jednom widgete, keď jediný pohľad nestačí:
 
 | Widget | Ukazuje | Veľkosť |
 |---|---|---|
-| DNES + Kalendár | Zhrnutie dneška vedľa mesačnej mriežky | Stredný |
-| Udalosti + Kalendár | Nadchádzajúce udalosti vedľa mesačnej mriežky | Stredný |
+| DNES + Kalendár | Zhrnutie dneška vedľa mesačného kalendára | Stredný |
+| Udalosti + Kalendár | Nadchádzajúce udalosti vedľa mesačného kalendára | Stredný |
 | Udalosti + Najdôležitejšie | Nadchádzajúce udalosti vedľa vašej pripnutej udalosti | Stredný |
 | Kalendár + Kalendár | Dva mesiace vedľa seba | Stredný |
 
@@ -90,10 +90,10 @@ Viaceré widgety majú podobu pre uzamknutú obrazovku: **Ďalšia udalosť** (v
 
 ### Odpočet cez Živú aktivitu
 
-Dajte si udalosť na uzamknutú obrazovku a sledujte, ako sa čas do nej odpočítava — rovnaký pohľad máte aj v Dynamic Island. V ponuke ďalších možností udalosti zvoľte **Zobraziť na uzamknutej obrazovke**.
+Dajte si udalosť na uzamknutú obrazovku a sledujte, ako sa odpočítava — rovnaký pohľad máte aj v Dynamic Island. V ponuke ďalších možností udalosti zvoľte **Zobraziť na uzamknutej obrazovke**.
 
 - Dostupné pre udalosti, ktoré sa začínajú v najbližších 8 hodinách.
-- Vždy len jedna udalosť naraz — pri výbere novej sa aplikácia opýta, či má tú súčasnú nahradiť.
+- Vždy len jedna udalosť naraz — vyberte novú a aplikácia sa opýta, či má tú súčasnú nahradiť.
 - Úlohy sa dajú splniť priamo zo Živej aktivity.
 
 ---

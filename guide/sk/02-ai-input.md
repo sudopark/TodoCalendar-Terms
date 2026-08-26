@@ -4,7 +4,7 @@
 
 ---
 
-Opíšte bežnou rečou, čo chcete, a aplikácia to za vás zostaví — „obed so Sárou v piatok napoludnie“, „presuň zubára na budúci utorok“, „označ pranie ako hotové“. Žiadne formuláre, žiadne vyberanie dátumu z kolieska.
+Opíšte bežnou rečou, čo chcete, a aplikácia to za vás zostaví — „obed so Sárou v piatok napoludnie“, „presuň zubára na budúci utorok“, „označ pranie ako hotové“. Žiadne formuláre, žiadne vyberanie dátumu.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/ai-input.png" alt="Rýchle zadávanie AI" width="280">
 
@@ -43,7 +43,7 @@ Povedzte **„Pridať pomocou AI v To-do Calendar“** — alebo „Pridať term
 
 ### Tlačidlo Akcia
 
-Priraďte tlačidlu Akcia skratku **Pridať pomocou AI**. Jedno stlačenie, poviete tú vec a hotovo — aplikácia sa vôbec nemusí dostať do popredia.
+Priraďte tlačidlu Akcia skratku **Pridať pomocou AI**. Jedno stlačenie, poviete, čo chcete pridať, a odošle sa — aplikácia sa vôbec nemusí otvoriť.
 
 ### Widget a Ovládacie centrum
 
@@ -52,7 +52,7 @@ Priraďte tlačidlu Akcia skratku **Pridať pomocou AI**. Jedno stlačenie, povi
 
 ### Hárok zdieľania
 
-Pošlite **text alebo obrázok z ktorejkoľvek inej aplikácie** rovno do AI v To-do Calendar. Čítate správu s podrobnosťami o stretnutí alebo si vo Fotkách prezeráte plagát? Klepnite na zdieľanie, vyberte To-do Calendar, prípadne pridajte pokyn a odošlite.
+Pošlite **text alebo obrázok z ktorejkoľvek inej aplikácie** rovno do AI v To-do Calendar. Čítate správu s podrobnosťami o stretnutí alebo si vo Fotkách prezeráte plagát? Klepnite na Zdieľať, vyberte To-do Calendar, ak chcete, pridajte pokyn, a odošlite.
 
 Aj požiadavka z hárka zdieľania beží na pozadí. Dostanete potvrdenie, že bola odoslaná, a výsledok si pozriete v aplikácii.
 
@@ -67,15 +67,15 @@ Aj požiadavka z hárka zdieľania beží na pozadí. Dostanete potvrdenie, že 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/ai-result.png" alt="Výsledok AI" width="280">
 
-Naraz beží iba jedna požiadavka. Ak pošlete ďalšiu, kým predchádzajúca stále čaká na vaše schválenie, aplikácia vám povie, aby ste najprv vybavili tú prvú.
+Naraz beží iba jedna požiadavka. Ak pošlete ďalšiu, kým predchádzajúca stále čaká na vaše schválenie, aplikácia vás požiada, aby ste najprv skontrolovali tú čakajúcu.
 
 ---
 
 ## Kredity
 
-Požiadavky AI čerpajú z **denného limitu, ktorý sa každý deň obnoví**. Koľko vám zostáva, vidíte navrchu obrazovky zadávania AI, takže vždy viete, ako na tom pred odoslaním ste.
+Každá požiadavka AI míňa **kredity** a tie sa každý deň dopĺňajú. Koľko vám ich zostáva, vidíte navrchu obrazovky zadávania AI, takže to viete ešte pred odoslaním.
 
-Keď sa limit vyčerpá, rýchle zadávanie AI si dá pauzu až do ďalšieho obnovenia. Všetko ostatné v aplikácii funguje ďalej.
+Keď ich miniete, rýchle zadávanie AI počká na doplnenie na ďalší deň. Všetko ostatné v aplikácii funguje ďalej.
 
 ---
 

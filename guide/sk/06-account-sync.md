@@ -6,9 +6,9 @@
 
 ## Účet nepotrebujete
 
-To-do Calendar funguje **primárne offline**. Každá udalosť, ktorú vytvoríte, sa najprv zapíše do zariadenia, takže aplikácia sa otvorí okamžite, funguje aj v lietadle a nikdy vás nezablokuje sieťové volanie.
+To-do Calendar funguje **primárne offline**. Každá udalosť, ktorú vytvoríte, sa najprv zapíše do zariadenia, takže aplikácia sa otvorí okamžite, funguje aj v lietadle a nikdy vás nenechá čakať na sieť.
 
-Nie je to okresaný režim — vytváranie udalostí, pravidlá opakovania, upozornenia, typy udalostí, sviatky, widgety aj externé kalendáre fungujú úplne bez účtu. Nič nie je zamknuté za registráciou.
+Nie je to obmedzený režim — vytváranie udalostí, pravidlá opakovania, upozornenia, typy udalostí, sviatky, widgety aj externé kalendáre fungujú úplne bez účtu. Nič nie je zamknuté, kým sa nezaregistrujete.
 
 ---
 
@@ -32,9 +32,9 @@ Nemusíte robiť nič a po ceste sa nič nemaže.
 
 ## Udržiavanie synchronizácie
 
-Synchronizácia beží sama na pozadí — po zmenách, keď sa aplikácia vráti do popredia, aj priebežne, kým sa nepozeráte. Keď skončí, obnovia sa aj widgety.
+Synchronizácia beží sama na pozadí — po zmenách, keď sa aplikácia vráti do popredia, a priebežne medzi tým. Keď skončí, obnovia sa aj widgety.
 
-Ak niečo vyzerá zastarane, **Vynútiť synchronizáciu** v nastaveniach udalostí zahodí lokálnu pozíciu synchronizácie a stiahne všetko nanovo od začiatku.
+Ak niečo vyzerá zastarane, **Vynútiť synchronizáciu** v nastaveniach udalostí zmaže to, čo už aplikácia synchronizovala, a stiahne všetko nanovo od začiatku.
 
 Ak sa tá istá udalosť zmenila na dvoch miestach, vyhráva verzia zo servera.
 

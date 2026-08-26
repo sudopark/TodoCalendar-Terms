@@ -4,14 +4,14 @@
 
 **Vaše úlohy aj váš program v jednom kalendári.**
 
-Väčšina kalendárov pojme len stretnutia a väčšina aplikácií na úlohy nemá zmysel pre mesiac. To-do Calendar drží oboje v tej istej mriežke: termín sedí na dni, keď sa koná, a úloha vám zostáva na očiach, kým ju naozaj neodškrtnete — aj keď k nej nemáte priradený čas.
+Kalendár vám ukáže stretnutia, ale nie to, čo máte vybaviť. Aplikácia na úlohy vám ukáže zoznam, ale nikdy nie to, kam tie veci v mesiaci padnú. To-do Calendar drží oboje v tom istom kalendári: termín sedí na dni, keď sa koná, a úloha vám zostáva na očiach, kým ju naozaj neodškrtnete — aj keď k nej nemáte priradený čas.
 
 Funguje úplne offline a bez účtu. Prihláste sa iba vtedy, keď chcete mať údaje zálohované a synchronizované medzi zariadeniami.
 
 - **Jeden kalendár, oba druhy práce** — termíny a úlohy vedľa seba, farebne odlíšené podľa vašich vlastných typov udalostí
-- **Úlohy, ktoré nezmiznú** — úlohy bez času a úlohy po termíne zostávajú pripnuté hore namiesto toho, aby odrolovali do minulosti
+- **Úlohy, ktoré nezmiznú** — úlohy bez času a úlohy po termíne zostávajú pripnuté hore namiesto toho, aby zapadli na minulom dátume
 - **Pridávanie rozprávaním** — opíšte udalosť bežnou rečou cez rýchle zadávanie AI, Siri alebo tlačidlo Akcia
-- **Prehľad bez otvárania** — široká sada widgetov pre plochu, uzamknutú obrazovku a Ovládacie centrum
+- **Prehľad o dni bez otvárania aplikácie** — široká sada widgetov pre plochu, uzamknutú obrazovku a Ovládacie centrum
 - **Vezmite si so sebou ostatné kalendáre** — pripojte Google Kalendár a Apple Kalendár a majte všetko na jednom mieste
 
 ---
