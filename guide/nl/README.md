@@ -4,14 +4,14 @@
 
 **Je taken en je afspraken, op één kalender.**
 
-De meeste kalenders bevatten alleen afspraken, en de meeste taken-apps hebben geen gevoel voor een maand. To-do Calendar houdt allebei in hetzelfde raster: een afspraak staat op de dag waarop hij plaatsvindt, en een taak blijft voor je neus staan tot je hem echt afvinkt — ook als er geen tijd aan hangt.
+Een kalender laat je je afspraken zien, maar niet wat je nog moet doen. Een taken-app geeft je een lijst, maar nooit waar die dingen in de maand vallen. To-do Calendar houdt allebei op dezelfde kalender: een afspraak staat op de dag waarop hij plaatsvindt, en een taak blijft voor je neus staan tot je hem echt afvinkt — ook als er geen tijd aan hangt.
 
 De app werkt volledig offline en zonder account. Log alleen in als je een back-up van je gegevens wilt en ze wilt synchroniseren tussen je apparaten.
 
 - **Eén kalender, twee soorten werk** — afspraken en taken naast elkaar, met de kleuren van je eigen gebeurtenistypen
-- **Taken die niet verdwijnen** — taken zonder tijd en taken over hun datum blijven boven aan staan in plaats van naar het verleden te schuiven
+- **Taken die niet verdwijnen** — taken zonder tijd en taken over hun datum blijven boven aan staan in plaats van achter te blijven op een datum die al voorbij is
 - **Toevoegen door te praten** — beschrijf een gebeurtenis in gewone taal via AI-snelinvoer, Siri of de actieknop
-- **Zien zonder te openen** — een brede set widgets voor het beginscherm, het toegangsscherm en het bedieningspaneel
+- **Je dag zien zonder de app te openen** — een brede set widgets voor het beginscherm, het toegangsscherm en het bedieningspaneel
 - **Neem je andere agenda's mee** — koppel Google Calendar en Apple Calendar en zie alles op één plek
 
 ---

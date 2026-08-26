@@ -4,7 +4,7 @@
 
 ---
 
-Het nut van een kalenderwidget is dat je de kalender niet hoeft te openen. To-do Calendar levert een brede set, zodat je er een kunt kiezen die past bij hoe jij je dag echt bekijkt — één volgende gebeurtenis, een hele maand, of je takenlijst met vakjes die je kunt aantikken.
+Een widget is er zodat je de app niet hoeft te openen alleen om te zien wat er hierna komt. To-do Calendar levert een brede set, zodat je er een kunt kiezen die past bij hoe jij je dag echt bekijkt — één volgende gebeurtenis, een hele maand, of je takenlijst met vakjes die je kunt aantikken.
 
 ---
 
@@ -14,9 +14,9 @@ Het nut van een kalenderwidget is dat je de kalender niet hoeft te openen. To-do
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-today-and-next.png" alt="Widget Vandaag en wat komt hierna" width="360">
 
-Links de datum van vandaag en wat er van vandaag over is, rechts wat er hierna komt. De dichtste weergave van "wat nu, wat daarna" in één widget.
+Links de datum van vandaag en wat er van vandaag over is, rechts wat er hierna komt. Geen andere widget toont zoveel tegelijk.
 
-*Medium.*
+*Middelgroot.*
 
 ### Gebeurtenissen
 
@@ -24,7 +24,7 @@ Links de datum van vandaag en wat er van vandaag over is, rechts wat er hierna k
 
 Een doorlopende lijst met aankomende gebeurtenissen, gegroepeerd per dag, inclusief je huidige taken. Er zijn drie formaten; hoe groter, hoe meer dagen je ziet.
 
-*Klein · Medium · Groot.*
+*Klein · Middelgroot · Groot.*
 
 ### VANDAAG
 
@@ -40,18 +40,18 @@ Alleen vandaag — de datum, de feestdag als die er is, en hoeveel taken en afsp
 
 De ene gebeurtenis die je als belangrijkste hebt vastgezet, altijd in beeld. Zie [Belangrijkste gebeurtenis](./01-basics.md#belangrijkste-gebeurtenis).
 
-*Inline op het toegangsscherm · Klein · Medium.*
+*Inline op het toegangsscherm · Klein · Middelgroot.*
 
 ### Kalender en weken
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-month.png" alt="Widget Kalender" width="360">
 
-Het kalenderraster zelf, in het bereik dat je wilt:
+De kalender zelf, in het bereik dat je wilt:
 
 | Widget | Formaat |
 |---|---|
 | Kalender | Klein |
-| Deze week · 2 weken | Medium |
+| Deze week · 2 weken | Middelgroot |
 | 3 weken · 4 weken | Groot |
 | Vorige maand · Deze maand · Volgende maand | Groot |
 
@@ -61,10 +61,10 @@ Twee panelen in één widget, als één weergave niet genoeg is:
 
 | Widget | Toont | Formaat |
 |---|---|---|
-| VANDAAG + Kalender | De samenvatting van vandaag naast het maandraster | Medium |
-| Gebeurtenissen + Kalender | Aankomende gebeurtenissen naast het maandraster | Medium |
-| Gebeurtenissen + Belangrijkste | Aankomende gebeurtenissen naast je vastgezette gebeurtenis | Medium |
-| Kalender + Kalender | Twee maanden naast elkaar | Medium |
+| VANDAAG + Kalender | De samenvatting van vandaag naast de maandkalender | Middelgroot |
+| Gebeurtenissen + Kalender | Aankomende gebeurtenissen naast de maandkalender | Middelgroot |
+| Gebeurtenissen + Belangrijkste | Aankomende gebeurtenissen naast je vastgezette gebeurtenis | Middelgroot |
+| Kalender + Kalender | Twee maanden naast elkaar | Middelgroot |
 
 ### Toevoegen met AI
 

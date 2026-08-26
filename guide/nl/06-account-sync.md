@@ -32,9 +32,9 @@ Je hoeft niets te doen, en er gaat onderweg niets verloren.
 
 ## Synchroon blijven
 
-Synchronisatie draait vanzelf op de achtergrond — na wijzigingen, wanneer de app terugkomt naar de voorgrond, en periodiek terwijl je niet kijkt. Zodra het klaar is, vernieuwen de widgets.
+Synchronisatie draait vanzelf op de achtergrond — na wijzigingen, wanneer de app terugkomt naar de voorgrond, en met tussenpozen daartussen. Zodra het klaar is, vernieuwen de widgets.
 
-Ziet iets er verouderd uit, dan gooit **Synchronisatie forceren** in de gebeurtenisinstellingen de lokale synchronisatiepositie weg en haalt alles opnieuw vanaf nul op.
+Ziet iets er verouderd uit, dan wist **Synchronisatie forceren** in de gebeurtenisinstellingen wat de app al gesynchroniseerd heeft en haalt alles opnieuw vanaf nul op.
 
 Is dezelfde gebeurtenis op twee plekken gewijzigd, dan wint de versie van de server.
 

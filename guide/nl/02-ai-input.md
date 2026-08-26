@@ -4,7 +4,7 @@
 
 ---
 
-Beschrijf in gewone taal wat je wilt en de app bouwt het voor je — "vrijdag om twaalf uur lunchen met Sara", "verplaats de tandarts naar volgende week dinsdag", "vink de was af". Geen formulieren, geen datum uit een wieltje kiezen.
+Beschrijf in gewone taal wat je wilt en de app bouwt het voor je — "vrijdag om twaalf uur lunchen met Sara", "verplaats de tandarts naar volgende week dinsdag", "vink de was af". Geen formulieren, geen datumkiezers.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/ai-input.png" alt="AI-snelinvoer" width="280">
 
@@ -48,7 +48,7 @@ Koppel de actieknop aan de opdracht **Toevoegen met AI**. Eén keer drukken, het
 ### Widget en bedieningspaneel
 
 - **Widget Toevoegen met AI** — een widget voor het beginscherm of toegangsscherm die met één tik het AI-invoerscherm opent.
-- **Bedieningspaneel** (iOS 18 en later) — voeg dezelfde bediening toe aan het bedieningspaneel voor een ingang binnen handbereik.
+- **Bedieningspaneel** (iOS 18 en later) — voeg dezelfde bediening toe aan het bedieningspaneel, zodat je er met een veeg omlaag bij kunt.
 
 ### Deelmenu
 
@@ -73,9 +73,9 @@ Er draait maar één verzoek tegelijk. Stuur je er nog een terwijl het vorige no
 
 ## Credits
 
-AI-verzoeken putten uit een **dagelijks tegoed dat elke dag opnieuw wordt ingesteld**. Wat er over is, staat boven aan het AI-invoerscherm, dus je weet altijd waar je staat voor je verstuurt.
+Elk AI-verzoek kost **credits**, en je credits worden elke dag bijgevuld. Hoeveel je er nog hebt staat boven aan het AI-invoerscherm, dus je weet het al voor je verstuurt.
 
-Is het tegoed op, dan pauzeert AI-snelinvoer tot de volgende keer dat het wordt bijgevuld. Al het andere in de app blijft gewoon werken.
+Zijn ze op, dan wacht AI-snelinvoer op de bijvulling van de volgende dag. Al het andere in de app blijft gewoon werken.
 
 ---
 

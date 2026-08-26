@@ -18,10 +18,10 @@ Alles op dit scherm is meteen zichtbaar in het voorbeeld terwijl je het wijzigt,
 
 | Instelling | Wat het doet |
 |---|---|
-| Eerste dag van de week | Op welke dag het raster begint |
+| Eerste dag van de week | Op welke dag de kalender begint |
 | Geaccentueerde dagen | Zondagen, zaterdagen en feestdagen kleuren — elk apart in te schakelen |
 | Onderstrepen op dagen met gebeurtenissen | Markeert dagen waarop iets staat |
-| Detailniveau van gebeurtenisweergave | Hoe hoog elke rij is — Minimaal, Gemiddeld of Volledig. Hogere rijen tonen namen van gebeurtenissen in plaats van stipjes |
+| Detailniveau van gebeurtenisweergave | Hoeveel ruimte elke dag krijgt — Minimaal, Gemiddeld of Volledig. Met meer ruimte verschijnen namen van gebeurtenissen in plaats van stipjes |
 | Lettergrootte van gebeurtenistekst | Maak gebeurtenistekst iets groter of kleiner |
 | Vetgedrukte tekst | Zwaardere namen van gebeurtenissen |
 | Kleur van gebeurtenis | Toon of verberg de gekleurde balk naast elke gebeurtenis |
@@ -39,9 +39,9 @@ Volg het systeem, of zet de app vast op **Licht** of **Donker**, ongeacht wat iO
 
 ### Widgetthema
 
-Widgets gebruiken standaard het systeemthema. Stap over op een aangepaste kleur en kies elke achtergrond die je wilt — de app leidt uit de helderheid van je kleur af of de tekst licht of donker moet zijn.
+Widgets gebruiken standaard **Systeemthema gebruiken**. Met **Aangepaste kleur selecteren** kies je elke achtergrond die je wilt — de app leidt uit de helderheid van die kleur af of de tekst licht of donker moet zijn.
 
-### Gevoel
+### Bediening en beweging
 
 - **Trilfeedback** — kleine tikjes terwijl je de app bedient
 - **Animaties beperken** — minder beweging, voor een rustiger en snellere indruk
@@ -67,7 +67,7 @@ Hier koppel je ook **externe agenda's** — zie [Externe agenda's](./04-external
 
 Kies je land en de officiële feestdagen ervan verschijnen op de kalender. De app selecteert vooraf het land waarop je apparaat is ingesteld, en je kunt het op elk moment wijzigen.
 
-Niet elke feestdag is er een die jij viert. **Verberg** er een en hij verschijnt niet meer, elk jaar; verborgen feestdagen staan onder aan hetzelfde scherm, zodat je er later een kunt terughalen.
+Niet elke feestdag is er een die jij viert. **Verberg** er een en hij verschijnt niet meer, elk jaar; verborgen feestdagen staan onder **Verborgen feestdagen** op hetzelfde scherm, zodat je er later een met **Tonen** kunt terughalen.
 
 ---
 
