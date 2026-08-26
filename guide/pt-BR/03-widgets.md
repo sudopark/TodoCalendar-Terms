@@ -4,7 +4,7 @@
 
 ---
 
-A razão de existir de um widget de calendário é você não precisar abrir o calendário. O To-do Calendar traz um conjunto amplo para você escolher o que combina com o seu jeito de conferir o dia — um único próximo evento, o mês inteiro, ou sua lista de tarefas com caixas de seleção que dá para tocar.
+Um widget existe para você não precisar abrir o app só para saber o que vem a seguir. O To-do Calendar traz um conjunto amplo para você escolher o que combina com o seu jeito de conferir o dia — um único próximo evento, o mês inteiro, ou sua lista de tarefas com caixas de seleção que dá para tocar.
 
 ---
 
@@ -14,7 +14,7 @@ A razão de existir de um widget de calendário é você não precisar abrir o c
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-today-and-next.png" alt="Widget Hoje e o que vem a seguir" width="360">
 
-A data de hoje e o que resta do dia à esquerda; o que vem a seguir à direita. A visão mais densa de "o que agora, o que depois".
+A data de hoje e o que resta do dia à esquerda; o que vem a seguir à direita. Nenhum outro widget mostra tanta coisa de uma vez.
 
 *Médio.*
 
@@ -46,7 +46,7 @@ O único evento que você fixou como o mais importante, sempre à vista. Veja [E
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/widget-month.png" alt="Widget de mês" width="360">
 
-A própria grade do calendário, no intervalo que você quiser:
+O próprio calendário, no intervalo que você quiser:
 
 | Widget | Tamanho |
 |---|---|
@@ -61,8 +61,8 @@ Dois painéis em um só widget, quando uma visão só não basta:
 
 | Widget | Mostra | Tamanho |
 |---|---|---|
-| HOJE + Calendário | O resumo de hoje ao lado da grade do mês | Médio |
-| Eventos + Calendário | Os próximos eventos ao lado da grade do mês | Médio |
+| HOJE + Calendário | O resumo de hoje ao lado do calendário do mês | Médio |
+| Eventos + Calendário | Os próximos eventos ao lado do calendário do mês | Médio |
 | Eventos + Principal | Os próximos eventos ao lado do evento que você fixou | Médio |
 | Calendário + Calendário | Dois meses lado a lado | Médio |
 
