@@ -4,7 +4,7 @@
 
 ---
 
-Poängen med en kalenderwidget är att slippa öppna kalendern. To-do Calendar levererar ett brett utbud så att du kan välja den som passar hur du faktiskt kollar din dag – en enda nästa händelse, en hel månad, eller din uppgiftslista med rutor du kan trycka på.
+En widget finns där för att du inte ska behöva öppna appen bara för att se vad som kommer härnäst. To-do Calendar levererar ett brett utbud, så du kan välja den som passar hur du faktiskt kollar din dag – en enda nästa händelse, en hel månad, eller din uppgiftslista med rutor du kan trycka på.
 
 ---
 
@@ -14,17 +14,17 @@ Poängen med en kalenderwidget är att slippa öppna kalendern. To-do Calendar l
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-today-and-next.png" alt="Widgeten Idag och vad som väntar" width="360">
 
-Dagens datum och det som är kvar av idag till vänster, det som kommer härnäst till höger. Den tätaste enskilda vyn av "vad nu, vad sen".
+Dagens datum och det som är kvar av idag till vänster, det som kommer härnäst till höger. Ingen annan widget visar så mycket på en gång.
 
-*Mellan.*
+*Medium.*
 
 ### Händelser
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-event-list.png" alt="Widgeten Händelser" width="300">
 
-En löpande lista över kommande händelser grupperade per dag, inklusive din Aktuella uppgiftslista. Finns i tre storlekar och visar fler dagar ju större den blir.
+En löpande lista över kommande händelser grupperade per dag, inklusive **Aktuell uppgiftslista**. Finns i tre storlekar och visar fler dagar ju större den blir.
 
-*Liten · Mellan · Stor.*
+*Liten · Medium · Stor.*
 
 ### IDAG
 
@@ -40,18 +40,18 @@ Bara idag – datumet, helgdagen om det finns någon, och hur många uppgifter o
 
 Den enda händelse du fäst som viktigast, alltid i blickfånget. Se [Viktigaste händelsen](./01-basics.md#viktigaste-händelsen).
 
-*Låsskärm inline · Liten · Mellan.*
+*Låsskärm inline · Liten · Medium.*
 
 ### Månad och veckor
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/widget-month.png" alt="Widgeten Kalender" width="360">
 
-Själva kalenderrutnätet, i det omfång du vill ha:
+Själva månadskalendern, i det omfång du vill ha:
 
 | Widget | Storlek |
 |---|---|
 | Kalender | Liten |
-| Den här veckan · 2 veckor | Mellan |
+| Den här veckan · 2 veckor | Medium |
 | 3 veckor · 4 veckor | Stor |
 | Förra månaden · Den här månaden · Nästa månad | Stor |
 
@@ -61,10 +61,10 @@ Två paneler i en widget, när en enda vy inte räcker:
 
 | Widget | Visar | Storlek |
 |---|---|---|
-| IDAG + Kalender | Dagens sammanfattning bredvid månadsrutnätet | Mellan |
-| Händelser + Kalender | Kommande händelser bredvid månadsrutnätet | Mellan |
-| Händelser + Viktigast | Kommande händelser bredvid din fästa händelse | Mellan |
-| Kalender + Kalender | Två månader sida vid sida | Mellan |
+| IDAG + Kalender | Dagens sammanfattning bredvid månadskalendern | Medium |
+| Händelser + Kalender | Kommande händelser bredvid månadskalendern | Medium |
+| Händelser + Viktigast | Kommande händelser bredvid din fästa händelse | Medium |
+| Kalender + Kalender | Två månader sida vid sida | Medium |
 
 ### Lägg till med AI
 
@@ -100,7 +100,7 @@ Lägg en händelse på låsskärmen och se tiden till den räknas ned, med samma
 
 ## Kontrollcenter
 
-På iOS 18 och senare kan du lägga till reglaget **Lägg till med AI** i Kontrollcenter, så att ett svep nedåt och ett tryck tar dig till AI-inmatningen varifrån som helst.
+På iOS 18 och senare kan du lägga till kontrollen **Lägg till med AI** i Kontrollcenter, så att ett svep nedåt och ett tryck tar dig till AI-inmatningen varifrån som helst.
 
 ---
 

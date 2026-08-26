@@ -4,14 +4,14 @@
 
 **Dina uppgifter och dina möten – i en och samma kalender.**
 
-De flesta kalendrar rymmer bara möten, och de flesta uppgiftsappar har ingen känsla för en hel månad. To-do Calendar håller ihop båda i samma rutnät: ett möte ligger på dagen det händer, och en uppgift står kvar framför dig tills du faktiskt bockar av den – även om den inte har någon tid alls.
+En kalender visar dina möten, men inte det du måste få gjort. En uppgiftsapp ger dig en lista, men aldrig var sakerna landar i månaden. To-do Calendar håller ihop båda i samma kalender: ett möte ligger på dagen det händer, och en uppgift står kvar framför dig tills du faktiskt bockar av den – även om den inte har någon tid alls.
 
 Appen fungerar helt offline och utan konto. Logga in bara när du vill säkerhetskopiera dina data och synka dem mellan dina enheter.
 
 - **En kalender, två sorters göromål** – möten och uppgifter sida vid sida, färgkodade efter dina egna händelsetyper
-- **Uppgifter som inte försvinner** – uppgifter utan tid och försenade uppgifter stannar högst upp i stället för att glida bort bland gamla dagar
+- **Uppgifter som inte försvinner** – uppgifter utan tid och försenade uppgifter stannar högst upp i stället för att bli kvar på ett datum som redan passerat
 - **Lägg till genom att prata** – beskriv en händelse med vanliga ord via AI-snabbinmatning, Siri eller Åtgärdsknappen
-- **Se det utan att öppna appen** – ett brett utbud av widgetar för hemskärmen, låsskärmen och Kontrollcenter
+- **Se din dag utan att öppna appen** – ett brett utbud av widgetar för hemskärmen, låsskärmen och Kontrollcenter
 - **Ta med dina andra kalendrar** – anslut Google Kalender och Apple Kalender och se allt på ett ställe
 
 ---

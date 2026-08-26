@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/calendar.png" alt="Kalender" width="280">
 
-Månadsrutnätet är appens startvy. Svep åt vänster och höger för att byta månad, och tryck på en dag för att öppna dagens händelselista under rutnätet.
+Månadskalendern är appens startvy. Svep åt vänster och höger för att byta månad, och tryck på en dag för att öppna dagens händelselista under den.
 
-- Varje dag visar ett färgat streck per händelse, plus en **+N**-markering när det finns fler än vad som får plats.
+- Varje dag visar ett färgat streck per händelse, plus en **+N**-markering när dagen har fler händelser än raden hinner visa.
 - Dagslistan är sorterad så här: uppgifter utan tid → uppgifter med tid → möten → helgdagar → händelser från externa kalendrar.
 - Tryck på rubriken för att hoppa till valfritt datum, eller använd **Flytta datum** för att välja ett direkt.
 
-Hur tätt rutnätet ska vara – radhöjd, textstorlek för händelser, fet text, färgstreck, helgdagsnamn, månkalendern – går att ställa in. Se [Anpassning](./05-personalization.md).
+Hur mycket varje dag visar bestämmer du själv: hur mycket detalj varje händelse får, textstorleken, färgerna, helgdagarnas namn och månkalendern. [Anpassning](./05-personalization.md) går igenom varje inställning vid namn.
 
 ---
 
 ## Uppgifter och möten
 
-Appen har två sorters händelser, och skillnaden är om saken kan *slutföras* eller inte.
+Appen har två sorters händelser, och skillnaden är om det är något du bockar av.
 
 | | Uppgift | Möte |
 |---|---|---|
@@ -34,15 +34,15 @@ Du kan konvertera åt båda hållen när som helst – **Konvertera till möte**
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/event-detail.png" alt="Händelsedetaljer" width="280">
 
-Varje händelse kan bära en **plats** (med kartförhandsvisning och ett tryck för att öppna den i din kartapp), en **länk** med förhandsvisning och en **anteckning**.
+Varje händelse kan bära en **plats**, en **länk** och en **anteckning**. Platsen visas med kartförhandsvisning och öppnas med ett tryck i den kartapp du föredrar, och länken får en egen förhandsvisning.
 
 ---
 
 ## Lägga till händelser
 
-Tre vägar in, beroende på hur mycket du vill skriva:
+Tre sätt att lägga till en händelse, beroende på hur mycket du vill skriva:
 
-- **Snabbtillägg** – inmatningsfältet längst ned i dagslistan. Skriv ett namn, tryck retur, och du har en uppgift.
+- **Snabbtillägg** – inmatningsfältet längst ned i dagslistan. Skriv ett namn, tryck retur, så skapas uppgiften.
 - **Fullständig redigering** – tryck på **+** för att öppna redigeraren med tid, upprepning, påminnelser, händelsetyp, plats, länk och anteckning.
 - **AI-snabbinmatning** – beskriv det med vanliga ord och låt appen bygga händelsen. Se [AI-snabbinmatning](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ En uppgift behöver bara ett namn. Ett möte behöver ett namn och en tid.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/repeat-options.png" alt="Alternativ för upprepning" width="240">
 
-I stället för att be dig sätta ihop en regel av rullgardinsmenyer läser appen av datumet du valt och erbjuder färdiga alternativ för just det. Väljer du en torsdag står det bokstavligen **Varje Torsdag** och **Den tredje Torsdag i varje månad** i listan.
+I stället för att be dig sätta ihop en upprepningsregel av rullgardinsmenyer läser appen av datumet du valt och erbjuder färdiga alternativ för just det. Väljer du en torsdag erbjuder listan **Varje torsdag** och **Den tredje torsdagen i varje månad**.
 
 **Vanliga intervall**
 
@@ -68,22 +68,22 @@ I stället för att be dig sätta ihop en regel av rullgardinsmenyer läser appe
 
 - Varje vardag – måndag till fredag. Erbjuds när händelsen börjar på en vardag
 - Alla dagar i den sista veckan varje månad
-- Den första / andra / tredje / fjärde / sista *veckodagen* i varje månad – för sådant som "sista fredagen i månaden"
+- Den första / andra / tredje / fjärde / sista **torsdagen** i varje månad – veckodagen fylls i från datumet du valt, så en händelse på en fredag ger **Den sista fredagen i varje månad** i stället
 
 **Upprepning slutar**
 
-När du valt en upprepning bestämmer du hur den tar slut: **Aldrig**, **Den** ett visst datum, eller **Efter** ett antal gånger.
+När du valt en upprepning bestämmer du när den tar slut: **Aldrig** låter den löpa på, **Den** sätter ett bestämt slutdatum, och **Efter** stoppar den efter ett antal **gånger**.
 
 Återkommande uppgifter beter sig annorlunda än återkommande möten:
 
-- En upprepning som inte slutförts syns kvar i dagens kalender även efter att tiden passerat – den glider inte vidare i tysthet.
+- En upprepning som inte slutförts syns kvar i dagens kalender även efter att tiden passerat – den går inte vidare till nästa omgång av sig själv.
 - Slutför du den hamnar den omgången bland slutförda uppgifter och nästa omgång skapas.
 - **Hoppa över denna uppgift** tar dig till nästa omgång utan att markera den som klar.
 - När upprepningen har ett slutvillkor och det inte finns någon nästa omgång avslutas serien.
 
 När du redigerar eller tar bort en enskild omgång av en återkommande händelse väljer du omfattningen: **Endast denna gång**, **Från och med nu** eller **Alla händelser**.
 
-För händelser i en ansluten extern kalender erbjuds inte månkalenderalternativet – den kalendern har inget sätt att uttrycka det.
+För händelser i en ansluten extern kalender erbjuds inte månkalenderalternativet – externa kalendrar har ingenstans att lagra en regel för månkalenderupprepning.
 
 ---
 
@@ -107,9 +107,9 @@ Lägg till så många påminnelser per händelse som du behöver.
 
 - **Händelser med tid** – vid händelsens tidpunkt, eller 1 / 5 / 10 / 15 / 30 minuter, 1 / 2 timmar, 1 / 2 / 7 dagar innan.
 - **Heldagshändelser** – kl. 9 eller vid middagstid den dagen, eller kl. 9 1 / 2 / 7 dagar innan.
-- **Anpassad** – välj precis vilket försprång du vill.
+- **Anpassad** – välj precis hur långt före du vill bli påmind.
 
-Standardvärden för händelser med tid och för heldagshändelser ställs in var för sig under Inställningar, så nya händelser kommer färdigladdade. Påminnelser kräver aviseringsbehörighet, och appen visar vägen till iOS-inställningarna om den är avstängd.
+Standardvärden för händelser med tid och för heldagshändelser ställs in var för sig under Inställningar, så nya händelser redan har sina påminnelser inställda. Påminnelser kräver aviseringsbehörighet, och appen visar vägen till iOS-inställningarna om den är avstängd.
 
 ---
 
@@ -123,7 +123,7 @@ Uppgifter och möten som inte upprepas kan anges som viktigast. Återkommande m�
 
 ## Ej slutförda uppgifter
 
-Uppgifter vars tid redan passerat utan att de slutförts samlas i avsnittet **Ej slutförda uppgifter** högst upp i kalendern, så att något du missat inte glider ur sikte bland förra veckans dagar.
+Uppgifter vars tid redan passerat utan att de slutförts samlas i avsnittet **Ej slutförda uppgifter** högst upp i kalendern, så att en missad uppgift inte blir liggande begravd på ett datum som redan passerat.
 
 Uppgifter utan tid och uppgifter i framtiden räknas inte som ej slutförda – de har helt enkelt inte förfallit än. Du kan dölja hela avsnittet under Inställningar om du hellre slipper se det.
 
