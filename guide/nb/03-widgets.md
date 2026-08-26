@@ -4,7 +4,7 @@
 
 ---
 
-Poenget med en kalenderwidget er å slippe å åpne kalenderen. To-do Calendar kommer med et bredt utvalg, så du kan velge den som passer måten du faktisk sjekker dagen din på – én neste hendelse, en hel måned, eller oppgavelisten din med avkryssingsbokser du kan trykke på.
+En widget er der for at du ikke skal måtte åpne appen bare for å se hva som kommer nå. To-do Calendar kommer med et bredt utvalg, så du kan velge den som passer måten du faktisk sjekker dagen din på – én neste hendelse, en hel måned, eller oppgavelisten din med avkryssingsbokser du kan trykke på.
 
 ---
 
@@ -14,7 +14,7 @@ Poenget med en kalenderwidget er å slippe å åpne kalenderen. To-do Calendar k
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-today-and-next.png" alt="Widgeten I dag og hva som kommer" width="360">
 
-Dagens dato og det som er igjen av i dag til venstre, det som kommer nest til høyre. Den tetteste enkeltvisningen av «hva nå, hva etterpå».
+Dagens dato og det som er igjen av i dag til venstre, det som kommer nest til høyre. Ingen annen widget viser så mye på én gang.
 
 *Middels.*
 
@@ -22,7 +22,7 @@ Dagens dato og det som er igjen av i dag til venstre, det som kommer nest til h�
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-event-list.png" alt="Hendelseslistewidget" width="300">
 
-En løpende liste over kommende hendelser gruppert etter dag, inkludert Gjeldende oppgaveliste. Kommer i tre størrelser, og viser flere dager jo større den blir.
+En løpende liste over kommende hendelser gruppert etter dag, inkludert **Gjeldende oppgaveliste**. Kommer i tre størrelser, og viser flere dager jo større den blir.
 
 *Liten · Middels · Stor.*
 
@@ -46,7 +46,7 @@ Den ene hendelsen du festet som viktigst, alltid synlig. Se [Viktigste hendelse]
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-month.png" alt="Månedswidget" width="360">
 
-Selve kalenderrutenettet, i det omfanget du vil ha:
+Selve månedskalenderen, i det omfanget du vil ha:
 
 | Widget | Størrelse |
 |---|---|
@@ -61,8 +61,8 @@ To paneler i én widget, når én visning ikke er nok:
 
 | Widget | Viser | Størrelse |
 |---|---|---|
-| I DAG + kalender | Dagens sammendrag ved siden av månedsrutenettet | Middels |
-| Hendelser + kalender | Kommende hendelser ved siden av månedsrutenettet | Middels |
+| I DAG + kalender | Dagens sammendrag ved siden av månedskalenderen | Middels |
+| Hendelser + kalender | Kommende hendelser ved siden av månedskalenderen | Middels |
 | Hendelser + viktigst | Kommende hendelser ved siden av hendelsen du festet | Middels |
 | Kalender + kalender | To måneder side om side | Middels |
 

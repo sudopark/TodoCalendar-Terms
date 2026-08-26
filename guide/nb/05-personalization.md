@@ -18,7 +18,7 @@ Alt på denne skjermen forhåndsvises mens du endrer det, så du ser hvordan kal
 
 | Innstilling | Hva den gjør |
 |---|---|
-| Ukens første dag | Hvilken dag rutenettet starter på |
+| Ukens første dag | Hvilken ukedag kalenderen starter på |
 | Fremhevede dager | Gi farge til søndager, lørdager og helligdager – hver av dem slås av og på for seg |
 | Understrek dager med hendelser | Markerer dager der det skjer noe |
 | Detaljnivå for hendelser | Hvor høy hver rad er – Minimal, Middels eller Full. Høyere rader viser hendelsesnavn i stedet for prikker |
@@ -39,9 +39,9 @@ Følg **System**, eller lås appen til **Lyst** eller **Mørkt** uansett hva iOS
 
 ### Widget-tema
 
-Widgets bruker **Bruk systemtema** som standard. Bytt til **Velg egendefinert farge**, og velg akkurat den bakgrunnen du vil – appen finner ut om teksten skal være lys eller mørk ut fra hvor lys fargen din er.
+Som standard står **Bruk systemtema** på. Bytt til **Velg egendefinert farge**, og velg akkurat den bakgrunnen du vil – appen finner ut om teksten skal være lys eller mørk ut fra hvor lys fargen din er.
 
-### Følelse
+### Respons og bevegelse
 
 - **Haptisk tilbakemelding** – små dult mens du bruker appen
 - **Reduser animasjonseffekter** – demper bevegelsen for en roligere app som føles raskere
