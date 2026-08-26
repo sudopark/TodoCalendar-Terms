@@ -12,13 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/appearance-setting.png" alt="Megjelenés beállításai" width="280">
 
-Ezen a képernyőn minden élőben mutatja az előnézetet, ahogy változtat rajta, így már azelőtt látja, hogyan fog kinézni a naptár, hogy elköteleződne.
+Ezen a képernyőn minden élőben mutatja az előnézetet, ahogy változtat rajta, így már azelőtt látja, hogyan fog kinézni a naptár, hogy döntene.
 
 ### Naptár
 
 | Beállítás | Mit csinál |
 |---|---|
-| A hét első napja | Melyik nappal kezdődjön a rács |
+| A hét első napja | Melyik nappal kezdődjön a naptár |
 | Kiemelt napok | Színezze a vasárnapokat, a szombatokat és az ünnepeket — mindegyik külön kapcsolható |
 | Aláhúzás az eseményes napokon | Megjelöli azokat a napokat, amelyeken van valami |
 | Esemény részletezettségi szintje | Milyen magas egy sor — Minimális, Közepes vagy Teljes. A magasabb sorok pontok helyett eseményneveket mutatnak |
@@ -39,12 +39,12 @@ Kövesse a rendszert, vagy rögzítse az alkalmazást **Világos** vagy **Söté
 
 ### Widget témája
 
-A widgetek alapból a rendszertémát használják. Váltson egyéni színre, és válasszon tetszőleges hátteret — az alkalmazás a szín világosságából számolja ki, hogy a szövegnek világosnak vagy sötétnek kell-e lennie.
+A widgetek alapból a rendszertémát használják. Váltson az **Egyéni szín kiválasztása** lehetőségre, és válasszon tetszőleges hátteret — az alkalmazás a szín világosságából számolja ki, hogy a szövegnek világosnak vagy sötétnek kell-e lennie. A **Rendszertéma használata** visszaállítja az alapértelmezést.
 
 ### Érzet
 
 - **Rezgő visszajelzés** — apró koppanások használat közben
-- **Animációs effektek csökkentése** — visszafogja a mozgást a nyugodtabb, gyorsabbnak érződő alkalmazásért
+- **Animációs effektek csökkentése** — csökkenti a mozgást, így az alkalmazás nyugodtabbnak és gyorsabbnak hat
 
 ---
 
@@ -59,7 +59,7 @@ Alapértelmezések, hogy ne kelljen minden alkalommal ugyanazokat a mezőket kit
 | Értesítés időpontja | Alapértelmezett értesítések, külön az időponthoz kötött és az egész napos eseményekre |
 | Térképalkalmazás megnyitása | Melyik térképalkalmazásban nyíljon meg egy helyszín |
 
-Itt lehet a **külső naptárakat** is csatlakoztatni — lásd: [Külső naptárak](./04-external-calendars.md).
+A **Külső naptárak** csatlakoztatása is itt történik — lásd: [Külső naptárak](./04-external-calendars.md).
 
 ---
 
@@ -67,7 +67,7 @@ Itt lehet a **külső naptárakat** is csatlakoztatni — lásd: [Külső naptá
 
 Válassza ki az országát, és a munkaszüneti napjai megjelennek a naptárban. Az alkalmazás előre kiválasztja azt az országot, amelyre az eszköze be van állítva, és ezt bármikor módosíthatja.
 
-Nem minden ünnep olyan, amelyet Ön is megtart. Az **Elrejtés**sel bármelyiket eltüntetheti, és onnantól évről évre nem jelenik meg; az elrejtett ünnepek ugyanezen a képernyőn alul, az **Elrejtett ünnepek** között sorakoznak, így később a **Megjelenítés**sel visszahozhatja őket.
+Nem minden ünnep olyan, amelyet Ön is megtart. Bármelyiket eltüntetheti az **Elrejtés** gombbal, és onnantól évről évre nem jelenik meg; az elrejtett ünnepek ugyanezen a képernyőn alul, az **Elrejtett ünnepek** szakaszban sorakoznak, így később a **Megjelenítés** gombbal visszahozhatja őket.
 
 ---
 

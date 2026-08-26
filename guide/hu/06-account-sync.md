@@ -6,9 +6,9 @@
 
 ## Nincs szüksége fiókra
 
-A To-do Calendar **offline-first**. Minden létrehozott esemény először az eszközére íródik, így az alkalmazás azonnal megnyílik, működik a repülőn, és sosem akasztja meg egy hálózati hívás.
+A To-do Calendar **offline-first**. Minden létrehozott esemény először az eszközére íródik, így az alkalmazás azonnal megnyílik, működik a repülőn, és sosem kell megvárnia a hálózatot.
 
-Ez nem egy lebutított mód — az események létrehozása, az ismétlési szabályok, az értesítések, az eseménytípusok, az ünnepek, a widgetek és a külső naptárak mind működnek fiók nélkül. Semmi sincs regisztrációs fal mögé zárva.
+Ez nem egy korlátozott mód — az események létrehozása, az ismétlési szabályok, az értesítések, az eseménytípusok, az ünnepek, a widgetek és a külső naptárak mind működnek fiók nélkül. Semmi sincs zárolva addig, amíg nem regisztrál.
 
 ---
 
@@ -32,9 +32,9 @@ Semmit sem kell tennie, és útközben semmi sem törlődik.
 
 ## Szinkronban maradni
 
-A szinkronizálás magától fut a háttérben — módosítások után, amikor az alkalmazás visszatér az előtérbe, és időnként akkor is, amikor nem figyel oda. Amint kész, a widgetek is frissülnek.
+A szinkronizálás magától fut a háttérben — módosítások után, amikor az alkalmazás visszatér az előtérbe, és időnként a kettő között. Amint kész, a widgetek is frissülnek.
 
-Ha valami elavultnak tűnik, a **Szinkronizálás kényszerítése** az eseménybeállításokban eldobja a helyi szinkronizálási pozíciót, és mindent újra letölt a nulláról.
+Ha valami elavultnak tűnik, a **Szinkronizálás kényszerítése** az eseménybeállításokban törli azt, amit az alkalmazás már szinkronizált, és mindent újra letölt a nulláról.
 
 Ahol ugyanazt az eseményt két helyen módosították, a kiszolgáló verziója győz.
 

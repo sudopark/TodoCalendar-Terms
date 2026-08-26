@@ -4,7 +4,7 @@
 
 ---
 
-Írja le hétköznapi nyelven, mit szeretne, és az alkalmazás felépíti — „ebéd Sárával pénteken délben”, „tedd át a fogorvost jövő keddre”, „a mosás kész”. Semmi űrlap, semmi dátumtárcsázás.
+Írja le hétköznapi nyelven, mit szeretne, és az alkalmazás felépíti — „ebéd Sárával pénteken délben”, „tedd át a fogorvost jövő keddre”, „a mosás kész”. Semmi űrlap, semmi dátumválasztó.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/ai-input.png" alt="AI gyorsbevitel" width="280">
 
@@ -43,7 +43,7 @@ Mondja azt: **„Hozzáadás AI-val itt: To-do Calendar”** — vagy „Program
 
 ### Action gomb
 
-Rendelje az Action gombhoz a **Hozzáadás AI-val** parancsot. Egy nyomás, mondja ki, kész — az alkalmazásnak sosem kell előtérbe kerülnie.
+Rendelje az Action gombhoz a **Hozzáadás AI-val** parancsot. Egy nyomás, mondja el, mit szeretne hozzáadni, és már megy is — az alkalmazásnak meg sem kell nyílnia.
 
 ### Widget és Vezérlőközpont
 
@@ -52,7 +52,7 @@ Rendelje az Action gombhoz a **Hozzáadás AI-val** parancsot. Egy nyomás, mond
 
 ### Megosztási lap
 
-Osszon meg **szöveget vagy képet bármely másik alkalmazásból** egyenesen a To-do Calendar AI-jával. Épp egy üzenetet olvas egy találkozó részleteivel, vagy egy plakátot néz a Fotókban — nyomja meg a megosztást, válassza a To-do Calendart, adjon hozzá utasítást, ha szeretne, és küldje el.
+Osszon meg **szöveget vagy képet bármely másik alkalmazásból** egyenesen a To-do Calendar AI-jával. Épp egy üzenetet olvas egy találkozó részleteivel, vagy egy plakátot néz a Fotókban — koppintson a Megosztás lehetőségre, válassza a To-do Calendart, adjon hozzá utasítást, ha szeretne, és küldje el.
 
 A megosztási lapról indított kérés is a háttérben fut. Visszajelzést kap arról, hogy elment, az eredményt pedig az alkalmazásban nézheti meg.
 
@@ -67,15 +67,15 @@ A megosztási lapról indított kérés is a háttérben fut. Visszajelzést kap
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/ai-result.png" alt="AI-eredmény" width="280">
 
-Egyszerre csak egy kérés fut. Ha küld egy másikat, miközben az előző még a jóváhagyására vár, az alkalmazás szól, hogy előbb az elsővel foglalkozzon.
+Egyszerre csak egy kérés fut. Ha küld egy másikat, miközben az előző még a jóváhagyására vár, az alkalmazás megkéri, hogy előbb nézze át a függőben lévőt.
 
 ---
 
 ## Kreditek
 
-Az AI-kérések a **naponta visszaálló napi keretből** fogynak. Ami maradt, az AI-beviteli képernyő tetején látszik, így küldés előtt mindig tudja, hol tart.
+Minden AI-kérés **krediteket** használ, és a kreditek naponta feltöltődnek. Hogy mennyi maradt, az AI-beviteli képernyő tetején látszik, így küldés előtt tudja.
 
-Ha elfogy a keret, az AI gyorsbevitel a következő visszaállásig szünetel. Az alkalmazásban minden más tovább működik.
+Ha elfogynak, az AI gyorsbevitel megvárja a másnapi feltöltést. Az alkalmazásban minden más tovább működik.
 
 ---
 
