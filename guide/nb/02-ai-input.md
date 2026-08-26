@@ -4,7 +4,7 @@
 
 ---
 
-Beskriv det du vil ha med vanlige ord, så bygger appen det for deg – «lunsj med Sara fredag kl. 12», «flytt tannlegen til neste tirsdag», «merk klesvasken som fullført». Ingen skjemaer, ingen datovelger å snurre på.
+Beskriv det du vil ha med vanlige ord, så bygger appen det for deg – «lunsj med Sara fredag kl. 12», «flytt tannlegen til neste tirsdag», «merk klesvasken som fullført». Ingen skjemaer, ingen datovelgere.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/ai-input.png" alt="AI-hurtiginntasting" width="280">
 
@@ -28,7 +28,7 @@ AI-hurtiginntasting krever at du er logget inn. Alt annet i appen fungerer uten 
 
 Trykk på AI-knappen på kalenderskjermen. Inntastingsarket åpnes med to moduser du kan bytte mellom når som helst:
 
-- **Stemme** – snakk, og se transkripsjonen dukke opp mens du snakker. Krever tilgang til mikrofon og talegjenkjenning. Er en av delene avslått, tilbyr appen å åpne iOS-innstillingene eller å **Skriv i stedet**.
+- **Stemme** – snakk, og se transkripsjonen dukke opp mens du snakker. Krever tilgang til mikrofon og talegjenkjenning. Er en av delene avslått, tilbyr appen å åpne iOS-innstillingene eller å bytte til tastaturet med **Skriv i stedet**.
 - **Tastatur** – skriv det inn. Nyttig når du er et sted der du ikke kan snakke.
 
 ### Fra et bilde
@@ -73,9 +73,9 @@ Bare én forespørsel kjører om gangen. Sender du en ny mens en annen fortsatt 
 
 ## Kreditter
 
-AI-forespørsler bruker av en **daglig kvote som nullstilles hver dag**. Det som er igjen, vises øverst på AI-inntastingsskjermen, så du vet alltid hvor du står før du sender.
+Hver AI-forespørsel bruker **kreditter**, og kredittene dine fylles på hver dag. Hvor mange du har igjen, vises øverst på AI-inntastingsskjermen, så du vet det før du sender.
 
-Går kvoten tom, tar AI-hurtiginntasting pause til neste nullstilling. Alt annet i appen fungerer som før.
+Går de tomme, venter AI-hurtiginntasting til påfyllingen neste dag. Alt annet i appen fungerer som før.
 
 ---
 

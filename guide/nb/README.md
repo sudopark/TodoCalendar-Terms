@@ -4,14 +4,14 @@
 
 **Oppgavene og avtalene dine – i én og samme kalender.**
 
-De fleste kalendere rommer bare avtaler, og de fleste oppgaveapper har ingen følelse av en måned. To-do Calendar holder begge deler i det samme rutenettet: en avtale ligger på dagen den skjer, og en oppgave blir stående foran deg til du faktisk krysser den av – selv om den ikke har noe tidspunkt.
+En kalender viser deg avtalene dine, men ikke det du må få gjort. En oppgaveapp gir deg en liste, men aldri hvor tingene faller i måneden. To-do Calendar holder begge deler i den samme kalenderen: en avtale ligger på dagen den skjer, og en oppgave blir stående foran deg til du faktisk krysser den av – selv om den ikke har noe tidspunkt.
 
 Appen fungerer helt uten nett og uten konto. Logg inn bare når du vil ha dataene dine sikkerhetskopiert og synkronisert på tvers av enhetene dine.
 
 - **Én kalender, to slags gjøremål** – avtaler og oppgaver side om side, fargelagt etter dine egne hendelsestyper
-- **Oppgaver som ikke forsvinner** – oppgaver uten tidspunkt og oppgaver på overtid blir liggende øverst i stedet for å skli inn i fortiden
+- **Oppgaver som ikke forsvinner** – oppgaver uten tidspunkt og oppgaver på overtid blir liggende øverst i stedet for å bli liggende igjen på en dato som allerede er passert
 - **Legg til ved å snakke** – beskriv en hendelse med vanlige ord via AI-hurtiginntasting, Siri eller Handlingsknappen
-- **Se det uten å åpne appen** – et bredt utvalg widgets for Hjem-skjermen, låseskjermen og Kontrollsenteret
+- **Se dagen din uten å åpne appen** – et bredt utvalg widgets for Hjem-skjermen, låseskjermen og Kontrollsenteret
 - **Ta med de andre kalenderne dine** – koble til Google Kalender og Apple Kalender og se alt på ett sted
 
 ---

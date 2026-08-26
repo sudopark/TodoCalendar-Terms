@@ -6,9 +6,9 @@
 
 ## Du trenger ingen konto
 
-To-do Calendar er **offline først**. Hver hendelse du oppretter, skrives til enheten din først, så appen åpner seg umiddelbart, fungerer på flyet, og stopper deg aldri på et nettverkskall.
+To-do Calendar er **offline først**. Hver hendelse du oppretter, skrives til enheten din først, så appen åpner seg umiddelbart, fungerer på flyet, og du venter aldri på nettverket.
 
-Det er ikke en avkortet modus – å opprette hendelser, gjentakelsesregler, varsler, hendelsestyper, helligdager, widgets og eksterne kalendere fungerer helt uten konto. Ingenting holdes tilbake bak en registreringsvegg.
+Det er ikke en avkortet modus – å opprette hendelser, gjentakelsesregler, varsler, hendelsestyper, helligdager, widgets og eksterne kalendere fungerer helt uten konto. Ingenting er låst før du registrerer deg.
 
 ---
 
@@ -32,9 +32,9 @@ Du trenger ikke gjøre noe, og ingenting slettes underveis.
 
 ## Å holde alt synkronisert
 
-Synkroniseringen går av seg selv i bakgrunnen – etter endringer, når appen kommer fram i forgrunnen igjen, og med jevne mellomrom mens du ikke ser på. Widgets oppdateres når den er ferdig.
+Synkroniseringen går av seg selv i bakgrunnen – etter endringer, når appen kommer fram i forgrunnen igjen, og med jevne mellomrom innimellom. Widgets oppdateres når den er ferdig.
 
-Ser noe utdatert ut, kaster **Tving synkronisering** i hendelsesinnstillingene den lokale synkroniseringsposisjonen og henter alt ned på nytt fra bunnen av.
+Ser noe utdatert ut, tømmer **Tving synkronisering** i hendelsesinnstillingene det appen allerede har synkronisert, og henter alt ned på nytt fra bunnen av.
 
 Er den samme hendelsen endret to steder, vinner versjonen på serveren.
 

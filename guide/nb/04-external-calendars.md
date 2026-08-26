@@ -4,7 +4,7 @@
 
 ---
 
-Hvis jobbmøtene dine ligger i Google Kalender og familiens delte kalender ligger på iPhonen, burde du ikke trenge tre apper for å vite hvordan torsdagen din ser ut. Koble dem til, så dukker de opp i det samme rutenettet som dine egne oppgaver og avtaler.
+Hvis jobbmøtene dine ligger i Google Kalender og familiens delte kalender ligger på iPhonen, burde du ikke trenge tre apper for å vite hvordan torsdagen din ser ut. Koble dem til, så dukker de opp i den samme kalenderen som dine egne oppgaver og avtaler.
 
 Du kobler til under **Innstillinger › Hendelsesinnstillinger og eksterne kalendere › Eksterne kalendere**.
 
@@ -31,7 +31,7 @@ Trykk på **Koble til** ved siden av Google Kalender og logg inn. Du kan gjenta 
 
 ### Velge hva som vises
 
-Å koble til en konto tømmer ikke alle kalenderne dine ut i rutenettet. Appen følger det du hadde valgt i Google Kalender selv, og alt annet starter skjult. Enkeltkalendere slår du av og på i listen over hendelsestyper – de ligger i sin egen **Google Kalender**-seksjon, ved siden av dine egne hendelsestyper.
+Å koble til en konto legger ikke alle kalenderne inn i kalenderen med én gang. Appen følger det du hadde valgt i Google Kalender selv, og alt annet starter skjult. Enkeltkalendere slår du av og på i listen over hendelsestyper – de ligger i sin egen **Google Kalender**-seksjon, ved siden av dine egne hendelsestyper.
 
 Hver kalender beholder fargen den har i Google, så en jobbkalender ser lik ut her som der.
 
@@ -41,11 +41,11 @@ Trykk på en Google-hendelse, så får du hele bildet: deltakere og hvem som er 
 
 Du kan redigere den der og da – inkludert å velge om en endring gjelder én forekomst eller hele den gjentakende serien – eller heller åpne den i Google Kalender.
 
-Noe er utenfor din kontroll, og da sier appen fra i stedet for å feile i stillhet:
+Noe kan ikke endres herfra, og da sier appen hvorfor i stedet for bare å feile:
 
 - **Skrivebeskyttede kalendere** (en kalender du abonnerer på, eller en kalender noen andre har delt) kan vises, men ikke redigeres.
 - **Felter som Google eier** viser verdien sin, men kan ikke endres her.
-- **Beskrivelser med formatering** varsler deg før du redigerer, siden formateringen forsvinner når du redigerer her.
+- **Beskrivelser med formatering** – appen varsler deg før du redigerer en slik, siden formateringen forsvinner når du redigerer her.
 - Hvis innloggingen din ennå ikke har redigeringstillatelse, ber appen deg logge inn på den Google-kontoen på nytt.
 
 ### Å koble fra
