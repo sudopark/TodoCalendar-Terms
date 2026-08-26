@@ -32,9 +32,9 @@ Nu aveți nimic de făcut și nu se șterge nimic pe parcurs.
 
 ## Menținerea sincronizării
 
-Sincronizarea se face singură, în fundal — după modificări, când aplicația revine în prim-plan și periodic, cât timp nu vă uitați. Widget-urile se împrospătează odată ce s-a încheiat.
+Sincronizarea se face singură, în fundal — după modificări, când aplicația revine în prim-plan și, între acestea, la intervale regulate. Widget-urile se împrospătează odată ce s-a încheiat.
 
-Dacă ceva pare învechit, **Sincronizare forțată** din setările evenimentelor aruncă poziția locală de sincronizare și aduce totul din nou, de la zero.
+Dacă ceva pare învechit, **Sincronizare forțată** din setările evenimentelor șterge ce a sincronizat deja aplicația și aduce totul din nou, de la zero.
 
 Acolo unde același eveniment a fost modificat în două locuri, câștigă versiunea de pe server.
 

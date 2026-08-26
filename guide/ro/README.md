@@ -4,14 +4,14 @@
 
 **Sarcinile și programul dvs., într-un singur calendar.**
 
-Majoritatea calendarelor rețin doar întâlnirile, iar majoritatea aplicațiilor de sarcini nu au deloc noțiunea unei luni. To-do Calendar le ține pe amândouă în aceeași grilă: o programare stă în ziua în care are loc, iar o sarcină vă rămâne în față până când o bifați cu adevărat — chiar dacă nu are nicio oră atașată.
+Un calendar vă arată întâlnirile, dar nu și lucrurile pe care trebuie să le duceți la capăt. O aplicație de sarcini vă arată o listă, dar niciodată unde cad acele lucruri în lună. To-do Calendar le ține pe amândouă în același calendar: o programare stă în ziua în care are loc, iar o sarcină vă rămâne în față până când o bifați cu adevărat — chiar dacă nu are nicio oră atașată.
 
 Funcționează complet offline și fără cont. Autentificați-vă doar atunci când doriți ca datele să fie salvate și sincronizate pe toate dispozitivele dvs.
 
 - **Un calendar, ambele feluri de treburi** — programări și sarcini una lângă alta, colorate după propriile tipuri de evenimente
-- **Sarcini care nu dispar** — sarcinile fără oră și cele restante rămân fixate sus, în loc să alunece în trecut
+- **Sarcini care nu dispar** — sarcinile fără oră și cele restante rămân fixate sus, în loc să rămână uitate pe o dată trecută
 - **Adăugare prin vorbire** — descrieți un eveniment în limbaj obișnuit prin introducerea rapidă AI, Siri sau butonul de Acțiune
-- **Vedeți fără să deschideți** — un set larg de widget-uri pentru ecranul principal, ecranul de blocare și Centrul de control
+- **Vă vedeți ziua fără să deschideți aplicația** — un set larg de widget-uri pentru ecranul principal, ecranul de blocare și Centrul de control
 - **Aduceți-vă și celelalte calendare** — conectați Google Calendar și Apple Calendar și vedeți totul într-un singur loc
 
 ---
