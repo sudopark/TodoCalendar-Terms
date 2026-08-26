@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/calendar.png" alt="Takvim" width="280">
 
-Aylık ızgara ana ekrandır. Aylar arasında geçmek için sağa sola kaydırın, bir güne dokunun ve o günün etkinlik listesi hemen altında açılsın.
+Aylık takvim ana ekrandır. Aylar arasında geçmek için sağa sola kaydırın, bir güne dokunun ve o günün etkinlik listesi hemen altında açılsın.
 
-- Her gün, etkinlik başına bir renkli çubuk gösterir; sığmayanlar olduğunda da bir **+N** göstergesi çıkar.
+- Her gün, etkinlik başına bir renkli çubuk gösterir; o güne satıra sığacağından fazla etkinlik düştüğünde bir **+N** göstergesi çıkar.
 - Gün listesinin sırası şudur: saatsiz görevler → saatli görevler → randevular → tatiller → harici takvim etkinlikleri.
 - İstediğiniz tarihe atlamak için başlığa dokunun ya da doğrudan seçmek için **Tarihi taşı**'yı kullanın.
 
-Izgaranın ne kadar sık görüneceği — satır yüksekliği, etkinlik yazı boyutu, kalın metin, renk çubukları, tatil adları, ay takvimi — hepsi değiştirilebilir. Bkz. [Kişiselleştirme](./05-personalization.md).
+Her günün ne kadarını göstereceğine siz karar verirsiniz — etkinlik başına ne kadar ayrıntı görüneceği, yazı boyutu, renkler, tatil adları ve ay takvimi. [Kişiselleştirme](./05-personalization.md) her ayarı adıyla tek tek anlatır.
 
 ---
 
 ## Görevler ve randevular
 
-Uygulamada iki tür etkinlik var ve aradaki fark, o şeyin *tamamlanabilir* olup olmadığı.
+Uygulamada iki tür etkinlik var ve aradaki fark tek bir şeyde: onu işaretleyip tamamlıyor musunuz.
 
 | | Görev | Randevu |
 |---|---|---|
@@ -28,7 +28,7 @@ Uygulamada iki tür etkinlik var ve aradaki fark, o şeyin *tamamlanabilir* olup
 | Tamamlama | Var — işaretleyerek | Yok |
 | Saatsiz olarak | Siz bitirene kadar **Güncel Görev Listesi**'nde kalır | Mümkün değil |
 
-**Saatsiz bir görev**, yakında yapmanız gereken ama henüz planlamadığınız işler içindir. Tamamlanana kadar takvimin en üstünde ve Güncel Görev Listesi widget'ında durur.
+**Saatsiz bir görev**, yakında yapmanız gereken ama henüz planlamadığınız işler içindir. Tamamlanana kadar takvimin en üstünde ve **Güncel Görev Listesi** widget'ında durur.
 
 İstediğiniz zaman iki yöne de dönüştürebilirsiniz — etkinliğin diğer seçenekler menüsündeki **Randevuya dönüştür** / **Göreve dönüştür**. Bir görevi randevuya dönüştürmek için saat bilgisi gerekir.
 
@@ -40,9 +40,9 @@ Her etkinlik bir **Konum** (harita önizlemesi ve tercih ettiğiniz harita uygul
 
 ## Etkinlik ekleme
 
-Ne kadar yazmak istediğinize göre üç yol var:
+Bir etkinlik eklemenin, ne kadar yazmak istediğinize göre üç yolu var:
 
-- **Hızlı ekleme** — gün listesinin altındaki giriş alanı. Bir ad yazıp gönderin, göreviniz hazır.
+- **Hızlı ekleme** — gün listesinin altındaki giriş alanı. Bir ad yazın, return tuşuna basın, görev oluşturulur.
 - **Ayrıntılı giriş** — saat, tekrarlama, hatırlatmalar, etkinlik türü, konum, bağlantı ve not içeren düzenleyiciyi açmak için **+**'ya dokunun.
 - **Hızlı AI girişi** — günlük dille anlatın, etkinliği uygulama kursun. Bkz. [Hızlı AI girişi](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Bir görev için yalnızca ad yeterlidir; bir randevu için ad ve saat gerekir.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/repeat-options.png" alt="Tekrarlama seçenekleri" width="240">
 
-Uygulama sizden açılır menülerden bir kural kurmanızı istemez; seçtiğiniz tarihi okur ve ona uygun hazır seçenekler sunar. Bir perşembe seçin, listede birebir **Her Perşembe** ve **Her ayın üçüncü Perşembe günü** yazar.
+Uygulama sizden açılır menülerden bir tekrarlama kuralı kurmanızı istemez; seçtiğiniz tarihi okur ve ona uygun hazır seçenekler sunar. Bir perşembe seçin, liste size **Her Perşembe** ve **Her ayın üçüncü Perşembe günü** seçeneklerini sunar.
 
 **Yaygın aralıklar**
 
@@ -68,7 +68,7 @@ Uygulama sizden açılır menülerden bir kural kurmanızı istemez; seçtiğini
 
 - Her hafta içi gün — pazartesiden cumaya. Etkinlik bir hafta içi günde başladığında sunulur
 - Her ayın son haftasının tüm günleri
-- Her ayın ilk / ikinci / üçüncü / dördüncü / son *[gün adı]* günü — "her ayın son cuması" gibi şeyler için
+- Her ayın ilk / ikinci / üçüncü / dördüncü / son **Perşembe** günü — hafta günü seçtiğiniz tarihten doldurulur, yani cuma günkü bir etkinlik **Her ayın son Cuma günü** seçeneğini sunar
 
 **Tekrarlama Bitişi**
 
@@ -76,14 +76,14 @@ Bir tekrarlama seçtiğinizde nasıl duracağını da belirlersiniz: **Asla**, b
 
 Tekrarlayan görevler, tekrarlayan randevulardan farklı davranır:
 
-- Tamamlanmamış bir tekrar, saati geçse bile bugünün takviminde görünmeye devam eder — sessizce ileri sarmaz.
+- Tamamlanmamış bir tekrar, saati geçse bile bugünün takviminde görünmeye devam eder — kendiliğinden bir sonraki tekrara geçmez.
 - Onu tamamladığınızda o tekrar, tamamlanan görevler listesine geçer ve bir sonraki tekrar oluşturulur.
 - **Bu görevi atla**, tamamlandı olarak işaretlemeden sizi bir sonraki tekrara götürür.
 - Tekrarlamanın bir bitiş koşulu varsa ve sıradaki tekrar kalmamışsa seri sona erer.
 
 Tekrarlayan bir etkinliğin bir tekrarını düzenlerken veya silerken kapsamı siz seçersiniz: **Yalnızca bu sefer**, **Bu andan itibaren** ya da **Tüm etkinlikler**.
 
-Bağlı bir harici takvimdeki etkinliklerde ay takvimi seçeneği sunulmaz — o takvimin bunu ifade edecek bir yolu yoktur.
+Bağlı bir harici takvimdeki etkinliklerde ay takvimi seçeneği sunulmaz — harici takvimlerin ay takvimine göre bir tekrarlama kuralını saklayacak yeri yoktur.
 
 ---
 
@@ -123,7 +123,7 @@ Görevler ve tekrarlamayan randevular en önemli olarak ayarlanabilir. Tekrarlay
 
 ## Tamamlanmamış görevler
 
-Saati geçtiği hâlde tamamlanmamış görevler, takvimin en üstündeki **Tamamlanmamış Görevler** bölümünde toplanır; böylece kaçırdığınız bir iş geçen haftaya kayıp gözden kaybolmaz.
+Saati geçtiği hâlde tamamlanmamış görevler, takvimin en üstündeki **Tamamlanmamış Görevler** bölümünde toplanır; böylece kaçırdığınız bir görev geçmiş bir tarihte gömülü kalmaz.
 
 Saatsiz görevler ve gelecekteki görevler tamamlanmamış sayılmaz — henüz vakti gelmemiştir. Görmek istemiyorsanız bu bölümü Ayarlar'dan tümüyle gizleyebilirsiniz.
 

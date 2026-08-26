@@ -4,7 +4,7 @@
 
 ---
 
-Takvim widget'ının varlık nedeni, takvimi hiç açmak zorunda kalmamanızdır. To-do Calendar geniş bir set sunar; böylece gününüze gerçekte nasıl baktığınıza uyanı seçebilirsiniz — tek bir sonraki etkinlik, bütün bir ay ya da dokunarak işaretleyebileceğiniz görev listeniz.
+Bir widget, sırada ne olduğunu görmek için uygulamayı açmak zorunda kalmayasınız diye vardır. To-do Calendar geniş bir set sunar; böylece gününüze gerçekte nasıl baktığınıza uyanı seçebilirsiniz — tek bir sonraki etkinlik, bütün bir ay ya da dokunarak işaretleyebileceğiniz görev listeniz.
 
 ---
 
@@ -14,7 +14,7 @@ Takvim widget'ının varlık nedeni, takvimi hiç açmak zorunda kalmamanızdır
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-today-and-next.png" alt="Bugün ve Sıradakiler widget'ı" width="360">
 
-Solda bugünün tarihi ve günden kalanlar, sağda sırada ne olduğu. "Şimdi ne var, sonra ne var" sorusunun en yoğun tek görünümü.
+Solda bugünün tarihi ve günden kalanlar, sağda sırada ne olduğu. Hiçbir widget bir seferde bu kadarını göstermez.
 
 *Orta.*
 
@@ -46,7 +46,7 @@ En önemli diye sabitlediğiniz tek etkinlik, hep göz önünde. Bkz. [En öneml
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-month.png" alt="Takvim widget'ı" width="360">
 
-İstediğiniz aralıkta takvim ızgarasının kendisi:
+İstediğiniz aralıkta takvimin kendisi:
 
 | Widget | Boyut |
 |---|---|
@@ -61,8 +61,8 @@ Tek görünüm yetmediğinde, bir widget'ta iki panel:
 
 | Widget | Gösterdiği | Boyut |
 |---|---|---|
-| BUGÜN + Takvim | Aylık ızgaranın yanında bugünün özeti | Orta |
-| Etkinlikler + Takvim | Aylık ızgaranın yanında yaklaşan etkinlikler | Orta |
+| BUGÜN + Takvim | Aylık takvimin yanında bugünün özeti | Orta |
+| Etkinlikler + Takvim | Aylık takvimin yanında yaklaşan etkinlikler | Orta |
 | Etkinlikler + En Önemli | Sabitlediğiniz etkinliğin yanında yaklaşan etkinlikler | Orta |
 | Takvim + Takvim | Yan yana iki ay | Orta |
 

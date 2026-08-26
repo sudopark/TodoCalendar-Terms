@@ -12,13 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/appearance-setting.png" alt="Görünüm ayarları" width="280">
 
-Bu ekrandaki her şey siz değiştirdikçe anlık olarak önizlenir; böylece uygulamadan önce takvimin nasıl görüneceğini görebilirsiniz.
+Bu ekrandaki her şey siz değiştirdikçe anlık olarak önizlenir; böylece karar vermeden önce takvimin nasıl görüneceğini görebilirsiniz.
 
 ### Takvim
 
 | Ayar | Ne yapar |
 |---|---|
-| Haftanın başlangıç günü | Izgaranın hangi günle başlayacağı |
+| Haftanın başlangıç günü | Takvimin hangi günle başlayacağı |
 | Vurgulanan Günler | Pazarları, cumartesileri ve tatilleri renklendirir — her biri ayrı ayrı açılıp kapatılır |
 | Etkinlik olan günleri alt çizgiyle göster | Üzerinde bir şey olan günleri işaretler |
 | Etkinlik detay gösterim seviyesi | Her satırın ne kadar yüksek olacağı — Minimal, Orta ya da Tam. Yüksek satırlar nokta yerine etkinlik adlarını gösterir |
@@ -39,7 +39,7 @@ Sistemi izleyin ya da iOS ne yaparsa yapsın uygulamayı **Açık** veya **Koyu*
 
 ### Widget teması
 
-Widget'lar varsayılan olarak sistem temasını kullanır. **Özel renk seç**e geçip dilediğiniz arka planı belirleyin — uygulama, seçtiğiniz rengin parlaklığından metnin açık mı koyu mu olması gerektiğini kendisi çıkarır.
+Widget'lar varsayılan olarak **Sistem temasını kullan** ayarındadır. **Özel renk seç** seçeneğine geçip dilediğiniz arka planı belirleyin — uygulama, seçtiğiniz rengin parlaklığından metnin açık mı koyu mu olması gerektiğini kendisi çıkarır.
 
 ### Hissiyat
 
@@ -67,7 +67,7 @@ Her seferinde aynı alanları doldurmayasınız diye varsayılanlar.
 
 Ülkenizi seçin, resmî tatilleri takvimde belirsin. Uygulama cihazınızın ayarlı olduğu ülkeyi önceden seçer, siz de istediğiniz zaman değiştirebilirsiniz.
 
-Her tatil sizin kutladığınız bir gün değildir. Herhangi birini **Gizle**yin, artık her yıl görünmesin; gizlenen tatiller aynı ekranın altındaki **Gizli Tatiller**'de listelenir, böylece istediğinizde birini geri **Göster**ebilirsiniz.
+Her tatil sizin kutladığınız bir gün değildir. Herhangi birini **Gizle** düğmesiyle gizleyin, artık her yıl görünmesin; gizlenen tatiller aynı ekranın altındaki **Gizli Tatiller**'de listelenir, böylece istediğinizde **Göster** düğmesiyle birini geri getirebilirsiniz.
 
 ---
 
