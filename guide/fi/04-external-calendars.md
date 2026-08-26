@@ -4,7 +4,7 @@
 
 ---
 
-Jos työpalaverisi ovat Google-kalenterissa ja perheen jaettu kalenteri iPhonessasi, ei kolmea sovellusta pitäisi tarvita sen tietämiseen, miltä torstaisi näyttää. Yhdistä ne, niin ne näkyvät samassa ruudukossa omien tehtäviesi ja aikataulutapahtumiesi kanssa.
+Jos työpalaverisi ovat Google-kalenterissa ja perheen jaettu kalenteri iPhonessasi, ei kolmea sovellusta pitäisi tarvita sen tietämiseen, miltä torstaisi näyttää. Yhdistä ne, niin ne näkyvät samassa kalenterissa omien tehtäviesi ja aikataulutapahtumiesi kanssa.
 
 Yhdistäminen tapahtuu kohdassa **Asetukset › Tapahtuma-asetukset ja ulkoiset kalenterit › Ulkoiset kalenterit**.
 
@@ -31,7 +31,7 @@ Napauta Google-kalenterin vierestä **Yhdistä** ja kirjaudu sisään. Voit tois
 
 ### Näkyvien kalenterien valinta
 
-Tilin yhdistäminen ei kaada kaikkia kalentereita ruudukkoosi. Sovellus noudattaa sitä, mitä olit valinnut itse Google-kalenterissa, ja muut ovat aluksi piilotettuina. Kytke yksittäisiä kalentereita päälle ja pois tapahtumatyyppien luettelossa — ne ovat omassa **Google-kalenteri**-osiossaan omien tapahtumatyyppiesi rinnalla.
+Tilin yhdistäminen ei tuo kaikkia kalentereita heti näkyviin. Sovellus noudattaa sitä, mitä olit valinnut itse Google-kalenterissa, ja muut ovat aluksi piilotettuina. Kytke yksittäisiä kalentereita päälle ja pois tapahtumatyyppien luettelossa — ne ovat omassa **Google-kalenteri**-osiossaan omien tapahtumatyyppiesi rinnalla.
 
 Jokainen kalenteri säilyttää sen värin, joka sillä on Googlessa, joten työkalenteri näyttää täällä samalta kuin siellä.
 
@@ -39,13 +39,13 @@ Jokainen kalenteri säilyttää sen värin, joka sillä on Googlessa, joten työ
 
 Napauta Google-tapahtumaa, niin saat koko kuvan: osallistujat ja järjestäjän, kokouslinkin ja mahdolliset pääsykoodit (kopiointi yhdellä napautuksella), liitteet sekä sen, onko tapahtuma vahvistettu, alustava vai peruttu.
 
-Voit muokata sitä samassa paikassa — mukaan lukien valita, koskeeko muutos yhtä kertaa vai koko toistuvaa sarjaa — tai avata sen sen sijaan Google-kalenterissa.
+Voit muokata sitä samassa paikassa — mukaan lukien valita, koskeeko muutos yhtä kertaa vai koko toistuvaa sarjaa — tai avata sen Google-kalenterissa.
 
-Kaikkeen et pysty, ja sovellus sanoo sen sen sijaan, että epäonnistuisi hiljaa:
+Kaikkea ei voi muuttaa täältä käsin, ja sovellus kertoo syyn sen sijaan, että vain epäonnistuisi:
 
 - **Vain luku -kalentereita** (tilattu kalenteri, jonkun toisen jakama kalenteri) voi katsella, mutta ei muokata.
 - **Googlen hallitsemat kentät** näyttävät arvonsa, mutta niitä ei voi muuttaa täällä.
-- **Muotoillut kuvaukset** varoittavat ennen muokkausta, sillä täällä muokkaaminen pudottaa muotoilut pois.
+- **Muotoiltujen kuvausten** kohdalla sovellus varoittaa ennen muokkausta, sillä täällä muokkaaminen poistaa muotoilut.
 - Jos kirjautumisesi ei vielä sisällä muokkausoikeutta, sovellus pyytää sinua kirjautumaan kyseiselle Google-tilille uudelleen.
 
 ### Yhteyden katkaisu
@@ -66,7 +66,7 @@ Jos käyttöoikeus on aiemmin evätty, sovellus ohjaa sinut iOS:n asetuksiin. Ha
 
 Apple-tapahtumat näyttävät osallistujat ja järjestäjän, ja niitä voi muokata ja poistaa sovelluksen sisällä. Toistuvan tapahtuman kohdalla valitset, koskeeko muutos vaihtoehtoa **Vain tämä tapahtuma** vai **Tämä ja kaikki tulevat tapahtumat**.
 
-Vain luku -kalenterit pysyvät vain luettavina, ja kentät, joita sovellus ei voi muokata, näytetään mutta eivät ole muokattavissa — aivan kuten Googlessa. Voit aina avata tapahtuman sen sijaan Apple-kalenterissa.
+Vain luku -kalenterit pysyvät vain luettavina, ja kentät, joita sovellus ei voi muokata, näytetään mutta eivät ole muokattavissa — aivan kuten Googlessa. Voit aina avata tapahtuman myös Apple-kalenterissa.
 
 ---
 
@@ -74,7 +74,7 @@ Vain luku -kalenterit pysyvät vain luettavina, ja kentät, joita sovellus ei vo
 
 - Ne asettuvat päivän luettelossa omien tapahtumiesi alle, joten tehtäväsi pysyvät ylimpänä.
 - Ne ryhmitellään omiksi tapahtumatyypeikseen, joten voit piilottaa kokonaisen tilin tai yksittäisen kalenterin yhdellä kytkimellä katkaisematta mitään yhteyttä.
-- Ne virtaavat myös widgeteihin, ja voit suodattaa widgetejä näiden kalenterien mukaan aivan kuten omien tapahtumatyyppiesi mukaan.
+- Ne näkyvät myös widgeteissä, ja voit suodattaa widgetejä näiden kalenterien mukaan aivan kuten omien tapahtumatyyppiesi mukaan.
 - Jos yhteys vanhentuu, sovellus kertoo siitä ja ohjaa sinut takaisin asetuksiin yhdistämään uudelleen.
 
 ---

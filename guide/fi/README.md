@@ -4,14 +4,14 @@
 
 **Tehtäväsi ja aikataulusi samassa kalenterissa.**
 
-Useimmat kalenterit pitävät sisällään vain tapaamiset, ja useimmilta tehtäväsovelluksilta puuttuu käsitys kuukaudesta. To-do Calendar pitää molemmat samassa ruudukossa: aikataulutapahtuma asettuu sille päivälle, jona se tapahtuu, ja tehtävä pysyy silmiesi edessä siihen asti, kunnes oikeasti merkitset sen valmiiksi — silloinkin, kun siihen ei ole liitetty aikaa lainkaan.
+Kalenteri näyttää tapaamisesi, muttei sitä, mitä sinun pitää saada tehdyksi. Tehtäväsovellus näyttää listan, muttei koskaan sitä, mihin kohtaan kuukautta asiat osuvat. To-do Calendar pitää molemmat samassa kalenterissa: aikataulutapahtuma asettuu sille päivälle, jona se tapahtuu, ja tehtävä pysyy silmiesi edessä siihen asti, kunnes oikeasti merkitset sen valmiiksi — silloinkin, kun siihen ei ole liitetty aikaa lainkaan.
 
 Sovellus toimii täysin offline-tilassa ja ilman tiliä. Kirjaudu sisään vain silloin, kun haluat varmuuskopioida tietosi ja synkronoida ne laitteidesi välillä.
 
 - **Yksi kalenteri, molemmat työn lajit** — aikataulutapahtumat ja tehtävät rinnakkain, väreinä omat tapahtumatyyppisi
-- **Tehtävät, jotka eivät katoa** — ajattomat ja myöhässä olevat tehtävät pysyvät kiinnitettyinä ylälaitaan sen sijaan, että vierisivät menneisyyteen
+- **Tehtävät, jotka eivät katoa** — ajattomat ja myöhässä olevat tehtävät pysyvät kiinnitettyinä ylälaitaan sen sijaan, että jäisivät menneelle päivälle
 - **Lisää puhumalla** — kuvaile tapahtuma tavallisin sanoin AI-pikasyötöllä, Sirillä tai toimintopainikkeella
-- **Näe se avaamatta sitä** — laaja widget-valikoima Home-valikkoon, lukitusnäytölle ja Ohjauskeskukseen
+- **Näe päiväsi avaamatta sovellusta** — laaja widget-valikoima Home-valikkoon, lukitusnäytölle ja Ohjauskeskukseen
 - **Ota muut kalenterisi mukaan** — yhdistä Google-kalenteri ja Apple-kalenteri ja näe kaikki yhdessä paikassa
 
 ---

@@ -8,25 +8,25 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/calendar.png" alt="Kalenteri" width="280">
 
-Kuukausiruudukko on sovelluksen aloitusnäkymä. Pyyhkäise vasemmalle ja oikealle vaihtaaksesi kuukautta, ja napauta päivää avataksesi sen tapahtumaluettelon alapuolelle.
+Kuukausikalenteri on sovelluksen aloitusnäkymä. Pyyhkäise vasemmalle ja oikealle vaihtaaksesi kuukautta, ja napauta päivää avataksesi sen tapahtumaluettelon alapuolelle.
 
-- Jokaisella päivällä näkyy värillinen palkki kutakin tapahtumaa kohden ja **+N**-merkintä silloin, kun tapahtumia on enemmän kuin mahtuu.
+- Jokaisella päivällä näkyy värillinen palkki kutakin tapahtumaa kohden ja **+N**-merkintä silloin, kun päivällä on enemmän tapahtumia kuin riville mahtuu.
 - Päivän luettelon järjestys on: ajattomat tehtävät → ajastetut tehtävät → aikataulutapahtumat → vapaapäivät → ulkoisten kalenterien tapahtumat.
 - Napauta otsikkoa hypätäksesi mihin tahansa päivään, tai valitse päivä suoraan **Siirrä päivämäärää** -toiminnolla.
 
-Ruudukon tiheys — rivin korkeus, tapahtumatekstin koko, lihavointi, väripalkit, vapaapäivien nimet, kuukalenteri — on kokonaan säädettävissä. Katso [Mukauttaminen](./05-personalization.md).
+Kuinka paljon kukin päivä näyttää, on sinun päätettävissäsi: tapahtumakohtaisen tiedon määrä, tekstin koko, värit, vapaapäivien nimet ja kuukalenteri. [Mukauttaminen](./05-personalization.md) käy jokaisen asetuksen läpi nimeltä.
 
 ---
 
 ## Tehtävät ja aikataulutapahtumat
 
-Sovelluksessa on kahdenlaisia tapahtumia, ja ero on siinä, voiko asian *merkitä valmiiksi*.
+Sovelluksessa on kahdenlaisia tapahtumia, ja ero on siinä, onko kyse asiasta, jonka kuittaat valmiiksi.
 
 | | Tehtävä | Aikataulutapahtuma |
 |---|---|---|
 | Aika | Valinnainen | Pakollinen |
 | Valmiiksi merkitseminen | Kyllä — merkitse valmiiksi | Ei |
-| Ilman aikaa | Pysyy **Nykyinen tehtäväluettelo** -listassa, kunnes teet sen | Ei mahdollista |
+| Ilman aikaa | Pysyy **Nykyinen tehtäväluettelo** -osiossa, kunnes teet sen | Ei mahdollista |
 
 **Ajaton tehtävä** on sitä varten, mikä pitää tehdä pian mutta jota et ole vielä aikatauluttanut. Se pysyy kalenterin ylälaidassa ja Nykyinen tehtäväluettelo -widgetissä, kunnes se on tehty.
 
@@ -34,15 +34,15 @@ Voit muuntaa tapahtuman kumpaan tahansa suuntaan milloin tahansa — **Muunna ai
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/event-detail.png" alt="Tapahtuman tiedot" width="280">
 
-Jokaiseen tapahtumaan voi liittää **sijainnin** (karttaesikatselulla ja yhden napautuksen avauksella haluamassasi karttasovelluksessa), **linkin** esikatseluineen ja **muistiinpanon**.
+Jokaisessa tapahtumassa voi olla **sijainti**, **linkki** ja **muistiinpano**. Sijainnista näkyy karttaesikatselu, ja yksi napautus avaa sen haluamassasi karttasovelluksessa; linkillä on oma esikatselunsa.
 
 ---
 
 ## Tapahtumien lisääminen
 
-Kolme tapaa sen mukaan, kuinka paljon haluat kirjoittaa:
+Kolme tapaa lisätä tapahtuma, sen mukaan kuinka paljon haluat kirjoittaa:
 
-- **Nopea lisäys** — päivän luettelon alalaidassa oleva syöttökenttä. Kirjoita nimi, paina rivinvaihtoa, ja tehtävä on valmis.
+- **Nopea lisäys** — päivän luettelon alalaidassa oleva syöttökenttä. Kirjoita nimi, paina rivinvaihtoa, ja tehtävä on luotu.
 - **Täydet tiedot** — napauta **+** avataksesi muokkausnäkymän, jossa ovat aika, toisto, muistutukset, tapahtumatyyppi, sijainti, linkki ja muistiinpano.
 - **AI-pikasyöttö** — kuvaile asia tavallisin sanoin ja anna sovelluksen rakentaa tapahtuma. Katso [AI-pikasyöttö](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Tehtävä tarvitsee vain nimen. Aikataulutapahtuma tarvitsee nimen ja ajankohdan
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/repeat-options.png" alt="Toistovaihtoehdot" width="240">
 
-Sen sijaan, että sinun pitäisi koota sääntö pudotusvalikoista, sovellus lukee valitsemasi päivän ja tarjoaa sille valmiita vaihtoehtoja. Valitse torstai, ja listassa lukee kirjaimellisesti **Joka torstai** ja **Kuukauden kolmas torstai**.
+Sen sijaan, että sinun pitäisi koota toistosääntö pudotusvalikoista, sovellus lukee valitsemasi päivän ja tarjoaa sille valmiita vaihtoehtoja. Valitse torstai, ja lista tarjoaa vaihtoehdot **Joka torstai** ja **Kuukauden kolmas torstai**.
 
 **Tavalliset välit**
 
@@ -64,26 +64,26 @@ Sen sijaan, että sinun pitäisi koota sääntö pudotusvalikoista, sovellus luk
 - Joka vuosi
 - Joka vuosi (kuukalenteri) — syntymäpäiville ja vuosipäiville, joita vietetään kuukalenterin mukaan
 
-**Sijainnin mukaan kuukaudessa**
+**Järjestyksen mukaan kuukaudessa**
 
 - Jokaisena arkipäivänä — maanantaista perjantaihin. Tarjolla silloin, kun tapahtuma alkaa arkipäivänä
 - Kuukauden viimeisen viikon kaikki päivät
-- Kuukauden ensimmäinen / toinen / kolmas / neljäs / viimeinen *viikonpäivä* — esimerkiksi ”kuukauden viimeinen perjantai”
+- Kuukauden ensimmäinen / toinen / kolmas / neljäs / viimeinen **torstai** — viikonpäivä tulee valitsemastasi päivästä, joten perjantain tapahtumalle tarjotaan **Kuukauden viimeinen perjantai**
 
 **Toisto päättyy**
 
-Kun olet valinnut toiston, valitse miten se loppuu: **Ei koskaan**, **Päivänä** tiettynä päivämääränä tai **Kun toistoja** on kertynyt tietty määrä.
+Kun olet valinnut toiston, valitse milloin se loppuu: **Ei koskaan** jättää toiston jatkumaan rajattomasti, **Päivänä** asettaa kiinteän päättymispäivän ja **Kun toistoja** rajaa toistokerrat tiettyyn määrään.
 
 Toistuvat tehtävät käyttäytyvät eri tavalla kuin toistuvat aikataulutapahtumat:
 
-- Keskeneräinen toisto pysyy näkyvissä tämän päivän kalenterissa, vaikka sen ajankohta menisi ohi — se ei siirry hiljaa eteenpäin.
+- Keskeneräinen toisto pysyy näkyvissä tämän päivän kalenterissa, vaikka sen ajankohta menisi ohi — se ei siirry itsestään seuraavaan toistoon.
 - Kun merkitset sen valmiiksi, kyseinen toisto siirtyy valmiiden tehtävien luetteloon ja seuraava toisto luodaan.
 - **Ohita tämä tehtävä** siirtää sinut seuraavaan toistoon merkitsemättä tehtävää valmiiksi.
 - Kun toistolla on päättymisehto eikä seuraavaa toistoa ole, sarja päättyy.
 
 Kun muokkaat tai poistat toistuvan tapahtuman yhtä kertaa, valitset laajuuden: **Vain tämä kerta**, **Tästä hetkestä alkaen** tai **Kaikki tapahtumat**.
 
-Yhdistetyn ulkoisen kalenterin tapahtumille kuukalenterivaihtoehtoa ei tarjota — kyseinen kalenteri ei osaa ilmaista sitä.
+Yhdistetyn ulkoisen kalenterin tapahtumille kuukalenterivaihtoehtoa ei tarjota — ulkoisissa kalentereissa ei ole paikkaa, johon kuukalenterin toistosäännön voisi tallentaa.
 
 ---
 
@@ -123,7 +123,7 @@ Tehtävät ja toistumattomat aikataulutapahtumat voi asettaa tärkeimmäksi. Toi
 
 ## Keskeneräiset tehtävät
 
-Tehtävät, joiden ajankohta on jo mennyt ilman että ne on merkitty valmiiksi, kootaan kalenterin ylälaidan **Keskeneräiset tehtävät** -osioon, jottei unohtunut asia vieri näkymättömiin viime viikolle.
+Tehtävät, joiden ajankohta on jo mennyt ilman että ne on merkitty valmiiksi, kootaan kalenterin ylälaidan **Keskeneräiset tehtävät** -osioon, jottei unohtunut tehtävä jää piiloon menneelle päivälle.
 
 Ajattomia ja tulevia tehtäviä ei lasketa keskeneräisiksi — ne eivät yksinkertaisesti ole vielä erääntyneet. Voit piilottaa osion kokonaan Asetuksista, jos et halua nähdä sitä.
 
