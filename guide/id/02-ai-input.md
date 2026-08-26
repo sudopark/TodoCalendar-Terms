@@ -47,7 +47,7 @@ Petakan Tombol Aksi ke pintasan **Tambah dengan AI**. Sekali tekan, ucapkan hal 
 
 ### Widget dan Pusat Kontrol
 
-- **Widget Tambah dengan AI** — widget Layar Utama atau Layar Terkunci yang membuka layar input AI dengan sekali ketuk.
+- Widget **Tambah dengan AI** — widget Layar Utama atau Layar Terkunci yang membuka layar input AI dengan sekali ketuk.
 - **Pusat Kontrol** (iOS 18 ke atas) — tambahkan kontrol yang sama ke Pusat Kontrol sebagai jalan masuk sekali usap ke bawah.
 
 ### Lembar berbagi
@@ -61,7 +61,7 @@ Permintaan dari lembar berbagi juga berjalan di latar belakang. Anda hanya mener
 ## Bagaimana sebuah permintaan diproses
 
 1. **Terkirim** — permintaan Anda berangkat. Kalau berasal dari Siri, Tombol Aksi, atau lembar berbagi, Anda tidak perlu membiarkan aplikasi terbuka.
-2. **Memproses** — aplikasi menampilkan progresnya. Anda bisa **Hentikan** permintaan yang sedang berjalan, tapi menghentikannya akan membatalkan perintah yang sedang berjalan dan tidak dapat dilanjutkan.
+2. **Memproses** — aplikasi menampilkan progresnya. Permintaan yang sedang berjalan bisa Anda hentikan lewat **Hentikan**, tapi perintah yang sudah berjalan akan dibatalkan dan tidak bisa dilanjutkan.
 3. **Perlu konfirmasi** — kalau permintaan itu akan mengubah sesuatu yang penting, aplikasi meminta persetujuan Anda lebih dulu sambil menunjukkan persis apa yang hendak dilakukannya. Ada hitung mundurnya; kalau waktunya habis, tinggal minta lagi.
 4. **Perintah selesai** — hasilnya langsung mendarat di kalender Anda, lengkap dengan ringkasan apa saja yang berubah.
 
@@ -73,9 +73,9 @@ Hanya satu permintaan yang berjalan pada satu waktu. Kalau Anda mengirim permint
 
 ## Kredit
 
-Permintaan AI memakai **jatah harian yang direset setiap hari**. Sisanya ditampilkan di bagian atas layar input AI, jadi Anda selalu tahu posisinya sebelum mengirim.
+Setiap permintaan AI memakai **kredit**, dan kredit Anda terisi ulang setiap hari. Sisanya ditampilkan di bagian atas layar input AI, jadi Anda selalu tahu posisinya sebelum mengirim.
 
-Kalau jatahnya habis, input cepat AI beristirahat sampai reset berikutnya. Semua fitur lain di aplikasi tetap berjalan.
+Kalau kreditnya habis, input cepat AI menunggu sampai pengisian ulang keesokan harinya. Semua fitur lain di aplikasi tetap berjalan.
 
 ---
 

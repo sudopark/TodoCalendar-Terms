@@ -32,9 +32,9 @@ Anda tidak perlu melakukan apa pun, dan tidak ada yang terhapus di sepanjang pro
 
 ## Menjaga tetap sinkron
 
-Sinkronisasi berjalan sendiri di latar belakang — setelah ada perubahan, saat aplikasi kembali ke depan, dan secara berkala selagi Anda tidak melihatnya. Widget disegarkan begitu prosesnya selesai.
+Sinkronisasi berjalan sendiri di latar belakang — setelah ada perubahan, saat aplikasi kembali ke depan, dan secara berkala di antaranya. Widget disegarkan begitu prosesnya selesai.
 
-Kalau ada yang terlihat ketinggalan zaman, **Sinkronisasi Paksa** di pengaturan acara akan membuang posisi sinkronisasi lokal dan menarik ulang semuanya dari awal.
+Kalau ada yang tampak belum diperbarui, **Sinkronisasi Paksa** di pengaturan acara akan menghapus apa yang sudah disinkronkan aplikasi dan mengunduh ulang semuanya dari awal.
 
 Kalau acara yang sama diubah di dua tempat, versi servernya yang menang.
 
