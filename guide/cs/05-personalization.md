@@ -18,10 +18,10 @@ Všechno na téhle obrazovce se v náhledu projeví hned, jak to změníte, tak�
 
 | Nastavení | Co dělá |
 |---|---|
-| První den v týdnu | Kterým dnem mřížka začíná |
+| První den v týdnu | Kterým dnem kalendář začíná |
 | Zvýrazněné dny | Obarví neděle, soboty a svátky — každé se zapíná zvlášť |
 | Podtržení dnů s událostmi | Označí dny, na kterých něco je |
-| Úroveň zobrazení detailu události | Jak vysoký je každý řádek — Minimální, Střední, nebo Plná. Vyšší řádky ukazují místo teček názvy událostí |
+| Úroveň zobrazení detailu události | Kolik místa dostane každý den — Minimální, Střední, nebo Plná. Při větším místě se místo teček ukazují názvy událostí |
 | Velikost písma textu události | Zvětší nebo zmenší písmo událostí |
 | Tučný text | Silnější názvy událostí |
 | Barva události | Zobrazí nebo skryje barevný proužek u každé události |
@@ -39,7 +39,7 @@ Držte se systému, nebo aplikaci připněte na **Světlé** či **Tmavé** bez 
 
 ### Motiv widgetu
 
-Widgety ve výchozím stavu používají systémový motiv. Přepněte na vlastní barvu a vyberte si jakékoli pozadí — aplikace si podle jasu vaší barvy sama odvodí, jestli má být text světlý, nebo tmavý.
+Widgety ve výchozím stavu používají **Použít systémový motiv**. Volbou **Vybrat vlastní barvu** si nastavíte jakékoli pozadí — aplikace si podle jasu té barvy sama odvodí, jestli má být text světlý, nebo tmavý.
 
 ### Pocit
 

@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/calendar.png" alt="Kalendář" width="280">
 
-Měsíční mřížka je domovská obrazovka. Přejetím doleva a doprava se posouváte mezi měsíci, klepnutím na den se pod ním otevře seznam jeho událostí.
+Měsíční kalendář je domovská obrazovka. Přejetím doleva a doprava se posouváte mezi měsíci, klepnutím na den se pod ním otevře seznam jeho událostí.
 
-- U každého dne se zobrazí barevný proužek za každou událost a k tomu ukazatel **+N**, když se jich nevejde tolik, kolik jich je.
+- U každého dne se zobrazí barevný proužek za každou událost a k tomu ukazatel **+N**, když má den víc událostí, než se do řádku vejde.
 - Seznam dne je řazený takto: úkoly bez času → úkoly s časem → termíny → svátky → události z externích kalendářů.
 - Klepnutím na záhlaví přeskočíte na libovolné datum, nebo si ho vyberte přímo přes **Přesunout datum**.
 
-Jak hustá mřížka bude — výška řádku, velikost písma událostí, tučný text, barevné proužky, názvy svátků, lunární kalendář — se dá všechno přepnout. Viz [Přizpůsobení](./05-personalization.md).
+Kolik toho každý den ukáže, je na vás: množství detailů u události, velikost písma, barvy, názvy svátků i lunární kalendář. [Přizpůsobení](./05-personalization.md) probírá každé nastavení jménem.
 
 ---
 
 ## Úkoly a termíny
 
-Aplikace zná dva druhy událostí a rozdíl je v tom, jestli se ta věc dá *dokončit*.
+Aplikace zná dva druhy událostí a rozdíl je v tom, jestli tu věc odškrtáváte.
 
 | | Úkol | Termín |
 |---|---|---|
@@ -28,19 +28,19 @@ Aplikace zná dva druhy událostí a rozdíl je v tom, jestli se ta věc dá *do
 | Dokončení | Ano — odškrtnete ho | Ne |
 | Bez času | Zůstává v sekci **Aktuální seznam úkolů**, dokud ho nedokončíte | Není možné |
 
-**Úkol bez času** je pro něco, co potřebujete udělat brzy, ale ještě jste to nenaplánovali. Zůstává nahoře v kalendáři a ve widgetu Aktuální seznam úkolů, dokud ho nedokončíte.
+**Úkol bez času** je pro něco, co potřebujete udělat brzy, ale ještě jste to nenaplánovali. Zůstává nahoře v kalendáři a ve widgetu **Aktuální seznam úkolů**, dokud ho nedokončíte.
 
 Kdykoli můžete převádět oběma směry — **Převést na termín** / **Převést na úkol** v nabídce dalších akcí u události. K převodu úkolu na termín jsou potřeba informace o čase.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/event-detail.png" alt="Detail události" width="280">
 
-Každá událost může nést **místo** (s náhledem mapy a otevřením ve vaší oblíbené mapové aplikaci jedním klepnutím), **odkaz** s náhledem a **poznámku**.
+U každé události může být **Místo**, **Odkaz** a **Poznámka**. Místo ukáže náhled mapy a jedním klepnutím se otevře ve vaší oblíbené mapové aplikaci; Odkaz má vlastní náhled.
 
 ---
 
 ## Přidávání událostí
 
-Tři cesty dovnitř podle toho, kolik toho chcete psát:
+Tři způsoby, jak přidat událost — podle toho, kolik toho chcete psát:
 
 - **Rychlé přidání** — vstupní pole dole pod seznamem dne. Napíšete název, potvrdíte a máte úkol.
 - **Podrobné zadání** — klepnutím na **+** otevřete editor s časem, opakováním, připomenutími, typem události, místem, odkazem a poznámkou.
@@ -54,7 +54,7 @@ Tři cesty dovnitř podle toho, kolik toho chcete psát:
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/repeat-options.png" alt="Možnosti opakování" width="240">
 
-Místo aby po vás aplikace chtěla poskládat pravidlo z rozbalovacích nabídek, přečte si datum, které jste vybrali, a nabídne k němu hotové možnosti. Vyberte čtvrtek a v seznamu doslova stojí **Každý týden: čtvrtek** a **Třetí čtvrtek každého měsíce**.
+Místo aby po vás aplikace chtěla poskládat pravidlo opakování z rozbalovacích nabídek, přečte si datum, které jste vybrali, a nabídne k němu hotové možnosti. Vyberte čtvrtek a seznam nabídne **Každý týden: čtvrtek** a **Třetí čtvrtek každého měsíce**.
 
 **Běžné intervaly**
 
@@ -68,22 +68,22 @@ Místo aby po vás aplikace chtěla poskládat pravidlo z rozbalovacích nabíde
 
 - Každý pracovní den — od pondělí do pátku. Nabízí se, když událost začíná v pracovní den
 - Všechny dny posledního týdne každého měsíce
-- První / Druhý / Třetí / Čtvrtý / Poslední *den v týdnu* každého měsíce — na věci typu „poslední pátek v měsíci“
+- První / Druhý / Třetí / Čtvrtý / Poslední **čtvrtek** každého měsíce — den v týdnu se doplní z vybraného data, takže událost v pátek dostane **Poslední pátek každého měsíce**
 
 **Konec opakování**
 
-Jakmile vyberete opakování, zvolte, jak skončí: **Nikdy**, **Dne** ke konkrétnímu datu, nebo **Po** zadaném počtu **výskytech**.
+Jakmile vyberete opakování, zvolte, kdy skončí: **Nikdy** ho nechá běžet bez konce, **Dne** určí pevné datum konce a **Po** omezí počet opakování.
 
 Opakující se úkoly se chovají jinak než opakující se termíny:
 
-- Nedokončené opakování zůstává vidět v dnešním kalendáři i poté, co jeho čas uplyne — nepřeskočí tiše dál.
+- Nedokončené opakování zůstává vidět v dnešním kalendáři i poté, co jeho čas uplyne — samo nepřejde na další opakování.
 - Když ho dokončíte, dané opakování se zařadí mezi dokončené úkoly a vytvoří se další.
 - **Přeskočit tento úkol** vás posune na další opakování, aniž by se označilo za dokončené.
 - Když má opakování podmínku konce a další opakování už neexistuje, série skončí.
 
 Když upravujete nebo mažete jedno opakování opakující se události, vyberete si rozsah: **Pouze tentokrát**, **Od nynějška**, nebo **Všechny události**.
 
-U událostí z připojeného externího kalendáře se lunární možnost nenabízí — takový kalendář ji nemá jak vyjádřit.
+U událostí z připojeného externího kalendáře se lunární možnost nenabízí — externí kalendáře nemají kam pravidlo lunárního opakování uložit.
 
 ---
 
@@ -123,7 +123,7 @@ Jako nejdůležitější lze nastavit úkoly a neopakující se termíny. Opakuj
 
 ## Nedokončené úkoly
 
-Úkoly, kterým už uplynul čas a nebyly dokončeny, se sbírají v sekci **Nedokončené úkoly** nahoře v kalendáři, aby propásnutá věc neodrolovala z dohledu do minulého týdne.
+Úkoly, kterým už uplynul čas a nebyly dokončeny, se sbírají v sekci **Nedokončené úkoly** nahoře v kalendáři, aby propásnutý úkol nezůstal zapadlý na minulém datu.
 
 Úkoly bez času a úkoly v budoucnu se mezi nedokončené nepočítají — prostě jim termín ještě neuplynul. Pokud tuhle sekci vidět nechcete, dá se v Nastavení úplně skrýt.
 

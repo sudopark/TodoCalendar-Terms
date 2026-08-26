@@ -4,7 +4,7 @@
 
 ---
 
-Když vaše pracovní schůzky žijí v Google Kalendáři a rodinný sdílený kalendář na iPhonu, nemělo by být potřeba otevírat tři aplikace, abyste zjistili, jak vypadá váš čtvrtek. Připojte je a objeví se ve stejné mřížce jako vaše vlastní úkoly a termíny.
+Když vaše pracovní schůzky žijí v Google Kalendáři a rodinný sdílený kalendář na iPhonu, nemělo by být potřeba otevírat tři aplikace, abyste zjistili, jak vypadá váš čtvrtek. Připojte je a objeví se ve stejném kalendáři jako vaše vlastní úkoly a termíny.
 
 Připojíte je v **Nastavení › Nastavení událostí a externí kalendáře › Externí kalendáře**.
 
@@ -31,7 +31,7 @@ Klepněte na **Připojit** u Google Kalendáře a přihlaste se. Můžete to zop
 
 ### Výběr toho, co se zobrazí
 
-Připojení účtu nevysype do mřížky rovnou všechny kalendáře. Aplikace se drží toho, co jste měli vybrané přímo v Google Kalendáři, a všechno ostatní začíná skryté. Jednotlivé kalendáře zapínáte a vypínáte v seznamu typů událostí — mají tam vlastní sekci **Google Kalendář**, hned vedle vašich vlastních typů událostí.
+Připojení účtu nedostane do zobrazení rovnou všechny kalendáře. Aplikace se drží toho, co jste měli vybrané přímo v Google Kalendáři, a všechno ostatní začíná skryté. Jednotlivé kalendáře zapínáte a vypínáte v seznamu typů událostí — mají tam vlastní sekci **Google Kalendář**, hned vedle vašich vlastních typů událostí.
 
 Každý kalendář si nechává barvu, kterou má v Googlu, takže pracovní kalendář vypadá tady stejně jako tam.
 
@@ -39,13 +39,13 @@ Každý kalendář si nechává barvu, kterou má v Googlu, takže pracovní kal
 
 Klepněte na událost z Googlu a máte celý obrázek: **Účastníci** i **Organizátor**, odkaz na schůzku a případné přístupové kódy (jedním klepnutím je zkopírujete), přílohy a k tomu, jestli je událost potvrzená, předběžná, nebo zrušená.
 
-Upravit ji můžete rovnou tam — včetně toho, jestli se změna týká jednoho opakování (**Pouze tuto událost**), nebo celé opakující se série (**Všechny události**) — nebo si ji místo toho otevřít v Google Kalendáři.
+Upravit ji můžete rovnou tam — včetně toho, jestli se změna týká jednoho opakování (**Pouze tuto událost**), nebo celé opakující se série (**Všechny události**) — nebo si ji otevřít v Google Kalendáři.
 
-Něco vám zůstane mimo dosah, a aplikace to řekne, místo aby tiše selhala:
+Něco odsud změnit nejde — aplikace vám řekne proč, místo aby jen selhala:
 
 - **Kalendáře jen pro čtení** (odebíraný kalendář, kalendář sdílený někým jiným) si prohlédnete, ale neupravíte.
-- **Pole, která vlastní Google**, ukážou svou hodnotu, ale tady se změnit nedají.
-- **Popisy s formátováním** vás před úpravou varují, protože úpravou tady o formátování přijdete.
+- **Pole, která spravuje Google**, ukážou svou hodnotu, ale tady se změnit nedají.
+- U **popisů s formátováním** vás aplikace před úpravou varuje, protože úpravou tady o formátování přijdete.
 - Pokud vaše přihlášení ještě nenese oprávnění k úpravám, aplikace vás požádá, abyste se k tomu účtu Google přihlásili znovu.
 
 ### Odpojení
@@ -64,9 +64,9 @@ Pokud byl přístup dřív odepřen, aplikace vás nasměruje do Nastavení iOS.
 
 ### Práce s událostí z Apple Kalendáře
 
-Události z Applu ukazují **Účastníci** i **Organizátor** a dají se upravovat a mazat přímo v aplikaci. U opakující se události si vyberete, jestli se změna týká **Pouze tuto událost**, nebo **Tuto a všechny budoucí události**.
+U událostí z Applu se zobrazí **Účastníci** i **Organizátor** a dají se upravovat a mazat přímo v aplikaci. U opakující se události si vyberete možnost **Pouze tuto událost**, nebo **Tuto a všechny budoucí události**.
 
-Kalendáře jen pro čtení zůstávají jen pro čtení a pole, která aplikace upravit neumí, se zobrazí, ale upravit nejdou — stejně jako u Googlu. Událost si vždycky můžete místo toho otevřít v Apple Kalendáři.
+Kalendáře jen pro čtení zůstávají jen pro čtení a pole, která aplikace upravit neumí, se zobrazí, ale upravit nejdou — stejně jako u Googlu. Událost si vždycky můžete otevřít i v Apple Kalendáři.
 
 ---
 
@@ -74,7 +74,7 @@ Kalendáře jen pro čtení zůstávají jen pro čtení a pole, která aplikace
 
 - V seznamu dne sedí pod vašimi vlastními událostmi, takže vaše úkoly zůstávají nahoře.
 - Jsou seskupené jako vlastní typy událostí, takže jedním přepnutím skryjete celý účet nebo jediný kalendář, aniž byste cokoli odpojovali.
-- Přetékají i do widgetů a widgety podle nich můžete filtrovat úplně stejně jako podle vlastních typů událostí.
+- Objevují se i ve widgetech a widgety podle nich můžete filtrovat úplně stejně jako podle vlastních typů událostí.
 - Když integrace vyprší, aplikace vám to řekne a nasměruje vás zpátky do nastavení, abyste se připojili znovu.
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-Popište běžnou řečí, co chcete, a aplikace to za vás sestaví — „oběd se Sárou v pátek v poledne“, „přesuň zubaře na příští úterý“, „označ prádlo jako hotové“. Žádné formuláře, žádné vybírání data z kolečka.
+Popište běžnou řečí, co chcete, a aplikace to za vás sestaví — „oběd se Sárou v pátek v poledne“, „přesuň zubaře na příští úterý“, „označ prádlo jako hotové“. Žádné formuláře, žádné výběry data.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/ai-input.png" alt="Rychlé zadávání AI" width="280">
 
@@ -35,7 +35,7 @@ Klepněte na tlačítko AI na obrazovce kalendáře. Otevře se vstupní panel s
 
 **Číst z obrázku** promění fotku v události. **Vyfotit**, nebo **Vybrat z knihovny** — aplikace přečte text na obrázku (rozvrh hodin, plakát na akci, snímek zprávy) a ukáže vám, co našla, abyste před odesláním mohli opravit, co se nepovedlo.
 
-K výsledku můžete připojit **Další pokyny (volitelné)**, třeba „přidat jako úkoly“. Když v obrázku není žádný čitelný text, aplikace vám to řekne, místo aby poslala prázdný požadavek.
+Výsledek můžete nasměrovat přes **Další pokyny (volitelné)**, třeba „přidat jako úkoly“. Když v obrázku není žádný čitelný text, aplikace vám to řekne, místo aby poslala prázdný požadavek.
 
 ### Siri
 
@@ -43,7 +43,7 @@ K výsledku můžete připojit **Další pokyny (volitelné)**, třeba „přida
 
 ### Tlačítko Akce
 
-Přiřaďte tlačítku Akce zkratku **Přidat pomocí AI**. Jedno stisknutí, řeknete to a hotovo — aplikace se vůbec nemusí dostat do popředí.
+Přiřaďte tlačítku Akce zkratku **Přidat pomocí AI**. Jedno stisknutí, řeknete to a hotovo — aplikace se vůbec neotevře.
 
 ### Widget a Ovládací centrum
 
@@ -73,9 +73,9 @@ Naráz běží jen jeden požadavek. Když pošlete další, zatímco jeden poř
 
 ## Kredity
 
-Požadavky AI čerpají z **denního přídělu, který se každý den obnovuje**. Kolik zbývá, vidíte nahoře na obrazovce zadávání AI, takže před odesláním vždycky víte, na čem jste.
+Každý požadavek AI spotřebuje **kredity** a ty se vám každý den doplní. Kolik jich zbývá, vidíte nahoře na obrazovce zadávání AI, takže to víte ještě před odesláním.
 
-Když příděl dojde, rychlé zadávání AI si dá pauzu až do dalšího obnovení. Všechno ostatní v aplikaci funguje dál.
+Když kredity dojdou, rychlé zadávání AI počká na doplnění další den. Všechno ostatní v aplikaci funguje dál.
 
 ---
 
