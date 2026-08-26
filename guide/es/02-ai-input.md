@@ -4,7 +4,7 @@
 
 ---
 
-Describe en lenguaje natural lo que quieres y la app lo construye por ti — "comida con Sara el viernes a mediodía", "pasa el dentista al martes que viene", "marca la colada como hecha". Sin formularios, sin elegir la fecha en una ruleta.
+Describe en lenguaje natural lo que quieres y la app lo construye por ti — "comida con Sara el viernes a mediodía", "pasa el dentista al martes que viene", "marca la colada como hecha". Sin formularios y sin selectores de fecha.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/ai-input.png" alt="Entrada rápida con IA" width="280">
 
@@ -33,7 +33,7 @@ Toca el botón de IA en la pantalla del calendario. La hoja de entrada se abre c
 
 ### Desde una imagen
 
-**Leer desde una imagen** convierte una foto en eventos. **Hacer una foto** o **Elegir de la biblioteca**; la app lee el texto que hay en ella — un horario de clases, un cartel de un evento, una captura de un mensaje — y te muestra lo que ha encontrado para que corrijas lo que haya salido mal antes de enviarlo.
+**Leer desde una imagen** convierte una foto en eventos. Elige **Hacer una foto** o **Elegir de la biblioteca**; la app lee el texto que hay en ella — un horario de clases, un cartel de un evento, una captura de un mensaje — y te muestra lo que ha encontrado para que corrijas lo que haya salido mal antes de enviarlo.
 
 Puedes añadir unas **Instrucciones adicionales (opcional)** para orientar el resultado, del tipo "añade esto como tareas". Si en la imagen no hay texto legible, la app te lo dice en vez de enviar una solicitud vacía.
 
@@ -43,7 +43,7 @@ Di **"Añadir con IA en To-do Calendar"** — o "Añadir un evento de calendario
 
 ### Botón de Acción
 
-Asigna el botón de Acción al atajo **Añadir con IA**. Una pulsación, lo dices y listo — la app nunca tiene que pasar a primer plano.
+Asigna el botón de Acción al atajo **Añadir con IA**. Una pulsación, dices lo que quieres añadir y se envía — la app no tiene ni que abrirse.
 
 ### Widget y Centro de Control
 
@@ -62,20 +62,20 @@ La solicitud de la hoja de compartir también se ejecuta en segundo plano. Recib
 
 1. **Enviada** — tu solicitud sale. Si vino de Siri, del botón de Acción o de la hoja de compartir, no hace falta que dejes la app abierta.
 2. **Procesando** — la app muestra el progreso. Puedes **Detener** una solicitud mientras se ejecuta, aunque al detenerla se descarta el trabajo en curso y no se puede reanudar.
-3. **Se necesita confirmación**, cuando toca — si la solicitud va a cambiar algo importante, la app te pide que lo apruebes primero y te enseña exactamente lo que va a hacer. Hay una cuenta atrás; si se acaba, solo tienes que pedirlo otra vez.
+3. **Se necesita confirmación** — si la solicitud va a cambiar algo importante, la app te pide que lo apruebes primero y te enseña exactamente lo que va a hacer. Hay una cuenta atrás; si se acaba, solo tienes que pedirlo otra vez.
 4. **Comando completado** — el resultado aparece en tu calendario al momento, con un resumen de lo que cambió.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/ai-result.png" alt="Resultado de la IA" width="280">
 
-Solo se ejecuta una solicitud a la vez. Si envías otra mientras una sigue esperando tu aprobación, la app te dice que resuelvas primero la anterior.
+Solo se ejecuta una solicitud a la vez. Si envías otra mientras una sigue esperando tu aprobación, la app te pide que revises primero la que está pendiente.
 
 ---
 
 ## Créditos
 
-Las solicitudes de IA consumen una **asignación diaria que se reinicia cada día**. Lo que queda se muestra arriba en la pantalla de entrada de IA, así que siempre sabes cómo vas antes de enviar.
+Cada solicitud de IA gasta **créditos**, y tus créditos se recargan cada día. Los que te quedan se muestran arriba en la pantalla de entrada de IA, así que lo sabes antes de enviar.
 
-Si la asignación se agota, la entrada rápida con IA se pausa hasta el siguiente reinicio. Todo lo demás en la app sigue funcionando.
+Cuando se te acaban, la entrada rápida con IA espera a la recarga del día siguiente. Todo lo demás en la app sigue funcionando.
 
 ---
 

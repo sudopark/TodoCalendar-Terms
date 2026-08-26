@@ -4,7 +4,7 @@
 
 ---
 
-La razón de ser de un widget de calendario es no tener que abrir el calendario. To-do Calendar trae un conjunto amplio para que elijas el que encaja con la forma en que miras tu día de verdad — un único evento siguiente, un mes entero, o tu lista de tareas con casillas que puedes tocar.
+Un widget está ahí para que no tengas que abrir la app solo para ver qué viene ahora. To-do Calendar trae un conjunto amplio para que elijas el que encaja con la forma en que miras tu día de verdad — un único evento siguiente, un mes entero, o tu lista de tareas con casillas que puedes tocar.
 
 ---
 
@@ -14,7 +14,7 @@ La razón de ser de un widget de calendario es no tener que abrir el calendario.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/widget-today-and-next.png" alt="Widget Hoy y lo que sigue" width="360">
 
-A la izquierda, la fecha de hoy y lo que queda del día; a la derecha, lo que viene después. La vista única más densa de "qué ahora, qué después".
+A la izquierda, la fecha de hoy y lo que queda del día; a la derecha, lo que viene después. Ningún otro widget enseña tanto de una vez.
 
 *Mediano.*
 
@@ -90,10 +90,10 @@ Varios widgets tienen forma para la pantalla bloqueada: **Próximo evento** (inl
 
 ### Cuenta atrás en actividad en vivo
 
-Pon un evento en tu pantalla bloqueada y mira cómo baja el tiempo que falta, con la misma vista en la Dynamic Island. Elige **Mostrar en la pantalla bloqueada** en el menú de más opciones del evento.
+Pon un evento en tu pantalla bloqueada y mira cómo va contando atrás, con la misma vista en la Dynamic Island. Elige **Mostrar en la pantalla bloqueada** en el menú de más opciones del evento.
 
 - Disponible para eventos que empiecen dentro de las próximas 8 horas.
-- Un evento a la vez — al elegir uno nuevo se te pregunta si quieres sustituir el actual.
+- Un evento a la vez — eliges uno nuevo y la app te pregunta si quieres sustituir el actual.
 - Las tareas se pueden completar directamente desde la actividad en vivo.
 
 ---

@@ -31,21 +31,21 @@ Toca **Conectar** junto a Google Calendar e inicia sesión. Puedes repetirlo con
 
 ### Elegir qué se muestra
 
-Conectar una cuenta no vuelca todos los calendarios en tu cuadrícula. La app respeta lo que tenías seleccionado en el propio Google Calendar, y el resto empieza oculto. Activa y desactiva calendarios individuales en la lista de tipos de evento — están en su propia sección **Google Calendar**, junto a tus tipos de evento.
+Conectar una cuenta no pone todos los calendarios en tu cuadrícula de golpe. La app respeta lo que tenías seleccionado en el propio Google Calendar, y el resto empieza oculto. Activa y desactiva calendarios individuales en la lista de tipos de evento — están en su propia sección **Google Calendar**, junto a tus tipos de evento.
 
 Cada calendario conserva el color que tiene en Google, así que un calendario de trabajo se ve aquí igual que allí.
 
 ### Trabajar con un evento de Google
 
-Toca un evento de Google y tienes el cuadro completo: los invitados y quién lo organizó, el enlace de la reunión y cualquier código de acceso (un toque para copiarlo), los archivos adjuntos, y si el evento está confirmado, provisional o cancelado.
+Toca un evento de Google y ves todo lo que lleva: los invitados y quién lo organizó, el enlace de la reunión y cualquier código de acceso (un toque para copiarlo), los archivos adjuntos, y si el evento está confirmado, provisional o cancelado.
 
 Puedes editarlo ahí mismo — incluso elegir si un cambio se aplica a una repetición o a toda la serie repetida — o abrirlo en Google Calendar.
 
-Algunas cosas se quedan fuera de tu alcance, y la app lo dice en vez de fallar en silencio:
+Algunas cosas no se pueden cambiar desde aquí, y la app te dice por qué en vez de limitarse a fallar:
 
 - **Los calendarios de solo lectura** (un calendario suscrito, el calendario compartido de otra persona) se pueden ver, pero no editar.
 - **Los campos que pertenecen a Google** muestran su valor, pero no se pueden cambiar aquí.
-- **Las descripciones con formato** te avisan antes de editar, porque editarlas aquí elimina el formato.
+- **Las descripciones con formato** — la app te avisa antes de que edites una, porque editarla aquí elimina el formato.
 - Si tu inicio de sesión todavía no lleva permiso de edición, la app te pide que vuelvas a iniciar sesión en esa cuenta de Google.
 
 ### Desconectar
