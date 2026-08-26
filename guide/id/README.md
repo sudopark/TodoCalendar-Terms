@@ -4,12 +4,12 @@
 
 **Tugas dan jadwal Anda, dalam satu kalender.**
 
-Kebanyakan kalender hanya menampung janji temu, dan kebanyakan aplikasi tugas tidak punya gambaran tentang satu bulan penuh. To-do Calendar menaruh keduanya di grid yang sama: jadwal duduk di hari kejadiannya, dan tugas tetap ada di depan mata sampai Anda benar-benar mencentangnya — meski tidak ada waktu yang menempel padanya.
+Kalender menunjukkan janji temu Anda, tapi bukan hal-hal yang harus Anda kerjakan. Aplikasi tugas memberi Anda sebuah daftar, tapi tidak pernah menunjukkan di mana hal-hal itu jatuh dalam satu bulan. To-do Calendar menaruh keduanya di kalender yang sama: jadwal duduk di hari kejadiannya, dan tugas tetap ada di depan mata sampai Anda benar-benar mencentangnya — meski tidak ada waktu yang menempel padanya.
 
 Aplikasi ini berjalan sepenuhnya secara offline dan tanpa akun. Masuk hanya kalau Anda ingin data dicadangkan dan disinkronkan antar perangkat.
 
 - **Satu kalender, dua jenis pekerjaan** — jadwal dan tugas berdampingan, dibedakan warna lewat jenis acara buatan Anda sendiri
-- **Tugas yang tidak menghilang** — tugas tanpa waktu dan tugas yang lewat tenggat tetap menempel di bagian atas, bukan tergulung ke masa lalu
+- **Tugas yang tidak menghilang** — tugas tanpa waktu dan tugas yang lewat tenggat tetap menempel di bagian atas, bukan tertinggal di tanggal yang sudah lewat
 - **Tambahkan sambil bicara** — jelaskan sebuah acara dengan bahasa sehari-hari lewat input cepat AI, Siri, atau Tombol Aksi
 - **Lihat tanpa membukanya** — rangkaian widget yang luas untuk Layar Utama, Layar Terkunci, dan Pusat Kontrol
 - **Bawa kalender Anda yang lain** — hubungkan Google Kalender dan Apple Kalender, lalu lihat semuanya di satu tempat

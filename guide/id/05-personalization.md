@@ -18,7 +18,7 @@ Semua yang ada di layar ini langsung terlihat di pratinjau begitu Anda mengubahn
 
 | Pengaturan | Fungsinya |
 |---|---|
-| Hari awal minggu | Grid dimulai dari hari apa |
+| Hari awal minggu | Kalender dimulai dari hari apa |
 | Hari yang Ditonjolkan | Memberi warna pada hari Minggu, Sabtu, dan hari libur — masing-masing bisa disetel terpisah |
 | Garis bawah pada hari dengan acara | Menandai hari yang ada isinya |
 | Tingkat tampilan detail acara | Seberapa tinggi tiap baris — Minimal, Sedang, atau Penuh. Baris yang lebih tinggi menampilkan nama acara alih-alih titik |
@@ -39,7 +39,7 @@ Ikuti sistem, atau kunci aplikasi ke **Terang** atau **Gelap** terlepas dari apa
 
 ### Tema widget
 
-Widget memakai tema sistem secara bawaan. Beralihlah ke warna kustom dan pilih latar apa pun yang Anda suka — aplikasi akan menghitung sendiri apakah teksnya harus terang atau gelap dari seberapa terang warna pilihan Anda.
+Widget memakai **Gunakan tema sistem** secara bawaan. Beralihlah ke **Pilih warna kustom** lalu tentukan latar apa pun yang Anda suka — aplikasi akan menghitung sendiri apakah teksnya harus terang atau gelap dari seberapa terang warna pilihan Anda.
 
 ### Rasa
 
@@ -67,7 +67,7 @@ Di sinilah **Kalender eksternal** juga dihubungkan — lihat [Kalender eksternal
 
 Pilih negara Anda dan hari libur nasionalnya akan muncul di kalender. Aplikasi memilih lebih dulu negara yang disetel di perangkat Anda, dan Anda bisa menggantinya kapan saja.
 
-Tidak semua hari libur Anda rayakan. **Sembunyikan** yang mana pun dan ia berhenti muncul setiap tahun; hari libur yang disembunyikan didaftar di bagian bawah layar yang sama supaya bisa Anda **Tampilkan** lagi nanti.
+Tidak semua hari libur Anda rayakan. **Sembunyikan** yang mana pun dan ia berhenti muncul setiap tahun; hari libur yang disembunyikan didaftar di **Hari Libur Tersembunyi** pada bagian bawah layar yang sama, supaya bisa Anda **Tampilkan** lagi nanti.
 
 ---
 

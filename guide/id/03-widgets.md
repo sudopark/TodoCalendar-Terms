@@ -4,7 +4,7 @@
 
 ---
 
-Inti dari widget kalender adalah supaya Anda tidak perlu membuka kalendernya. To-do Calendar menyediakan rangkaian yang luas agar Anda bisa memilih yang paling cocok dengan cara Anda memeriksa hari — satu acara berikutnya saja, satu bulan penuh, atau daftar tugas berikut kotak centang yang bisa diketuk.
+Widget ada supaya Anda tidak perlu membuka aplikasi hanya untuk tahu apa yang berikutnya. To-do Calendar menyediakan rangkaian yang luas agar Anda bisa memilih yang paling cocok dengan cara Anda memeriksa hari — satu acara berikutnya saja, satu bulan penuh, atau daftar tugas berikut kotak centang yang bisa diketuk.
 
 ---
 
@@ -14,7 +14,7 @@ Inti dari widget kalender adalah supaya Anda tidak perlu membuka kalendernya. To
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-today-and-next.png" alt="Widget Hari Ini dan Selanjutnya" width="360">
 
-Tanggal hari ini beserta sisa agenda hari ini di kiri, dan apa yang akan datang berikutnya di kanan. Tampilan tunggal paling padat untuk "sekarang apa, habis itu apa".
+Tanggal hari ini beserta sisa agenda hari ini di kiri, dan apa yang akan datang berikutnya di kanan. Tidak ada widget lain yang menampilkan sebanyak ini sekaligus.
 
 *Sedang.*
 
@@ -22,7 +22,7 @@ Tanggal hari ini beserta sisa agenda hari ini di kiri, dan apa yang akan datang 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-event-list.png" alt="Widget daftar acara" width="300">
 
-Daftar berjalan berisi acara mendatang yang dikelompokkan per hari, termasuk Daftar Tugas Saat Ini Anda. Tersedia dalam tiga ukuran; makin besar, makin banyak hari yang ditampilkan.
+Daftar berjalan berisi acara mendatang yang dikelompokkan per hari, termasuk **Daftar Tugas Saat Ini** Anda. Tersedia dalam tiga ukuran; makin besar, makin banyak hari yang ditampilkan.
 
 *Kecil · Sedang · Besar.*
 
@@ -46,7 +46,7 @@ Satu acara yang Anda sematkan sebagai yang paling penting, selalu terlihat. Liha
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-month.png" alt="Widget kalender" width="360">
 
-Grid kalendernya sendiri, dalam rentang yang Anda inginkan:
+Kalendernya sendiri, dalam rentang yang Anda inginkan:
 
 | Widget | Ukuran |
 |---|---|
@@ -61,8 +61,8 @@ Dua panel dalam satu widget, untuk saat satu tampilan saja tidak cukup:
 
 | Widget | Menampilkan | Ukuran |
 |---|---|---|
-| HARI INI + Kalender | Ringkasan hari ini di samping grid bulanan | Sedang |
-| Acara + Kalender | Acara mendatang di samping grid bulanan | Sedang |
+| HARI INI + Kalender | Ringkasan hari ini di samping kalender bulanan | Sedang |
+| Acara + Kalender | Acara mendatang di samping kalender bulanan | Sedang |
 | Acara + Terpenting | Acara mendatang di samping acara yang Anda sematkan | Sedang |
 | Kalender + Kalender | Dua bulan berdampingan | Sedang |
 

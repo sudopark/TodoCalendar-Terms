@@ -4,7 +4,7 @@
 
 ---
 
-Kalau rapat kantor Anda ada di Google Kalender dan kalender bersama keluarga ada di iPhone, Anda semestinya tidak perlu membuka tiga aplikasi hanya untuk tahu hari Kamis Anda seperti apa. Hubungkan keduanya dan semuanya muncul di grid yang sama dengan tugas dan jadwal Anda sendiri.
+Kalau rapat kantor Anda ada di Google Kalender dan kalender bersama keluarga ada di iPhone, Anda semestinya tidak perlu membuka tiga aplikasi hanya untuk tahu hari Kamis Anda seperti apa. Hubungkan keduanya dan semuanya muncul di kalender yang sama dengan tugas dan jadwal Anda sendiri.
 
 Hubungkan dari **Pengaturan › Pengaturan acara dan kalender eksternal › Kalender eksternal**.
 
@@ -31,7 +31,7 @@ Ketuk **Hubungkan** di samping Google Kalender lalu masuk. Anda bisa mengulangin
 
 ### Memilih apa saja yang muncul
 
-Menghubungkan sebuah akun tidak lantas menumpahkan semua kalender ke grid Anda. Aplikasi mengikuti apa yang sudah Anda pilih di Google Kalender itu sendiri, dan sisanya dimulai dalam keadaan tersembunyi. Nyalakan dan matikan tiap kalender di daftar jenis acara — semuanya duduk di bagian **Google Kalender** tersendiri, bersebelahan dengan jenis acara buatan Anda.
+Menghubungkan sebuah akun tidak lantas menampilkan semua kalendernya sekaligus. Aplikasi mengikuti apa yang sudah Anda pilih di Google Kalender itu sendiri, dan sisanya dimulai dalam keadaan tersembunyi. Nyalakan dan matikan tiap kalender di daftar jenis acara — semuanya duduk di bagian **Google Kalender** tersendiri, bersebelahan dengan jenis acara buatan Anda.
 
 Setiap kalender mempertahankan warna yang dipakainya di Google, jadi kalender kantor terlihat sama di sini seperti di sana.
 
@@ -41,12 +41,12 @@ Ketuk sebuah acara Google dan Anda mendapat gambaran utuhnya: peserta dan penyel
 
 Anda bisa mengeditnya di tempat — termasuk memilih apakah perubahannya berlaku untuk satu putaran saja atau untuk seluruh rangkaian berulang — atau membukanya di Google Kalender.
 
-Ada hal-hal yang tetap di luar kendali Anda, dan aplikasi mengatakannya alih-alih gagal diam-diam:
+Ada hal-hal yang tidak bisa diubah dari sini, dan aplikasi memberi tahu alasannya alih-alih gagal begitu saja:
 
 - **Kalender hanya-baca** (kalender langganan, kalender yang dibagikan orang lain) bisa dilihat tapi tidak bisa diedit.
 - **Kolom yang dimiliki Google** menampilkan nilainya, tapi tidak bisa diubah di sini.
-- **Deskripsi berformat** akan memperingatkan Anda sebelum diedit, karena mengeditnya di sini akan menghapus formatnya.
-- Kalau akun yang Anda pakai masuk belum membawa izin edit, aplikasi meminta Anda masuk lagi ke akun Google tersebut.
+- **Deskripsi berformat** — aplikasi memperingatkan Anda sebelum mengeditnya, karena mengeditnya di sini akan menghapus formatnya.
+- Kalau proses masuk Anda belum membawa izin edit, aplikasi meminta Anda masuk lagi ke akun Google tersebut.
 
 ### Memutuskan hubungan
 
