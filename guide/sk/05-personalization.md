@@ -12,13 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/appearance-setting.png" alt="Nastavenia vzhľadu" width="280">
 
-Všetko na tejto obrazovke sa zobrazuje v živom náhľade hneď pri zmene, takže ešte pred potvrdením vidíte, ako bude kalendár vyzerať.
+Všetko na tejto obrazovke sa zobrazuje v živom náhľade hneď pri zmene, takže ešte predtým, než sa rozhodnete, vidíte, ako bude kalendár vyzerať.
 
 ### Kalendár
 
 | Nastavenie | Čo robí |
 |---|---|
-| Prvý deň týždňa | Ktorým dňom sa mriežka začína |
+| Prvý deň týždňa | Ktorým dňom sa kalendár začína |
 | Zvýraznené dni | Zafarbí nedele, soboty a sviatky — každé sa prepína osobitne |
 | Podčiarknutie dní s udalosťami | Označí dni, na ktorých niečo je |
 | Úroveň zobrazenia detailu udalosti | Aký vysoký je každý riadok — Minimálna, Stredná alebo Plná. Vyššie riadky ukazujú namiesto bodiek názvy udalostí |
@@ -39,12 +39,12 @@ Sledujte systém, alebo aplikáciu pripnite na **Svetlá** či **Tmavá** bez oh
 
 ### Motív widgetu
 
-Widgety štandardne používajú systémový motív. Prepnite na vlastnú farbu a vyberte si ľubovoľné pozadie — aplikácia z jeho jasu odvodí, či má byť text svetlý alebo tmavý.
+Widgety štandardne používajú systémový motív. Prepnutím na **Vybrať vlastnú farbu** si zvolíte ľubovoľné pozadie — aplikácia z jeho jasu odvodí, či má byť text svetlý alebo tmavý. Späť sa vrátite voľbou **Použiť systémový motív**.
 
 ### Pocit z ovládania
 
-- **Haptická odozva** — drobné poklepania pri ovládaní
-- **Obmedziť animačné efekty** — uberie pohyb, takže aplikácia pôsobí pokojnejšie a rýchlejšie
+- **Haptická odozva** — drobné poklepania pri používaní aplikácie
+- **Obmedziť animačné efekty** — obmedzí pohyb, takže aplikácia pôsobí pokojnejšie a rýchlejšie
 
 ---
 
@@ -67,7 +67,7 @@ Práve tu sa pripájajú aj **Externé kalendáre** — pozrite si [Externé kal
 
 Vyberte si krajinu a jej štátne sviatky sa objavia v kalendári. Aplikácia predvyberie krajinu, ktorú máte nastavenú v zariadení, a kedykoľvek ju môžete zmeniť.
 
-Nie každý sviatok je ten, ktorý slávite. Ktorýkoľvek z nich **Skryť** a prestane sa každoročne zobrazovať; skryté sviatky sú vypísané naspodku tej istej obrazovky, takže si ktorýkoľvek viete neskôr vrátiť cez **Zobraziť**.
+Nie každý sviatok je ten, ktorý slávite. Ktorýkoľvek z nich skryjete tlačidlom **Skryť** a prestane sa každoročne zobrazovať; skryté sviatky sú vypísané naspodku tej istej obrazovky, takže si ktorýkoľvek viete neskôr vrátiť cez **Zobraziť**.
 
 ---
 
