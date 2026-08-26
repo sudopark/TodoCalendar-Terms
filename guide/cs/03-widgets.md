@@ -4,7 +4,7 @@
 
 ---
 
-Smysl kalendářového widgetu je v tom, že kalendář nemusíte otevírat. To-do Calendar jich nabízí širokou sadu, takže si vyberete ten, který odpovídá tomu, jak si svůj den doopravdy kontrolujete — jedna další událost, celý měsíc, nebo seznam úkolů s kolečky, která jdou odškrtnout.
+Widget je od toho, abyste nemuseli otevírat aplikaci jen kvůli tomu, co přijde dál. To-do Calendar jich nabízí širokou sadu, takže si vyberete ten, který odpovídá tomu, jak si svůj den doopravdy kontrolujete — jedna další událost, celý měsíc, nebo seznam úkolů s kolečky, která jdou odškrtnout.
 
 ---
 
@@ -14,7 +14,7 @@ Smysl kalendářového widgetu je v tom, že kalendář nemusíte otevírat. To-
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-today-and-next.png" alt="Widget Dnes a co bude dál" width="360">
 
-Vlevo dnešní datum a to, co ze dneška zbývá, vpravo to, co přijde dál. Nejhustší jediný pohled na to, „co teď a co potom“.
+Vlevo dnešní datum a to, co ze dneška zbývá, vpravo to, co přijde dál. Žádný jiný widget neukáže tolik naráz.
 
 *Střední.*
 
@@ -46,7 +46,7 @@ Ta jedna událost, kterou jste připnuli jako nejdůležitější, pořád na o�
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-month.png" alt="Widget s měsícem" width="360">
 
-Samotná kalendářová mřížka v rozsahu, jaký chcete:
+Samotný kalendář v rozsahu, jaký chcete:
 
 | Widget | Velikost |
 |---|---|
@@ -61,8 +61,8 @@ Dva panely v jednom widgetu, když jeden pohled nestačí:
 
 | Widget | Co ukazuje | Velikost |
 |---|---|---|
-| DNES + Kalendář | Souhrn dneška vedle měsíční mřížky | Střední |
-| Události + Kalendář | Nadcházející události vedle měsíční mřížky | Střední |
+| DNES + Kalendář | Souhrn dneška vedle měsíčního kalendáře | Střední |
+| Události + Kalendář | Nadcházející události vedle měsíčního kalendáře | Střední |
 | Události + Nejdůležitější | Nadcházející události vedle vaší připnuté události | Střední |
 | Kalendář + Kalendář | Dva měsíce vedle sebe | Střední |
 

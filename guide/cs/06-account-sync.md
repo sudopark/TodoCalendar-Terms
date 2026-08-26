@@ -32,9 +32,9 @@ Nemusíte dělat nic a cestou se nic nesmaže.
 
 ## Jak zůstat v synchronizaci
 
-Synchronizace běží sama na pozadí — po změnách, když se aplikace vrátí do popředí, a průběžně, i když se zrovna nedíváte. Jakmile doběhne, obnoví se widgety.
+Synchronizace běží sama na pozadí — po změnách, když se aplikace vrátí do popředí, a průběžně mezi tím. Jakmile doběhne, obnoví se widgety.
 
-Když něco vypadá zastarale, **Vynutit synchronizaci** v nastavení událostí zahodí místní pozici synchronizace a stáhne všechno znovu od začátku.
+Když něco vypadá zastarale, **Vynutit synchronizaci** v nastavení událostí vymaže to, co už aplikace synchronizovala, a stáhne všechno znovu od začátku.
 
 Když se stejná událost změnila na dvou místech, vyhrává verze ze serveru.
 
