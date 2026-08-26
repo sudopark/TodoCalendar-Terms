@@ -4,12 +4,12 @@
 
 **Görevleriniz ve randevularınız tek bir takvimde.**
 
-Çoğu takvim yalnızca randevuları tutar, çoğu görev uygulamasının ise bir ay duygusu yoktur. To-do Calendar ikisini aynı ızgarada tutar: randevu gerçekleştiği güne oturur, görev ise siz onu gerçekten işaretleyene kadar gözünüzün önünde kalır — saati belirtilmemiş olsa bile.
+Bir takvim size randevularınızı gösterir ama yapmanız gerekenleri göstermez. Bir görev uygulaması size bir liste verir ama o işlerin ayın neresine düştüğünü hiç göstermez. To-do Calendar ikisini aynı takvimde tutar: randevu gerçekleştiği güne oturur, görev ise siz onu gerçekten işaretleyene kadar gözünüzün önünde kalır — saati belirtilmemiş olsa bile.
 
 Uygulama hesapsız ve çevrimdışı olarak eksiksiz çalışır. Yalnızca verilerinizin yedeklenmesini ve cihazlarınız arasında senkronize olmasını istediğinizde giriş yapın.
 
 - **Tek takvim, iki tür iş** — randevular ve görevler yan yana, kendi etkinlik türlerinizin renkleriyle ayrılmış
-- **Kaybolmayan görevler** — saatsiz ve gecikmiş görevler geçmişe doğru kayıp gitmez, en üstte sabit kalır
+- **Kaybolmayan görevler** — saatsiz ve gecikmiş görevler geçmiş bir tarihte unutulup kalmaz, en üstte sabit durur
 - **Konuşarak ekleyin** — bir etkinliği günlük dille anlatın: hızlı AI girişi, Siri ya da Aksiyon Düğmesi
 - **Açmadan görün** — Ana Ekran, Kilit Ekranı ve Kontrol Merkezi için geniş bir widget seti
 - **Diğer takvimleriniz de burada** — Google Takvim ve Apple Takvim'i bağlayıp her şeyi tek yerde görün

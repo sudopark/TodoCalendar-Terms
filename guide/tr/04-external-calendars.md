@@ -4,7 +4,7 @@
 
 ---
 
-İş toplantılarınız Google Takvim'de, ailenizin paylaşılan takvimi iPhone'unuzda duruyorsa, perşembenizin nasıl göründüğünü bilmek için üç uygulama gerekmemeli. Onları bağlayın, kendi görev ve randevularınızla aynı ızgarada belirsinler.
+İş toplantılarınız Google Takvim'de, ailenizin paylaşılan takvimi iPhone'unuzda duruyorsa, perşembenizin nasıl göründüğünü bilmek için üç uygulama gerekmemeli. Onları bağlayın, kendi görev ve randevularınızla aynı takvimde belirsinler.
 
 Bağlantıyı **Ayarlar › Etkinlik ayarları ve harici takvimler › Harici takvimler**'den kurun.
 
@@ -31,7 +31,7 @@ Google Takvim'in yanındaki **Bağla**'ya dokunup giriş yapın. Kullandığın�
 
 ### Nelerin görüneceğini seçme
 
-Bir hesabı bağlamak, her takvimi ızgaranıza boşaltmaz. Uygulama, Google Takvim'in kendisinde seçili bıraktıklarınızı izler; geri kalanlar gizli başlar. Tek tek takvimleri etkinlik türü listesinden açıp kapatın — kendi etkinlik türlerinizin yanında, kendilerine ait bir **Google Takvim** bölümünde dururlar.
+Bir hesabı bağlamak, bütün takvimleri bir anda takviminize koymaz. Uygulama, Google Takvim'in kendisinde seçili bıraktıklarınızı izler; geri kalanlar gizli başlar. Tek tek takvimleri etkinlik türü listesinden açıp kapatın — kendi etkinlik türlerinizin yanında, kendilerine ait bir **Google Takvim** bölümünde dururlar.
 
 Her takvim Google'daki rengini korur, yani bir iş takvimi burada da oradaki gibi görünür.
 
@@ -41,11 +41,11 @@ Bir Google etkinliğine dokunduğunuzda tüm tabloyu görürsünüz: katılımc�
 
 Onu orada düzenleyebilir — bir değişikliğin tek bir tekrara mı yoksa tekrarlayan serinin tamamına mı uygulanacağını seçmek dahil — ya da bunun yerine Google Takvim'de açabilirsiniz.
 
-Bazı şeyler sizin elinizde değildir ve uygulama sessizce başarısız olmak yerine bunu söyler:
+Bazı şeyler buradan değiştirilemez; uygulama öylece başarısız olmak yerine nedenini söyler:
 
 - **Salt okunur takvimler** (abone olunan bir takvim, başkasının paylaştığı bir takvim) görüntülenebilir ama düzenlenemez.
 - **Google'ın sahip olduğu alanlar** değerlerini gösterir ama burada değiştirilemez.
-- **Biçimlendirilmiş açıklamalar** düzenlemeden önce sizi uyarır, çünkü burada düzenlemek biçimlendirmeyi kaldırır.
+- **Biçimlendirilmiş açıklamalar** — düzenlemeden önce uygulama sizi uyarır, çünkü burada düzenlemek biçimlendirmeyi kaldırır.
 - Girişiniz henüz düzenleme izni taşımıyorsa uygulama sizden o Google hesabına yeniden giriş yapmanızı ister.
 
 ### Bağlantıyı kesme

@@ -33,9 +33,9 @@ Takvim ekranındaki AI düğmesine dokunun. Giriş sayfası, istediğiniz an ara
 
 ### Görselden
 
-**Görselden oku**, bir resmi etkinliklere dönüştürür. **Fotoğraf çek**in veya **Kitaplıktan seç**in; uygulama üzerindeki metni okur — ders programı, etkinlik afişi, bir mesajın ekran görüntüsü — ve bulduklarını size gösterir; böylece yanlış çıkan yerleri göndermeden önce düzeltebilirsiniz.
+**Görselden oku**, bir resmi etkinliklere dönüştürür. Fotoğraf çekin ya da kitaplığınızdan var olan bir görseli seçin; uygulama üzerindeki metni okur — ders programı, etkinlik afişi, bir mesajın ekran görüntüsü — ve bulduklarını size gösterir; böylece yanlış çıkan yerleri göndermeden önce düzeltebilirsiniz.
 
-Sonucu yönlendirmek için "bunları görev olarak ekle" gibi bir **Ek yönergeler (isteğe bağlı)** metni ekleyebilirsiniz. Görselde okunabilir metin yoksa uygulama boş bir istek göndermek yerine size durumu bildirir.
+Sonucu yönlendirmek için "bunları görev olarak ekle" gibi bir yönerge de ekleyebilirsiniz. Görselde okunabilir metin yoksa uygulama boş bir istek göndermek yerine size durumu bildirir.
 
 ### Siri
 
@@ -47,7 +47,7 @@ Aksiyon Düğmesi'ne **AI ile Ekle** kısayolunu atayın. Tek basış, söyleyin
 
 ### Widget ve Kontrol Merkezi
 
-- **AI ile Ekle widget'ı** — Ana Ekran ya da Kilit Ekranı widget'ı, tek dokunuşla AI giriş ekranını açar.
+- **AI ile Ekle** widget'ı — Ana Ekran ya da Kilit Ekranı widget'ı, tek dokunuşla AI giriş ekranını açar.
 - **Kontrol Merkezi** (iOS 18 ve sonrası) — aynı denetimi Kontrol Merkezi'ne ekleyip aşağı kaydırarak giriş noktası elde edin.
 
 ### Paylaşım sayfası
@@ -61,7 +61,7 @@ Paylaşım sayfasından gelen istek de arka planda çalışır. Gönderildiğine
 ## Bir istek nasıl işlenir
 
 1. **Gönderildi** — isteğiniz yola çıkar. Siri'den, Aksiyon Düğmesi'nden veya paylaşım sayfasından geldiyse uygulamayı açık tutmanız gerekmez.
-2. **İşleniyor** — uygulama ilerlemeyi gösterir. Çalışırken isteği **Durdur**abilirsiniz; ancak durdurmak devam eden işlemi iptal eder ve geri alınamaz.
+2. **İşleniyor** — uygulama ilerlemeyi gösterir. Çalışırken **Durdur** düğmesiyle isteği durdurabilirsiniz; ancak durdurmak devam eden işlemi iptal eder ve geri alınamaz.
 3. **Gerektiğinde onay** — istek önemli bir şeyi değiştirecekse uygulama tam olarak ne yapacağını gösterir ve önce onayınızı ister. Bir geri sayım vardır; süresi dolarsa yeniden istemeniz yeter.
 4. **İşlem tamamlandı** — sonuç, neyin değiştiğinin özetiyle birlikte anında takviminize düşer.
 
@@ -73,9 +73,9 @@ Aynı anda yalnızca bir istek çalışır. Biri hâlâ onayınızı beklerken b
 
 ## Krediler
 
-AI istekleri, **her gün sıfırlanan günlük bir krediden** düşer. Kalan miktar AI giriş ekranının üst kısmında görünür, böylece göndermeden önce ne durumda olduğunuzu bilirsiniz.
+Her AI isteği **kredi** harcar ve krediniz her gün yenilenir. Kalan miktar AI giriş ekranının üst kısmında görünür, böylece göndermeden önce ne durumda olduğunuzu bilirsiniz.
 
-Krediler biterse hızlı AI girişi bir sonraki sıfırlanmaya kadar duraklar. Uygulamadaki diğer her şey çalışmayı sürdürür.
+Krediler bittiğinde hızlı AI girişi ertesi günkü yenilenmeye kadar bekler. Uygulamadaki diğer her şey çalışmayı sürdürür.
 
 ---
 

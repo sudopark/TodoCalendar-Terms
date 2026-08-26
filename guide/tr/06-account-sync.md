@@ -32,9 +32,9 @@ Yapmanız gereken bir şey yok ve bu sırada hiçbir şey silinmez.
 
 ## Senkron kalmak
 
-Senkronizasyon arka planda kendiliğinden çalışır — değişikliklerden sonra, uygulama öne geri geldiğinde ve siz bakmazken düzenli aralıklarla. İş bitince widget'lar yenilenir.
+Senkronizasyon arka planda kendiliğinden çalışır — değişikliklerden sonra, uygulama öne geri geldiğinde ve aradaki düzenli aralıklarla. İş bitince widget'lar yenilenir.
 
-Bir şey güncel görünmüyorsa etkinlik ayarlarındaki **Zorla Senkronize Et**, yerel senkronizasyon konumunu atar ve her şeyi baştan yeniden indirir.
+Bir şey güncel görünmüyorsa etkinlik ayarlarındaki **Zorla Senkronize Et**, uygulamanın o ana kadar senkronize ettiklerini temizler ve her şeyi baştan yeniden indirir.
 
 Aynı etkinliğin iki yerde değiştiği durumlarda sunucudaki sürüm kazanır.
 
