@@ -4,7 +4,7 @@
 
 ---
 
-The point of a calendar widget is not having to open the calendar. To-do Calendar ships a wide set so you can pick the one that matches how you actually check your day — a single next event, a full month, or your to-do list with checkboxes you can tap.
+A widget is there so you don't have to open the app just to see what's next. To-do Calendar ships a wide set, so you can pick the one that fits how you actually check your day — a single next event, a full month, or your to-do list with checkboxes you can tap.
 
 ---
 
@@ -14,7 +14,7 @@ The point of a calendar widget is not having to open the calendar. To-do Calenda
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-today-and-next.png" alt="Today and What's Next widget" width="360">
 
-Today's date and what's left of today on the left, what's coming next on the right. The densest single view of "what now, what after".
+Today's date and what's left of today on the left, what's coming next on the right. No other widget shows this much at once.
 
 *Medium.*
 
@@ -90,10 +90,10 @@ Several widgets have Lock Screen forms: **Next event** (inline and rectangular),
 
 ### Live Activity countdown
 
-Put an event on your Lock Screen and watch the time to it count down, with the same view in the Dynamic Island. Choose **Show on Lock Screen** from an event's more menu.
+Put an event on your Lock Screen and watch it count down, with the same view in the Dynamic Island. Choose **Show on Lock Screen** from an event's more menu.
 
 - Available for events starting within the next 8 hours.
-- One event at a time — picking a new one asks whether to replace the current one.
+- One event at a time — pick a new one and the app asks whether to replace the current one.
 - To-dos can be completed straight from the Live Activity.
 
 ---

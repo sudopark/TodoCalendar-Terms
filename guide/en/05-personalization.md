@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/appearance-setting.png" alt="Appearance settings" width="280">
 
-Everything on this screen previews live as you change it, so you can see what the calendar will look like before committing.
+Everything on this screen previews live as you change it, so you can see what the calendar will look like before you settle on it.
 
 ### Calendar
 
@@ -39,12 +39,12 @@ Follow the system, or pin the app to **Light** or **Dark** regardless of what iO
 
 ### Widget theme
 
-Widgets use the system theme by default. Switch to a custom color and pick any background you like — the app works out whether text should be light or dark from how bright your color is.
+Widgets use the system theme by default. Switch to a custom color and pick any background you like — the app decides whether text should be light or dark from how bright your color is.
 
 ### Feel
 
-- **Haptic feedback** — small taps as you interact
-- **Minimize animation effect** — cuts motion down for a calmer, faster-feeling app
+- **Haptic feedback** — small taps as you use the app
+- **Minimize animation effect** — reduces motion so the app feels calmer and quicker
 
 ---
 

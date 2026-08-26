@@ -4,7 +4,7 @@
 
 ---
 
-Describe what you want in plain language and the app builds it for you — "lunch with Sara Friday at noon", "move the dentist to next Tuesday", "mark the laundry done". No forms, no picking a date from a wheel.
+Describe what you want in plain language and the app builds it for you — "lunch with Sara Friday at noon", "move the dentist to next Tuesday", "mark the laundry done". No forms, no date pickers.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-input.png" alt="AI quick input" width="280">
 
@@ -39,11 +39,11 @@ You can attach an instruction to steer the result, like "add these as to-dos". I
 
 ### Siri
 
-Say **"Add with AI in To-do Calendar"** — or "Add a schedule in To-do Calendar" / "Add a to-do in To-do Calendar". Siri asks what you'd like to add, and the request runs **in the background without opening the app**. Siri replies "Got it. I'll notify you when it's done," and you get a notification when the result is ready.
+Say **"Add with AI in To-do Calendar"** — or "Add a schedule in To-do Calendar" / "Add a to-do in To-do Calendar". Siri asks what you'd like to add, and the request runs **in the background without opening the app**. Siri replies with "Got it. I'll notify you when it's done", and you get a notification when the result is ready.
 
 ### Action button
 
-Map the Action button to the **Add with AI** shortcut. One press, say the thing, done — the app never has to come to the foreground.
+Map the Action button to the **Add with AI** shortcut. One press, say what you want to add, and it's sent — the app never has to open.
 
 ### Widget and Control Center
 
@@ -52,7 +52,7 @@ Map the Action button to the **Add with AI** shortcut. One press, say the thing,
 
 ### Share sheet
 
-Share **text or an image from any other app** straight to To-do Calendar's AI. Reading a message with the details of a meetup, or looking at a poster in Photos — hit share, pick To-do Calendar, optionally add an instruction, and send.
+Share **text or an image from any other app** straight to To-do Calendar's AI. Reading a message with the details of a meetup, or looking at a poster in Photos — tap Share, pick To-do Calendar, add an instruction if you want, and send.
 
 The share sheet request runs in the background too. You'll get a confirmation that it was sent, and you check the result in the app.
 
@@ -67,7 +67,7 @@ The share sheet request runs in the background too. You'll get a confirmation th
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ai-result.png" alt="AI result" width="280">
 
-Only one request runs at a time. If you send another while one is still waiting for your approval, the app tells you to deal with the first one.
+Only one request runs at a time. If you send another while one is still waiting for your approval, the app asks you to review the pending one first.
 
 ---
 
