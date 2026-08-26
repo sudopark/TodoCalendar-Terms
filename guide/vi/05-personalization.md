@@ -18,13 +18,13 @@ Mọi mục trên màn hình này đều hiện xem trước ngay khi bạn thay
 
 | Cài đặt | Tác dụng |
 |---|---|
-| Ngày bắt đầu tuần | Lưới bắt đầu từ thứ mấy |
+| Ngày bắt đầu tuần | Lịch bắt đầu từ thứ mấy |
 | Ngày nhấn mạnh | Tô màu Chủ nhật, Thứ Bảy và ngày lễ — bật tắt riêng từng loại |
 | Gạch chân ngày có sự kiện | Đánh dấu những ngày có việc |
 | Mức hiển thị chi tiết sự kiện | Mỗi hàng cao bao nhiêu — Tối thiểu, Trung bình hay Đầy đủ. Hàng càng cao thì hiện tên sự kiện thay vì chấm tròn |
 | Cỡ chữ sự kiện | Tăng hoặc giảm cỡ chữ của sự kiện |
 | Chữ đậm | Tên sự kiện đậm hơn |
-| Màu sự kiện | Hiện hoặc ẩn thanh màu bên cạnh mỗi sự kiện |
+| Màu sự kiện | Hiện hoặc ẩn vệt màu bên cạnh mỗi sự kiện |
 
 ### Hiển thị
 
@@ -39,7 +39,7 @@ Mọi mục trên màn hình này đều hiện xem trước ngay khi bạn thay
 
 ### Chủ đề tiện ích
 
-Theo mặc định tiện ích dùng chủ đề hệ thống. Hãy chuyển sang màu tùy chỉnh và chọn nền bạn thích — ứng dụng tự suy ra chữ nên sáng hay tối từ độ sáng của màu bạn chọn.
+Theo mặc định tiện ích **Dùng chủ đề hệ thống**. Chuyển sang **Chọn màu tùy chỉnh** là bạn chọn được màu nền tùy ý — ứng dụng nhìn độ sáng của màu đó để quyết định chữ nên sáng hay tối.
 
 ### Cảm giác
 
@@ -67,7 +67,7 @@ Những giá trị mặc định để bạn không phải điền đi điền l
 
 Chọn quốc gia của bạn và các ngày lễ chính thức của nước đó sẽ hiện trên lịch. Ứng dụng chọn sẵn quốc gia mà thiết bị đang đặt, và bạn đổi lại lúc nào cũng được.
 
-Không phải ngày lễ nào cũng là ngày bạn nghỉ. Hãy **Ẩn** bất kỳ ngày nào và nó thôi xuất hiện mỗi năm; những ngày lễ đã ẩn được liệt kê ở cuối chính màn hình đó để sau này bạn **Hiện** lại.
+Không phải ngày lễ nào cũng là ngày bạn nghỉ. Hãy **Ẩn** bất kỳ ngày nào và nó thôi xuất hiện mỗi năm; những ngày lễ đã ẩn nằm ở mục **Ngày lễ đã ẩn** cuối chính màn hình đó, để sau này bạn **Hiện** lại.
 
 ---
 

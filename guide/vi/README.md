@@ -4,14 +4,14 @@
 
 **Việc cần làm và lịch trình của bạn, trên cùng một cuốn lịch.**
 
-Phần lớn ứng dụng lịch chỉ chứa các cuộc hẹn, còn phần lớn ứng dụng việc cần làm lại không có khái niệm về một tháng. To-do Calendar đặt cả hai lên cùng một lưới: lịch trình nằm đúng ngày nó diễn ra, còn việc cần làm ở lại trước mắt bạn cho đến khi bạn thật sự đánh dấu hoàn thành — kể cả khi nó không gắn với thời gian nào.
+Cuốn lịch cho bạn thấy các cuộc hẹn, nhưng không thấy những việc bạn phải làm cho xong. Ứng dụng việc cần làm cho bạn một danh sách, nhưng không cho biết những việc đó rơi vào ngày nào trong tháng. To-do Calendar đặt cả hai lên cùng một cuốn lịch: lịch trình nằm đúng ngày nó diễn ra, còn việc cần làm ở lại trước mắt bạn cho đến khi bạn thật sự đánh dấu hoàn thành — kể cả khi nó không gắn với thời gian nào.
 
 Ứng dụng chạy trọn vẹn khi ngoại tuyến và không cần tài khoản. Bạn chỉ đăng nhập khi muốn sao lưu dữ liệu và đồng bộ giữa các thiết bị.
 
 - **Một cuốn lịch, hai loại công việc** — lịch trình và việc cần làm nằm cạnh nhau, phân biệt bằng màu của loại sự kiện do bạn tự đặt
-- **Việc cần làm không biến mất** — việc không có thời gian và việc quá hạn được ghim ở trên cùng thay vì trôi về quá khứ
+- **Việc cần làm không biến mất** — việc không có thời gian và việc quá hạn được ghim ở trên cùng thay vì bị bỏ lại ở một ngày đã qua
 - **Thêm bằng cách nói** — mô tả sự kiện bằng ngôn ngữ thường ngày qua nhập nhanh AI, Siri hoặc nút Hành động
-- **Xem mà không cần mở ứng dụng** — bộ tiện ích phong phú cho Màn hình chính, Màn hình khóa và Trung tâm điều khiển
+- **Xem cả ngày mà không cần mở ứng dụng** — bộ tiện ích phong phú cho Màn hình chính, Màn hình khóa và Trung tâm điều khiển
 - **Mang theo các lịch khác của bạn** — kết nối Google Calendar và Apple Calendar để xem mọi thứ ở một nơi
 
 ---
