@@ -4,7 +4,7 @@
 
 ---
 
-Rostul unui widget de calendar este să nu mai fiți nevoit să deschideți calendarul. To-do Calendar vine cu un set larg, ca să îl alegeți pe cel care se potrivește cu felul în care vă verificați cu adevărat ziua — un singur eveniment următor, o lună întreagă sau lista de sarcini cu bifele la îndemână.
+Un widget există tocmai ca să nu fiți nevoit să deschideți aplicația doar ca să vedeți ce urmează. To-do Calendar vine cu un set larg, ca să îl alegeți pe cel care se potrivește cu felul în care vă verificați cu adevărat ziua — un singur eveniment următor, o lună întreagă sau lista de sarcini cu bifele la îndemână.
 
 ---
 
@@ -14,7 +14,7 @@ Rostul unui widget de calendar este să nu mai fiți nevoit să deschideți cale
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-today-and-next.png" alt="Widgetul Astăzi și ce urmează" width="360">
 
-În stânga, data de azi și ce a mai rămas din zi; în dreapta, ce urmează. Cea mai densă privire de ansamblu asupra lui „ce acum, ce după”.
+În stânga, data de azi și ce a mai rămas din zi; în dreapta, ce urmează. Niciun alt widget nu arată atât de multe deodată.
 
 *Mediu.*
 
@@ -46,7 +46,7 @@ Singurul eveniment pe care l-ați fixat drept cel mai important, mereu la vedere
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-month.png" alt="Widgetul Calendar" width="360">
 
-Grila calendarului în sine, pe intervalul dorit:
+Calendarul în sine, pe intervalul dorit:
 
 | Widget | Dimensiune |
 |---|---|
@@ -61,8 +61,8 @@ Două panouri într-un singur widget, atunci când o singură priveliște nu aju
 
 | Widget | Ce arată | Dimensiune |
 |---|---|---|
-| ASTĂZI + Calendar | Rezumatul zilei de azi lângă grila lunară | Mediu |
-| Evenimente + Calendar | Evenimentele viitoare lângă grila lunară | Mediu |
+| ASTĂZI + Calendar | Rezumatul zilei de azi lângă calendarul lunar | Mediu |
+| Evenimente + Calendar | Evenimentele viitoare lângă calendarul lunar | Mediu |
 | Evenimente + Principal | Evenimentele viitoare lângă evenimentul fixat | Mediu |
 | Calendar + Calendar | Două luni una lângă alta | Mediu |
 

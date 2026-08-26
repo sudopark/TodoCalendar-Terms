@@ -47,7 +47,7 @@ Alocați butonului de Acțiune scurtătura **Adaugă cu AI**. O apăsare, spune�
 
 ### Widget și Centrul de control
 
-- **Widgetul Adăugați cu AI** — un widget pentru ecranul principal sau pentru ecranul de blocare care deschide ecranul de introducere AI dintr-o singură atingere.
+- Widgetul **Adăugați cu AI** — pentru ecranul principal sau pentru ecranul de blocare; deschide ecranul de introducere AI dintr-o singură atingere.
 - **Centrul de control** (iOS 18 și mai nou) — adăugați același control **Adaugă cu AI** în Centrul de control, ca punct de intrare la o glisare în jos.
 
 ### Fereastra de distribuire
@@ -73,9 +73,9 @@ Rulează o singură solicitare pe rând. Dacă trimiteți alta în timp ce una �
 
 ## Credite
 
-Solicitările AI consumă dintr-o **rezervă zilnică ce se resetează în fiecare zi**. Cât a rămas se vede în capul ecranului de introducere AI, așa că știți întotdeauna cum stați înainte de a trimite.
+Fiecare solicitare AI consumă **credite**, iar creditele se reîncarcă în fiecare zi. Cât a rămas se vede în capul ecranului de introducere AI, așa că știți cum stați înainte de a trimite.
 
-Dacă rezerva se epuizează, introducerea rapidă AI se oprește până la următoarea resetare. Tot restul aplicației continuă să funcționeze.
+Când se epuizează, introducerea rapidă AI așteaptă reîncărcarea de a doua zi. Tot restul aplicației continuă să funcționeze.
 
 ---
 

@@ -18,7 +18,7 @@ Tot ce se află pe acest ecran se previzualizează pe loc, pe măsură ce modifi
 
 | Setare | Ce face |
 |---|---|
-| Prima zi a săptămânii | Cu ce zi începe grila |
+| Prima zi a săptămânii | Cu ce zi începe săptămâna în calendar |
 | Zile evidențiate | Colorează duminicile, sâmbetele și sărbătorile — fiecare comutată separat |
 | Subliniere pentru zilele cu evenimente | Marchează zilele în care aveți ceva |
 | Nivelul de afișare a detaliilor evenimentului | Cât de înalt e fiecare rând — Minim, Mediu sau Complet. Rândurile mai înalte arată numele evenimentelor în loc de puncte |
@@ -39,7 +39,7 @@ Urmați sistemul sau fixați aplicația pe **Deschisă** ori **Întunecată**, i
 
 ### Tema widgetului
 
-Widget-urile folosesc implicit tema sistemului. Treceți pe o culoare personalizată și alegeți orice fundal doriți — aplicația deduce singură dacă textul trebuie să fie deschis sau închis, după cât de luminoasă e culoarea dvs.
+Implicit, widget-urile rămân pe **Folosește tema sistemului**. Treceți pe **Selectează o culoare personalizată** și alegeți orice fundal doriți — aplicația deduce singură dacă textul trebuie să fie deschis sau închis, după cât de luminoasă e culoarea dvs.
 
 ### Senzații
 
