@@ -4,7 +4,7 @@
 
 ---
 
-Huraikan apa yang anda mahu dalam bahasa harian dan aplikasi akan membinanya untuk anda — "makan tengah hari dengan Sara Jumaat tengah hari", "alihkan temu janji doktor gigi ke Selasa depan", "tandakan cucian selesai". Tiada borang, tiada memilih tarikh daripada roda.
+Huraikan apa yang anda mahu dalam bahasa harian dan aplikasi akan membinanya untuk anda — "makan tengah hari dengan Sara Jumaat tengah hari", "alihkan temu janji doktor gigi ke Selasa depan", "tandakan cucian selesai". Tiada borang, tiada pemilih tarikh.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/ai-input.png" alt="Input pantas AI" width="280">
 
@@ -39,11 +39,11 @@ Anda boleh melampirkan **Arahan tambahan (pilihan)** untuk mengarahkan hasilnya,
 
 ### Siri
 
-Sebut **"Tambah dengan AI dalam To-do Calendar"** — atau "Tambah jadual dalam To-do Calendar" / "Tambah tugasan dalam To-do Calendar". Siri bertanya apa yang anda mahu tambah, dan permintaan itu berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan maklumkan apabila selesai," dan anda menerima pemberitahuan apabila hasilnya sedia.
+Sebut **"Tambah dengan AI dalam To-do Calendar"** — atau "Tambah jadual dalam To-do Calendar" / "Tambah tugasan dalam To-do Calendar". Siri bertanya apa yang anda mahu tambah, dan permintaan itu berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan maklumkan apabila selesai." dan anda menerima pemberitahuan apabila hasilnya sedia.
 
 ### Butang Tindakan
 
-Petakan Butang Tindakan kepada pintasan **Tambah dengan AI**. Sekali tekan, sebut perkaranya, selesai — aplikasi tidak perlu muncul ke hadapan langsung.
+Petakan Butang Tindakan kepada pintasan **Tambah dengan AI**. Sekali tekan, sebut apa yang anda mahu tambah, dan ia dihantar — aplikasi tidak perlu dibuka langsung.
 
 ### Widget dan Pusat Kawalan
 
@@ -60,22 +60,22 @@ Permintaan daripada helaian Kongsi juga berjalan di latar belakang. Anda akan me
 
 ## Bagaimana permintaan diproses
 
-1. **Dihantar** — permintaan anda pun bergerak. Jika ia datang daripada Siri, Butang Tindakan atau helaian Kongsi, anda tidak perlu membiarkan aplikasi terbuka.
+1. **Dihantar** — permintaan anda dihantar keluar. Jika ia datang daripada Siri, Butang Tindakan atau helaian Kongsi, anda tidak perlu membiarkan aplikasi terbuka.
 2. **Sedang memproses** — aplikasi menunjukkan kemajuannya. Anda boleh menekan **Henti** semasa permintaan berjalan, tetapi menghentikannya akan membuang kerja yang sedang berjalan dan ia tidak boleh disambung semula.
-3. **Pengesahan diperlukan** — jika permintaan itu akan mengubah sesuatu yang penting, aplikasi meminta kelulusan anda dahulu dan menunjukkan dengan tepat apa yang bakal dilakukannya. Ada kira detik; jika ia tamat tempoh, anda mohon semula sahaja.
+3. **Pengesahan diperlukan** — jika permintaan itu akan mengubah sesuatu yang penting, aplikasi meminta kelulusan anda dahulu dan menunjukkan dengan tepat apa yang bakal dilakukannya. Ada kira detik; jika ia tamat tempoh, anda hanya perlu meminta semula.
 4. **Arahan selesai** — hasilnya mendarat pada kalendar anda serta-merta, dengan ringkasan tentang apa yang berubah.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/ai-result.png" alt="Hasil AI" width="280">
 
-Hanya satu permintaan berjalan pada satu masa. Jika anda menghantar satu lagi sedang yang lain masih menunggu kelulusan anda, aplikasi memberitahu anda supaya menguruskan yang pertama dahulu.
+Hanya satu permintaan berjalan pada satu masa. Jika anda menghantar satu lagi sementara satu permintaan masih menunggu kelulusan anda, aplikasi meminta anda menyemak permintaan yang tertunggak itu dahulu.
 
 ---
 
 ## Kredit
 
-Permintaan AI menggunakan **kredit harian yang ditetapkan semula setiap hari**. Baki yang tinggal dipaparkan di bahagian atas skrin input AI, jadi anda sentiasa tahu kedudukan anda sebelum menghantar.
+Setiap permintaan AI membelanjakan **kredit**, dan kredit anda diisi semula setiap hari. Baki yang tinggal dipaparkan di bahagian atas skrin input AI, jadi anda tahu kedudukan anda sebelum menghantar.
 
-Jika kredit habis, input pantas AI berehat sehingga tetapan semula berikutnya. Semua yang lain dalam aplikasi terus berfungsi.
+Jika kredit habis, input pantas AI menunggu sehingga pengisian semula hari berikutnya. Semua yang lain dalam aplikasi terus berfungsi.
 
 ---
 
@@ -88,7 +88,7 @@ Jika kredit habis, input pantas AI berehat sehingga tetapan semula berikutnya. S
 | Perpustakaan Foto | Memilih imej sedia ada |
 | Pemberitahuan | Memberitahu anda hasil permintaan latar belakang |
 
-Setiap satu diminta hanya apabila anda mula-mula menggunakan ciri yang memerlukannya, dan aplikasi terus berfungsi tanpanya — input suara berundur kepada papan kekunci, input imej kepada menaip.
+Setiap satu diminta hanya apabila anda mula-mula menggunakan ciri yang memerlukannya, dan aplikasi terus berfungsi tanpanya — input suara beralih kepada papan kekunci, input imej kepada menaip.
 
 ---
 

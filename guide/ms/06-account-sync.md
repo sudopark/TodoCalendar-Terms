@@ -6,9 +6,9 @@
 
 ## Anda tidak perlukan akaun
 
-To-do Calendar ialah aplikasi **luar talian dahulu**. Setiap acara yang anda cipta ditulis pada peranti anda terlebih dahulu, jadi aplikasi terbuka serta-merta, berfungsi dalam kapal terbang, dan tidak pernah menyekat anda kerana panggilan rangkaian.
+To-do Calendar ialah aplikasi **luar talian dahulu**. Setiap acara yang anda cipta ditulis pada peranti anda terlebih dahulu, jadi aplikasi terbuka serta-merta, berfungsi dalam kapal terbang, dan tidak pernah membuat anda menunggu rangkaian.
 
-Itu bukan mod yang dikurangkan — mencipta acara, peraturan pengulangan, peringatan, jenis acara, cuti umum, widget dan kalendar luaran semuanya berfungsi tanpa akaun langsung. Tiada apa-apa yang ditahan di sebalik tembok pendaftaran.
+Itu bukan mod yang dikurangkan — mencipta acara, peraturan pengulangan, peringatan, jenis acara, cuti umum, widget dan kalendar luaran semuanya berfungsi tanpa akaun langsung. Tiada apa-apa yang dikunci sehingga anda mendaftar.
 
 ---
 
@@ -16,7 +16,7 @@ Itu bukan mod yang dikurangkan — mencipta acara, peraturan pengulangan, pering
 
 Log masuk dengan **Google** atau **Apple** dan anda juga mendapat:
 
-- **Sandaran** — acara anda hidup dalam akaun anda, bukan pada telefon ini sahaja
+- **Sandaran** — acara anda tersimpan dalam akaun anda, bukan pada telefon ini sahaja
 - **Penyegerakan merentas peranti anda** — kalendar yang sama pada setiap peranti iOS yang anda log masuk
 - **[Input pantas AI](./02-ai-input.md)** — satu-satunya ciri yang memerlukan akaun, kerana permintaan itu berjalan pada pelayan
 
@@ -32,9 +32,9 @@ Anda tidak perlu buat apa-apa, dan tiada apa-apa yang dipadam sepanjang proses i
 
 ## Kekal segerak
 
-Penyegerakan berjalan sendiri di latar belakang — selepas perubahan, apabila aplikasi kembali ke hadapan, dan secara berkala sedang anda tidak melihatnya. Widget menyegar sebaik sahaja ia selesai.
+Penyegerakan berjalan sendiri di latar belakang — selepas perubahan, apabila aplikasi kembali ke hadapan, dan secara berkala di antaranya. Widget menyegar sebaik sahaja ia selesai.
 
-Jika sesuatu kelihatan lapuk, **Segerakkan Secara Paksa** dalam tetapan acara akan membuang kedudukan segerak setempat dan menarik semula segalanya dari awal.
+Jika sesuatu kelihatan lapuk, **Segerakkan Secara Paksa** dalam tetapan acara akan mengosongkan apa yang sudah disegerakkan dan memuat turun semula segalanya dari awal.
 
 Apabila acara yang sama diubah di dua tempat, versi pelayan yang menang.
 
