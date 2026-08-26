@@ -4,14 +4,14 @@
 
 **Your to-dos and your schedule, on one calendar.**
 
-Most calendars only hold appointments, and most to-do apps have no sense of a month. To-do Calendar keeps both in the same grid: a schedule sits on the day it happens, and a to-do stays in front of you until you actually check it off — even if it has no time attached.
+A calendar shows you appointments but not the things you have to get done. A to-do app shows you a list, but never where those things fall on the month. To-do Calendar keeps both in the same grid: a schedule sits on the day it happens, and a to-do stays in front of you until you actually check it off — even if it has no time attached.
 
 It works fully offline and without an account. Sign in only when you want your data backed up and synced across your devices.
 
 - **One calendar, both kinds of work** — schedules and to-dos side by side, color-coded by your own event types
-- **To-dos that don't disappear** — untimed and overdue to-dos stay pinned to the top instead of scrolling into the past
+- **To-dos that don't disappear** — untimed and overdue to-dos stay pinned to the top instead of being left behind on a past date
 - **Add by talking** — describe an event in plain language through AI quick input, Siri, or the Action button
-- **See it without opening it** — a wide widget set for the Home Screen, Lock Screen, and Control Center
+- **See your day without opening the app** — a wide widget set for the Home Screen, Lock Screen, and Control Center
 - **Bring your other calendars** — connect Google Calendar and Apple Calendar and see everything in one place
 
 ---
