@@ -32,9 +32,9 @@ Ne morate ništa raditi i usput se ništa ne briše.
 
 ## Održavanje sinkronizacije
 
-Sinkronizacija se vrti sama u pozadini — nakon promjena, kad se aplikacija vrati u prvi plan i povremeno dok ne gledate. Kad završi, widgeti se osvježe.
+Sinkronizacija se vrti sama u pozadini — nakon promjena, kad se aplikacija vrati u prvi plan i povremeno između toga. Kad završi, widgeti se osvježe.
 
-Ako nešto izgleda zastarjelo, **Prisilna sinkronizacija** u postavkama događaja odbacuje lokalnu poziciju sinkronizacije i povlači sve iznova od nule.
+Ako nešto izgleda zastarjelo, **Prisilna sinkronizacija** u postavkama događaja briše ono što je aplikacija već sinkronizirala i sve preuzima iznova.
 
 Kad je isti događaj promijenjen na dva mjesta, pobjeđuje verzija s poslužitelja.
 

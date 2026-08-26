@@ -4,7 +4,7 @@
 
 ---
 
-Smisao kalendarskog widgeta je da ne morate otvarati kalendar. To-do Calendar donosi širok skup pa možete odabrati onaj koji odgovara načinu na koji stvarno provjeravate svoj dan — jedan sljedeći događaj, cijeli mjesec ili popis zadataka s kvačicama koje možete dodirnuti.
+Widget je tu da ne morate otvarati aplikaciju samo da biste vidjeli što slijedi. To-do Calendar donosi širok skup pa možete odabrati onaj koji odgovara načinu na koji stvarno provjeravate svoj dan — jedan sljedeći događaj, cijeli mjesec ili popis zadataka s kvačicama koje možete dodirnuti.
 
 ---
 
@@ -14,7 +14,7 @@ Smisao kalendarskog widgeta je da ne morate otvarati kalendar. To-do Calendar do
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-today-and-next.png" alt="Widget Danas i što slijedi" width="360">
 
-Današnji datum i ono što je ostalo od danas s lijeve strane, a ono što slijedi s desne. Najgušći pojedinačni prikaz „što sad, što poslije”.
+Današnji datum i ono što je ostalo od danas s lijeve strane, a ono što slijedi s desne. Nijedan drugi widget ne pokazuje toliko odjednom.
 
 *Srednji.*
 
@@ -46,7 +46,7 @@ Jedan događaj koji ste prikvačili kao najvažniji, uvijek na vidiku. Pogledajt
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/widget-month.png" alt="Widget Kalendar" width="360">
 
-Sama kalendarska mreža, u rasponu koji želite:
+Sam kalendar, u rasponu koji želite:
 
 | Widget | Veličina |
 |---|---|
@@ -61,8 +61,8 @@ Dvije ploče u jednom widgetu, kad jedan prikaz nije dovoljan:
 
 | Widget | Prikazuje | Veličina |
 |---|---|---|
-| DANAS + Kalendar | Današnji sažetak uz mjesečnu mrežu | Srednji |
-| Događaji + Kalendar | Nadolazeće događaje uz mjesečnu mrežu | Srednji |
+| DANAS + Kalendar | Današnji sažetak uz mjesečni kalendar | Srednji |
+| Događaji + Kalendar | Nadolazeće događaje uz mjesečni kalendar | Srednji |
 | Događaji + Najvažnije | Nadolazeće događaje uz vaš prikvačeni događaj | Srednji |
 | Kalendar + Kalendar | Dva mjeseca jedan uz drugi | Srednji |
 

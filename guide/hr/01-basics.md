@@ -8,41 +8,41 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/calendar.png" alt="Kalendar" width="280">
 
-Mjesečna mreža je početni zaslon. Povlačite lijevo i desno za promjenu mjeseca, a dodirom na dan otvarate popis njegovih događaja ispod.
+Mjesečni kalendar je početni zaslon. Povlačite lijevo i desno za promjenu mjeseca, a dodirom na dan otvarate popis njegovih događaja ispod.
 
-- Svaki dan prikazuje obojenu crticu po događaju te oznaku **+N** kad ih ima više nego što stane.
+- Svaki dan prikazuje obojenu crticu po događaju te oznaku **+N** kad dan ima više događaja nego što stane u redak.
 - Redoslijed dnevnog popisa: zadaci bez vremena → zadaci s vremenom → termini → blagdani → događaji vanjskih kalendara.
 - Dodirnite zaglavlje da skočite na bilo koji datum ili odaberite **Pomakni datum** i upišite ga izravno.
 
-Koliko je mreža gusta — visina retka, veličina teksta događaja, podebljani tekst, obojene crtice, nazivi blagdana, lunarni kalendar — sve se može mijenjati. Pogledajte [Personalizaciju](./05-personalization.md).
+Koliko svaki dan prikazuje odlučujete vi — količina detalja po događaju, veličina teksta, boje, nazivi blagdana i lunarni kalendar. [Personalizacija](./05-personalization.md) prolazi kroz svaku postavku pod njezinim imenom.
 
 ---
 
 ## Zadaci i termini
 
-Aplikacija ima dvije vrste događaja, a razlika je u tome može li se stvar *dovršiti*.
+Aplikacija ima dvije vrste događaja, a razlika je u jednome: označavate li ih kvačicom.
 
 | | Zadatak | Termin |
 |---|---|---|
 | Vrijeme | Neobavezno | Obavezno |
 | Dovršavanje | Da — označite kvačicom | Ne |
-| Bez vremena | Ostaje u popisu **Trenutni popis zadataka** dok ga ne dovršite | Nije moguće |
+| Bez vremena | Ostaje u widgetu **Trenutni popis zadataka** dok ga ne dovršite | Nije moguće |
 
-**Zadatak bez vremena** je za nešto što morate obaviti uskoro, ali još niste odredili kada. Stoji na vrhu kalendara i u widgetu Trenutni popis zadataka dok ne bude gotov.
+**Zadatak bez vremena** je za nešto što morate obaviti uskoro, ali još niste odredili kada. Stoji na vrhu kalendara i u widgetu **Trenutni popis zadataka** dok ne bude gotov.
 
 Pretvorbu možete napraviti u oba smjera i bilo kada — **Pretvori u termin** / **Pretvori u zadatak** iz izbornika s više radnji na događaju. Za pretvaranje zadatka u termin potrebno je vrijeme.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/event-detail.png" alt="Detalji događaja" width="280">
 
-Svaki događaj može nositi **Lokaciju** (s pregledom karte i otvaranjem u vašoj omiljenoj aplikaciji za karte jednim dodirom), **Poveznicu** s pregledom i **Bilješku**.
+Svaki događaj može nositi tri polja: **Lokacija**, **Poveznica**, **Bilješka**. Lokacija ima pregled karte i jednim se dodirom otvara u vašoj omiljenoj aplikaciji za karte, a poveznica ima vlastiti pregled.
 
 ---
 
 ## Dodavanje događaja
 
-Tri načina, ovisno o tome koliko želite tipkati:
+Tri načina da dodate događaj, ovisno o tome koliko želite tipkati:
 
-- **Brzo dodavanje** — polje za unos na dnu dnevnog popisa. Upišite naziv, potvrdite i imate zadatak.
+- **Brzo dodavanje** — polje za unos na dnu dnevnog popisa. Upišite naziv, pritisnite return i zadatak je stvoren.
 - **Puni detalji** — dodirnite **+** da otvorite uređivač s vremenom, ponavljanjem, podsjetnicima, tipom događaja, lokacijom, poveznicom i bilješkom.
 - **Brzi AI unos** — opišite ga običnim riječima i pustite aplikaciju da složi događaj. Pogledajte [Brzi AI unos](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ Zadatku treba samo naziv. Terminu trebaju naziv i vrijeme.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/repeat-options.png" alt="Opcije ponavljanja" width="240">
 
-Umjesto da od vas traži slaganje pravila iz padajućih izbornika, aplikacija čita datum koji ste odabrali i nudi gotove opcije za njega. Odaberite četvrtak i na popisu doslovno piše **Svaki tjedan: četvrtak** i **Treći četvrtak svakog mjeseca**.
+Umjesto da od vas traži slaganje pravila ponavljanja iz padajućih izbornika, aplikacija čita datum koji ste odabrali i nudi gotove opcije za njega. Odaberite četvrtak i popis vam nudi **Svaki tjedan: četvrtak** i **Treći četvrtak svakog mjeseca**.
 
 **Uobičajeni intervali**
 
@@ -68,7 +68,7 @@ Umjesto da od vas traži slaganje pravila iz padajućih izbornika, aplikacija č
 
 - Svaki radni dan — od ponedjeljka do petka. Nudi se kad događaj počinje radnim danom
 - Svi dani zadnjeg tjedna svakog mjeseca
-- Prvi / Drugi / Treći / Četvrti / Zadnji *dan u tjednu* svakog mjeseca — za stvari poput „zadnjeg petka u mjesecu”
+- Prvi / Drugi / Treći / Četvrti / Zadnji **četvrtak** svakog mjeseca — dan u tjednu popunjava se iz datuma koji ste odabrali, pa događaj u petak umjesto toga nudi **Zadnji petak svakog mjeseca**
 
 **Kraj ponavljanja**
 
@@ -76,14 +76,14 @@ Kad odaberete ponavljanje, odredite i kako prestaje: **Nikada**, **Na dan** odre
 
 Ponavljajući zadaci ponašaju se drugačije od ponavljajućih termina:
 
-- Nedovršeno ponavljanje ostaje vidljivo u današnjem kalendaru i nakon što mu vrijeme prođe — ne prelazi tiho na sljedeće.
+- Nedovršeno ponavljanje ostaje vidljivo u današnjem kalendaru i nakon što mu vrijeme prođe — ne prelazi sam od sebe na sljedeće ponavljanje.
 - Dovršavanje sprema to ponavljanje među dovršene zadatke i stvara sljedeće.
 - **Preskoči ovaj zadatak** vodi vas na sljedeće ponavljanje bez označavanja kao dovršeno.
 - Kad ponavljanje ima uvjet završetka i nema sljedećeg ponavljanja, serija završava.
 
 Kad uređujete ili brišete jedno ponavljanje ponavljajućeg događaja, birate opseg: **Samo ovaj put**, **Od sada** ili **Svi događaji**.
 
-Za događaje na povezanom vanjskom kalendaru lunarna opcija se ne nudi — taj je kalendar nema kako izraziti.
+Za događaje na povezanom vanjskom kalendaru lunarna opcija se ne nudi — vanjski kalendari nemaju gdje spremiti lunarno pravilo ponavljanja.
 
 ---
 
@@ -107,9 +107,9 @@ Postavite koliko god podsjetnika po događaju trebate.
 
 - **Događaji s vremenom** — u vrijeme događaja ili 1 / 5 / 10 / 15 / 30 minuta, 1 / 2 sata, 1 / 2 / 7 dana prije.
 - **Cjelodnevni događaji** — u 9:00 ili u podne tog dana, ili u 9:00 jedan / dva / sedam dana ranije.
-- **Prilagođeno vrijeme** — odaberite bilo koji pomak koji želite.
+- **Prilagođeno** — odaberite bilo koji pomak koji želite.
 
-Zadane vrijednosti za događaje s vremenom i za cjelodnevne postavljaju se odvojeno u Postavkama, pa novi događaji dolaze već pripremljeni. Podsjetnici trebaju dozvolu za obavijesti; ako je isključena, aplikacija vas uputi na postavke sustava.
+Zadane vrijednosti za događaje s vremenom i za cjelodnevne postavljaju se odvojeno u Postavkama, pa novi događaji dolaze već pripremljeni. Podsjetnici trebaju dozvolu za obavijesti; ako je isključena, aplikacija vas uputi na Postavke iOS-a.
 
 ---
 
@@ -123,7 +123,7 @@ Kao najvažniji se mogu postaviti zadaci i termini koji se ne ponavljaju. Ponavl
 
 ## Nedovršeni zadaci
 
-Zadaci kojima je vrijeme prošlo, a nisu dovršeni, skupljaju se u odjeljku **Nedovršeni zadaci** na vrhu kalendara, pa propuštena stavka ne odluta izvan vidokruga u prošli tjedan.
+Zadaci kojima je vrijeme prošlo, a nisu dovršeni, skupljaju se u odjeljku **Nedovršeni zadaci** na vrhu kalendara, pa propušteni zadatak ne ostane zakopan na prošlom datumu.
 
 Zadaci bez vremena i budući zadaci ne broje se kao nedovršeni — jednostavno im rok još nije stigao. Ako ih radije ne biste gledali, cijeli odjeljak možete sakriti u Postavkama.
 
