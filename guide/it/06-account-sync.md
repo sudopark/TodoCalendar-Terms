@@ -8,7 +8,7 @@
 
 To-do Calendar è **offline-first**. Ogni evento che crei viene scritto prima sul tuo dispositivo, così l'app si apre all'istante, funziona in aereo e non ti blocca mai in attesa della rete.
 
-Non è una modalità ridotta: creare eventi, regole di ricorrenza, promemoria, tipi di evento, festività, widget e calendari esterni funziona tutto senza alcun account. Non c'è niente trattenuto dietro a una registrazione.
+Non è una modalità ridotta: creare eventi, regole di ricorrenza, promemoria, tipi di evento, festività, widget e calendari esterni funziona tutto senza alcun account. Non c'è niente bloccato finché non ti registri.
 
 ---
 
@@ -16,9 +16,9 @@ Non è una modalità ridotta: creare eventi, regole di ricorrenza, promemoria, t
 
 Accedi con **Google** o **Apple** e in più ottieni:
 
-- **Backup** — i tuoi eventi vivono nel tuo account, non solo su questo telefono
+- **Backup** — i tuoi eventi stanno nel tuo account, non solo su questo telefono
 - **Sincronizzazione tra i tuoi dispositivi** — lo stesso calendario su ogni dispositivo iOS in cui hai effettuato l'accesso
-- **[Inserimento rapido AI](./02-ai-input.md)** — l'unica funzione che richiede un account, perché la richiesta viene eseguita su un server
+- **[Inserimento rapido IA](./02-ai-input.md)** — l'unica funzione che richiede un account, perché la richiesta viene eseguita su un server
 
 ---
 
@@ -26,15 +26,15 @@ Accedi con **Google** o **Apple** e in più ottieni:
 
 Se hai usato l'app senza account, accedendo non lasci indietro quel lavoro. Tutto quello che avevi creato prima viene **migrato automaticamente nel tuo account** — prima i tipi di evento, poi da fare, pianificazioni, dettagli degli eventi e da fare completati — e l'app ti dice quanti eventi sta spostando e quando ha finito.
 
-Non devi fare nulla, e lungo la strada non viene eliminato niente.
+Non devi fare nulla, e non viene eliminato niente per strada.
 
 ---
 
 ## Restare sincronizzato
 
-La sincronizzazione va avanti da sola in background: dopo le modifiche, quando l'app torna in primo piano e periodicamente mentre non stai guardando. Quando ha finito, i widget si aggiornano.
+La sincronizzazione va avanti da sola in background: dopo le modifiche, quando l'app torna in primo piano e a intervalli regolari tra una cosa e l'altra. Quando ha finito, i widget si aggiornano.
 
-Se qualcosa sembra non aggiornato, **Forza sincronizzazione** nelle impostazioni evento butta via la posizione di sincronizzazione locale e riscarica tutto da capo.
+Se qualcosa sembra non aggiornato, **Forza sincronizzazione**, nelle impostazioni evento, cancella quello che l'app ha già sincronizzato e riscarica tutto da capo.
 
 Se lo stesso evento è stato modificato in due posti, vince la versione del server.
 
