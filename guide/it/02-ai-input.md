@@ -1,14 +1,14 @@
-# 2. Inserimento rapido AI
+# 2. Inserimento rapido IA
 
 [← Indice](./README.md)
 
 ---
 
-Descrivi quello che vuoi in linguaggio naturale e l'app lo costruisce per te: «pranzo con Sara venerdì a mezzogiorno», «sposta il dentista a martedì prossimo», «segna il bucato come fatto». Niente moduli, nessuna data da cercare su una rotella.
+Descrivi quello che vuoi in linguaggio naturale e l'app lo costruisce per te: «pranzo con Sara venerdì a mezzogiorno», «sposta il dentista a martedì prossimo», «segna il bucato come fatto». Niente moduli, nessun selettore di date.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-input.png" alt="Inserimento rapido AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-input.png" alt="Inserimento rapido IA" width="280">
 
-L'inserimento rapido AI richiede l'accesso a un account. Tutto il resto dell'app funziona anche senza.
+L'inserimento rapido IA richiede l'accesso a un account. Tutto il resto dell'app funziona anche senza.
 
 ---
 
@@ -26,16 +26,16 @@ L'inserimento rapido AI richiede l'accesso a un account. Tutto il resto dell'app
 
 ### Nell'app
 
-Tocca il pulsante AI nella schermata del calendario. Si apre il pannello di inserimento con due modalità tra cui puoi passare in qualsiasi momento:
+Tocca il pulsante IA nella schermata del calendario. Si apre il pannello di inserimento con due modalità tra cui puoi passare in qualsiasi momento:
 
 - **Voce** — parla e guarda la trascrizione comparire in tempo reale. Servono le autorizzazioni per microfono e riconoscimento vocale; se una delle due viene negata, l'app ti propone di aprire le impostazioni di iOS oppure di passare alla tastiera.
 - **Tastiera** — scrivilo. Utile quando sei dove non puoi parlare.
 
 ### Da un'immagine
 
-**Leggi da un'immagine** trasforma una foto in eventi. **Scatta una foto** o **scegli dalla libreria**: l'app legge il testo che c'è sopra — un orario delle lezioni, la locandina di un evento, lo screenshot di un messaggio — e ti mostra quello che ha trovato, così puoi correggere quello che è venuto storto prima di inviare.
+**Leggi da un'immagine** trasforma una foto in eventi. **Scatta una foto** o **Scegli dalla libreria**: l'app legge il testo che c'è sopra — un orario delle lezioni, la locandina di un evento, lo screenshot di un messaggio — e ti mostra quello che ha trovato, così puoi correggere quello che è venuto storto prima di inviare.
 
-Puoi allegare un'istruzione per orientare il risultato, tipo «aggiungi questi come da fare». Se nell'immagine non c'è testo leggibile, l'app te lo dice invece di inviare una richiesta vuota.
+Puoi allegare **Istruzioni aggiuntive (facoltativo)** per orientare il risultato, tipo «aggiungi questi come da fare». Se nell'immagine non c'è testo leggibile, l'app te lo dice invece di inviare una richiesta vuota.
 
 ### Siri
 
@@ -43,16 +43,16 @@ Di' **«Aggiungi con l'IA in To-do Calendar»** — oppure «Aggiungi una pianif
 
 ### Tasto Azione
 
-Assegna al tasto Azione il comando rapido **Aggiungi con l'IA**. Una pressione, dici la cosa, fatto: l'app non deve mai passare in primo piano.
+Assegna al tasto Azione il comando rapido **Aggiungi con l'IA**. Una pressione, dici che cosa vuoi aggiungere ed è inviato: l'app non deve mai aprirsi.
 
 ### Widget e Centro di Controllo
 
-- **Widget Aggiungi con l'AI** — un widget per la schermata Home o per la schermata di blocco che apre la schermata di inserimento AI con un tocco.
+- **Widget Aggiungi con l'IA** — un widget per la schermata Home o per la schermata di blocco che apre la schermata di inserimento IA con un tocco.
 - **Centro di Controllo** (iOS 18 e successivi) — aggiungi lo stesso controllo al Centro di Controllo per avere un accesso a portata di scorrimento.
 
 ### Foglio di condivisione
 
-Condividi **testo o un'immagine da qualsiasi altra app** direttamente con l'AI di To-do Calendar. Mentre leggi un messaggio con i dettagli di un incontro, o guardi una locandina in Foto: tocca condividi, scegli To-do Calendar, se vuoi aggiungi un'istruzione e invia.
+Condividi **testo o un'immagine da qualsiasi altra app** direttamente con l'IA di To-do Calendar. Mentre leggi un messaggio con i dettagli di un incontro, o guardi una locandina in Foto: tocca Condividi, scegli To-do Calendar, se vuoi aggiungi un'istruzione e invia.
 
 Anche la richiesta dal foglio di condivisione viene eseguita in background. Ricevi la conferma che è stata inviata e il risultato lo controlli nell'app.
 
@@ -65,17 +65,17 @@ Anche la richiesta dal foglio di condivisione viene eseguita in background. Rice
 3. **Conferma, quando serve** — se la richiesta comporta un cambiamento importante, l'app ti chiede prima di approvarla e ti mostra esattamente che cosa sta per fare. C'è un conto alla rovescia; se scade, basta chiedere di nuovo.
 4. **Attività completata** — il risultato arriva subito sul tuo calendario, con un riepilogo di che cosa è cambiato.
 
-<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-result.png" alt="Risultato AI" width="280">
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/ai-result.png" alt="Risultato IA" width="280">
 
-Viene elaborata una sola richiesta alla volta. Se ne invii un'altra mentre la prima è ancora in attesa della tua approvazione, l'app ti invita a occuparti prima di quella.
+Viene elaborata una sola richiesta alla volta. Se ne invii un'altra mentre la prima è ancora in attesa della tua approvazione, l'app ti chiede di occuparti prima di quella in attesa.
 
 ---
 
 ## Crediti
 
-Le richieste AI attingono a una **quota giornaliera che si azzera ogni giorno**. Quanto ne resta è indicato in cima alla schermata di inserimento AI, così sai sempre come sei messo prima di inviare.
+Ogni richiesta IA consuma **crediti**, e i tuoi crediti si ricaricano ogni giorno. Quanti te ne restano è indicato in cima alla schermata di inserimento IA, così lo sai prima di inviare.
 
-Se la quota si esaurisce, l'inserimento rapido AI si ferma fino al prossimo azzeramento. Tutto il resto dell'app continua a funzionare.
+Quando li esaurisci, l'inserimento rapido IA aspetta la ricarica del giorno dopo. Tutto il resto dell'app continua a funzionare.
 
 ---
 

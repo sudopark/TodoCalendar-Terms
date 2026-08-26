@@ -4,7 +4,7 @@
 
 ---
 
-Il senso di un widget del calendario è non dover aprire il calendario. To-do Calendar ne offre una serie ampia, così puoi scegliere quello che corrisponde a come controlli davvero la tua giornata: il prossimo singolo evento, un mese intero, oppure l'elenco dei da fare con le caselle da toccare.
+Un widget serve a non doverti aprire l'app solo per sapere che cosa viene dopo. To-do Calendar ne offre una serie ampia, così puoi scegliere quello che corrisponde a come controlli davvero la tua giornata: il prossimo singolo evento, un mese intero, oppure l'elenco dei da fare con le caselle da toccare.
 
 ---
 
@@ -14,7 +14,7 @@ Il senso di un widget del calendario è non dover aprire il calendario. To-do Ca
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-today-and-next.png" alt="Widget Oggi e cosa viene dopo" width="360">
 
-A sinistra la data di oggi e quello che resta della giornata, a destra quello che arriva dopo. La vista singola più densa di «adesso cosa, e poi cosa».
+A sinistra la data di oggi e quello che resta della giornata, a destra quello che arriva dopo. Nessun altro widget mostra così tanto in una volta sola.
 
 *Medio.*
 
@@ -46,7 +46,7 @@ L'unico evento che hai fissato come più importante, sempre in vista. Vedi [Even
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-month.png" alt="Widget mese" width="360">
 
-La griglia del calendario in sé, nell'intervallo che preferisci:
+Il calendario in sé, nell'intervallo che preferisci:
 
 | Widget | Dimensione |
 |---|---|
@@ -61,14 +61,14 @@ Due pannelli in un solo widget, quando una vista sola non basta:
 
 | Widget | Mostra | Dimensione |
 |---|---|---|
-| OGGI + Calendario | Il riepilogo di oggi accanto alla griglia del mese | Medio |
-| Eventi + Calendario | I prossimi eventi accanto alla griglia del mese | Medio |
+| OGGI + Calendario | Il riepilogo di oggi accanto al calendario del mese | Medio |
+| Eventi + Calendario | I prossimi eventi accanto al calendario del mese | Medio |
 | Eventi + Principale | I prossimi eventi accanto all'evento che hai fissato | Medio |
 | Calendario + Calendario | Due mesi affiancati | Medio |
 
-### Aggiungi con l'AI
+### Aggiungi con l'IA
 
-Un tocco e sei dentro l'[inserimento rapido AI](./02-ai-input.md).
+Un tocco e sei dentro l'[inserimento rapido IA](./02-ai-input.md).
 
 *Circolare sulla schermata di blocco · Piccolo.*
 
@@ -86,7 +86,7 @@ Un tocco e sei dentro l'[inserimento rapido AI](./02-ai-input.md).
 
 ### Widget per la schermata di blocco
 
-Diversi widget hanno una versione per la schermata di blocco: **Prossimo evento** (in linea e rettangolare), **I prossimi eventi di oggi** (rettangolare), **Evento principale** (in linea) e **Aggiungi con l'AI** (circolare).
+Diversi widget hanno una versione per la schermata di blocco: **Prossimo evento** (in linea e rettangolare), **I prossimi eventi di oggi** (rettangolare), **Evento principale** (in linea) e **Aggiungi con l'IA** (circolare).
 
 ### Conto alla rovescia con Attività in tempo reale
 
@@ -100,7 +100,7 @@ Metti un evento sulla schermata di blocco e guarda scorrere all'indietro il temp
 
 ## Centro di Controllo
 
-Su iOS 18 e successivi puoi aggiungere al Centro di Controllo il controllo **Aggiungi con l'IA**, così uno scorrimento verso il basso e un tocco ti portano alla schermata di inserimento AI da qualsiasi punto.
+Su iOS 18 e successivi puoi aggiungere al Centro di Controllo il controllo **Aggiungi con l'IA**, così uno scorrimento verso il basso e un tocco ti portano alla schermata di inserimento IA da qualsiasi punto.
 
 ---
 

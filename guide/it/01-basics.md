@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/calendar.png" alt="Calendario" width="280">
 
-La griglia del mese è la schermata principale. Scorri a destra e a sinistra per cambiare mese, tocca un giorno per aprire sotto l'elenco dei suoi eventi.
+Il calendario del mese è la schermata principale. Scorri a destra e a sinistra per cambiare mese, tocca un giorno per aprire sotto l'elenco dei suoi eventi.
 
-- Ogni giorno mostra una barra colorata per evento, più un indicatore **+N** quando ce ne sono più di quanti ne entrino.
+- Ogni giorno mostra una barra colorata per evento, più un **+N** quando il giorno ha più eventi di quanti la riga riesca a mostrarne.
 - L'elenco del giorno è ordinato così: da fare senza orario → da fare con orario → pianificazioni → festività → eventi dei calendari esterni.
 - Tocca l'intestazione per saltare a una data qualsiasi, oppure usa **Sposta data** per sceglierla direttamente.
 
-Quanto è densa la griglia — altezza delle righe, dimensione del testo degli eventi, grassetto, barre colorate, nomi delle festività, calendario lunare — è tutto modificabile. Vedi [Personalizzazione](./05-personalization.md).
+Quanto mostrare di ogni giorno lo decidi tu: il livello di dettaglio di ogni evento, la dimensione del testo, i colori, i nomi delle festività e il calendario lunare. [Personalizzazione](./05-personalization.md) passa in rassegna ogni impostazione con il suo nome.
 
 ---
 
 ## Da fare e pianificazioni
 
-L'app ha due tipi di evento, e la differenza sta nel fatto che la cosa si possa *completare* oppure no.
+L'app ha due tipi di evento, e la differenza sta in una cosa: se è qualcosa che spunti quando è fatto.
 
 | | Da fare | Pianificazione |
 |---|---|---|
@@ -30,21 +30,21 @@ L'app ha due tipi di evento, e la differenza sta nel fatto che la cosa si possa 
 
 Un **da fare senza orario** serve per qualcosa che devi fare presto ma che non hai ancora messo in agenda. Resta in cima al calendario e nel widget Elenco da fare attuale finché non è concluso.
 
-Puoi convertire un tipo nell'altro in qualsiasi momento — **Converti in pianificazione** / **Converti in da fare** dal menu Altro dell'evento. Per convertire un da fare in pianificazione serve un orario.
+Puoi convertire un tipo nell'altro in qualsiasi momento — **Converti in pianificazione** / **Converti in da fare** dal menu Altro dell'evento. Solo per convertire un da fare in pianificazione serve un orario.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/event-detail.png" alt="Dettaglio evento" width="280">
 
-Ogni evento può portare con sé un **Luogo** (con anteprima della mappa e apertura con un tocco nell'app mappe che preferisci), un **Link** con anteprima e una **Nota**.
+Ogni evento può portare con sé un **Luogo**, un **Link** e una **Nota**. Il luogo ha l'anteprima della mappa e si apre con un tocco nell'app mappe che preferisci; il link ha una sua anteprima.
 
 ---
 
 ## Aggiungere eventi
 
-Tre modi per entrare, a seconda di quanto vuoi scrivere:
+Tre modi per aggiungere un evento, a seconda di quanto vuoi scrivere:
 
-- **Aggiunta rapida** — il campo di inserimento in fondo all'elenco del giorno. Scrivi un nome, premi invio e hai un da fare.
+- **Aggiunta rapida** — il campo di inserimento in fondo all'elenco del giorno. Scrivi un nome, premi invio e il da fare è creato.
 - **Dettaglio completo** — tocca **+** per aprire l'editor con orario, ricorrenza, promemoria, tipo di evento, luogo, link e nota.
-- **Inserimento rapido AI** — descrivilo in linguaggio naturale e lascia che sia l'app a costruire l'evento. Vedi [Inserimento rapido AI](./02-ai-input.md).
+- **Inserimento rapido IA** — descrivilo in linguaggio naturale e lascia che sia l'app a costruire l'evento. Vedi [Inserimento rapido IA](./02-ai-input.md).
 
 A un da fare basta un nome. A una pianificazione servono un nome e un orario.
 
@@ -54,7 +54,7 @@ A un da fare basta un nome. A una pianificazione servono un nome e un orario.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/repeat-options.png" alt="Opzioni di ricorrenza" width="240">
 
-Invece di chiederti di comporre una regola con una serie di menu a discesa, l'app legge la data che hai scelto e ti propone opzioni già pronte per quella data. Scegli un giovedì e l'elenco dice letteralmente **Ogni giovedì** e **Il terzo giovedì di ogni mese**.
+Invece di chiederti di comporre una regola di ricorrenza con una serie di menu a discesa, l'app legge la data che hai scelto e ti propone opzioni già pronte. Scegli un giovedì e l'elenco ti propone **Ogni giovedì** e **Il terzo giovedì di ogni mese**.
 
 **Intervalli più comuni**
 
@@ -68,22 +68,22 @@ Invece di chiederti di comporre una regola con una serie di menu a discesa, l'ap
 
 - Ogni giorno feriale — dal lunedì al venerdì. Viene proposto quando l'evento inizia in un giorno feriale
 - Tutti i giorni dell'ultima settimana di ogni mese
-- Il primo / secondo / terzo / quarto / l'ultimo *giorno della settimana* di ogni mese — per cose come «l'ultimo venerdì del mese»
+- Il primo / secondo / terzo / quarto / ultimo **giovedì** di ogni mese — il giorno della settimana viene riempito dalla data che hai scelto, così un evento di venerdì propone **L'ultimo venerdì di ogni mese**
 
 **Fine ricorrenza**
 
-Una volta scelta la ricorrenza, decidi come si ferma: **Mai**, **Il giorno** di una data precisa, oppure **Dopo** un certo numero di occorrenze.
+Scelta la ricorrenza, decidi anche quando si ferma: **Mai** per farla continuare sempre, **Il giorno** per fissare la data in cui finisce, oppure **Dopo** un numero di **occorrenze**.
 
 I da fare ricorrenti si comportano diversamente dalle pianificazioni ricorrenti:
 
-- Una ricorrenza non completata resta visibile sul calendario di oggi anche dopo che il suo orario è passato: non scivola in avanti in silenzio.
+- Una ricorrenza non completata resta visibile sul calendario di oggi anche dopo che il suo orario è passato: non passa da sola all'occorrenza successiva.
 - Completandola, quell'occorrenza finisce tra i da fare completati e viene creata la successiva.
 - **Salta questo da fare** ti porta all'occorrenza successiva senza segnarla come conclusa.
 - Quando la ricorrenza ha una condizione di fine e non c'è un'occorrenza successiva, la serie si conclude.
 
 Quando modifichi o elimini un'occorrenza di un evento ricorrente, scegli l'ambito: **Solo questa volta**, **Da questo momento** oppure **Tutti gli eventi**.
 
-Per gli eventi su un calendario esterno collegato l'opzione lunare non viene proposta: quel calendario non ha modo di esprimerla.
+Per gli eventi su un calendario esterno collegato l'opzione lunare non viene proposta: i calendari esterni non hanno dove memorizzare una regola di ricorrenza lunare.
 
 ---
 
@@ -109,7 +109,7 @@ Imposta tutti i promemoria che ti servono per ogni evento.
 - **Eventi di tutto il giorno** — alle 9:00 o a mezzogiorno di quel giorno, oppure alle 9:00 di 1 / 2 / 7 giorni prima.
 - **Personalizzato** — scegli l'anticipo che preferisci.
 
-I valori predefiniti per gli eventi con orario e per quelli di tutto il giorno si impostano separatamente nelle Impostazioni, così i nuovi eventi arrivano già pronti. I promemoria richiedono l'autorizzazione alle notifiche; se è disattivata, l'app ti indirizza alle impostazioni di iOS.
+I valori predefiniti per gli eventi con orario e per quelli di tutto il giorno si impostano separatamente nelle Impostazioni, così i nuovi eventi hanno già i loro promemoria. I promemoria richiedono l'autorizzazione alle notifiche; se è disattivata, l'app ti indirizza alle impostazioni di iOS.
 
 ---
 
@@ -123,7 +123,7 @@ I da fare e le pianificazioni non ricorrenti possono essere impostati come princ
 
 ## Da fare non completati
 
-I da fare il cui orario è già passato senza che siano stati completati vengono raccolti in una sezione **Da fare non completati** in cima al calendario, così una cosa mancata non scivola fuori vista nella settimana scorsa.
+I da fare il cui orario è già passato senza che siano stati completati vengono raccolti in una sezione **Da fare non completati** in cima al calendario, così un da fare mancato non resta sepolto in una data ormai passata.
 
 I da fare senza orario e quelli futuri non contano come non completati: semplicemente non sono ancora scaduti. Se preferisci non vederla, puoi nascondere del tutto la sezione nelle Impostazioni.
 
@@ -136,16 +136,16 @@ I da fare senza orario e quelli futuri non contano come non completati: semplice
 Tutto quello che spunti viene conservato e raggruppato in base a quando l'hai concluso: oggi, ieri, questo mese, poi per mese e per anno.
 
 - Annulla un completamento per far tornare il da fare.
-- Fai pulizia in blocco: elimina tutto, oppure tutto quello più vecchio di 1 / 3 / 6 mesi o di un anno.
+- Fai pulizia in blocco: **Tutti gli eventi da fare completati**, oppure solo quelli **Più vecchi di 1 mese / 3 mesi / 6 mesi / 1 anno**.
 
 ---
 
 ## Condivisione
 
-Condividi **un giorno, una settimana o un mese** come testo o come immagine.
+Condividi **un giorno, una settimana o un mese** come testo o come scheda immagine.
 
 Prima di condividere puoi filtrare quali tipi di evento includere e scegliere se mostrarne i nomi, così puoi mandare a qualcuno la tua settimana senza rivelarne ogni dettaglio.
 
 ---
 
-[← Indice](./README.md) · [Avanti: Inserimento rapido AI →](./02-ai-input.md)
+[← Indice](./README.md) · [Avanti: Inserimento rapido IA →](./02-ai-input.md)

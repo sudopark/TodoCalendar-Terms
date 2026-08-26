@@ -18,7 +18,7 @@ Tutto quello che c'è in questa schermata si vede in anteprima dal vivo mentre l
 
 | Impostazione | Che cosa fa |
 |---|---|
-| Primo giorno della settimana | Da quale giorno parte la griglia |
+| Primo giorno della settimana | Da quale giorno parte il calendario |
 | Giorni in evidenza | Colora domeniche, sabati e festività, ciascuno attivabile a parte |
 | Sottolinea i giorni con eventi | Segnala i giorni in cui c'è qualcosa |
 | Livello di visualizzazione dettagli evento | Quanto è alta ogni riga: Minimo, Medio o Completo. Le righe più alte mostrano i nomi degli eventi al posto dei puntini |
@@ -39,7 +39,7 @@ Segui il sistema, oppure fissa l'app su **Chiaro** o **Scuro** a prescindere da 
 
 ### Tema widget
 
-Per impostazione predefinita i widget usano il tema di sistema. Passa a un colore personalizzato e scegli lo sfondo che preferisci: l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso il tuo colore.
+Per impostazione predefinita i widget sono su **Usa tema di sistema**. Passa a **Seleziona colore personalizzato** e scegli lo sfondo che preferisci: l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso il tuo colore.
 
 ### Sensazioni
 
@@ -59,7 +59,7 @@ Valori predefiniti, per non riempire gli stessi campi ogni volta.
 | Orario di notifica | Promemoria predefiniti, impostati separatamente per gli eventi con orario e per quelli di tutto il giorno |
 | Apri l'app Mappe | In quale app mappe si apre un luogo |
 
-È anche il punto da cui si collegano i **calendari esterni** — vedi [Calendari esterni](./04-external-calendars.md).
+È anche il punto da cui si collegano i **Calendari esterni** — vedi [Calendari esterni](./04-external-calendars.md).
 
 ---
 
