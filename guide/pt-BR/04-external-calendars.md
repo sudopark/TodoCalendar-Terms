@@ -4,7 +4,7 @@
 
 ---
 
-Se as reuniões de trabalho moram no Google Agenda e o calendário compartilhado da família mora no seu iPhone, você não deveria precisar de três apps para saber como está a sua quinta-feira. Conecte-os e eles aparecem na mesma grade das suas tarefas e dos seus compromissos.
+Se as reuniões de trabalho estão no Google Agenda e o calendário compartilhado da família está no seu iPhone, você não deveria precisar de três apps para saber como está a sua quinta-feira. Conecte-os e eles aparecem no mesmo calendário das suas tarefas e dos seus compromissos.
 
 Conecte em **Ajustes › Ajustes de evento e calendários externos › Calendários externos**.
 
@@ -31,7 +31,7 @@ Toque em **Conectar** ao lado de Google Agenda e faça login. Dá para repetir i
 
 ### Escolher o que aparece
 
-Conectar uma conta não despeja todos os calendários na sua grade. O app segue o que você já tinha selecionado no próprio Google Agenda, e o restante começa oculto. Ative e desative calendários individuais na lista de tipos de evento — eles ficam em uma seção **Google Agenda** própria, ao lado dos seus tipos de evento.
+Conectar uma conta não coloca de uma vez todos os calendários dela no seu. O app segue o que você já tinha selecionado no próprio Google Agenda, e o restante começa oculto. Ative e desative calendários individuais na lista de tipos de evento — eles ficam em uma seção **Google Agenda** própria, ao lado dos seus tipos de evento.
 
 Cada calendário mantém a cor que tem no Google, então um calendário de trabalho fica igual aqui e lá.
 
@@ -41,16 +41,16 @@ Toque em um evento do Google e você vê o quadro completo: participantes e quem
 
 Você pode editá-lo ali mesmo — inclusive escolhendo se a alteração vale para uma ocorrência ou para toda a série recorrente — ou abri-lo no Google Agenda.
 
-Algumas coisas ficam fora do seu alcance, e o app avisa em vez de falhar em silêncio:
+Algumas coisas não dá para mudar aqui, e o app diz o porquê em vez de simplesmente falhar:
 
 - **Calendários somente leitura** (um calendário assinado, o calendário compartilhado de outra pessoa) podem ser vistos, mas não editados.
 - **Campos que pertencem ao Google** mostram o valor, mas não podem ser alterados aqui.
-- **Descrições com formatação** avisam antes da edição, já que editar aqui remove a formatação.
+- Nas **descrições com formatação**, o app avisa antes da edição, já que editar aqui remove a formatação.
 - Se o seu login ainda não tiver permissão de edição, o app pede que você entre de novo naquela conta do Google.
 
 ### Desconectar
 
-Desconecte quando quiser, na mesma tela de ajustes. Seus próprios eventos ficam intactos e nada é excluído da sua conta do Google — os calendários simplesmente param de aparecer.
+Use **Desconectar** quando quiser, na mesma tela de ajustes. Seus próprios eventos ficam intactos e nada é excluído da sua conta do Google — os calendários simplesmente param de aparecer.
 
 ---
 

@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/calendar.png" alt="Calendário" width="280">
 
-A grade do mês é a tela inicial. Deslize para a esquerda e para a direita para mudar de mês e toque em um dia para abrir a lista de eventos dele logo abaixo.
+O calendário do mês é a tela inicial. Deslize para a esquerda e para a direita para mudar de mês e toque em um dia para abrir a lista de eventos dele logo abaixo.
 
-- Cada dia mostra uma barra colorida por evento, mais um indicador **+N** quando há mais do que cabe.
+- Cada dia mostra uma barra colorida por evento, mais um **+N** quando o dia tem mais eventos do que cabe na linha.
 - A lista do dia segue esta ordem: tarefas sem horário → tarefas com horário → compromissos → feriados → eventos de calendários externos.
 - Toque no cabeçalho para pular para qualquer data, ou use **Mover data** para escolher uma diretamente.
 
-O quanto a grade fica densa — altura das linhas, tamanho do texto dos eventos, texto em negrito, barras de cor, nomes de feriados, calendário lunar — é tudo ajustável. Veja [Personalização](./05-personalization.md).
+O quanto cada dia mostra é você quem decide: o nível de detalhe de cada evento, o tamanho do texto, as cores, os nomes dos feriados e o calendário lunar. [Personalização](./05-personalization.md) percorre cada ajuste pelo nome.
 
 ---
 
 ## Tarefas e compromissos
 
-O app tem dois tipos de evento, e a diferença está em poder ou não ser *concluído*.
+O app tem dois tipos de evento, e a diferença está em uma coisa: é algo que você marca como concluído?
 
 | | Tarefa | Compromisso |
 |---|---|---|
@@ -28,19 +28,19 @@ O app tem dois tipos de evento, e a diferença está em poder ou não ser *concl
 | Conclusão | Sim — é só marcar | Não |
 | Sem horário | Fica na **Lista de tarefas atual** até você terminar | Não é possível |
 
-Uma **tarefa sem horário** serve para algo que você precisa fazer em breve, mas ainda não agendou. Ela fica no topo do calendário e no widget de lista de tarefas atual até ser concluída.
+Uma **tarefa sem horário** serve para algo que você precisa fazer em breve, mas ainda não agendou. Ela fica no topo do calendário e no widget Lista de tarefas atual até ser concluída.
 
-Dá para converter nos dois sentidos a qualquer momento — **Converter em compromisso** / **Converter em tarefa**, no menu de mais opções do evento. Converter uma tarefa em compromisso exige um horário.
+Dá para converter nos dois sentidos a qualquer momento — **Converter em compromisso** / **Converter em tarefa**, no menu de mais opções do evento. Só a conversão de tarefa em compromisso exige um horário.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/event-detail.png" alt="Detalhes do evento" width="280">
 
-Todo evento pode carregar uma **Localização** (com prévia do mapa e abertura em um toque no app de mapas que você preferir), um **link** com pré-visualização e uma **Anotação**.
+Todo evento pode carregar uma **Localização**, um **Link** e uma **Anotação**. A localização vem com prévia do mapa e abre em um toque no app de mapas que você preferir; o link tem a sua própria prévia.
 
 ---
 
 ## Adicionar eventos
 
-São três caminhos, conforme o quanto você quer digitar:
+São três formas de adicionar um evento, conforme o quanto você quer digitar:
 
 - **Adição rápida** — o campo de entrada no fim da lista do dia. Digite um nome, confirme e a tarefa está criada.
 - **Detalhes completos** — toque em **+** para abrir o editor com horário, recorrência, lembretes, tipo de evento, localização, link e anotação.
@@ -54,7 +54,7 @@ Uma tarefa precisa só de um nome. Um compromisso precisa de nome e horário.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pt-BR/repeat-options.png" alt="Opções de recorrência" width="240">
 
-Em vez de pedir que você monte uma regra a partir de menus, o app lê a data escolhida e oferece opções prontas para ela. Escolha uma quinta-feira e a lista traz, literalmente, **Toda semana: quinta-feira** e **A terceira quinta-feira de cada mês**.
+Em vez de pedir que você monte uma regra de recorrência a partir de menus, o app lê a data escolhida e oferece opções prontas para ela. Escolha uma quinta-feira e a lista oferece **Toda semana: quinta-feira** e **A terceira quinta-feira de cada mês**.
 
 **Intervalos comuns**
 
@@ -68,22 +68,22 @@ Em vez de pedir que você monte uma regra a partir de menus, o app lê a data es
 
 - Todo dia útil — de segunda a sexta. Aparece quando o evento começa em um dia útil
 - Todos os dias da última semana de cada mês
-- O primeiro / segundo / terceiro / quarto / último *dia da semana* de cada mês — para coisas como "a última sexta-feira do mês"
+- A primeira / segunda / terceira / quarta / última **quinta-feira** de cada mês — o dia da semana é preenchido a partir da data escolhida, então um evento numa sexta-feira oferece **A última sexta-feira de cada mês**
 
 **Término da recorrência**
 
-Depois de escolher a recorrência, defina como ela para: **Nunca**, **Em** uma data específica, ou **Após** um número de ocorrências.
+Escolhida a recorrência, defina também quando ela para: **Nunca** para seguir sempre, **Em** para fixar a data em que ela acaba, ou **Após** um número de **ocorrências**.
 
 Tarefas recorrentes se comportam de forma diferente de compromissos recorrentes:
 
-- Uma ocorrência não concluída continua visível no calendário de hoje mesmo depois que o horário passa — ela não avança em silêncio.
+- Uma ocorrência não concluída continua visível no calendário de hoje mesmo depois que o horário passa — ela não passa sozinha para a próxima ocorrência.
 - Ao concluí-la, aquela ocorrência vai para a lista de tarefas concluídas e a próxima é criada.
 - **Pular esta tarefa** leva você para a próxima ocorrência sem marcar a atual como concluída.
 - Quando a recorrência tem condição de término e não há próxima ocorrência, a série se encerra.
 
 Ao editar ou excluir uma ocorrência de um evento recorrente, você escolhe o escopo: **Somente este**, **A partir deste** ou **Todos os eventos**.
 
-Para eventos de um calendário externo conectado, a opção de calendário lunar não é oferecida — aquele calendário não tem como expressá-la.
+Para eventos de um calendário externo conectado, a opção de calendário lunar não é oferecida — os calendários externos não têm onde guardar uma regra de recorrência lunar.
 
 ---
 
@@ -123,7 +123,7 @@ Tarefas e compromissos não recorrentes podem ser marcados como principais. Comp
 
 ## Tarefas não concluídas
 
-As tarefas cujo horário já passou sem que fossem concluídas se juntam em uma seção **Tarefas não concluídas** no topo do calendário, para que um item esquecido não escorregue para a semana passada e suma de vista.
+As tarefas cujo horário já passou sem que fossem concluídas se juntam em uma seção **Tarefas não concluídas** no topo do calendário, para que uma tarefa esquecida não fique enterrada numa data já passada.
 
 Tarefas sem horário e tarefas futuras não entram nessa conta — elas simplesmente ainda não venceram. Se preferir não ver a seção, dá para escondê-la por completo nos Ajustes.
 
@@ -136,7 +136,7 @@ Tarefas sem horário e tarefas futuras não entram nessa conta — elas simplesm
 Tudo o que você marca como concluído fica guardado e agrupado por quando você terminou — hoje, ontem, este mês e, depois, por mês e ano.
 
 - Desfaça uma conclusão para trazer a tarefa de volta.
-- Limpe em lote: exclua tudo, ou só o que tem mais de 1 / 3 / 6 meses ou 1 ano.
+- Limpe em lote: **Todas as tarefas concluídas**, ou só as **Com mais de 1 mês / 3 meses / 6 meses / 1 ano**.
 
 ---
 

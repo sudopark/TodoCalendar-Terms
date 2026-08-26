@@ -18,7 +18,7 @@ Tudo nesta tela tem prévia ao vivo enquanto você mexe, então dá para ver com
 
 | Ajuste | O que faz |
 |---|---|
-| Primeiro dia da semana | Em que dia a grade começa |
+| Primeiro dia da semana | Em que dia o calendário começa |
 | Dias em Destaque | Colore domingos, sábados e feriados — cada um com seu próprio botão |
 | Sublinhar dias com eventos | Marca os dias que têm algo neles |
 | Nível de detalhes do evento | A altura de cada linha — Mínimo, Médio ou Completo. Linhas mais altas mostram o nome dos eventos em vez de pontos |
@@ -39,7 +39,7 @@ Siga o sistema ou fixe o app em **Claro** ou **Escuro**, independentemente do qu
 
 ### Tema do widget
 
-Por padrão, os widgets usam o tema do sistema. Mude para uma cor personalizada e escolha o fundo que quiser — o app calcula se o texto deve ser claro ou escuro pelo brilho da sua cor.
+Por padrão, os widgets ficam em **Usar tema do sistema**. Mude para **Selecionar cor personalizada** e escolha o fundo que quiser — o app calcula se o texto deve ser claro ou escuro pelo brilho da sua cor.
 
 ### Sensações
 
@@ -59,7 +59,7 @@ Padrões para você não preencher os mesmos campos toda vez.
 | Horário de Notificação | Lembretes padrão, definidos separadamente para eventos com horário e de dia todo |
 | Abrir aplicativo de mapas | Em qual app de mapas uma localização abre |
 
-É aqui também que os **calendários externos** são conectados — veja [Calendários externos](./04-external-calendars.md).
+É aqui também que os **Calendários externos** são conectados — veja [Calendários externos](./04-external-calendars.md).
 
 ---
 
@@ -67,7 +67,7 @@ Padrões para você não preencher os mesmos campos toda vez.
 
 Escolha o seu país e os feriados nacionais dele aparecem no calendário. O app já pré-seleciona o país configurado no seu dispositivo, e você pode mudar quando quiser.
 
-Nem todo feriado é um que você observa. **Ocultar** qualquer um deles e ele para de aparecer todo ano; os feriados ocultos ficam listados no fim da mesma tela, para você trazer algum de volta depois.
+Nem todo feriado é um que você observa. **Ocultar** qualquer um deles e ele para de aparecer todo ano; os ocultos ficam listados em **Feriados Ocultos**, no fim da mesma tela, para você trazer algum de volta depois com **Mostrar**.
 
 ---
 

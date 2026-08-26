@@ -8,7 +8,7 @@
 
 O To-do Calendar é **offline em primeiro lugar**. Todo evento que você cria é gravado antes no seu dispositivo, então o app abre na hora, funciona dentro do avião e nunca trava esperando a rede.
 
-E isso não é um modo capado — criar eventos, regras de recorrência, lembretes, tipos de evento, feriados, widgets e calendários externos funciona tudo sem conta nenhuma. Nada fica retido atrás de um cadastro.
+E isso não é um modo limitado — criar eventos, regras de recorrência, lembretes, tipos de evento, feriados, widgets e calendários externos funciona tudo sem conta nenhuma. Nada fica bloqueado até você criar uma conta.
 
 ---
 
@@ -16,7 +16,7 @@ E isso não é um modo capado — criar eventos, regras de recorrência, lembret
 
 Faça login com **Google** ou **Apple** e você ganha também:
 
-- **Backup** — seus eventos passam a morar na sua conta, não só neste telefone
+- **Backup** — seus eventos ficam na sua conta, não só neste telefone
 - **Sincronização entre seus dispositivos** — o mesmo calendário em todos os aparelhos iOS em que você estiver conectado
 - **[Entrada rápida por IA](./02-ai-input.md)** — o único recurso que exige conta, porque a solicitação roda em um servidor
 
@@ -32,9 +32,9 @@ Você não precisa fazer nada, e nada é excluído no caminho.
 
 ## Mantendo tudo sincronizado
 
-A sincronização roda sozinha em segundo plano — depois de alterações, quando o app volta para a frente e periodicamente enquanto você não está olhando. Os widgets se atualizam assim que ela termina.
+A sincronização roda sozinha em segundo plano — depois de alterações, quando o app volta para a frente e em intervalos entre uma coisa e outra. Os widgets se atualizam assim que ela termina.
 
-Se algo parecer desatualizado, **Forçar Sincronização**, nos ajustes de evento, descarta a posição local de sincronização e baixa tudo de novo do zero.
+Se algo parecer desatualizado, **Forçar Sincronização**, nos ajustes de evento, apaga o que o app já sincronizou e baixa tudo de novo do zero.
 
 Quando o mesmo evento foi alterado em dois lugares, a versão do servidor prevalece.
 

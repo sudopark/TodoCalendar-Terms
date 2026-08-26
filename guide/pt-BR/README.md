@@ -4,14 +4,14 @@
 
 **Suas tarefas e seus compromissos, em um só calendário.**
 
-A maioria dos calendários só guarda compromissos, e a maioria dos apps de tarefas não tem noção do que é um mês. O To-do Calendar mantém os dois na mesma grade: um compromisso fica no dia em que acontece, e uma tarefa continua na sua frente até você realmente marcá-la como concluída — mesmo que não tenha horário nenhum.
+Um calendário mostra os seus compromissos, mas não as coisas que você tem para resolver. Um app de tarefas mostra uma lista, mas nunca em que ponto do mês cada coisa cai. O To-do Calendar mantém os dois no mesmo calendário: um compromisso fica no dia em que acontece, e uma tarefa continua na sua frente até você realmente marcá-la como concluída — mesmo que não tenha horário nenhum.
 
 Funciona totalmente offline e sem conta. Faça login só quando quiser backup dos seus dados e sincronização entre seus dispositivos.
 
-- **Um calendário, os dois tipos de trabalho** — compromissos e tarefas lado a lado, com a cor dos seus próprios tipos de evento
-- **Tarefas que não somem** — tarefas sem horário e atrasadas ficam fixadas no topo em vez de escorregarem para o passado
+- **Um só calendário para as duas coisas** — compromissos e tarefas lado a lado, com a cor dos seus próprios tipos de evento
+- **Tarefas que não somem** — tarefas sem horário e atrasadas ficam fixadas no topo em vez de ficarem para trás numa data já passada
 - **Adicione falando** — descreva um evento em linguagem natural pela entrada rápida por IA, pela Siri ou pelo botão de Ação
-- **Veja sem precisar abrir** — um conjunto amplo de widgets para a Tela de Início, a Tela Bloqueada e a Central de Controle
+- **Veja o seu dia sem abrir o app** — um conjunto amplo de widgets para a Tela de Início, a Tela Bloqueada e a Central de Controle
 - **Traga seus outros calendários** — conecte o Google Agenda e o Calendário da Apple e veja tudo em um só lugar
 
 ---
