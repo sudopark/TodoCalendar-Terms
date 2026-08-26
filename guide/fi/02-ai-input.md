@@ -4,7 +4,7 @@
 
 ---
 
-Kuvaile tavallisin sanoin, mitä haluat, ja sovellus rakentaa sen puolestasi — ”lounas Saran kanssa perjantaina keskipäivällä”, ”siirrä hammaslääkäri ensi tiistaille”, ”merkitse pyykit tehdyiksi”. Ei lomakkeita, ei päivämäärän vierittämistä rullalta.
+Kuvaile tavallisin sanoin, mitä haluat, ja sovellus rakentaa sen puolestasi — ”lounas Saran kanssa perjantaina keskipäivällä”, ”siirrä hammaslääkäri ensi tiistaille”, ”merkitse pyykit tehdyiksi”. Ei lomakkeita, ei päivämäärävalitsimia.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/ai-input.png" alt="AI-pikasyöttö" width="280">
 
@@ -33,9 +33,9 @@ Napauta kalenterinäkymän AI-painiketta. Syöttönäkymä avautuu, ja siinä on
 
 ### Kuvasta
 
-**Lue kuvasta** muuttaa kuvan tapahtumiksi. Ota kuva tai valitse kirjastosta; sovellus lukee siinä olevan tekstin — lukujärjestyksen, tapahtumajulisteen, kuvakaappauksen viestistä — ja näyttää löytämänsä, jotta voit korjata virheet ennen lähettämistä.
+**Lue kuvasta** muuttaa kuvan tapahtumiksi. **Ota kuva** tai **Valitse kirjastosta** — sovellus lukee siinä olevan tekstin — lukujärjestyksen, tapahtumajulisteen, kuvakaappauksen viestistä — ja näyttää löytämänsä, jotta voit korjata virheet ennen lähettämistä.
 
-Voit liittää mukaan ohjeen ohjataksesi lopputulosta, esimerkiksi ”lisää nämä tehtävinä”. Jos kuvassa ei ole luettavaa tekstiä, sovellus kertoo siitä sen sijaan, että lähettäisi tyhjän pyynnön.
+Voit ohjata lopputulosta kohdassa **Lisäohjeet (valinnainen)**, esimerkiksi ”lisää nämä tehtävinä”. Jos kuvassa ei ole luettavaa tekstiä, sovellus kertoo siitä sen sijaan, että lähettäisi tyhjän pyynnön.
 
 ### Siri
 
@@ -73,9 +73,9 @@ Vain yksi pyyntö suoritetaan kerrallaan. Jos lähetät toisen, kun edellinen od
 
 ## Krediitit
 
-AI-pyynnöt käyttävät **päivittäistä määrää, joka nollautuu joka päivä**. Jäljellä oleva määrä näkyy AI-syöttönäkymän ylälaidassa, joten tiedät aina tilanteesi ennen lähettämistä.
+Jokainen AI-pyyntö kuluttaa **krediittejä**, ja krediittisi täydentyvät joka päivä. Jäljellä oleva määrä näkyy AI-syöttönäkymän ylälaidassa, joten tiedät sen jo ennen lähettämistä.
 
-Jos määrä loppuu, AI-pikasyöttö pitää tauon seuraavaan nollaukseen asti. Kaikki muu sovelluksessa toimii edelleen.
+Kun krediitit loppuvat, AI-pikasyöttö odottaa seuraavan päivän täydennystä. Kaikki muu sovelluksessa toimii edelleen.
 
 ---
 

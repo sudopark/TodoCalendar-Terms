@@ -32,9 +32,9 @@ Sinun ei tarvitse tehdä mitään, eikä matkan varrella poisteta mitään.
 
 ## Synkronoinnin ylläpito
 
-Synkronointi tapahtuu itsestään taustalla — muutosten jälkeen, kun sovellus palaa etualalle, ja säännöllisesti silloinkin, kun et katso. Widgetit päivittyvät, kun se on valmis.
+Synkronointi tapahtuu itsestään taustalla — muutosten jälkeen, kun sovellus palaa etualalle, ja säännöllisin väliajoin niiden välissä. Widgetit päivittyvät, kun se on valmis.
 
-Jos jokin näyttää vanhentuneelta, tapahtuma-asetusten **Pakota synkronointi** heittää paikallisen synkronointikohdan pois ja hakee kaiken uudelleen alusta.
+Jos jokin näyttää vanhentuneelta, tapahtuma-asetusten **Pakota synkronointi** tyhjentää sen, minkä sovellus on jo synkronoinut, ja hakee kaiken uudelleen alusta.
 
 Jos samaa tapahtumaa on muutettu kahdessa paikassa, palvelimen versio voittaa.
 

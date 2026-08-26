@@ -4,7 +4,7 @@
 
 ---
 
-Kalenteriwidgetin koko idea on siinä, ettei kalenteria tarvitse avata. To-do Calendarissa on laaja valikoima, joten voit valita sen, joka vastaa omaa tapaasi tarkistaa päiväsi — yksittäinen seuraava tapahtuma, koko kuukausi tai tehtäväluettelo valintaympyröineen.
+Widget on olemassa sitä varten, ettei sovellusta tarvitse avata vain nähdäkseen, mitä on seuraavaksi. To-do Calendarissa on laaja valikoima, joten voit valita sen, joka vastaa omaa tapaasi tarkistaa päiväsi — yksittäinen seuraava tapahtuma, koko kuukausi tai tehtäväluettelo valintaympyröineen.
 
 ---
 
@@ -14,7 +14,7 @@ Kalenteriwidgetin koko idea on siinä, ettei kalenteria tarvitse avata. To-do Ca
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-today-and-next.png" alt="Tänään ja mitä seuraavaksi -widget" width="360">
 
-Vasemmalla tämän päivän päivämäärä ja se, mitä päivästä on jäljellä; oikealla se, mitä on tulossa seuraavaksi. Tiivein yksittäinen näkymä siihen, mitä nyt ja mitä sen jälkeen.
+Vasemmalla tämän päivän päivämäärä ja se, mitä päivästä on jäljellä; oikealla se, mitä on tulossa seuraavaksi. Mikään muu widget ei näytä näin paljon kerralla.
 
 *Keskikokoinen.*
 
@@ -46,7 +46,7 @@ Se yksi tapahtuma, jonka kiinnitit tärkeimmäksi, aina näkyvissä. Katso [Tär
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-month.png" alt="Kuukausiwidget" width="360">
 
-Itse kalenteriruudukko haluamallasi aikavälillä:
+Itse kalenteri haluamallasi aikavälillä:
 
 | Widget | Koko |
 |---|---|
@@ -61,8 +61,8 @@ Kaksi paneelia yhdessä widgetissä silloin, kun yksi näkymä ei riitä:
 
 | Widget | Mitä näyttää | Koko |
 |---|---|---|
-| TÄNÄÄN + Kalenteri | Päivän yhteenveto kuukausiruudukon vierellä | Keskikokoinen |
-| Tapahtumat + Kalenteri | Tulevat tapahtumat kuukausiruudukon vierellä | Keskikokoinen |
+| TÄNÄÄN + Kalenteri | Päivän yhteenveto kuukausikalenterin vierellä | Keskikokoinen |
+| Tapahtumat + Kalenteri | Tulevat tapahtumat kuukausikalenterin vierellä | Keskikokoinen |
 | Tapahtumat + Tärkein | Tulevat tapahtumat kiinnittämäsi tapahtuman vierellä | Keskikokoinen |
 | Kalenteri + Kalenteri | Kaksi kuukautta rinnakkain | Keskikokoinen |
 

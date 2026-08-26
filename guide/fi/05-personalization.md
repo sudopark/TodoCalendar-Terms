@@ -12,16 +12,16 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/appearance-setting.png" alt="Ulkoasuasetukset" width="280">
 
-Kaikki tällä näytöllä näkyy esikatselussa heti, kun muutat sitä, joten näet miltä kalenteri tulee näyttämään ennen kuin sitoudut.
+Kaikki tällä näytöllä näkyy esikatselussa heti, kun muutat sitä, joten näet miltä kalenteri tulee näyttämään ennen kuin päätät.
 
 ### Kalenteri
 
 | Asetus | Mitä se tekee |
 |---|---|
-| Viikon ensimmäinen päivä | Mistä päivästä ruudukko alkaa |
+| Viikon ensimmäinen päivä | Mistä päivästä kalenteri alkaa |
 | Korostetut päivät | Väritä sunnuntait, lauantait ja vapaapäivät — kukin erikseen kytkettävissä |
 | Alleviivaus tapahtumapäivinä | Merkitsee päivät, joilla on jotain |
-| Tapahtuman tietojen näyttötaso | Kuinka korkea kukin rivi on — Minimaalinen, Keskitaso tai Täysi. Korkeammilla riveillä näkyvät tapahtumien nimet pisteiden sijaan |
+| Tapahtuman tietojen näyttötaso | Kuinka paljon tilaa kukin päivä saa — Minimaalinen, Keskitaso tai Täysi. Isommalla tilalla näkyvät tapahtumien nimet pisteiden sijaan |
 | Tapahtuman tekstin fonttikoko | Suurenna tai pienennä tapahtumatekstiä |
 | Lihavoitu teksti | Paksummat tapahtumien nimet |
 | Tapahtuman väri | Näytä tai piilota kunkin tapahtuman vieressä oleva väripalkki |
@@ -39,7 +39,7 @@ Noudata järjestelmää tai kiinnitä sovellus **Vaalea**- tai **Tumma**-teemaan
 
 ### Widgetin teema
 
-Widgetit käyttävät oletuksena järjestelmän teemaa. Vaihda omaan väriin ja valitse haluamasi tausta — sovellus päättelee värin kirkkaudesta, pitäisikö tekstin olla vaalea vai tumma.
+Widgetit käyttävät oletuksena asetusta **Käytä järjestelmän teemaa**. Valinnalla **Valitse oma väri** asetat haluamasi taustan — sovellus päättelee värin kirkkaudesta, pitäisikö tekstin olla vaalea vai tumma.
 
 ### Tuntuma
 
@@ -67,7 +67,7 @@ Täällä yhdistetään myös **ulkoiset kalenterit** — katso [Ulkoiset kalent
 
 Valitse maasi, niin sen viralliset vapaapäivät ilmestyvät kalenteriin. Sovellus valitsee valmiiksi laitteesi maan, ja voit vaihtaa sen milloin tahansa.
 
-Kaikkia vapaapäiviä et vietä. **Piilota** mikä tahansa niistä, niin se lakkaa ilmestymästä joka vuosi; piilotetut vapaapäivät luetellaan saman näytön alalaidassa, joten voit palauttaa jonkin niistä myöhemmin.
+Kaikkia vapaapäiviä et vietä. **Piilota** mikä tahansa niistä, niin se lakkaa ilmestymästä joka vuosi; piilotetut vapaapäivät luetellaan saman näytön alalaidassa osiossa **Piilotetut vapaapäivät**, joten voit palauttaa jonkin niistä myöhemmin **Näytä**-painikkeella.
 
 ---
 
