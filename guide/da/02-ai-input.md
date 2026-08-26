@@ -4,7 +4,7 @@
 
 ---
 
-Beskriv, hvad du vil, i almindeligt sprog, og appen bygger det for dig – "frokost med Sara fredag kl. 12", "flyt tandlægen til på tirsdag", "marker vasketøjet som udført". Ingen formularer, intet datohjul.
+Beskriv, hvad du vil, i almindeligt sprog, og appen bygger det for dig – "frokost med Sara fredag kl. 12", "flyt tandlægen til på tirsdag", "marker vasketøjet som udført". Ingen formularer, ingen datovælgere.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/ai-input.png" alt="AI-hurtigindtastning" width="280">
 
@@ -28,7 +28,7 @@ AI-hurtigindtastning kræver, at du er logget ind. Alt andet i appen virker uden
 
 Tryk på AI-knappen på kalenderskærmen. Indtastningsarket åbner med to tilstande, du kan skifte mellem når som helst:
 
-- **Stemme** – tal, og se teksten dukke op undervejs. Kræver tilladelse til mikrofon og talegenkendelse; er en af dem nægtet, tilbyder appen at åbne Indstillinger i iOS eller at **Skriv i stedet**.
+- **Stemme** – tal, og se teksten dukke op undervejs. Kræver tilladelse til mikrofon og talegenkendelse; er en af dem nægtet, tilbyder appen at åbne Indstillinger i iOS eller at skifte til tastaturet med **Skriv i stedet**.
 - **Tastatur** – skriv det. Nyttigt, når du er et sted, hvor du ikke kan tale.
 
 ### Fra et billede
@@ -48,7 +48,7 @@ Tildel Handlingsknappen genvejen **Tilføj med AI**. Ét tryk, sig tingen, færd
 ### Widget og Kontrolcenter
 
 - **Tilføj med AI**-widgeten – en widget til hjemmeskærmen eller låseskærmen, der åbner AI-indtastningen med ét tryk.
-- **Kontrolcenter** (iOS 18 og nyere) – læg den samme betjening i Kontrolcenter, så du kan stryge ned og komme direkte ind.
+- **Kontrolcenter** (iOS 18 og nyere) – læg det samme betjeningselement i Kontrolcenter, så du kan stryge ned og komme direkte ind.
 
 ### Delingsarket
 
@@ -73,9 +73,9 @@ Der kører kun én anmodning ad gangen. Sender du en ny, mens en anden stadig ve
 
 ## Kreditter
 
-AI-anmodninger trækker på en **daglig pulje af kreditter, der nulstilles hver dag**. Hvor meget der er tilbage, står øverst på AI-indtastningsskærmen, så du altid ved, hvor du står, inden du sender.
+Hver AI-anmodning bruger **kreditter**, og dine kreditter fyldes op hver dag. Hvor mange du har tilbage, står øverst på AI-indtastningsskærmen, så du ved det, inden du sender.
 
-Løber puljen tør, holder AI-hurtigindtastning pause til næste nulstilling. Alt andet i appen kører videre.
+Løber de tør, venter AI-hurtigindtastning til næste dags opfyldning. Alt andet i appen kører videre.
 
 ---
 

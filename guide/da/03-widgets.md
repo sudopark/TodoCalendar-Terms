@@ -4,7 +4,7 @@
 
 ---
 
-Meningen med en kalenderwidget er, at du ikke skal åbne kalenderen. To-do Calendar kommer med et bredt udvalg, så du kan vælge det, der passer til, hvordan du rent faktisk tjekker din dag – én næste begivenhed, en hel måned eller din opgaveliste med felter, du kan trykke på.
+En widget er der, så du ikke behøver åbne appen bare for at se, hvad der er næste punkt. To-do Calendar kommer med et bredt udvalg, så du kan vælge den, der passer til, hvordan du rent faktisk tjekker din dag – én næste begivenhed, en hel måned eller din opgaveliste med felter, du kan trykke på.
 
 ---
 
@@ -14,7 +14,7 @@ Meningen med en kalenderwidget er, at du ikke skal åbne kalenderen. To-do Calen
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-today-and-next.png" alt="Widgeten I dag og hvad der venter" width="360">
 
-Dagens dato og resten af dagen til venstre, det der kommer bagefter til højre. Den tætteste enkeltvisning af "hvad nu, hvad så".
+Dagens dato og resten af dagen til venstre, det der kommer bagefter til højre. Ingen anden widget viser så meget på én gang.
 
 *Mellem.*
 
@@ -22,7 +22,7 @@ Dagens dato og resten af dagen til venstre, det der kommer bagefter til højre. 
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-event-list.png" alt="Widgeten Begivenheder" width="300">
 
-En løbende liste over kommende begivenheder grupperet efter dag – din aktuelle opgaveliste er med. Fås i tre størrelser og viser flere dage, jo større den er.
+En løbende liste over kommende begivenheder grupperet efter dag, inklusive **Aktuel opgaveliste**. Fås i tre størrelser og viser flere dage, jo større den er.
 
 *Lille · Mellem · Stor.*
 
@@ -46,7 +46,7 @@ Den ene begivenhed, du har fastgjort som den vigtigste, altid synlig. Se [Vigtig
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/widget-month.png" alt="Widgeten Kalender" width="360">
 
-Selve kalendergitteret, i det omfang du vil have:
+Selve månedskalenderen, i det omfang du vil have:
 
 | Widget | Størrelse |
 |---|---|
@@ -61,8 +61,8 @@ To paneler i én widget, når én visning ikke er nok:
 
 | Widget | Viser | Størrelse |
 |---|---|---|
-| I DAG + Kalender | Dagens overblik ved siden af månedsgitteret | Mellem |
-| Begivenheder + Kalender | Kommende begivenheder ved siden af månedsgitteret | Mellem |
+| I DAG + Kalender | Dagens overblik ved siden af månedskalenderen | Mellem |
+| Begivenheder + Kalender | Kommende begivenheder ved siden af månedskalenderen | Mellem |
 | Begivenheder + Vigtigste | Kommende begivenheder ved siden af din fastgjorte begivenhed | Mellem |
 | Kalender + Kalender | To måneder side om side | Mellem |
 
@@ -100,7 +100,7 @@ Læg en begivenhed på din låseskærm, og se tiden til den tælle ned – med s
 
 ## Kontrolcenter
 
-På iOS 18 og nyere kan du lægge betjeningen **Tilføj med AI** i Kontrolcenter, så et stryg nedad og ét tryk bringer dig til AI-indtastningen, uanset hvor du er.
+På iOS 18 og nyere kan du lægge betjeningselementet **Tilføj med AI** i Kontrolcenter, så et stryg nedad og ét tryk bringer dig til AI-indtastningen, uanset hvor du er.
 
 ---
 

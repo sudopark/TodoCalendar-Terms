@@ -4,7 +4,7 @@
 
 ---
 
-Ligger dine arbejdsmøder i Google Kalender, og familiens delte kalender på din iPhone, bør du ikke skulle bruge tre apps for at vide, hvordan din torsdag ser ud. Forbind dem, så dukker de op i samme gitter som dine egne opgaver og aftaler.
+Ligger dine arbejdsmøder i Google Kalender, og familiens delte kalender på din iPhone, bør du ikke skulle bruge tre apps for at vide, hvordan din torsdag ser ud. Forbind dem, så dukker de op i den samme kalender som dine egne opgaver og aftaler.
 
 Du forbinder dem under **Indstillinger › Begivenhedsindstillinger og eksterne kalendere › Eksterne kalendere**.
 
@@ -31,7 +31,7 @@ Tryk på **Forbind** ud for Google Kalender, og log ind. Du kan gentage det for 
 
 ### Vælg hvad der skal vises
 
-Når du forbinder en konto, vælter alle kalendere ikke ind i dit gitter. Appen følger det, du havde valgt i Google Kalender selv, og resten starter skjult. Enkelte kalendere slår du til og fra i listen over begivenhedstyper – de ligger i deres eget afsnit, **Google Kalender**, ved siden af dine egne begivenhedstyper.
+Når du forbinder en konto, ryger alle kalendere ikke ind i kalenderen på én gang. Appen følger det, du havde valgt i Google Kalender selv, og resten starter skjult. Enkelte kalendere slår du til og fra i listen over begivenhedstyper – de ligger i deres eget afsnit, **Google Kalender**, ved siden af dine egne begivenhedstyper.
 
 Hver kalender beholder den farve, den har i Google, så en arbejdskalender ser ud på samme måde her som der.
 
@@ -41,16 +41,16 @@ Tryk på en Google-begivenhed, og du får hele billedet: Deltagere og Arrangør,
 
 Du kan redigere den på stedet – herunder vælge, om en ændring gælder **Kun denne begivenhed** eller **Alle begivenheder** i den gentagne serie – eller du kan åbne den i Google Kalender i stedet.
 
-Nogle ting kan du ikke røre, og appen siger det i stedet for at fejle i stilhed:
+Nogle ting kan ikke ændres herfra, og appen fortæller hvorfor i stedet for bare at fejle:
 
 - **Skrivebeskyttede kalendere** (en abonnementskalender, en andens delte kalender) kan ses, men ikke redigeres.
 - **Felter, som Google ejer**, viser deres værdi, men kan ikke ændres her.
-- **Beskrivelser med formatering** advarer dig, inden du redigerer, for formateringen forsvinder, hvis du redigerer den her.
+- **Beskrivelser med formatering** – appen advarer dig, inden du redigerer sådan en, for formateringen forsvinder, hvis du redigerer den her.
 - Har dit login endnu ikke redigeringstilladelse, beder appen dig logge ind på den Google-konto igen.
 
 ### Sådan afbryder du forbindelsen
 
-Du kan **Afbryd forbindelse** når som helst fra den samme indstillingsskærm. Dine egne begivenheder rører den ikke, og der bliver ikke slettet noget fra din Google-konto – kalenderne holder blot op med at blive vist.
+Du kan afbryde forbindelsen når som helst med **Afbryd forbindelse** på den samme indstillingsskærm. Dine egne begivenheder rører den ikke, og der bliver ikke slettet noget fra din Google-konto – kalenderne holder blot op med at blive vist.
 
 ---
 
