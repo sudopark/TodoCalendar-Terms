@@ -4,7 +4,7 @@
 
 ---
 
-Om dina jobbmöten bor i Google Kalender och familjens delade kalender ligger på din iPhone borde du inte behöva tre appar för att veta hur din torsdag ser ut. Anslut dem så dyker de upp i samma rutnät som dina egna uppgifter och möten.
+Om dina jobbmöten bor i Google Kalender och familjens delade kalender ligger på din iPhone borde du inte behöva tre appar för att veta hur din torsdag ser ut. Anslut dem så dyker de upp i samma kalender som dina egna uppgifter och möten.
 
 Anslut från **Inställningar › Händelseinställningar och externa kalendrar › Externa kalendrar**.
 
@@ -31,7 +31,7 @@ Tryck på **Anslut** bredvid Google Kalender och logga in. Du kan upprepa det f�
 
 ### Välja vad som ska visas
 
-Att ansluta ett konto tömmer inte varenda kalender över ditt rutnät. Appen följer det du hade valt i Google Kalender självt, och allt annat börjar dolt. Slå på och av enskilda kalendrar i listan över händelsetyper – de ligger i en egen **Google Kalender**-sektion, bredvid dina egna händelsetyper.
+Att ansluta ett konto lägger inte varenda kalender i kalendern på en gång. Appen följer det du hade valt i Google Kalender självt, och allt annat börjar dolt. Slå på och av enskilda kalendrar i listan över händelsetyper – de ligger i en egen **Google Kalender**-sektion, bredvid dina egna händelsetyper.
 
 Varje kalender behåller färgen den har i Google, så en jobbkalender ser likadan ut här som där.
 
@@ -41,11 +41,11 @@ Tryck på en Google-händelse så får du hela bilden: deltagare och vem som är
 
 Du kan redigera den på plats – inklusive att välja om en ändring gäller **Endast den här händelsen** eller **Alla händelser** i en återkommande serie – eller öppna den i Google Kalender i stället.
 
-En del ligger utanför din kontroll, och appen säger till i stället för att misslyckas i tysthet:
+En del går inte att ändra härifrån, och appen berättar varför i stället för att bara misslyckas:
 
 - **Skrivskyddade kalendrar** (en prenumererad kalender, någon annans delade kalender) går att visa men inte redigera.
 - **Fält som Google äger** visar sitt värde men går inte att ändra här.
-- **Beskrivningar med formatering** varnar dig innan du redigerar, eftersom formateringen försvinner om du redigerar här.
+- **Beskrivningar med formatering** – appen varnar dig innan du redigerar en sådan, eftersom formateringen försvinner om du redigerar den här.
 - Om din inloggning ännu inte har redigeringsbehörighet ber appen dig logga in på det Google-kontot igen.
 
 ### Att koppla från

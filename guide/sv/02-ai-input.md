@@ -4,7 +4,7 @@
 
 ---
 
-Beskriv det du vill ha med vanliga ord så bygger appen det åt dig – "lunch med Sara på fredag kl. 12", "flytta tandläkaren till nästa tisdag", "markera tvätten som klar". Inga formulär, inget datumhjul att snurra på.
+Beskriv det du vill ha med vanliga ord så bygger appen det åt dig – "lunch med Sara på fredag kl. 12", "flytta tandläkaren till nästa tisdag", "markera tvätten som klar". Inga formulär, inga datumväljare.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/ai-input.png" alt="AI-snabbinmatning" width="280">
 
@@ -28,7 +28,7 @@ AI-snabbinmatning kräver att du är inloggad. Allt annat i appen fungerar utan 
 
 Tryck på AI-knappen i kalendervyn. Inmatningsvyn öppnas med två lägen som du kan växla mellan när som helst:
 
-- **Röst** – prata och se texten tolkas live. Kräver behörighet för mikrofon och taligenkänning; nekas någon av dem erbjuder appen att öppna iOS-inställningarna eller att **Skriv istället** med tangentbordet.
+- **Röst** – prata och se texten tolkas live. Kräver behörighet för mikrofon och taligenkänning; nekas någon av dem erbjuder appen att öppna iOS-inställningarna eller att byta till tangentbordet med **Skriv istället**.
 - **Tangentbord** – skriv det. Bra när du är någonstans där du inte kan prata.
 
 ### Från en bild
@@ -48,7 +48,7 @@ Koppla Åtgärdsknappen till genvägen **Lägg till med AI**. Ett tryck, säg sa
 ### Widget och Kontrollcenter
 
 - **Widgeten Lägg till med AI** – en widget för hemskärmen eller låsskärmen som öppnar AI-inmatningen med ett tryck.
-- **Kontrollcenter** (iOS 18 och senare) – lägg till samma reglage i Kontrollcenter för en ingång som alltid är ett svep bort.
+- **Kontrollcenter** (iOS 18 och senare) – lägg till samma kontroll i Kontrollcenter för en ingång som alltid är ett svep bort.
 
 ### Delningsmenyn
 
@@ -73,9 +73,9 @@ Bara en begäran körs åt gången. Skickar du en till medan en annan väntar p�
 
 ## Krediter
 
-AI-begäranden drar från **dagliga krediter som återställs varje dag**. Hur mycket som är kvar visas högst upp i AI-inmatningen, så du vet alltid var du står innan du skickar.
+Varje AI-begäran drar **krediter**, och dina krediter fylls på varje dag. Hur många du har kvar visas högst upp i AI-inmatningen, så du vet det innan du skickar.
 
-Tar krediterna slut pausar AI-snabbinmatning till nästa återställning. Allt annat i appen fungerar som vanligt.
+Tar krediterna slut väntar AI-snabbinmatning till nästa dags påfyllning. Allt annat i appen fungerar som vanligt.
 
 ---
 
