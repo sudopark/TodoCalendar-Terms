@@ -73,9 +73,9 @@ Only one request runs at a time. If you send another while one is still waiting 
 
 ## Credits
 
-AI requests draw on a **daily allowance that resets each day**. What's left is shown at the top of the AI input screen, so you always know where you stand before sending.
+Each AI request spends **credits**, and your credits refill every day. How many you have left is shown at the top of the AI input screen, so you know before you send.
 
-If the allowance runs out, AI quick input pauses until the next reset. Everything else in the app keeps working.
+When you run out, AI quick input waits until the next day's refill. Everything else in the app keeps working.
 
 ---
 

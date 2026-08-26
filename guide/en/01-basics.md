@@ -14,7 +14,7 @@ The month grid is the home screen. Swipe left and right to move between months, 
 - The day list is ordered: untimed to-dos → timed to-dos → schedules → holidays → external calendar events.
 - Tap the header to jump to any date, or use **Move date** to pick one directly.
 
-How dense the grid is — row height, event text size, bold text, color bars, holiday names, the lunar calendar — is all switchable. See [Personalization](./05-personalization.md).
+How much each day shows is up to you — the amount of detail per event, text size, colors, holiday names, and the lunar calendar. [Personalization](./05-personalization.md) covers each setting by name.
 
 ---
 
@@ -123,7 +123,7 @@ To-dos and non-repeating schedules can be set as foremost. Repeating schedules c
 
 ## Uncompleted to-dos
 
-To-dos whose time has already passed without being completed are collected in an **Uncompleted To-do** section at the top of the calendar, so a missed item doesn't scroll out of sight into last week.
+To-dos whose time has already passed without being completed are collected in an **Uncompleted to-dos** section at the top of the calendar, so a missed item doesn't scroll out of sight into last week.
 
 Untimed to-dos and future to-dos are not counted as uncompleted — they're simply not due yet. You can hide the section entirely in Settings if you'd rather not see it.
 
