@@ -18,10 +18,10 @@ Alles auf diesem Bildschirm zeigt sich live in der Vorschau, während Sie es än
 
 | Einstellung | Was sie bewirkt |
 |---|---|
-| Erster Wochentag | Mit welchem Tag das Raster beginnt |
+| Erster Wochentag | Mit welchem Tag der Kalender beginnt |
 | Hervorgehobene Tage | Sonntage, Samstage und Feiertage einfärben — jeweils einzeln schaltbar |
 | Unterstreichung an Ereignistagen | Markiert Tage, an denen etwas ansteht |
-| Detailgrad der Ereignisanzeige | Wie hoch jede Zeile ist — Minimal, Mittel oder Vollständig. Höhere Zeilen zeigen Ereignisnamen statt Punkten |
+| Detailgrad der Ereignisanzeige | Wie viel Platz jeder Tag bekommt — Minimal, Mittel oder Vollständig. Mit mehr Platz erscheinen Ereignisnamen statt Punkten |
 | Schriftgröße für Ereignistext | Ereignistext etwas größer oder kleiner |
 | Fetter Text | Kräftigere Ereignisnamen |
 | Ereignisfarbe | Den farbigen Balken neben jedem Ereignis zeigen oder ausblenden |
@@ -39,7 +39,7 @@ Folgen Sie dem System oder legen Sie die App auf **Hell** oder **Dunkel** fest, 
 
 ### Widget-Design
 
-Widgets nutzen standardmäßig das Systemdesign. Wechseln Sie zu einer eigenen Farbe und wählen Sie einen beliebigen Hintergrund — die App ermittelt anhand der Helligkeit Ihrer Farbe, ob der Text hell oder dunkel sein sollte.
+Widgets nutzen standardmäßig **Systemdesign verwenden**. Mit **Eigene Farbe auswählen** legen Sie einen beliebigen Hintergrund fest — die App ermittelt anhand der Helligkeit dieser Farbe, ob der Text hell oder dunkel sein sollte.
 
 ### Haptik und Bewegung
 
@@ -73,7 +73,7 @@ Nicht jeder Feiertag ist einer, den Sie begehen. Mit **Ausblenden** verschwindet
 
 ## Zeitzone
 
-Der Kalender folgt standardmäßig der Zeitzone Ihres Geräts. Wenn Sie ihn lieber auf eine bestimmte festlegen möchten — auf Reisen oder in der Arbeit mit einem Team anderswo — wählen Sie sie aus der vollständigen Zeitzonenliste.
+Der Kalender folgt standardmäßig der Zeitzone Ihres Geräts. Wenn Sie ihn lieber auf eine bestimmte festlegen möchten — auf Reisen oder wenn Sie mit einem Team anderswo arbeiten — wählen Sie sie aus der vollständigen Zeitzonenliste.
 
 ---
 

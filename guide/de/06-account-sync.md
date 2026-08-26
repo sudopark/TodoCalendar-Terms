@@ -6,7 +6,7 @@
 
 ## Sie brauchen kein Konto
 
-To-do Calendar arbeitet **offline zuerst**. Jedes Ereignis, das Sie anlegen, wird zuerst auf Ihr Gerät geschrieben — deshalb öffnet sich die App sofort, funktioniert im Flugzeug und hängt nie an einem Netzwerkaufruf fest.
+To-do Calendar arbeitet **Offline-First**. Jedes Ereignis, das Sie anlegen, wird zuerst auf Ihr Gerät geschrieben — deshalb öffnet sich die App sofort, funktioniert im Flugzeug und hängt nie an einem Netzwerkaufruf fest.
 
 Das ist kein abgespeckter Modus: Ereignisse anlegen, Wiederholungsregeln, Benachrichtigungen, Ereignistypen, Feiertage, Widgets und externe Kalender funktionieren komplett ohne Konto. Nichts wird hinter einer Registrierung zurückgehalten.
 
@@ -32,9 +32,9 @@ Sie müssen nichts tun, und dabei geht nichts verloren.
 
 ## Synchron bleiben
 
-Die Synchronisierung läuft von selbst im Hintergrund — nach Änderungen, wenn die App wieder in den Vordergrund kommt, und in Abständen, während Sie gar nicht hinsehen. Danach aktualisieren sich die Widgets.
+Die Synchronisierung läuft von selbst im Hintergrund — nach Änderungen, wenn die App wieder in den Vordergrund kommt, und in Abständen dazwischen. Danach aktualisieren sich die Widgets.
 
-Wenn etwas veraltet aussieht, verwirft **Synchronisierung erzwingen** in den Ereigniseinstellungen den lokalen Synchronisierungsstand und lädt alles von vorn herunter.
+Wenn etwas veraltet aussieht, löscht **Synchronisierung erzwingen** in den Ereigniseinstellungen, was die App bereits synchronisiert hat, und lädt alles von vorn neu herunter.
 
 Wurde dasselbe Ereignis an zwei Stellen geändert, gewinnt die Version des Servers.
 
