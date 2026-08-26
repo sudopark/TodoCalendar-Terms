@@ -6,9 +6,9 @@
 
 ## Du behøver ikke en konto
 
-To-do Calendar er **offline-først**. Hver begivenhed, du opretter, bliver skrevet til din enhed først, så appen åbner med det samme, virker i et fly og aldrig blokerer dig på et netværkskald.
+To-do Calendar er **offline-først**. Hver begivenhed, du opretter, bliver skrevet til din enhed først, så appen åbner med det samme, virker i et fly, og du venter aldrig på netværket.
 
-Det er ikke en amputeret udgave – oprettelse af begivenheder, gentagelsesregler, påmindelser, begivenhedstyper, helligdage, widgets og eksterne kalendere virker alt sammen helt uden konto. Intet er gemt væk bag en tilmelding.
+Det er ikke en amputeret udgave – oprettelse af begivenheder, gentagelsesregler, påmindelser, begivenhedstyper, helligdage, widgets og eksterne kalendere virker alt sammen helt uden konto. Intet er låst, før du opretter en konto.
 
 ---
 
@@ -24,7 +24,7 @@ Log ind med **Google** eller **Apple**, og du får desuden:
 
 ## De begivenheder, du allerede har oprettet
 
-Har du brugt appen uden konto, efterlader et login ikke det arbejde. Alt, du har oprettet forinden, bliver **migreret til din konto automatisk** – først begivenhedstyper, derefter opgaver, aftaler, begivenhedsdetaljer og udførte opgaver – og appen fortæller dig, hvor mange begivenheder den flytter, og hvornår den er færdig.
+Har du brugt appen uden konto, bliver det arbejde ikke efterladt, når du logger ind. Alt, du har oprettet forinden, bliver **migreret til din konto automatisk** – først begivenhedstyper, derefter opgaver, aftaler, begivenhedsdetaljer og udførte opgaver – og appen fortæller dig, hvor mange begivenheder den flytter, og hvornår den er færdig.
 
 Du skal ikke gøre noget, og der bliver ikke slettet noget undervejs.
 
@@ -32,9 +32,9 @@ Du skal ikke gøre noget, og der bliver ikke slettet noget undervejs.
 
 ## Sådan holdes det synkroniseret
 
-Synkroniseringen kører af sig selv i baggrunden – efter ændringer, når appen kommer tilbage i forgrunden, og med jævne mellemrum, mens du kigger den anden vej. Widgets bliver opdateret, når den er færdig.
+Synkroniseringen kører af sig selv i baggrunden – efter ændringer, når appen kommer tilbage i forgrunden, og med jævne mellemrum ind imellem. Widgets bliver opdateret, når den er færdig.
 
-Ser noget forældet ud, kaster **Gennemtving synkronisering** under Begivenhedsindstillinger den lokale synkroniseringsposition væk og henter alt ned forfra.
+Ser noget forældet ud, rydder **Gennemtving synkronisering** under Begivenhedsindstillinger det, appen allerede har synkroniseret, og henter alt ned forfra.
 
 Er den samme begivenhed ændret to steder, vinder serverens udgave.
 

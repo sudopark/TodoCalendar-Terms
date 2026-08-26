@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/calendar.png" alt="Kalender" width="280">
 
-Månedsgitteret er appens forside. Stryg til venstre og højre for at skifte måned, og tryk på en dag for at åbne dagens begivenhedsliste nedenunder.
+Månedskalenderen er appens forside. Stryg til venstre og højre for at skifte måned, og tryk på en dag for at åbne dagens begivenhedsliste nedenunder.
 
-- Hver dag viser en farvet bjælke pr. begivenhed plus et **+N**, når der er flere, end der er plads til.
+- Hver dag viser en farvet bjælke pr. begivenhed plus et **+N**, når dagen har flere begivenheder, end rækken kan vise.
 - Dagens liste er sorteret sådan: opgaver uden tidspunkt → opgaver med tidspunkt → aftaler → helligdage → begivenheder fra eksterne kalendere.
 - Tryk på overskriften for at hoppe til en anden dato, eller brug **Flyt dato** til at vælge en direkte.
 
-Hvor tæt gitteret er – rækkehøjde, skriftstørrelse for begivenhedstekst, fed tekst, farvebjælker, navne på helligdage, månekalenderen – kan du selv skrue på. Se [Tilpasning](./05-personalization.md).
+Hvor meget hver dag viser, bestemmer du selv: hvor mange detaljer hver begivenhed får, tekststørrelsen, farverne, navnene på helligdage og månekalenderen. [Tilpasning](./05-personalization.md) gennemgår hver enkelt indstilling ved navn.
 
 ---
 
 ## Opgaver og aftaler
 
-Appen har to slags begivenheder, og forskellen er, om de kan *udføres*.
+Appen har to slags begivenheder, og forskellen er, om det er noget, du sætter flueben ved.
 
 | | Opgave | Aftale |
 |---|---|---|
@@ -34,15 +34,15 @@ Du kan konvertere begge veje når som helst – **Konverter til aftale** / **Kon
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/event-detail.png" alt="Begivenhedsdetaljer" width="280">
 
-Enhver begivenhed kan have et **Sted** (med kortforhåndsvisning og ét tryk til at åbne i din foretrukne kortapp), et **Link** med forhåndsvisning og et **Notat**.
+Enhver begivenhed kan have et **Sted**, et **Link** og et **Notat**. Stedet vises med kortforhåndsvisning og åbner med ét tryk i din foretrukne kortapp, og linket får sin egen forhåndsvisning.
 
 ---
 
 ## Tilføjelse af begivenheder
 
-Der er tre veje ind, alt efter hvor meget du gider skrive:
+Der er tre måder at tilføje en begivenhed på, alt efter hvor meget du gider skrive:
 
-- **Hurtig tilføjelse** – indtastningsfeltet nederst i dagens liste. Skriv et navn, tryk retur, og du har en opgave.
+- **Hurtig tilføjelse** – indtastningsfeltet nederst i dagens liste. Skriv et navn, tryk retur, så er opgaven oprettet.
 - **Fuld detalje** – tryk på **+** for at åbne editoren med tidspunkt, gentagelse, påmindelser, begivenhedstype, sted, link og notat.
 - **AI-hurtigindtastning** – beskriv den i almindeligt sprog, og lad appen bygge begivenheden. Se [AI-hurtigindtastning](./02-ai-input.md).
 
@@ -54,7 +54,7 @@ En opgave kræver kun et navn. En aftale kræver et navn og et tidspunkt.
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/repeat-options.png" alt="Gentagelsesmuligheder" width="240">
 
-I stedet for at bede dig sætte en regel sammen af rullemenuer læser appen den dato, du har valgt, og tilbyder færdige valgmuligheder til netop den. Vælg en torsdag, og listen siger direkte **Hver torsdag** og **Den tredje torsdag i hver måned**.
+I stedet for at bede dig sætte en gentagelsesregel sammen af rullemenuer læser appen den dato, du har valgt, og tilbyder færdige valgmuligheder til netop den. Vælger du en torsdag, tilbyder listen **Hver torsdag** og **Den tredje torsdag i hver måned**.
 
 **Almindelige intervaller**
 
@@ -68,22 +68,22 @@ I stedet for at bede dig sætte en regel sammen af rullemenuer læser appen den 
 
 - Hver hverdag – mandag til fredag. Tilbydes, når begivenheden starter på en hverdag
 - Alle dage i den sidste uge i hver måned
-- Den første / anden / tredje / fjerde / sidste *ugedag* i hver måned – til ting som "den sidste fredag i måneden"
+- Den første / anden / tredje / fjerde / sidste **torsdag** i hver måned – ugedagen udfyldes ud fra den dato, du valgte, så en begivenhed om fredagen giver **Den sidste fredag i hver måned** i stedet
 
 **Gentagelse slutter**
 
-Når du har valgt en gentagelse, vælger du, hvordan den stopper: **Aldrig**, **Den** – en bestemt dato – eller **Efter** et antal forekomster.
+Når du har valgt en gentagelse, vælger du, hvornår den stopper: **Aldrig** lader den løbe videre, **Den** sætter en bestemt slutdato, og **Efter** stopper den efter et antal **forekomster**.
 
 Gentagne opgaver opfører sig anderledes end gentagne aftaler:
 
-- En gentagelse, der ikke er udført, bliver ved med at stå i dagens kalender, også efter tidspunktet er passeret – den ruller ikke stille videre.
+- En gentagelse, der ikke er udført, bliver ved med at stå i dagens kalender, også efter tidspunktet er passeret – den går ikke videre til næste forekomst af sig selv.
 - Når du udfører den, ryger netop den forekomst over i listen over udførte opgaver, og den næste bliver oprettet.
 - **Spring denne opgave over** flytter dig til næste forekomst uden at markere den som udført.
 - Har gentagelsen en slutbetingelse, og er der ingen næste forekomst, slutter serien.
 
 Når du redigerer eller sletter en forekomst af en gentagen begivenhed, vælger du omfanget: **Kun denne gang**, **Fra dette tidspunkt** eller **Alle begivenheder**.
 
-For begivenheder i en forbundet ekstern kalender tilbydes månekalenderen ikke – den kalender har ingen måde at udtrykke den på.
+For begivenheder i en forbundet ekstern kalender tilbydes månekalenderen ikke – eksterne kalendere har ingen plads til at gemme en gentagelsesregel efter månekalenderen.
 
 ---
 
@@ -109,7 +109,7 @@ Sæt så mange påmindelser pr. begivenhed, du har brug for.
 - **Heldagsbegivenheder** – kl. 9 eller kl. 12 den dag, eller kl. 9 1 / 2 / 7 dage før.
 - **Brugerdefineret** – vælg lige præcis det tidspunkt, du vil.
 
-Standardpåmindelser for begivenheder med tidspunkt og for heldagsbegivenheder sættes hver for sig under Indstillinger, så nye begivenheder er klar på forhånd. Påmindelser kræver tilladelse til notifikationer, og appen guider dig til Indstillinger i iOS, hvis den er slået fra.
+Standardpåmindelser for begivenheder med tidspunkt og for heldagsbegivenheder sættes hver for sig under Indstillinger, så nye begivenheder allerede har deres påmindelser sat. Påmindelser kræver tilladelse til notifikationer, og appen guider dig til Indstillinger i iOS, hvis den er slået fra.
 
 ---
 
@@ -123,7 +123,7 @@ Opgaver og ikke-gentagende aftaler kan markeres som vigtigst. Gentagende aftaler
 
 ## Uafsluttede opgaver
 
-Opgaver, hvis tidspunkt er passeret, uden at de er udført, samles i afsnittet **Uafsluttede opgaver** øverst i kalenderen, så noget, du har misset, ikke forsvinder bagud i sidste uge.
+Opgaver, hvis tidspunkt er passeret, uden at de er udført, samles i afsnittet **Uafsluttede opgaver** øverst i kalenderen, så en overset opgave ikke bliver liggende begravet på en dato, der allerede er passeret.
 
 Opgaver uden tidspunkt og opgaver, der ligger frem i tiden, tælles ikke som uafsluttede – de er bare ikke forfaldne endnu. Vil du helst ikke se afsnittet, kan du skjule det helt under Indstillinger.
 

@@ -18,7 +18,7 @@ Alt på denne skærm vises med det samme i forhåndsvisningen, mens du ændrer d
 
 | Indstilling | Hvad den gør |
 |---|---|
-| Ugens startdag | Hvilken dag gitteret starter på |
+| Ugens startdag | Hvilken ugedag kalenderen starter på |
 | Fremhævede dage | Giv søndage, lørdage og helligdage farve – hver især slås til og fra |
 | Understregning på dage med begivenheder | Markerer de dage, hvor der er noget |
 | Detaljeniveau for begivenhedsvisning | Hvor høj hver række er – Minimal, Mellem eller Fuld. Højere rækker viser navne på begivenheder i stedet for prikker |
@@ -39,9 +39,9 @@ Følg systemet, eller lås appen til **Lys** eller **Mørk**, uanset hvad iOS g�
 
 ### Widget-tema
 
-Widgets bruger systemtemaet som standard. Skift til **Vælg brugerdefineret farve**, og vælg den baggrund, du vil have – appen regner selv ud, om teksten skal være lys eller mørk, ud fra hvor lys din farve er.
+Widgets står på **Brug systemtema** som standard. Skift til **Vælg brugerdefineret farve**, og vælg den baggrund, du vil have – appen regner selv ud, om teksten skal være lys eller mørk, ud fra hvor lys din farve er.
 
-### Fornemmelse
+### Fornemmelse og bevægelse
 
 - **Haptisk feedback** – små vibrationer, mens du bruger appen
 - **Minimer animationseffekter** – skærer ned på bevægelse, så appen føles roligere og hurtigere
