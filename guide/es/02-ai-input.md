@@ -39,11 +39,11 @@ Puedes añadir unas **Instrucciones adicionales (opcional)** para orientar el re
 
 ### Siri
 
-Di **"Añadir con IA en To-do Calendar"** — o "Añadir un evento de calendario en To-do Calendar" / "Añadir una tarea en To-do Calendar". Siri te pregunta qué quieres añadir, y la solicitud se ejecuta **en segundo plano sin abrir la app**. Siri responde "Entendido. Te avisaré cuando esté listo." y recibes una notificación cuando el resultado está preparado.
+Di **"Oye, To-do Calendar"** — también funcionan "Solicitud a To-do Calendar", "Preguntarle a To-do Calendar", "Enviar una solicitud a To-do Calendar" y "Añadir con IA en To-do Calendar". También puedes decir "Todo Calendar", sin el guion. Siri te pregunta qué quieres que haga, y la solicitud se ejecuta **en segundo plano sin abrir la app**. Siri responde "Entendido. Te avisaré cuando esté listo." y recibes una notificación cuando el resultado está preparado.
 
 ### Botón de Acción
 
-Asigna el botón de Acción al atajo **Añadir con IA**. Una pulsación, dices lo que quieres añadir y se envía — la app no tiene ni que abrirse.
+Asigna el botón de Acción al atajo **Enviar**. Una pulsación, dices lo que quieres y se envía — la app no tiene ni que abrirse.
 
 ### Widget y Centro de Control
 

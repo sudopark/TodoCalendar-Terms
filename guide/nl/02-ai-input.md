@@ -39,11 +39,11 @@ Je kunt **Extra instructies (optioneel)** meegeven om het resultaat te sturen, z
 
 ### Siri
 
-Zeg **"Met AI in To-do Calendar toevoegen"** — of "Een afspraak in To-do Calendar toevoegen" / "Een taak in To-do Calendar toevoegen". Siri vraagt wat je wilt toevoegen, en het verzoek draait **op de achtergrond zonder de app te openen**. Siri antwoordt "Begrepen. Ik laat het je weten zodra het klaar is." en je krijgt een melding zodra het resultaat er is.
+Zeg **"Hé To-do Calendar"** — "Verzoek aan To-do Calendar", "Iets aan To-do Calendar vragen", "Een verzoek naar To-do Calendar sturen" en "Met AI in To-do Calendar toevoegen" werken ook. Je kunt ook "Todo Calendar" zeggen, zonder het koppelteken. Siri vraagt wat ze moet doen, en het verzoek draait **op de achtergrond zonder de app te openen**. Siri antwoordt "Begrepen. Ik laat het je weten zodra het klaar is." en je krijgt een melding zodra het resultaat er is.
 
 ### Actieknop
 
-Koppel de actieknop aan de opdracht **Toevoegen met AI**. Eén keer drukken, het ding zeggen, klaar — de app hoeft nooit naar de voorgrond te komen.
+Koppel de actieknop aan de opdracht **Sturen**. Eén keer drukken, het ding zeggen, klaar — de app hoeft nooit naar de voorgrond te komen.
 
 ### Widget en bedieningspaneel
 

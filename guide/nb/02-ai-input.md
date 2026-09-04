@@ -39,11 +39,11 @@ Du kan legge ved **Ekstra instruksjoner (valgfritt)** for å styre resultatet, f
 
 ### Siri
 
-Si **«Legg til med AI i To-do Calendar»** – eller «Legg til en avtale i To-do Calendar» / «Legg til en oppgave i To-do Calendar». Siri spør hva du vil legge til, og forespørselen kjører **i bakgrunnen uten at appen åpnes**. Siri svarer «Skjønner. Jeg varsler deg når det er ferdig», og du får et varsel når resultatet er klart.
+Si **«Hei To-do Calendar»** – «Forespørsel til To-do Calendar», «Spør To-do Calendar», «Send en forespørsel til To-do Calendar» og «Legg til med AI i To-do Calendar» fungerer også. Du kan også si «Todo Calendar», uten bindestrek. Siri spør hva den skal gjøre, og forespørselen kjører **i bakgrunnen uten at appen åpnes**. Siri svarer «Skjønner. Jeg varsler deg når det er ferdig», og du får et varsel når resultatet er klart.
 
 ### Handlingsknappen
 
-Tilordne Handlingsknappen til snarveien **Legg til med AI**. Ett trykk, si tingen, ferdig – appen trenger aldri å komme fram i forgrunnen.
+Tilordne Handlingsknappen til snarveien **Send**. Ett trykk, si tingen, ferdig – appen trenger aldri å komme fram i forgrunnen.
 
 ### Widget og Kontrollsenter
 

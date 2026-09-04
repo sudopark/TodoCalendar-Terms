@@ -39,11 +39,11 @@ K výsledku môžete pripojiť **Ďalšie pokyny (voliteľné)**, napríklad „
 
 ### Siri
 
-Povedzte **„Pridať pomocou AI v To-do Calendar“** — alebo „Pridať termín v To-do Calendar“ / „Pridať úlohu v To-do Calendar“. Siri sa opýta, čo chcete pridať, a požiadavka beží **na pozadí bez otvorenia aplikácie**. Siri odpovie „Rozumiem. Dám vám vedieť, keď to bude hotové.“ a keď je výsledok pripravený, príde vám upozornenie.
+Povedzte **„Hej, To-do Calendar“** — fungujú aj „Požiadavka v To-do Calendar“, „Opýtať sa aplikácie To-do Calendar“, „Poslať požiadavku aplikácii To-do Calendar“ a „Pridať pomocou AI v To-do Calendar“. Môžete povedať aj „Todo Calendar“ bez spojovníka. Siri sa opýta, čo má urobiť, a požiadavka beží **na pozadí bez otvorenia aplikácie**. Siri odpovie „Rozumiem. Dám vám vedieť, keď to bude hotové.“ a keď je výsledok pripravený, príde vám upozornenie.
 
 ### Tlačidlo Akcia
 
-Priraďte tlačidlu Akcia skratku **Pridať pomocou AI**. Jedno stlačenie, poviete, čo chcete pridať, a odošle sa — aplikácia sa vôbec nemusí otvoriť.
+Priraďte tlačidlu Akcia skratku **Poslať**. Jedno stlačenie, poviete, čo chcete, a odošle sa — aplikácia sa vôbec nemusí otvoriť.
 
 ### Widget a Ovládacie centrum
 
