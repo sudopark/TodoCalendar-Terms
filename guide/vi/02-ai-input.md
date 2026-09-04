@@ -39,11 +39,11 @@ Bạn có thể kèm theo **Chỉ dẫn thêm (tùy chọn)** để hướng k�
 
 ### Siri
 
-Hãy nói **"Thêm bằng AI trong To-do Calendar"** — hoặc "Thêm lịch trình trong To-do Calendar" / "Thêm việc cần làm trong To-do Calendar". Siri hỏi bạn muốn thêm gì, và yêu cầu chạy **ở chế độ nền mà không cần mở ứng dụng**. Siri đáp "Đã nhận. Tôi sẽ báo cho bạn khi xong", rồi bạn nhận được thông báo khi có kết quả.
+Hãy nói **"Này To-do Calendar"** — "Yêu cầu đến To-do Calendar", "Hỏi To-do Calendar", "Gửi yêu cầu đến To-do Calendar" và "Thêm bằng AI trong To-do Calendar" cũng được. Bạn cũng có thể nói "Todo Calendar", không có dấu gạch nối. Siri hỏi cần làm gì, và yêu cầu chạy **ở chế độ nền mà không cần mở ứng dụng**. Siri đáp "Đã nhận. Tôi sẽ báo cho bạn khi xong", rồi bạn nhận được thông báo khi có kết quả.
 
 ### Nút Hành động
 
-Gán nút Hành động cho phím tắt **Thêm bằng AI**. Bấm một lần, nói ra thứ cần thêm, thế là gửi đi — ứng dụng không cần mở ra.
+Gán nút Hành động cho phím tắt **Gửi**. Bấm một lần, nói ra điều bạn muốn, thế là gửi đi — ứng dụng không cần mở ra.
 
 ### Tiện ích và Trung tâm điều khiển
 

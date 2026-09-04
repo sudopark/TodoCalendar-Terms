@@ -39,11 +39,11 @@ Du kan vedhæfte **Ekstra instruktioner (valgfrit)** for at styre resultatet, f.
 
 ### Siri
 
-Sig **"Tilføj med AI i To-do Calendar"** – eller "Tilføj en aftale i To-do Calendar" / "Tilføj en opgave i To-do Calendar". Siri spørger, hvad du gerne vil tilføje, og anmodningen kører **i baggrunden uden at åbne appen**. Siri svarer "Modtaget. Jeg giver dig besked, når det er klar", og du får en notifikation, når resultatet er klart.
+Sig **"Hej To-do Calendar"** – "Anmodning til To-do Calendar", "Spørg To-do Calendar", "Send en anmodning til To-do Calendar" og "Tilføj med AI i To-do Calendar" virker også. Du kan også sige "Todo Calendar" uden bindestreg. Siri spørger, hvad den skal gøre, og anmodningen kører **i baggrunden uden at åbne appen**. Siri svarer "Modtaget. Jeg giver dig besked, når det er klar", og du får en notifikation, når resultatet er klart.
 
 ### Handlingsknappen
 
-Tildel Handlingsknappen genvejen **Tilføj med AI**. Ét tryk, sig tingen, færdig – appen behøver aldrig komme i forgrunden.
+Tildel Handlingsknappen genvejen **Send**. Ét tryk, sig tingen, færdig – appen behøver aldrig komme i forgrunden.
 
 ### Widget og Kontrolcenter
 

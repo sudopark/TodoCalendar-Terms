@@ -39,11 +39,11 @@ Du kan lägga till **Ytterligare instruktioner (valfritt)** för att styra resul
 
 ### Siri
 
-Säg **"Lägg till med AI i To-do Calendar"** – eller "Lägg till ett möte i To-do Calendar" / "Lägg till en uppgift i To-do Calendar". Siri frågar vad du vill lägga till, och begäran körs **i bakgrunden utan att appen öppnas**. Siri svarar "Uppfattat. Jag meddelar dig när det är klart." och du får en avisering när resultatet är färdigt.
+Säg **"Hej To-do Calendar"** – "Förfrågan till To-do Calendar", "Fråga To-do Calendar", "Skicka en förfrågan till To-do Calendar" och "Lägg till med AI i To-do Calendar" fungerar också. Du kan även säga "Todo Calendar", utan bindestreck. Siri frågar vad den ska göra, och begäran körs **i bakgrunden utan att appen öppnas**. Siri svarar "Uppfattat. Jag meddelar dig när det är klart." och du får en avisering när resultatet är färdigt.
 
 ### Åtgärdsknappen
 
-Koppla Åtgärdsknappen till genvägen **Lägg till med AI**. Ett tryck, säg saken, klart – appen behöver aldrig komma fram i förgrunden.
+Koppla Åtgärdsknappen till genvägen **Skicka**. Ett tryck, säg saken, klart – appen behöver aldrig komma fram i förgrunden.
 
 ### Widget och Kontrollcenter
 

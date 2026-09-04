@@ -39,11 +39,11 @@ Podeu afegir-hi unes **Instruccions addicionals (opcional)** per orientar el res
 
 ### Siri
 
-Digueu **«Afegeix amb IA a To-do Calendar»**, o bé «Afegeix una cita a To-do Calendar» / «Afegeix una tasca a To-do Calendar». La Siri us pregunta què hi voleu afegir, i la petició s'executa **en segon pla sense obrir l'aplicació**. La Siri respon «Entesos. Us avisaré quan estigui llest.» i rebeu una notificació quan el resultat és a punt.
+Digueu **«Ei, To-do Calendar»** — també funcionen «Petició a To-do Calendar», «Pregunta-ho a To-do Calendar», «Envia una petició a To-do Calendar» i «Afegeix amb IA a To-do Calendar». També podeu dir «Todo Calendar», sense el guionet. La Siri us pregunta què voleu que faci, i la petició s'executa **en segon pla sense obrir l'aplicació**. La Siri respon «Entesos. Us avisaré quan estigui llest.» i rebeu una notificació quan el resultat és a punt.
 
 ### Botó d'Acció
 
-Assigneu al botó d'Acció la drecera **Afegeix amb IA**. Una premuda, ho dieu i llestos: l'aplicació no ha de passar mai a primer pla.
+Assigneu al botó d'Acció la drecera **Envia**. Una premuda, ho dieu i llestos: l'aplicació no ha de passar mai a primer pla.
 
 ### Widget i Centre de Control
 

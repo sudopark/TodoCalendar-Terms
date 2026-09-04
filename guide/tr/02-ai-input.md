@@ -39,11 +39,11 @@ Sonucu yönlendirmek için "bunları görev olarak ekle" gibi bir yönerge de ek
 
 ### Siri
 
-**"To-do Calendar uygulamasında AI ile ekle"** deyin — ya da "To-do Calendar uygulamasında randevu ekle" / "To-do Calendar uygulamasında görev ekle". Siri ne eklemek istediğinizi sorar ve istek **uygulama açılmadan arka planda** çalışır. Siri "Anlaşıldı. Tamamlandığında size bildireceğim." diye yanıt verir, sonuç hazır olduğunda da bir bildirim alırsınız.
+**"Hey To-do Calendar"** deyin — "To-do Calendar uygulamasına istek", "To-do Calendar uygulamasına sor", "To-do Calendar uygulamasına istek gönder" ve "To-do Calendar uygulamasında AI ile ekle" de çalışır. Kısa çizgi olmadan "Todo Calendar" da diyebilirsiniz. Siri ne yapması gerektiğini sorar ve istek **uygulama açılmadan arka planda** çalışır. Siri "Anlaşıldı. Tamamlandığında size bildireceğim." diye yanıt verir, sonuç hazır olduğunda da bir bildirim alırsınız.
 
 ### Aksiyon Düğmesi
 
-Aksiyon Düğmesi'ne **AI ile Ekle** kısayolunu atayın. Tek basış, söyleyin, bitti — uygulamanın öne gelmesi hiç gerekmez.
+Aksiyon Düğmesi'ne **Gönder** kısayolunu atayın. Tek basış, söyleyin, bitti — uygulamanın öne gelmesi hiç gerekmez.
 
 ### Widget ve Kontrol Merkezi
 

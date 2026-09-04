@@ -39,11 +39,11 @@ Možete priložiti i uputu koja usmjerava rezultat, npr. „dodaj ovo kao zadatk
 
 ### Siri
 
-Recite **„Dodaj pomoću AI u To-do Calendar”** — ili „Dodaj termin u To-do Calendar” / „Dodaj zadatak u To-do Calendar”. Siri pita što biste željeli dodati, a zahtjev se izvršava **u pozadini, bez otvaranja aplikacije**. Siri odgovori „U redu. Obavijestit ću vas kad bude gotovo.”, a kad rezultat bude spreman, dobijete obavijest.
+Recite **„Hej To-do Calendar”** — rade i „Zahtjev u To-do Calendar”, „Pitaj aplikaciju To-do Calendar”, „Pošalji zahtjev aplikaciji To-do Calendar” i „Dodaj pomoću AI u To-do Calendar”. Možete reći i „Todo Calendar”, bez crtice. Siri pita što treba učiniti, a zahtjev se izvršava **u pozadini, bez otvaranja aplikacije**. Siri odgovori „U redu. Obavijestit ću vas kad bude gotovo.”, a kad rezultat bude spreman, dobijete obavijest.
 
 ### Gumb Radnja
 
-Dodijelite gumbu Radnja prečac **Dodaj pomoću AI**. Jedan pritisak, izgovorite stvar, gotovo — aplikacija se nikad ne mora pojaviti u prvom planu.
+Dodijelite gumbu Radnja prečac **Pošalji**. Jedan pritisak, izgovorite stvar, gotovo — aplikacija se nikad ne mora pojaviti u prvom planu.
 
 ### Widget i Kontrolni centar
 

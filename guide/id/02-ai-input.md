@@ -39,11 +39,11 @@ Anda juga bisa melampirkan **Instruksi tambahan (opsional)** untuk mengarahkan h
 
 ### Siri
 
-Ucapkan **"Tambah dengan AI di To-do Calendar"** — atau "Tambah jadwal di To-do Calendar" / "Tambah tugas di To-do Calendar". Siri menanyakan apa yang ingin Anda tambahkan, lalu permintaannya berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan memberi tahu Anda saat selesai," dan Anda menerima notifikasi begitu hasilnya siap.
+Ucapkan **"Hai To-do Calendar"** — "Permintaan ke To-do Calendar", "Tanya To-do Calendar", "Kirim permintaan ke To-do Calendar", dan "Tambah dengan AI di To-do Calendar" juga bisa. Anda juga bisa menyebut "Todo Calendar", tanpa tanda hubung. Siri menanyakan apa yang harus dilakukan, lalu permintaannya berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan memberi tahu Anda saat selesai," dan Anda menerima notifikasi begitu hasilnya siap.
 
 ### Tombol Aksi
 
-Petakan Tombol Aksi ke pintasan **Tambah dengan AI**. Sekali tekan, ucapkan hal yang dimaksud, selesai — aplikasi tidak perlu muncul ke depan sama sekali.
+Petakan Tombol Aksi ke pintasan **Kirim**. Sekali tekan, ucapkan hal yang dimaksud, selesai — aplikasi tidak perlu muncul ke depan sama sekali.
 
 ### Widget dan Pusat Kontrol
 

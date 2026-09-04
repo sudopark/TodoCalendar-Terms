@@ -39,11 +39,11 @@ Vous pouvez joindre des **Instructions supplémentaires (facultatif)** pour orie
 
 ### Siri
 
-Dites **« Ajouter avec l'IA dans To-do Calendar »** — ou « Ajouter un rendez-vous dans To-do Calendar » / « Ajouter une tâche dans To-do Calendar ». Siri vous demande ce que vous voulez ajouter, et la demande part **en arrière-plan sans ouvrir l'application**. Siri répond « Compris. Je vous préviendrai une fois terminé. », et vous recevez une notification quand le résultat est prêt.
+Dites **« Hé To-do Calendar »** — « Demande à To-do Calendar », « Demander à To-do Calendar », « Envoyer une demande à To-do Calendar » et « Ajouter avec l'IA dans To-do Calendar » fonctionnent aussi. Vous pouvez aussi dire « Todo Calendar », sans le trait d'union. Siri vous demande ce qu'elle doit faire, et la demande part **en arrière-plan sans ouvrir l'application**. Siri répond « Compris. Je vous préviendrai une fois terminé. », et vous recevez une notification quand le résultat est prêt.
 
 ### Bouton Action
 
-Associez le bouton Action au raccourci **Ajouter avec l'IA**. Une pression, vous dites ce que vous voulez ajouter, et c'est envoyé — l'application n'a jamais besoin de s'ouvrir.
+Associez le bouton Action au raccourci **Envoyer**. Une pression, vous dites ce que vous voulez, et c'est envoyé — l'application n'a jamais besoin de s'ouvrir.
 
 ### Widget et centre de contrôle
 

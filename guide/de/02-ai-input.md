@@ -39,11 +39,11 @@ Sie können **Zusätzliche Anweisungen (optional)** anhängen, um das Ergebnis z
 
 ### Siri
 
-Sagen Sie **„Mit KI in To-do Calendar hinzufügen“** — oder „Einen Termin in To-do Calendar hinzufügen“ / „Eine Aufgabe in To-do Calendar hinzufügen“. Siri fragt, was Sie hinzufügen möchten, und die Anfrage läuft **im Hintergrund, ohne die App zu öffnen**. Siri antwortet „Alles klar. Ich benachrichtige Sie, wenn es fertig ist.“, und Sie bekommen eine Mitteilung, sobald das Ergebnis bereit ist.
+Sagen Sie **„Hey To-do Calendar“** — auch „Anfrage an To-do Calendar“, „To-do Calendar etwas fragen“, „Eine Anfrage an To-do Calendar senden“ und „Mit KI in To-do Calendar hinzufügen“ funktionieren. Sie können auch „Todo Calendar“ ohne Bindestrich sagen. Siri fragt, was sie tun soll, und die Anfrage läuft **im Hintergrund, ohne die App zu öffnen**. Siri antwortet „Alles klar. Ich benachrichtige Sie, wenn es fertig ist.“, und Sie bekommen eine Mitteilung, sobald das Ergebnis bereit ist.
 
 ### Action-Taste
 
-Belegen Sie die Action-Taste mit dem Kurzbefehl **Mit KI hinzufügen**. Einmal drücken, sagen, worum es geht, fertig — die App muss nie in den Vordergrund kommen.
+Belegen Sie die Action-Taste mit dem Kurzbefehl **Senden**. Einmal drücken, sagen, worum es geht, fertig — die App muss nie in den Vordergrund kommen.
 
 ### Widget und Kontrollzentrum
 

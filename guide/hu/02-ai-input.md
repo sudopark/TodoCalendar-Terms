@@ -39,11 +39,11 @@ A **További utasítások (opcionális)** mezőben utasítást is csatolhat az e
 
 ### Siri
 
-Mondja azt: **„Hozzáadás AI-val itt: To-do Calendar”** — vagy „Program hozzáadása itt: To-do Calendar” / „Feladat hozzáadása itt: To-do Calendar”. A Siri megkérdezi, mit szeretne hozzáadni, és a kérés **az alkalmazás megnyitása nélkül, a háttérben** fut le. A Siri azt válaszolja: „Rendben. Szólok, ha elkészült.”, Ön pedig értesítést kap, amint az eredmény kész van.
+Mondja azt: **„Hé, To-do Calendar”** — a „Kérés itt: To-do Calendar”, a „Kérdezze meg itt: To-do Calendar”, a „Kérés küldése itt: To-do Calendar” és a „Hozzáadás AI-val itt: To-do Calendar” is működik. Mondhatja kötőjel nélkül is: „Todo Calendar”. A Siri megkérdezi, mit tegyen, és a kérés **az alkalmazás megnyitása nélkül, a háttérben** fut le. A Siri azt válaszolja: „Rendben. Szólok, ha elkészült.”, Ön pedig értesítést kap, amint az eredmény kész van.
 
 ### Action gomb
 
-Rendelje az Action gombhoz a **Hozzáadás AI-val** parancsot. Egy nyomás, mondja el, mit szeretne hozzáadni, és már megy is — az alkalmazásnak meg sem kell nyílnia.
+Rendelje az Action gombhoz a **Küldés** parancsot. Egy nyomás, mondja el, mit szeretne, és már megy is — az alkalmazásnak meg sem kell nyílnia.
 
 ### Widget és Vezérlőközpont
 

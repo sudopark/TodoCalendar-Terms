@@ -39,11 +39,11 @@ Voit ohjata lopputulosta kohdassa **Lisäohjeet (valinnainen)**, esimerkiksi ”
 
 ### Siri
 
-Sano **”Lisää AI:lla sovelluksessa To-do Calendar”** — tai ”Lisää aikataulutapahtuma sovelluksessa To-do Calendar” / ”Lisää tehtävä sovelluksessa To-do Calendar”. Siri kysyy, mitä haluat lisätä, ja pyyntö suoritetaan **taustalla avaamatta sovellusta**. Siri vastaa ”Selvä. Ilmoitan sinulle, kun se on valmis”, ja saat ilmoituksen, kun tulos on valmis.
+Sano **”Hei To-do Calendar”** — myös ”Pyyntö sovellukseen To-do Calendar”, ”Kysy sovellukselta To-do Calendar”, ”Lähetä pyyntö sovellukselle To-do Calendar” ja ”Lisää AI:lla sovelluksessa To-do Calendar” toimivat. Voit sanoa myös ”Todo Calendar” ilman yhdysmerkkiä. Siri kysyy, mitä sen pitää tehdä, ja pyyntö suoritetaan **taustalla avaamatta sovellusta**. Siri vastaa ”Selvä. Ilmoitan sinulle, kun se on valmis”, ja saat ilmoituksen, kun tulos on valmis.
 
 ### Toimintopainike
 
-Määritä toimintopainikkeeseen **Lisää AI:lla** -oikopolku. Yksi painallus, sanot asian, valmista — sovelluksen ei tarvitse tulla lainkaan etualalle.
+Määritä toimintopainikkeeseen **Lähetä**-oikopolku. Yksi painallus, sanot asian, valmista — sovelluksen ei tarvitse tulla lainkaan etualalle.
 
 ### Widget ja Ohjauskeskus
 

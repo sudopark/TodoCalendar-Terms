@@ -39,11 +39,11 @@ Możesz dołączyć **Dodatkowe polecenia (opcjonalnie)**, żeby pokierować wyn
 
 ### Siri
 
-Powiedz **„Dodaj z AI w To-do Calendar”** — albo „Dodaj termin w To-do Calendar” czy „Dodaj zadanie w To-do Calendar”. Siri zapyta, co chcesz dodać, a polecenie pójdzie **w tle, bez otwierania aplikacji**. Siri odpowie „Rozumiem. Dam Ci znać, gdy będzie gotowe”, a gdy wynik będzie gotowy, dostaniesz powiadomienie.
+Powiedz **„Hej, To-do Calendar”** — działają też „Prośba do To-do Calendar”, „Zapytaj aplikację To-do Calendar”, „Wyślij prośbę do aplikacji To-do Calendar” i „Dodaj z AI w To-do Calendar”. Możesz powiedzieć również „Todo Calendar”, bez łącznika. Siri zapyta, co ma zrobić, a polecenie pójdzie **w tle, bez otwierania aplikacji**. Siri odpowie „Rozumiem. Dam Ci znać, gdy będzie gotowe”, a gdy wynik będzie gotowy, dostaniesz powiadomienie.
 
 ### Przycisk Akcji
 
-Przypisz do przycisku Akcji skrót **Dodaj z AI**. Jedno naciśnięcie, wypowiedziane zdanie i gotowe — aplikacja w ogóle się nie otwiera.
+Przypisz do przycisku Akcji skrót **Wyślij**. Jedno naciśnięcie, wypowiedziane zdanie i gotowe — aplikacja w ogóle się nie otwiera.
 
 ### Widżet i Centrum sterowania
 
