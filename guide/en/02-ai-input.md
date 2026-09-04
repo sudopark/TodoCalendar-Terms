@@ -39,11 +39,11 @@ You can attach an instruction to steer the result, like "add these as to-dos". I
 
 ### Siri
 
-Say **"Add with AI in To-do Calendar"** — or "Add a schedule in To-do Calendar" / "Add a to-do in To-do Calendar". Siri asks what you'd like to add, and the request runs **in the background without opening the app**. Siri replies with "Got it. I'll notify you when it's done", and you get a notification when the result is ready.
+Say **"Hey To-do Calendar"** — "Request in To-do Calendar", "Ask To-do Calendar", "Send a request to To-do Calendar" and "Add with AI in To-do Calendar" work too. You can also say "Todo Calendar", without the hyphen. Siri asks what to do, and the request runs **in the background without opening the app**. Siri replies with "Got it. I'll notify you when it's done", and you get a notification when the result is ready.
 
 ### Action button
 
-Map the Action button to the **Add with AI** shortcut. One press, say what you want to add, and it's sent — the app never has to open.
+Map the Action button to the **Send** shortcut. One press, say what you want, and it's sent — the app never has to open.
 
 ### Widget and Control Center
 

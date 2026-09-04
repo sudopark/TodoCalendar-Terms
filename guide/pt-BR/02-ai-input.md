@@ -39,11 +39,11 @@ Dá para anexar uma instrução para direcionar o resultado, como "adicione isso
 
 ### Siri
 
-Diga **"Adicionar com IA no To-do Calendar"** — ou "Adicionar um compromisso no To-do Calendar" / "Adicionar uma tarefa no To-do Calendar". A Siri pergunta o que você quer adicionar e a solicitação roda **em segundo plano, sem abrir o app**. A Siri responde "Entendido. Vou te avisar quando terminar." e você recebe uma notificação quando o resultado estiver pronto.
+Diga **"Ei, To-do Calendar"** — "Solicitação ao To-do Calendar", "Perguntar ao To-do Calendar", "Enviar uma solicitação ao To-do Calendar" e "Adicionar com IA no To-do Calendar" também funcionam. Você também pode dizer "Todo Calendar", sem o hífen. A Siri pergunta o que ela deve fazer e a solicitação roda **em segundo plano, sem abrir o app**. A Siri responde "Entendido. Vou te avisar quando terminar." e você recebe uma notificação quando o resultado estiver pronto.
 
 ### Botão de Ação
 
-Associe o botão de Ação ao atalho **Adicionar com IA**. Um toque, você diz o que quer adicionar e está enviado — o app nem precisa abrir.
+Associe o botão de Ação ao atalho **Enviar**. Um toque, você diz o que quer e está enviado — o app nem precisa abrir.
 
 ### Widget e Central de Controle
 

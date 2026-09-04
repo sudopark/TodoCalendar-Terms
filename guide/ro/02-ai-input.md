@@ -39,11 +39,11 @@ Puteți atașa **Instrucțiuni suplimentare (opțional)** ca să orientați rezu
 
 ### Siri
 
-Spuneți **„Adaugă cu AI în To-do Calendar”** — sau „Adaugă o programare în To-do Calendar” / „Adaugă o sarcină în To-do Calendar”. Siri vă întreabă ce doriți să adăugați, iar solicitarea rulează **în fundal, fără să deschidă aplicația**. Siri răspunde „Am înțeles. Vă anunț când e gata.”, iar când rezultatul e pregătit primiți o notificare.
+Spuneți **„Hei, To-do Calendar”** — funcționează și „Cerere către To-do Calendar”, „Întreabă To-do Calendar”, „Trimite o cerere către To-do Calendar” și „Adaugă cu AI în To-do Calendar”. Puteți spune și „Todo Calendar”, fără cratimă. Siri vă întreabă ce să facă, iar solicitarea rulează **în fundal, fără să deschidă aplicația**. Siri răspunde „Am înțeles. Vă anunț când e gata.”, iar când rezultatul e pregătit primiți o notificare.
 
 ### Butonul de Acțiune
 
-Alocați butonului de Acțiune scurtătura **Adaugă cu AI**. O apăsare, spuneți ce aveți de spus, gata — aplicația nu trebuie să iasă niciodată în prim-plan.
+Alocați butonului de Acțiune scurtătura **Trimite**. O apăsare, spuneți ce aveți de spus, gata — aplicația nu trebuie să iasă niciodată în prim-plan.
 
 ### Widget și Centrul de control
 

@@ -39,11 +39,11 @@ Anda boleh melampirkan **Arahan tambahan (pilihan)** untuk mengarahkan hasilnya,
 
 ### Siri
 
-Sebut **"Tambah dengan AI dalam To-do Calendar"** — atau "Tambah jadual dalam To-do Calendar" / "Tambah tugasan dalam To-do Calendar". Siri bertanya apa yang anda mahu tambah, dan permintaan itu berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan maklumkan apabila selesai." dan anda menerima pemberitahuan apabila hasilnya sedia.
+Sebut **"Hai To-do Calendar"** — "Permintaan kepada To-do Calendar", "Tanya To-do Calendar", "Hantar permintaan kepada To-do Calendar" dan "Tambah dengan AI dalam To-do Calendar" juga boleh. Anda juga boleh sebut "Todo Calendar", tanpa sengkang. Siri bertanya apa yang perlu dilakukan, dan permintaan itu berjalan **di latar belakang tanpa membuka aplikasi**. Siri menjawab "Baik. Saya akan maklumkan apabila selesai." dan anda menerima pemberitahuan apabila hasilnya sedia.
 
 ### Butang Tindakan
 
-Petakan Butang Tindakan kepada pintasan **Tambah dengan AI**. Sekali tekan, sebut apa yang anda mahu tambah, dan ia dihantar — aplikasi tidak perlu dibuka langsung.
+Petakan Butang Tindakan kepada pintasan **Hantar**. Sekali tekan, sebut apa yang anda mahu, dan ia dihantar — aplikasi tidak perlu dibuka langsung.
 
 ### Widget dan Pusat Kawalan
 
