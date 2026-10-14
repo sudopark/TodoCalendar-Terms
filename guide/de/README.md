@@ -19,19 +19,19 @@ Die App funktioniert vollständig offline und ohne Konto. Melden Sie sich nur an
 ## Leitfaden
 
 ### [1. Grundlagen](./01-basics.md)
-Der Kalender, Aufgaben und Termine, Ereignisse hinzufügen, wiederkehrende Ereignisse, Ereignistypen und Farben, Benachrichtigungen, das wichtigste Ereignis, unerledigte und erledigte Aufgaben sowie das Teilen Ihres Kalenders.
+Der Kalender und seine zweispaltige Ansicht auf breiten Bildschirmen, Aufgaben und Termine, Ereignisse hinzufügen, wiederkehrende Ereignisse, Ereignistypen und Farben, Benachrichtigungen, das wichtigste Ereignis, unerledigte und erledigte Aufgaben sowie das Teilen Ihres Kalenders.
 
 ### [2. KI-Schnelleingabe](./02-ai-input.md)
 Ereignisse hinzufügen und ändern, indem Sie sie beschreiben. Sprache, Tastatur, Bild, Siri, Action-Taste, Widgets, Kontrollzentrum und Teilen-Menü.
 
 ### [3. Widgets und Sperrbildschirm](./03-widgets.md)
-Der komplette Widget-Satz und seine Größen, was jedes Widget zeigt, Aufgaben direkt im Widget erledigen, der Countdown auf dem Sperrbildschirm und das Kontrollzentrum.
+Der komplette Widget-Satz und seine Größen, was jedes Widget zeigt, das Countdown-Widget, Widgets mit eigenen Stilen anpassen, Aufgaben direkt im Widget erledigen, der Countdown auf dem Sperrbildschirm und das Kontrollzentrum.
 
 ### [4. Externe Kalender](./04-external-calendars.md)
 Google Kalender und Apple Kalender verbinden, was jede Verbindung unterstützt und wie Sie steuern, was angezeigt wird.
 
 ### [5. Personalisierung und Einstellungen](./05-personalization.md)
-Aussehen des Kalenders, Farbschema, Feiertage, Zeitzone, Standardwerte für Ereignisse und alles Weitere in den Einstellungen.
+Aussehen des Kalenders, Farbschemas einschließlich eigener, Feiertage, Zeitzone, Standardwerte für Ereignisse und alles Weitere in den Einstellungen.
 
 ### [6. Konto und Synchronisierung](./06-account-sync.md)
 Offline-First-Verhalten, was eine Anmeldung zusätzlich bringt, die vor der Anmeldung erstellten Daten übertragen und das Konto verwalten.

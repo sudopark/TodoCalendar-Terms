@@ -35,11 +35,29 @@ Kaikki tällä näytöllä näkyy esikatselussa heti, kun muutat sitä, joten n�
 
 ### Väriteema
 
-Noudata järjestelmää tai kiinnitä sovellus **Vaalea**- tai **Tumma**-teemaan riippumatta siitä, mitä iOS tekee.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/color-theme-select.png" alt="Väriteema" width="280">
 
-### Widgetin teema
+Noudata järjestelmää, kiinnitä sovellus **Vaalea**- tai **Tumma**-teemaan riippumatta siitä, mitä iOS tekee, tai valitse jokin valmiista väriteemoista. Napauta teemaa ottaaksesi sen käyttöön; yläreunan esikatselu näyttää, miltä kalenteri näyttää.
 
-Widgetit käyttävät oletuksena asetusta **Käytä järjestelmän teemaa**. Valinnalla **Valitse oma väri** asetat haluamasi taustan — sovellus päättelee värin kirkkaudesta, pitäisikö tekstin olla vaalea vai tumma.
+Jos haluat tehdä oman, napauta **Uusi teema** kohdassa **Omat teemat**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/color-theme-edit.png" alt="Teeman muokkaus" width="280">
+
+| Asetus | Mitä se tekee |
+|---|---|
+| Nimi | Teeman nimi kohdassa **Omat teemat** |
+| Tausta | Kalenterin ja näytön tausta |
+| Korostus | Painikkeet ja korostukset |
+| Korttien tyyli | **Täytetty**, **Ryhmitelty** tai **Ääriviivat** — miten tapahtumakortit erottuvat taustasta |
+| Yksityiskohtaiset värit | Teksti, kortit, tämä päivä, valittu päivä, vapaapäivät ja viikonloput sekä AI-painike. Jos jätät ne asetukselle **Automaattinen**, ne johdetaan taustasta ja korostuksesta |
+
+Jos haluat myöhemmin muuttaa tai poistaa teeman, paina sitä pitkään kohdassa **Omat teemat** ja valitse **Muokkaa**.
+
+### Widget-galleria
+
+Widgettien asetukset ovat tämän näkymän kohdassa **Widget-galleria**. Ylimpänä oleva **Widgetin teema** määrää kaikkien widgettiesi taustan: oletuksena ne käyttävät järjestelmän teemaa, ja kun kytket pois valinnan **Käytä järjestelmän teemaa**, voit valita minkä tahansa taustavärin — sovellus päättelee värin kirkkaudesta, pitäisikö tekstin olla vaalea vai tumma.
+
+Sen alla voit mukauttaa jokaista widgetiä erikseen. Katso [Widgettien mukauttaminen](./03-widgets.md#widgettien-mukauttaminen).
 
 ### Tuntuma
 

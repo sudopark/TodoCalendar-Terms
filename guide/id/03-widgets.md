@@ -42,6 +42,18 @@ Satu acara yang Anda sematkan sebagai yang paling penting, selalu terlihat. Liha
 
 *Inline Layar Terkunci · Kecil · Sedang.*
 
+### H-Day
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-dday.png" alt="Widget H-Day" width="200">
+
+Hitung mundur menuju satu acara pilihan Anda — namanya, berapa hari lagi, dan tanggalnya.
+
+- **Memilih acaranya** — tekan lama widget, pilih Edit Widget, lalu ketuk **Acara**. Jadwal dan hari libur di sekitar hari ini sudah didaftarkan untuk Anda.
+- **Menyematkan acara di urutan teratas daftar itu** — pilih **Tambahkan ke widget H-Day** dari menu lainnya pada sebuah jadwal, atau tekan lama jadwal itu di daftar acara hari tersebut. Acara yang disematkan muncul paling atas saat Anda mengedit widget berikutnya.
+- **Jadwal berulang** — setelah memilihnya, tentukan pengulangan mana yang dihitung mundur lewat **Putaran pengulangan**.
+
+*Lingkaran · persegi panjang · inline Layar Terkunci · Kecil · Sedang.*
+
 ### Kalender dan mingguan
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-month.png" alt="Widget kalender" width="360">
@@ -86,7 +98,7 @@ Sekali ketuk langsung menuju [Input cepat AI](./02-ai-input.md).
 
 ### Widget Layar Terkunci
 
-Beberapa widget punya bentuk Layar Terkunci: **Acara berikutnya** (inline dan persegi panjang), **Acara yang tersisa hari ini** (persegi panjang), **Acara Terpenting** (inline), dan **Tambah dengan AI** (lingkaran).
+Beberapa widget punya bentuk Layar Terkunci: **Acara berikutnya** (inline dan persegi panjang), **Acara yang tersisa hari ini** (persegi panjang), **Acara Terpenting** (inline), **H-Day** (lingkaran, persegi panjang, dan inline), dan **Tambah dengan AI** (lingkaran).
 
 ### Hitung mundur Aktivitas Langsung
 
@@ -104,9 +116,27 @@ Di iOS 18 ke atas, Anda bisa menambahkan kontrol **Tambah dengan AI** ke Pusat K
 
 ---
 
+## Menyesuaikan widget
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-gallery.png" alt="Galeri widget" width="280">
+
+Buka **Pengaturan › Tampilan › Galeri widget** untuk melihat semua widget beserta ukuran yang tersedia. Pilih sebuah widget lalu ketuk **Sesuaikan**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/id/widget-style-edit.png" alt="Sesuaikan widget" width="280">
+
+- **Detail** — nyalakan atau matikan bagian-bagian widget satu per satu, seperti nama hari libur, zona waktu, atau jumlah acara. Bagian yang bisa dimatikan berbeda untuk tiap widget.
+- **Warna latar belakang** — biarkan di **Ikuti tema widget bersama**, atau beri gaya ini warna atau foto sendiri.
+- **Gaya baru** — simpan beberapa tampilan untuk widget yang sama, masing-masing dengan namanya sendiri. **Duplikat** salah satunya untuk mulai dari salinan.
+
+Pratinjau langsung berubah mengikuti perubahan Anda. Untuk memakai sebuah gaya, tekan lama widget di Layar Utama, pilih Edit Widget, lalu pilih gayanya di **Gaya widget** — dua salinan widget yang sama bisa memakai gaya yang berbeda. Jika Anda menghapus sebuah gaya, widget yang memakainya kembali ke **Default**.
+
+Widget Layar Terkunci tetap memakai tampilan yang diberikan sistem.
+
+---
+
 ## Tampilan
 
-Widget mengikuti pengaturan terang/gelap sistem Anda secara bawaan, atau Anda bisa mengunci warna latarnya sesuai selera — aplikasi akan menentukan sendiri warna teks yang mudah dibaca berdasarkan seberapa terang warna itu. Aturlah di **Pengaturan › Tampilan › Tema widget**. Lihat [Personalisasi](./05-personalization.md).
+Widget mengikuti pengaturan terang/gelap sistem Anda secara bawaan, atau Anda bisa mengunci warna latarnya sesuai selera — aplikasi akan menentukan sendiri warna teks yang mudah dibaca berdasarkan seberapa terang warna itu. Aturlah di **Tema widget** di bagian atas **Pengaturan › Tampilan › Galeri widget**. Warna latar milik sebuah gaya lebih diutamakan daripada pengaturan ini. Lihat [Personalisasi](./05-personalization.md).
 
 Widget menyegarkan dirinya sepanjang hari dan langsung diperbarui setelah Anda mengubah sesuatu di aplikasi.
 

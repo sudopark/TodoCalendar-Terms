@@ -42,6 +42,18 @@ Singurul eveniment pe care l-ați fixat drept cel mai important, mereu la vedere
 
 *Inline pe ecranul de blocare · Mic · Mediu.*
 
+### Numărătoare inversă
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-dday.png" alt="Widgetul Numărătoare inversă" width="200">
+
+O numărătoare inversă până la un eveniment ales de dvs. — numele lui, câte zile au mai rămas și data.
+
+- **Alegeți evenimentul** — țineți apăsat pe widget, alegeți Editează widgetul și atingeți **Eveniment**. Programările și sărbătorile din jurul zilei de azi apar deja în listă.
+- **Fixați evenimente în capul listei** — alegeți **Adaugă la widgetul Numărătoare inversă** din meniul de acțiuni suplimentare al unei programări sau țineți apăsat pe programare în lista de evenimente a zilei. Evenimentele fixate apar primele data viitoare când editați widgetul.
+- **Programări repetitive** — după ce alegeți una, stabiliți la **Rundă de repetare** până la ce repetare se face numărătoarea.
+
+*Circular, dreptunghiular și inline pe ecranul de blocare · Mic · Mediu.*
+
 ### Calendarul și săptămânile
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-month.png" alt="Widgetul Calendar" width="360">
@@ -86,7 +98,7 @@ O atingere și intrați direct în [Introducerea rapidă AI](./02-ai-input.md).
 
 ### Widget-uri pentru ecranul de blocare
 
-Mai multe widget-uri au și forme pentru ecranul de blocare: **Următorul eveniment** (inline și dreptunghiular), **Evenimentele următoare de astăzi** (dreptunghiular), **Eveniment principal** (inline) și **Adăugați cu AI** (circular).
+Mai multe widget-uri au și forme pentru ecranul de blocare: **Următorul eveniment** (inline și dreptunghiular), **Evenimentele următoare de astăzi** (dreptunghiular), **Eveniment principal** (inline), **Numărătoare inversă** (circular, dreptunghiular și inline) și **Adăugați cu AI** (circular).
 
 ### Numărătoare inversă cu Activitate live
 
@@ -104,9 +116,27 @@ Pe iOS 18 și mai nou puteți adăuga controlul **Adaugă cu AI** în Centrul de
 
 ---
 
+## Personalizarea widget-urilor
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-gallery.png" alt="Galerie de widgeturi" width="280">
+
+Deschideți **Setări › Aspect › Galerie de widgeturi** ca să vedeți toate widget-urile și dimensiunile în care vin. Alegeți un widget și atingeți **Personalizează**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/widget-style-edit.png" alt="Personalizarea widgetului" width="280">
+
+- **Detalii** — activați sau dezactivați părți ale widgetului, cum ar fi numele sărbătorii, fusul orar sau numărul de evenimente. Ce puteți dezactiva depinde de widget.
+- **Culoare de fundal** — păstrați **Urmează tema comună a widgeturilor** sau dați acestui stil o culoare ori o fotografie proprie.
+- **Stil nou** — salvați mai multe înfățișări pentru același widget, fiecare cu numele ei. Atingeți **Duplică** ca să porniți de la o copie.
+
+Previzualizarea se actualizează pe măsură ce schimbați ceva. Ca să folosiți un stil, țineți apăsat pe widget pe ecranul principal, alegeți Editează widgetul și selectați stilul la **Stilul widgetului** — două copii ale aceluiași widget pot avea fiecare alt stil. Dacă ștergeți un stil, widget-urile care îl foloseau revin la **Implicit**.
+
+Widget-urile de pe ecranul de blocare păstrează aspectul pe care li-l dă sistemul.
+
+---
+
 ## Aspect
 
-Widget-urile urmează implicit setarea de sistem pentru mod luminos/întunecat sau le puteți fixa pe o culoare de fundal la alegere — aplicația stabilește singură un text lizibil, în funcție de cât de deschisă e culoarea. Se reglează din **Setări › Aspect › Tema widgetului**. Vedeți [Personalizare](./05-personalization.md).
+Widget-urile urmează implicit setarea de sistem pentru mod luminos/întunecat sau le puteți fixa pe o culoare de fundal la alegere — aplicația stabilește singură un text lizibil, în funcție de cât de deschisă e culoarea. Se reglează din **Tema widgetului**, în partea de sus a ecranului **Setări › Aspect › Galerie de widgeturi**. Dacă un stil are propria culoare de fundal, aceasta are prioritate. Vedeți [Personalizare](./05-personalization.md).
 
 Widget-urile se împrospătează singure în cursul zilei și se actualizează imediat după ce schimbați ceva în aplicație.
 

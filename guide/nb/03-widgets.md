@@ -42,6 +42,18 @@ Den ene hendelsen du festet som viktigst, alltid synlig. Se [Viktigste hendelse]
 
 *Låseskjerm innebygd · Liten · Middels.*
 
+### D-dag
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-dday.png" alt="Widgeten D-dag" width="200">
+
+En nedtelling til én hendelse du velger selv – navnet, hvor mange dager som er igjen, og datoen.
+
+- **Velge hendelsen** – hold inne widgeten, velg Rediger widget, og trykk på **Hendelse**. Avtaler og helligdager rundt dagen i dag står allerede i listen.
+- **Feste hendelser øverst i listen** – velg **Legg til i D-dag-widgeten** fra mer-menyen til en avtale, eller hold inne avtalen i dagens hendelsesliste. Festede hendelser vises først neste gang du redigerer widgeten.
+- **Gjentakende avtaler** – når du har valgt en, velger du under **Gjentakelsesrunde** hvilken forekomst det skal telles ned til.
+
+*Låseskjerm sirkulær · rektangulær · innebygd · Liten · Middels.*
+
 ### Måned og uker
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-month.png" alt="Månedswidget" width="360">
@@ -86,7 +98,7 @@ Ett trykk rett inn i [AI-hurtiginntasting](./02-ai-input.md).
 
 ### Widgets for låseskjermen
 
-Flere widgets har former for låseskjermen: **Neste hendelse** (innebygd og rektangulær), **Dagens neste hendelser** (rektangulær), **Viktigste hendelse** (innebygd) og **Legg til med AI** (sirkulær).
+Flere widgets har former for låseskjermen: **Neste hendelse** (innebygd og rektangulær), **Dagens neste hendelser** (rektangulær), **Viktigste hendelse** (innebygd), **D-dag** (sirkulær, rektangulær og innebygd) og **Legg til med AI** (sirkulær).
 
 ### Nedtelling med Live-aktivitet
 
@@ -104,9 +116,27 @@ På iOS 18 og nyere kan du legge kontrollen **Legg til med AI** i Kontrollsenter
 
 ---
 
+## Tilpass widgets
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-gallery.png" alt="Widget-galleri" width="280">
+
+Åpne **Innstillinger › Utseende › Widget-galleri** for å se alle widgetene og hvilke størrelser de finnes i. Velg en widget, og trykk på **Tilpass**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/widget-style-edit.png" alt="Tilpass widget" width="280">
+
+- **Detaljer** – slå enkeltdeler av widgeten av eller på, for eksempel navnet på helligdagen, tidssonen eller antall hendelser. Hva du kan slå av, avhenger av widgeten.
+- **Bakgrunnsfarge** – behold **Følg det felles widget-temaet**, eller gi denne stilen en egen farge eller et eget bilde.
+- **Ny stil** – lagre flere utseender for samme widget, hver med sitt eget navn. **Dupliser** en for å starte fra en kopi.
+
+Forhåndsvisningen oppdateres mens du endrer. For å bruke en stil holder du inne widgeten på Hjem-skjermen, velger Rediger widget og velger stilen under **Widget-stil** – to eksemplarer av samme widget kan ha hver sin stil. Sletter du en stil, går widgets som bruker den, tilbake til **Standard**.
+
+Widgets på låseskjermen beholder utseendet systemet gir dem.
+
+---
+
 ## Utseende
 
-Widgets følger systemets lys/mørk-innstilling som standard, eller du kan låse dem til en bakgrunnsfarge du velger selv – appen finner lesbar tekstfarge automatisk ut fra hvor lys fargen er. Du stiller det inn under **Innstillinger › Utseende › Widget-tema**. Se [Tilpasning](./05-personalization.md).
+Widgets følger systemets lys/mørk-innstilling som standard, eller du kan låse dem til en bakgrunnsfarge du velger selv – appen finner lesbar tekstfarge automatisk ut fra hvor lys fargen er. Du stiller det inn under **Widget-tema** øverst i **Innstillinger › Utseende › Widget-galleri**. Har en stil sin egen bakgrunnsfarge, går den foran. Se [Tilpasning](./05-personalization.md).
 
 Widgets oppdaterer seg selv gjennom dagen, og oppdateres med én gang du endrer noe i appen.
 

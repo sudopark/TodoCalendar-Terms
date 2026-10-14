@@ -16,6 +16,10 @@ Mjesečni kalendar je početni zaslon. Povlačite lijevo i desno za promjenu mje
 
 Koliko svaki dan prikazuje odlučujete vi — količina detalja po događaju, veličina teksta, boje, nazivi blagdana i lunarni kalendar. [Personalizacija](./05-personalization.md) prolazi kroz svaku postavku pod njezinim imenom.
 
+### Na širokom zaslonu
+
+Kad aplikacija dobije širok prozor, primjerice na unutarnjem zaslonu preklopnog telefona, kalendar se dijeli na lijevi i desni stupac. Lijevo se mjeseci pomiču odozgo prema dolje, a desno su događaji odabranog dana i ispod njih događaji sljedećeg dana. Mjesec mijenjate pomicanjem lijevog stupca; gumbi za prethodni i sljedeći mjesec skriveni su. Kad ponovno sklopite telefon, ostajete na istom mjesecu i danu u prikazu s jednim stupcem.
+
 ---
 
 ## Zadaci i termini

@@ -16,6 +16,10 @@ A havi naptár a kezdőképernyő. Húzza balra vagy jobbra az ujját a hónapok
 
 Az, hogy mennyit mutasson egy nap, Önön múlik: az eseményenkénti részletesség, a szövegméret, a színek, az ünnepnevek és a holdnaptár. A [Személyre szabás](./05-personalization.md) minden beállítást néven nevez.
 
+### Széles képernyőn
+
+Ha az alkalmazás széles ablakot kap, például egy összehajtható telefon belső kijelzőjén, a naptár két oszlopra válik: bal oldalon a hónapok fentről lefelé görgethetők, jobb oldalon pedig a kiválasztott nap eseményei látszanak, alattuk a következő nap eseményeivel. A hónapot a bal oszlop görgetésével váltja; az előző és a következő hónap gombja el van rejtve. Ha visszahajtja a telefont, ugyanazon a hónapon és napon marad az egyoszlopos elrendezésben.
+
 ---
 
 ## Feladatok és programok

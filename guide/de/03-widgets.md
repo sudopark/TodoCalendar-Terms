@@ -42,6 +42,18 @@ Das eine Ereignis, das Sie als wichtigstes angeheftet haben, immer im Blick. Sie
 
 *Sperrbildschirm inline · Klein · Mittel.*
 
+### Countdown
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-dday.png" alt="Widget „Countdown“" width="200">
+
+Ein Countdown bis zu einem Ereignis Ihrer Wahl — sein Name, wie viele Tage noch bleiben, und das Datum.
+
+- **Ereignis auswählen** — halten Sie das Widget gedrückt, wählen Sie „Widget bearbeiten“ und tippen Sie auf **Ereignis**. Termine und Feiertage rund um heute werden Ihnen aufgelistet.
+- **Ereignisse oben in der Liste anheften** — wählen Sie **Zum Countdown-Widget hinzufügen** im Mehr-Menü eines Termins, oder halten Sie den Termin in der Ereignisliste des Tages gedrückt. Angeheftete Ereignisse erscheinen beim nächsten Bearbeiten des Widgets ganz oben.
+- **Wiederkehrende Termine** — wählen Sie danach unter **Wiederholungsrunde**, bis zu welchem Vorkommen heruntergezählt wird.
+
+*Sperrbildschirm rund · rechteckig · inline · Klein · Mittel.*
+
 ### Monat und Wochen
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-month.png" alt="Widget „Kalender“" width="360">
@@ -86,7 +98,7 @@ Mit einem Tipp direkt in die [KI-Schnelleingabe](./02-ai-input.md).
 
 ### Widgets für den Sperrbildschirm
 
-Mehrere Widgets haben eine Form für den Sperrbildschirm: **Nächstes Ereignis** (inline und rechteckig), **Die nächsten Ereignisse heute** (rechteckig), **Wichtigstes Ereignis** (inline) und **Mit KI hinzufügen** (rund).
+Mehrere Widgets haben eine Form für den Sperrbildschirm: **Nächstes Ereignis** (inline und rechteckig), **Die nächsten Ereignisse heute** (rechteckig), **Wichtigstes Ereignis** (inline), **Countdown** (rund, rechteckig und inline) und **Mit KI hinzufügen** (rund).
 
 ### Live-Aktivität mit Countdown
 
@@ -104,9 +116,27 @@ Ab iOS 18 können Sie das Bedienelement **Mit KI hinzufügen** ins Kontrollzentr
 
 ---
 
+## Widgets anpassen
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-gallery.png" alt="Widget-Galerie" width="280">
+
+Öffnen Sie **Einstellungen › Erscheinungsbild › Widget-Galerie**, um alle Widgets und ihre verfügbaren Größen zu sehen. Wählen Sie ein Widget und tippen Sie auf **Anpassen**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/widget-style-edit.png" alt="Widget anpassen" width="280">
+
+- **Details** — schalten Sie einzelne Teile des Widgets ein oder aus, etwa den Feiertagsnamen, die Zeitzone oder die Anzahl der Ereignisse. Was sich ausschalten lässt, hängt vom Widget ab.
+- **Hintergrundfarbe** — behalten Sie **Gemeinsames Widget-Design verwenden** bei, oder geben Sie diesem Stil eine eigene Farbe oder ein eigenes Foto.
+- **Neuer Stil** — speichern Sie mehrere Looks für dasselbe Widget, jeweils mit eigenem Namen. Mit **Duplizieren** starten Sie von einer Kopie.
+
+Die Vorschau ändert sich mit, während Sie Einstellungen anpassen. Um einen Stil zu verwenden, halten Sie das Widget auf dem Home-Bildschirm gedrückt, wählen Sie „Widget bearbeiten“ und wählen Sie ihn unter **Widget-Stil** aus — zwei Exemplare desselben Widgets können jeweils einen anderen Stil haben. Löschen Sie einen Stil, kehren die Widgets, die ihn verwenden, zu **Standard** zurück.
+
+Widgets auf dem Sperrbildschirm behalten das Aussehen, das das System ihnen gibt.
+
+---
+
 ## Erscheinungsbild
 
-Widgets folgen standardmäßig Ihrer hellen bzw. dunklen Systemeinstellung, oder Sie legen sie auf eine Hintergrundfarbe Ihrer Wahl fest — die App wählt automatisch eine gut lesbare Textfarbe, je nachdem, wie hell diese Farbe ist. Einstellbar unter **Einstellungen › Erscheinungsbild › Widget-Design**. Siehe [Personalisierung](./05-personalization.md).
+Widgets folgen standardmäßig Ihrer hellen bzw. dunklen Systemeinstellung, oder Sie legen sie auf eine Hintergrundfarbe Ihrer Wahl fest — die App wählt automatisch eine gut lesbare Textfarbe, je nachdem, wie hell diese Farbe ist. Einstellbar unter **Widget-Design** ganz oben in **Einstellungen › Erscheinungsbild › Widget-Galerie**. Hat ein Stil eine eigene Hintergrundfarbe, hat diese Vorrang. Siehe [Personalisierung](./05-personalization.md).
 
 Widgets aktualisieren sich im Lauf des Tages von selbst und übernehmen Änderungen aus der App sofort.
 

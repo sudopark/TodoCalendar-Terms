@@ -19,19 +19,19 @@ Appen virker fuldt ud offline og uden konto. Du behøver kun at logge ind, når 
 ## Guide
 
 ### [1. Det grundlæggende](./01-basics.md)
-Kalenderskærmen, opgaver og aftaler, tilføjelse af begivenheder, gentagne begivenheder, begivenhedstyper og farver, påmindelser, vigtigste begivenhed, uafsluttede og udførte opgaver samt deling af din kalender.
+Kalenderskærmen og visningen i to kolonner på brede skærme, opgaver og aftaler, tilføjelse af begivenheder, gentagne begivenheder, begivenhedstyper og farver, påmindelser, vigtigste begivenhed, uafsluttede og udførte opgaver samt deling af din kalender.
 
 ### [2. AI-hurtigindtastning](./02-ai-input.md)
 Tilføj og ret begivenheder ved at beskrive dem. Stemme, tastatur, billede, Siri, Handlingsknappen, widgets, Kontrolcenter og delingsarket.
 
 ### [3. Widgets og låseskærm](./03-widgets.md)
-Hele udvalget af widgets og deres størrelser, hvad hver enkelt viser, udførelse af opgaver direkte fra en widget, nedtællingen på låseskærmen og Kontrolcenter.
+Hele udvalget af widgets og deres størrelser, hvad hver enkelt viser, D-dag-nedtællingen, tilpasning af widgets med dine egne stilarter, udførelse af opgaver direkte fra en widget, nedtællingen på låseskærmen og Kontrolcenter.
 
 ### [4. Eksterne kalendere](./04-external-calendars.md)
 Forbindelse til Google Kalender og Apple Kalender, hvad hver forbindelse understøtter, og hvordan du styrer, hvad der vises.
 
 ### [5. Tilpasning og indstillinger](./05-personalization.md)
-Kalenderens udseende, temaer, helligdage, tidszone, standardværdier for begivenheder og alt det andet under Indstillinger.
+Kalenderens udseende, farvetemaer inklusive dine egne, helligdage, tidszone, standardværdier for begivenheder og alt det andet under Indstillinger.
 
 ### [6. Konto og synkronisering](./06-account-sync.md)
 Offline-først, hvad et login giver dig, migrering af de data du oprettede før login, og styring af din konto.

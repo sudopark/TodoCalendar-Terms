@@ -19,19 +19,19 @@ Aplikasi ini berfungsi sepenuhnya di luar talian dan tanpa akaun. Log masuk hany
 ## Panduan
 
 ### [1. Asas](./01-basics.md)
-Skrin kalendar, tugasan dan jadual, menambah acara, acara berulang, jenis acara dan warna, peringatan, acara paling penting, tugasan belum selesai dan tugasan selesai, serta perkongsian kalendar anda.
+Skrin kalendar dan susun atur dua lajurnya pada skrin lebar, tugasan dan jadual, menambah acara, acara berulang, jenis acara dan warna, peringatan, acara paling penting, tugasan belum selesai dan tugasan selesai, serta perkongsian kalendar anda.
 
 ### [2. Input pantas AI](./02-ai-input.md)
 Tambah dan ubah acara dengan menghuraikannya. Suara, papan kekunci, imej, Siri, Butang Tindakan, widget, Pusat Kawalan dan helaian Kongsi.
 
 ### [3. Widget dan Skrin Kunci](./03-widgets.md)
-Set widget penuh dan saiznya, apa yang dipaparkan oleh setiap satu, menyelesaikan tugasan terus daripada widget, kira detik Skrin Kunci dan Pusat Kawalan.
+Set widget penuh dan saiznya, apa yang dipaparkan oleh setiap satu, kira detik Hari-D, menyesuaikan widget dengan gaya anda sendiri, menyelesaikan tugasan terus daripada widget, kira detik Skrin Kunci dan Pusat Kawalan.
 
 ### [4. Kalendar luaran](./04-external-calendars.md)
 Menyambungkan Kalendar Google dan Kalendar Apple, apa yang disokong oleh setiap sambungan, dan cara mengawal apa yang dipaparkan.
 
 ### [5. Pemperibadian dan tetapan](./05-personalization.md)
-Rupa kalendar, tema, cuti umum, zon waktu, nilai lalai acara, dan semua yang lain dalam Tetapan.
+Rupa kalendar, tema warna termasuk tema anda sendiri, cuti umum, zon waktu, nilai lalai acara, dan semua yang lain dalam Tetapan.
 
 ### [6. Akaun dan penyegerakan](./06-account-sync.md)
 Cara aplikasi berfungsi tanpa talian, apa yang ditambah oleh log masuk, memindahkan data yang anda cipta sebelum log masuk, dan mengurus akaun anda.

@@ -16,6 +16,10 @@ Aylık takvim ana ekrandır. Aylar arasında geçmek için sağa sola kaydırın
 
 Her günün ne kadarını göstereceğine siz karar verirsiniz — etkinlik başına ne kadar ayrıntı görüneceği, yazı boyutu, renkler, tatil adları ve ay takvimi. [Kişiselleştirme](./05-personalization.md) her ayarı adıyla tek tek anlatır.
 
+### Geniş ekranda
+
+Uygulama geniş bir pencerede açıldığında, örneğin katlanabilir bir telefonun iç ekranında, takvim iki sütuna ayrılır: solda aylar yukarıdan aşağı kayar, sağda seçili günün etkinlikleri ve onların altında ertesi günün etkinlikleri durur. Ayı değiştirmek için sol sütunu kaydırın; önceki ve sonraki ay düğmeleri gizlenir. Telefonu yeniden katladığınızda tek sütunlu düzende aynı ay ve gündesiniz.
+
 ---
 
 ## Görevler ve randevular

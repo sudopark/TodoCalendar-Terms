@@ -42,6 +42,18 @@ L'unico evento che hai fissato come più importante, sempre in vista. Vedi [Even
 
 *In linea sulla schermata di blocco · Piccolo · Medio.*
 
+### Giorno X
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-dday.png" alt="Widget Giorno X" width="200">
+
+Un conto alla rovescia verso un evento che scegli tu: il suo nome, quanti giorni mancano e la data.
+
+- **Scegliere l'evento** — tieni premuto il widget, scegli Modifica widget e tocca **Evento**. Nell'elenco trovi le pianificazioni e le festività vicine a oggi.
+- **Fissare eventi in cima a quell'elenco** — scegli **Aggiungi al widget Giorno X** dal menu Altro di una pianificazione, oppure tieni premuta la pianificazione nell'elenco degli eventi del giorno. Gli eventi fissati compaiono per primi la prossima volta che modifichi il widget.
+- **Pianificazioni ricorrenti** — dopo averne scelta una, indica con **Turno di ricorrenza** fino a quale occorrenza contare.
+
+*Circolare, rettangolare e in linea sulla schermata di blocco · Piccolo · Medio.*
+
 ### Mese e settimane
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-month.png" alt="Widget mese" width="360">
@@ -86,7 +98,7 @@ Un tocco e sei dentro l'[inserimento rapido IA](./02-ai-input.md).
 
 ### Widget per la schermata di blocco
 
-Diversi widget hanno una versione per la schermata di blocco: **Prossimo evento** (in linea e rettangolare), **I prossimi eventi di oggi** (rettangolare), **Evento principale** (in linea) e **Aggiungi con l'IA** (circolare).
+Diversi widget hanno una versione per la schermata di blocco: **Prossimo evento** (in linea e rettangolare), **I prossimi eventi di oggi** (rettangolare), **Evento principale** (in linea), **Giorno X** (circolare, rettangolare e in linea) e **Aggiungi con l'IA** (circolare).
 
 ### Conto alla rovescia con Attività in tempo reale
 
@@ -104,9 +116,27 @@ Su iOS 18 e successivi puoi aggiungere al Centro di Controllo il controllo **Agg
 
 ---
 
+## Personalizzare i widget
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-gallery.png" alt="Galleria widget" width="280">
+
+Apri **Impostazioni › Aspetto › Galleria widget** per vedere tutti i widget e le dimensioni disponibili. Scegli un widget e tocca **Personalizza**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/widget-style-edit.png" alt="Personalizza widget" width="280">
+
+- **Dettagli** — attiva o disattiva singole parti del widget, come il nome della festività, il fuso orario o il numero di eventi. Cosa puoi disattivare dipende dal widget.
+- **Colore di sfondo** — lascia **Segui il tema widget comune** oppure dai a questo stile un colore o una foto tutti suoi.
+- **Nuovo stile** — salva più aspetti per lo stesso widget, ognuno con il suo nome. Con **Duplica** parti da una copia.
+
+L'anteprima si aggiorna man mano che modifichi. Per usare uno stile, tieni premuto il widget nella schermata Home, scegli Modifica widget e selezionalo in **Stile widget**: due copie dello stesso widget possono avere ciascuna uno stile diverso. Se elimini uno stile, i widget che lo usavano tornano a **Predefinito**.
+
+I widget della schermata di blocco mantengono l'aspetto che dà loro il sistema.
+
+---
+
 ## Aspetto
 
-Per impostazione predefinita i widget seguono l'impostazione chiaro/scuro del sistema, oppure puoi fissarli su un colore di sfondo a tua scelta: l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso quel colore. Lo imposti in **Impostazioni › Aspetto › Tema widget**. Vedi [Personalizzazione](./05-personalization.md).
+Per impostazione predefinita i widget seguono l'impostazione chiaro/scuro del sistema, oppure puoi fissarli su un colore di sfondo a tua scelta: l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso quel colore. Lo imposti in **Tema widget**, in cima a **Impostazioni › Aspetto › Galleria widget**. Il colore di sfondo proprio di uno stile ha la precedenza su questa impostazione. Vedi [Personalizzazione](./05-personalization.md).
 
 I widget si aggiornano da soli nell'arco della giornata e si aggiornano subito dopo che hai cambiato qualcosa nell'app.
 

@@ -42,6 +42,18 @@ Satu acara yang anda sematkan sebagai paling penting, sentiasa kelihatan. Lihat 
 
 *Skrin Kunci sebaris · Kecil · Sederhana.*
 
+### Hari-D
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-dday.png" alt="Widget Hari-D" width="200">
+
+Kira detik ke satu acara yang anda pilih — namanya, berapa hari lagi, dan tarikhnya.
+
+- **Pilih acara** — tekan lama widget, pilih Edit Widget, dan ketik **Acara**. Jadual dan cuti umum di sekitar hari ini disenaraikan untuk anda.
+- **Sematkan acara di bahagian atas senarai itu** — pilih **Tambah ke widget Hari-D** daripada menu Lagi bagi sesuatu jadual, atau tekan lama jadual itu dalam senarai acara hari tersebut. Acara yang disematkan muncul dahulu apabila anda mengedit widget kali seterusnya.
+- **Jadual berulang** — selepas memilihnya, tentukan kejadian mana yang hendak dikira detik dengan **Pusingan pengulangan**.
+
+*Skrin Kunci bulat · segi empat tepat · sebaris · Kecil · Sederhana.*
+
 ### Kalendar dan minggu
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-month.png" alt="Widget kalendar" width="360">
@@ -86,7 +98,7 @@ Sekali ketik terus ke [Input pantas AI](./02-ai-input.md).
 
 ### Widget Skrin Kunci
 
-Beberapa widget mempunyai bentuk Skrin Kunci: **Acara seterusnya** (sebaris dan segi empat tepat), **Acara yang berbaki hari ini** (segi empat tepat), **Acara Paling Penting** (sebaris), dan **Tambah dengan AI** (bulat).
+Beberapa widget mempunyai bentuk Skrin Kunci: **Acara seterusnya** (sebaris dan segi empat tepat), **Acara yang berbaki hari ini** (segi empat tepat), **Acara Paling Penting** (sebaris), **Hari-D** (bulat, segi empat tepat dan sebaris), dan **Tambah dengan AI** (bulat).
 
 ### Kira detik Aktiviti Langsung
 
@@ -104,9 +116,27 @@ Pada iOS 18 dan ke atas, anda boleh menambah kawalan **Tambah dengan AI** ke Pus
 
 ---
 
+## Menyesuaikan widget
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-gallery.png" alt="Galeri widget" width="280">
+
+Buka **Tetapan › Rupa › Galeri widget** untuk melihat setiap widget dan saiz yang tersedia untuknya. Pilih widget dan ketik **Suaikan**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/widget-style-edit.png" alt="Suaikan widget" width="280">
+
+- **Butiran** — hidupkan atau matikan bahagian tertentu widget, seperti nama cuti, zon waktu atau bilangan acara. Apa yang boleh dimatikan bergantung pada widget.
+- **Warna latar belakang** — kekalkan **Ikut tema widget bersama**, atau berikan gaya ini warna atau foto tersendiri.
+- **Gaya baharu** — simpan beberapa rupa untuk widget yang sama, setiap satu dengan namanya sendiri. **Duplikasi** satu gaya untuk bermula daripada salinan.
+
+Pratonton dikemas kini sebaik sahaja anda mengubah sesuatu. Untuk menggunakan gaya, tekan lama widget pada Skrin Utama, pilih Edit Widget, dan pilih gaya itu di bawah **Gaya widget** — dua salinan widget yang sama boleh menggunakan gaya yang berbeza. Jika anda memadam gaya, widget yang menggunakannya kembali kepada **Lalai**.
+
+Widget Skrin Kunci mengekalkan rupa yang diberikan oleh sistem.
+
+---
+
 ## Rupa
 
-Widget mengikut tetapan cerah/gelap sistem anda secara lalai, atau anda boleh menetapkannya pada warna latar belakang pilihan anda — aplikasi memilih teks yang mudah dibaca secara automatik berdasarkan betapa cerahnya warna itu. Tetapkannya dalam **Tetapan › Rupa › Tema widget**. Lihat [Pemperibadian](./05-personalization.md).
+Widget mengikut tetapan cerah/gelap sistem anda secara lalai, atau anda boleh menetapkannya pada warna latar belakang pilihan anda — aplikasi memilih teks yang mudah dibaca secara automatik berdasarkan betapa cerahnya warna itu. Tetapkannya di bawah **Tema widget** di bahagian atas **Tetapan › Rupa › Galeri widget**. Warna latar belakang tersendiri sesuatu gaya diutamakan berbanding tetapan ini. Lihat [Pemperibadian](./05-personalization.md).
 
 Widget menyegarkan dirinya sepanjang hari dan dikemas kini sebaik sahaja anda mengubah sesuatu dalam aplikasi.
 

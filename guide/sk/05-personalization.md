@@ -35,11 +35,29 @@ Všetko na tejto obrazovke sa zobrazuje v živom náhľade hneď pri zmene, tak�
 
 ### Farebná téma
 
-Sledujte systém, alebo aplikáciu pripnite na **Svetlá** či **Tmavá** bez ohľadu na to, čo robí iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/color-theme-select.png" alt="Farebná téma" width="280">
 
-### Motív widgetu
+Sledujte systém, pripnite aplikáciu na **Svetlá** či **Tmavá** bez ohľadu na to, čo robí iOS, alebo si vyberte niektorú zo vstavaných farebných tém. Klepnutím na tému ju použijete; náhľad navrchu ukazuje, ako bude kalendár vyzerať.
 
-Widgety štandardne používajú systémový motív. Prepnutím na **Vybrať vlastnú farbu** si zvolíte ľubovoľné pozadie — aplikácia z jeho jasu odvodí, či má byť text svetlý alebo tmavý. Späť sa vrátite voľbou **Použiť systémový motív**.
+Vlastnú tému vytvoríte klepnutím na **Nová téma** v časti **Moje témy**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sk/color-theme-edit.png" alt="Úprava témy" width="280">
+
+| Nastavenie | Na čo slúži |
+|---|---|
+| Názov | Ako sa téma volá v **Moje témy** |
+| Pozadie | Pozadie kalendára a obrazovky |
+| Zvýraznenie | Tlačidlá a zvýraznenia |
+| Štýl | **Výplň**, **Zoskupenie** alebo **Obrys** — ako sa karty udalostí odlíšia od pozadia |
+| Podrobné farby | Text, karty, dnešok, vybraný deň, sviatky a víkendy a tlačidlo AI. Keď ich necháte na **Automaticky**, odvodia sa z pozadia a zvýraznenia |
+
+Ak chcete tému neskôr zmeniť alebo vymazať, podržte ju v **Moje témy** a zvoľte **Upraviť**.
+
+### Galéria widgetov
+
+Nastavenia widgetov nájdete v **Galéria widgetov** na tejto obrazovke. Navrchu **Motív widgetu** určuje pozadie všetkých vašich widgetov: štandardne používajú systémový motív, a keď vypnete **Použiť systémový motív**, môžete si vybrať ľubovoľnú farbu pozadia — aplikácia z jej jasu odvodí, či má byť text svetlý alebo tmavý.
+
+Pod tým si môžete prispôsobiť každý widget zvlášť. Pozrite si [Prispôsobenie widgetov](./03-widgets.md#prispôsobenie-widgetov).
 
 ### Pocit z ovládania
 

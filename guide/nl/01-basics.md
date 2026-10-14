@@ -16,6 +16,10 @@ De maandkalender is het startscherm. Veeg naar links en rechts om van maand te w
 
 Hoeveel elke dag laat zien, bepaal je zelf: hoeveel detail per gebeurtenis, de tekstgrootte, de kleuren, de namen van feestdagen en de maankalender. [Personalisatie](./05-personalization.md) loopt elke instelling bij naam langs.
 
+### Op een breed scherm
+
+Krijgt de app een breed venster, zoals op het binnenscherm van een vouwbare telefoon, dan splitst de kalender zich in twee kolommen: links scrollen de maanden van boven naar beneden, rechts staan de gebeurtenissen van de geselecteerde dag met die van de volgende dag eronder. Scroll door de linkerkolom om van maand te wisselen; de knoppen voor de vorige en volgende maand zijn verborgen. Vouw je de telefoon weer dicht, dan sta je in de weergave met één kolom op dezelfde maand en dag.
+
 ---
 
 ## Taken en afspraken

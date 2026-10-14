@@ -19,19 +19,19 @@ De app werkt volledig offline en zonder account. Log alleen in als je een back-u
 ## Gids
 
 ### [1. De basis](./01-basics.md)
-Het kalenderscherm, taken en afspraken, gebeurtenissen toevoegen, herhalende gebeurtenissen, gebeurtenistypen en kleuren, meldingen, de belangrijkste gebeurtenis, onvoltooide en voltooide taken, en je kalender delen.
+Het kalenderscherm en de weergave met twee kolommen op brede schermen, taken en afspraken, gebeurtenissen toevoegen, herhalende gebeurtenissen, gebeurtenistypen en kleuren, meldingen, de belangrijkste gebeurtenis, onvoltooide en voltooide taken, en je kalender delen.
 
 ### [2. AI-snelinvoer](./02-ai-input.md)
 Gebeurtenissen toevoegen en wijzigen door ze te beschrijven. Spraak, toetsenbord, afbeelding, Siri, de actieknop, widgets, het bedieningspaneel en het deelmenu.
 
 ### [3. Widgets en toegangsscherm](./03-widgets.md)
-De volledige set widgets en formaten, wat elke widget toont, taken afvinken vanuit een widget, de aftelling op het toegangsscherm, en het bedieningspaneel.
+De volledige set widgets en formaten, wat elke widget toont, de D-Day-aftelling, widgets aanpassen met je eigen stijlen, taken afvinken vanuit een widget, de aftelling op het toegangsscherm, en het bedieningspaneel.
 
 ### [4. Externe agenda's](./04-external-calendars.md)
 Google Calendar en Apple Calendar koppelen, wat elke koppeling ondersteunt, en bepalen wat er zichtbaar is.
 
 ### [5. Personalisatie en instellingen](./05-personalization.md)
-Weergave van de kalender, thema's, feestdagen, tijdzone, standaardwaarden voor gebeurtenissen, en al het andere in Instellingen.
+Weergave van de kalender, kleurthema's inclusief je eigen, feestdagen, tijdzone, standaardwaarden voor gebeurtenissen, en al het andere in Instellingen.
 
 ### [6. Account en synchronisatie](./06-account-sync.md)
 Offline-first gedrag, wat inloggen toevoegt, gegevens migreren die je vóór het inloggen maakte, en je account beheren.

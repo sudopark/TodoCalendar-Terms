@@ -42,6 +42,18 @@ Az az egy esemény, amelyet a legfontosabbként tűzött ki, mindig szem előtt.
 
 *Zárolási képernyős beágyazott · Kicsi · Közepes.*
 
+### Visszaszámlálás
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-dday.png" alt="Visszaszámlálás widget" width="200">
+
+Visszaszámlálás egy Ön által kiválasztott eseményig — a neve, a hátralévő napok száma és a dátum.
+
+- **Az esemény kiválasztása** — nyomja hosszan a widgetet, válassza a Widget szerkesztése lehetőséget, és koppintson az **Esemény** elemre. A listában a mai nap körüli programok és ünnepek jelennek meg.
+- **Események kitűzése a lista elejére** — válassza a **Hozzáadás a Visszaszámlálás widgethez** lehetőséget egy program további műveletek menüjéből, vagy nyomja hosszan a programot a nap eseménylistájában. A kitűzött események jelennek meg elsőként, amikor legközelebb szerkeszti a widgetet.
+- **Ismétlődő programok** — miután kiválasztott egyet, az **Ismétlési forduló** pontban adja meg, melyik alkalomig számoljon vissza.
+
+*Zárolási képernyős kör alakú · téglalap alakú · beágyazott · Kicsi · Közepes.*
+
 ### Hónap és hetek
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-month.png" alt="Hónap widget" width="360">
@@ -86,7 +98,7 @@ Egyetlen koppintás egyenesen az [AI gyorsbevitelhez](./02-ai-input.md).
 
 ### Zárolási képernyős widgetek
 
-Több widgetnek van zárolási képernyős formája: **Következő esemény** (beágyazott és téglalap alakú), **A mai nap következő eseményei** (téglalap alakú), **Legfontosabb esemény** (beágyazott) és **Hozzáadás AI-val** (kör alakú).
+Több widgetnek van zárolási képernyős formája: **Következő esemény** (beágyazott és téglalap alakú), **A mai nap következő eseményei** (téglalap alakú), **Legfontosabb esemény** (beágyazott), **Visszaszámlálás** (kör alakú, téglalap alakú és beágyazott) és **Hozzáadás AI-val** (kör alakú).
 
 ### Élő tevékenység visszaszámlálás
 
@@ -104,9 +116,27 @@ iOS 18 és újabb rendszeren hozzáadhatja a **Hozzáadás AI-val** vezérlőt a
 
 ---
 
+## Widgetek testreszabása
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-gallery.png" alt="Widgetgaléria" width="280">
+
+Nyissa meg a **Beállítások › Megjelenés › Widgetgaléria** menüpontot, és láthatja az összes widgetet és a méreteket, amelyekben elérhetők. Válasszon egy widgetet, és koppintson a **Testreszabás** gombra.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/widget-style-edit.png" alt="Widget testreszabása" width="280">
+
+- **Részletek** — kapcsolja be vagy ki a widget egyes részeit, például az ünnep nevét, az időzónát vagy az események számát. Hogy mit lehet kikapcsolni, az a widgettől függ.
+- **Háttérszín** — hagyja meg **A közös widgettéma követése** beállítást, vagy adjon ennek a stílusnak saját színt vagy fotót.
+- **Új stílus** — mentsen el több kinézetet ugyanahhoz a widgethez, mindegyiket saját névvel. A **Duplikálás** segítségével egy másolatból indulhat.
+
+Az előnézet a módosításokkal együtt frissül. Egy stílus használatához nyomja hosszan a widgetet a kezdőképernyőn, válassza a Widget szerkesztése lehetőséget, és válassza ki a stílust a **Widget stílusa** pontban — ugyanannak a widgetnek minden példánya más-más stílust kaphat. Ha töröl egy stílust, az azt használó widgetek visszaállnak az **Alapértelmezett** stílusra.
+
+A zárolási képernyős widgetek megtartják a rendszertől kapott kinézetet.
+
+---
+
 ## Megjelenés
 
-A widgetek alapból a rendszer világos/sötét beállítását követik, vagy rögzítheti őket egy tetszőleges háttérszínre — az alkalmazás automatikusan olvasható szövegszínt választ aszerint, hogy az a szín mennyire világos. A **Beállítások › Megjelenés › Widget témája** menüpontban állíthatja be. Lásd: [Személyre szabás](./05-personalization.md).
+A widgetek alapból a rendszer világos/sötét beállítását követik, vagy rögzítheti őket egy tetszőleges háttérszínre — az alkalmazás automatikusan olvasható szövegszínt választ aszerint, hogy az a szín mennyire világos. A **Beállítások › Megjelenés › Widgetgaléria** tetején lévő **Widget témája** pontban állíthatja be. Ha egy stílusnak saját háttérszíne van, az elsőbbséget élvez ezzel szemben. Lásd: [Személyre szabás](./05-personalization.md).
 
 A widgetek a nap folyamán maguktól frissülnek, és rögtön frissülnek azután is, hogy megváltoztat valamit az alkalmazásban.
 

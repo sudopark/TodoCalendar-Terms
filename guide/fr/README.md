@@ -19,19 +19,19 @@ Tout fonctionne hors ligne et sans compte. Connectez-vous seulement quand vous v
 ## Guide
 
 ### [1. Les bases](./01-basics.md)
-L'écran du calendrier, les tâches et les rendez-vous, l'ajout d'événements, les événements récurrents, les types d'événement et leurs couleurs, les rappels, l'événement principal, les tâches non terminées et terminées, le partage de votre calendrier.
+L'écran du calendrier et sa mise en page sur deux colonnes sur grand écran, les tâches et les rendez-vous, l'ajout d'événements, les événements récurrents, les types d'événement et leurs couleurs, les rappels, l'événement principal, les tâches non terminées et terminées, le partage de votre calendrier.
 
 ### [2. Saisie rapide par IA](./02-ai-input.md)
 Ajouter et modifier des événements en les décrivant. Voix, clavier, image, Siri, bouton Action, widgets, centre de contrôle et feuille de partage.
 
 ### [3. Widgets et écran verrouillé](./03-widgets.md)
-Tous les widgets et leurs tailles, ce que chacun affiche, terminer une tâche directement depuis un widget, le compte à rebours sur l'écran verrouillé, le centre de contrôle.
+Tous les widgets et leurs tailles, ce que chacun affiche, le compte à rebours Jour J, la personnalisation des widgets avec vos propres styles, terminer une tâche directement depuis un widget, le compte à rebours sur l'écran verrouillé, le centre de contrôle.
 
 ### [4. Calendriers externes](./04-external-calendars.md)
 Connecter Google Calendar et Apple Calendar, ce que chaque connexion permet, et comment choisir ce qui s'affiche.
 
 ### [5. Personnalisation et réglages](./05-personalization.md)
-L'apparence du calendrier, les thèmes, les jours fériés, le fuseau horaire, les valeurs par défaut des événements et tout le reste des réglages.
+L'apparence du calendrier, les thèmes de couleur, y compris les vôtres, les jours fériés, le fuseau horaire, les valeurs par défaut des événements et tout le reste des réglages.
 
 ### [6. Compte et synchronisation](./06-account-sync.md)
 Le fonctionnement hors ligne d'abord, ce qu'apporte la connexion, la migration des données créées avant de vous connecter, la gestion de votre compte.

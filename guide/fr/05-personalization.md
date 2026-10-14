@@ -35,11 +35,29 @@ Tout sur cet écran se prévisualise en direct pendant que vous le modifiez : vo
 
 ### Thème de couleur
 
-Suivez le système, ou fixez l'application sur **Clair** ou **Sombre** quoi que fasse iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/color-theme-select.png" alt="Thème de couleur" width="280">
 
-### Thème du widget
+Suivez le système, fixez l'application sur **Clair** ou **Sombre** quoi que fasse iOS, ou choisissez l'un des thèmes de couleur intégrés. Appuyez sur un thème pour l'appliquer ; l'aperçu en haut montre l'allure du calendrier.
 
-Les widgets sont sur **Utiliser le thème système** par défaut. Passez sur **Sélectionner une couleur personnalisée** et choisissez le fond qui vous plaît — l'application déduit de la luminosité de votre couleur si le texte doit être clair ou foncé.
+Pour créer le vôtre, appuyez sur **Nouveau thème** sous **Mes thèmes**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/color-theme-edit.png" alt="Modifier le thème" width="280">
+
+| Réglage | Rôle |
+|---|---|
+| Nom | Le nom du thème dans **Mes thèmes** |
+| Arrière-plan | Le fond du calendrier et de l'écran |
+| Accent | Les boutons et les mises en évidence |
+| Style | **Plein**, **Groupé** ou **Contour** — la façon dont les cartes d'événement se détachent du fond |
+| Couleurs détaillées | Texte, cartes, aujourd'hui, jour sélectionné, jours fériés et week-ends, et bouton IA. Laissées sur **Auto**, elles sont déduites de votre arrière-plan et de votre accent |
+
+Pour modifier ou supprimer un thème plus tard, appuyez longuement dessus dans **Mes thèmes** et choisissez **Modifier**.
+
+### Galerie de widgets
+
+Les réglages des widgets se trouvent dans **Galerie de widgets**, sur cet écran. En haut, **Thème du widget** définit le fond de tous vos widgets : ils suivent le thème système par défaut, et en désactivant **Utiliser le thème système** vous pouvez choisir la couleur de fond qui vous plaît — l'application déduit de la luminosité de votre couleur si le texte doit être clair ou foncé.
+
+En dessous, vous pouvez personnaliser chaque widget séparément. Voir [Personnaliser les widgets](./03-widgets.md#personnaliser-les-widgets).
 
 ### Sensations
 

@@ -35,11 +35,29 @@ Semua yang ada pada skrin ini dipratonton secara langsung sambil anda mengubahny
 
 ### Tema warna
 
-Ikut sistem, atau tetapkan aplikasi pada **Cerah** atau **Gelap** tidak kira apa yang iOS lakukan.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/color-theme-select.png" alt="Tema warna" width="280">
 
-### Tema widget
+Ikut sistem, tetapkan aplikasi pada **Cerah** atau **Gelap** tidak kira apa yang iOS lakukan, atau pilih salah satu tema warna terbina dalam. Ketik tema untuk menggunakannya; pratonton di bahagian atas menunjukkan rupa kalendar.
 
-Widget menggunakan tema sistem secara lalai. Tukar kepada warna tersuai dan pilih sebarang latar belakang yang anda suka — aplikasi menentukan sama ada teks patut cerah atau gelap berdasarkan kecerahan warna itu.
+Untuk membuat tema sendiri, ketik **Tema baharu** di bawah **Tema saya**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ms/color-theme-edit.png" alt="Edit tema" width="280">
+
+| Tetapan | Fungsinya |
+|---|---|
+| Nama | Nama tema dalam **Tema saya** |
+| Latar belakang | Latar belakang kalendar dan skrin |
+| Warna aksen | Butang dan serlahan |
+| Gaya | **Berisi**, **Berkumpulan** atau **Garis luar** — cara kad acara menonjol daripada latar belakang |
+| Warna terperinci | Teks, kad, hari ini, hari yang dipilih, cuti umum dan hujung minggu, serta butang AI. Jika dibiarkan pada **Auto**, warna ini dikira daripada latar belakang dan warna aksen anda |
+
+Untuk mengubah atau memadam tema kemudian, tekan lama tema itu dalam **Tema saya** dan pilih **Edit**.
+
+### Galeri widget
+
+Tetapan widget terdapat dalam **Galeri widget** pada skrin ini. Di bahagian atas, **Tema widget** menetapkan latar belakang semua widget anda: widget menggunakan tema sistem secara lalai, dan apabila anda mematikan **Guna tema sistem**, anda boleh memilih sebarang warna latar belakang — aplikasi menentukan sama ada teks patut cerah atau gelap berdasarkan kecerahan warna itu.
+
+Di bawahnya, anda boleh menyesuaikan setiap widget secara berasingan. Lihat [Menyesuaikan widget](./03-widgets.md#menyesuaikan-widget).
 
 ### Rasa
 

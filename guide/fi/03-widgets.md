@@ -42,6 +42,18 @@ Se yksi tapahtuma, jonka kiinnitit tärkeimmäksi, aina näkyvissä. Katso [Tär
 
 *Lukitusnäytön rivi · Pieni · Keskikokoinen.*
 
+### Lähtölaskenta
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-dday.png" alt="Lähtölaskenta-widget" width="200">
+
+Lähtölaskenta yhteen valitsemaasi tapahtumaan — sen nimi, jäljellä olevat päivät ja päivämäärä.
+
+- **Valitse tapahtuma** — paina widgetiä pitkään, valitse widgetin muokkaus ja napauta **Tapahtuma**. Luettelossa näkyvät tämän päivän molemmin puolin osuvat aikataulutapahtumat ja vapaapäivät.
+- **Kiinnitä tapahtumia luettelon kärkeen** — valitse aikataulutapahtuman lisävalikosta **Lisää Lähtölaskenta-widgetiin** tai paina aikataulutapahtumaa pitkään päivän tapahtumaluettelossa. Kiinnitetyt tapahtumat näkyvät ensimmäisinä, kun seuraavan kerran muokkaat widgetiä.
+- **Toistuvat aikataulutapahtumat** — kun olet valinnut sellaisen, valitse kohdassa **Toistokierros**, mihin kertaan lasketaan.
+
+*Lukitusnäytön ympyrä · suorakulmio · rivi · Pieni · Keskikokoinen.*
+
 ### Kuukausi ja viikot
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-month.png" alt="Kuukausiwidget" width="360">
@@ -86,7 +98,7 @@ Yhdellä napautuksella suoraan [AI-pikasyöttöön](./02-ai-input.md).
 
 ### Lukitusnäytön widgetit
 
-Useilla widgeteillä on lukitusnäytön muoto: **Seuraava tapahtuma** (rivi ja suorakulmio), **Tämän päivän tulevat tapahtumat** (suorakulmio), **Tärkein tapahtuma** (rivi) ja **Lisää AI:lla** (ympyrä).
+Useilla widgeteillä on lukitusnäytön muoto: **Seuraava tapahtuma** (rivi ja suorakulmio), **Tämän päivän tulevat tapahtumat** (suorakulmio), **Tärkein tapahtuma** (rivi), **Lähtölaskenta** (ympyrä, suorakulmio ja rivi) ja **Lisää AI:lla** (ympyrä).
 
 ### Live-toiminnon lähtölaskenta
 
@@ -104,9 +116,27 @@ iOS 18:ssa ja uudemmissa voit lisätä **Lisää AI:lla** -säätimen Ohjauskesk
 
 ---
 
+## Widgettien mukauttaminen
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-gallery.png" alt="Widget-galleria" width="280">
+
+Avaa **Asetukset › Ulkoasu › Widget-galleria**, niin näet kaikki widgetit ja koot, joissa ne ovat saatavilla. Valitse widget ja napauta **Mukauta**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fi/widget-style-edit.png" alt="Widgetin mukauttaminen" width="280">
+
+- **Yksityiskohdat** — kytke widgetin yksittäisiä osia päälle tai pois, kuten vapaapäivän nimi, aikavyöhyke tai tapahtumien määrä. Se, mitä voi kytkeä pois, riippuu widgetistä.
+- **Taustaväri** — pidä valinta **Seuraa yhteistä widget-teemaa** tai anna tälle tyylille oma väri tai kuva.
+- **Uusi tyyli** — tallenna samalle widgetille useita ulkoasuja, kullekin oma nimi. **Monista** tyyli, jos haluat aloittaa kopiosta.
+
+Esikatselu päivittyy sitä mukaa kuin muutat asioita. Ota tyyli käyttöön painamalla widgetiä pitkään Home-valikossa, valitse widgetin muokkaus ja valitse tyyli kohdassa **Widgetin tyyli** — saman widgetin jokaisella kopiolla voi olla oma tyylinsä. Jos poistat tyylin, sitä käyttävät widgetit palaavat tyyliin **Oletus**.
+
+Lukitusnäytön widgetit pitävät järjestelmän antaman ulkoasun.
+
+---
+
 ## Ulkoasu
 
-Widgetit noudattavat oletuksena järjestelmän vaalea/tumma-asetusta, tai voit kiinnittää ne valitsemaasi taustaväriin — sovellus valitsee luettavan tekstivärin automaattisesti sen mukaan, kuinka kirkas väri on. Aseta se kohdassa **Asetukset › Ulkoasu › Widgetin teema**. Katso [Mukauttaminen](./05-personalization.md).
+Widgetit noudattavat oletuksena järjestelmän vaalea/tumma-asetusta, tai voit kiinnittää ne valitsemaasi taustaväriin — sovellus valitsee luettavan tekstivärin automaattisesti sen mukaan, kuinka kirkas väri on. Aseta se kohdassa **Widgetin teema** näkymän **Asetukset › Ulkoasu › Widget-galleria** yläosassa. Tyylin oma taustaväri menee tämän asetuksen edelle. Katso [Mukauttaminen](./05-personalization.md).
 
 Widgetit päivittyvät itsestään pitkin päivää ja heti, kun muutat jotain sovelluksessa.
 

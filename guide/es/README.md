@@ -19,19 +19,19 @@ Funciona del todo sin conexión y sin cuenta. Inicia sesión solo cuando quieras
 ## Guía
 
 ### [1. Lo básico](./01-basics.md)
-La pantalla del calendario, tareas y eventos de calendario, agregar eventos, eventos repetidos, tipos de evento y colores, recordatorios, evento principal, tareas pendientes y tareas completadas, y compartir tu calendario.
+La pantalla del calendario y su diseño de dos columnas en pantallas anchas, tareas y eventos de calendario, agregar eventos, eventos repetidos, tipos de evento y colores, recordatorios, evento principal, tareas pendientes y tareas completadas, y compartir tu calendario.
 
 ### [2. Entrada rápida con IA](./02-ai-input.md)
 Agrega y cambia eventos describiéndolos. Voz, teclado, imagen, Siri, el botón de Acción, widgets, Centro de Control y la hoja de compartir.
 
 ### [3. Widgets y pantalla bloqueada](./03-widgets.md)
-El conjunto completo de widgets y sus tamaños, qué muestra cada uno, completar tareas directamente desde un widget, la cuenta atrás en la pantalla bloqueada y el Centro de Control.
+El conjunto completo de widgets y sus tamaños, qué muestra cada uno, la cuenta atrás del Día D, personalizar widgets con tus propios estilos, completar tareas directamente desde un widget, la cuenta atrás en la pantalla bloqueada y el Centro de Control.
 
 ### [4. Calendarios externos](./04-external-calendars.md)
 Conectar Google Calendar y Apple Calendar, qué permite cada conexión y cómo controlar lo que se muestra.
 
 ### [5. Personalización y ajustes](./05-personalization.md)
-Apariencia del calendario, temas, días festivos, zona horaria, valores predeterminados de los eventos y todo lo demás en Ajustes.
+Apariencia del calendario, temas de color (también los tuyos), días festivos, zona horaria, valores predeterminados de los eventos y todo lo demás en Ajustes.
 
 ### [6. Cuenta y sincronización](./06-account-sync.md)
 Comportamiento sin conexión primero, lo que añade iniciar sesión, migrar los datos que creaste antes de iniciar sesión y gestionar tu cuenta.

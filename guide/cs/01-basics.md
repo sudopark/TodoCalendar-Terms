@@ -16,6 +16,10 @@ Měsíční kalendář je domovská obrazovka. Přejetím doleva a doprava se po
 
 Kolik toho každý den ukáže, je na vás: množství detailů u události, velikost písma, barvy, názvy svátků i lunární kalendář. [Přizpůsobení](./05-personalization.md) probírá každé nastavení jménem.
 
+### Na širokém displeji
+
+Když aplikace dostane široké okno, třeba na vnitřním displeji skládacího telefonu, kalendář se rozdělí do dvou sloupců: vlevo se měsíce posouvají shora dolů a vpravo jsou události vybraného dne a pod nimi události dne následujícího. Měsíc změníte posouváním levého sloupce; tlačítka předchozího a dalšího měsíce jsou skrytá. Když telefon zase složíte, zůstanete na stejném měsíci a dni v jednosloupcovém zobrazení.
+
 ---
 
 ## Úkoly a termíny

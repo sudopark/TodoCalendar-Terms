@@ -19,19 +19,19 @@ Appen fungerar helt offline och utan konto. Logga in bara när du vill säkerhet
 ## Guide
 
 ### [1. Grunderna](./01-basics.md)
-Kalendervyn, uppgifter och möten, att lägga till händelser, återkommande händelser, händelsetyper och färger, påminnelser, viktigaste händelsen, ej slutförda och slutförda uppgifter, samt att dela din kalender.
+Kalendervyn och vyn med två kolumner på breda skärmar, uppgifter och möten, att lägga till händelser, återkommande händelser, händelsetyper och färger, påminnelser, viktigaste händelsen, ej slutförda och slutförda uppgifter, samt att dela din kalender.
 
 ### [2. AI-snabbinmatning](./02-ai-input.md)
 Lägg till och ändra händelser genom att beskriva dem. Röst, tangentbord, bild, Siri, Åtgärdsknappen, widgetar, Kontrollcenter och delningsmenyn.
 
 ### [3. Widgetar och låsskärm](./03-widgets.md)
-Hela utbudet av widgetar och storlekar, vad var och en visar, att slutföra uppgifter direkt från en widget, nedräkningen på låsskärmen och Kontrollcenter.
+Hela utbudet av widgetar och storlekar, vad var och en visar, D-dag-nedräkningen, att anpassa widgetar med egna stilar, att slutföra uppgifter direkt från en widget, nedräkningen på låsskärmen och Kontrollcenter.
 
 ### [4. Externa kalendrar](./04-external-calendars.md)
 Att ansluta Google Kalender och Apple Kalender, vad varje anslutning klarar av, och hur du styr vad som visas.
 
 ### [5. Anpassning och inställningar](./05-personalization.md)
-Kalenderns utseende, teman, helgdagar, tidszon, standardvärden för händelser och allt annat under Inställningar.
+Kalenderns utseende, färgteman inklusive dina egna, helgdagar, tidszon, standardvärden för händelser och allt annat under Inställningar.
 
 ### [6. Konto och synkning](./06-account-sync.md)
 Hur appen fungerar offline först, vad en inloggning tillför, hur data du skapat innan du loggade in flyttas med, och hur du hanterar ditt konto.

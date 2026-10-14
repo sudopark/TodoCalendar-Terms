@@ -16,6 +16,10 @@ Mesačný kalendár je domovská obrazovka. Potiahnutím doľava a doprava sa pr
 
 Koľko toho každý deň ukáže, je na vás: množstvo detailov pri udalosti, veľkosť písma, farby, názvy sviatkov aj lunárny kalendár. [Prispôsobenie](./05-personalization.md) rozoberá každé nastavenie po mene.
 
+### Na širokej obrazovke
+
+Keď aplikácia dostane široké okno, napríklad na vnútornom displeji skladacieho telefónu, kalendár sa rozdelí do dvoch stĺpcov: vľavo sa mesiace posúvajú zhora nadol a vpravo sú udalosti vybraného dňa a pod nimi udalosti nasledujúceho dňa. Mesiac zmeníte posúvaním ľavého stĺpca; tlačidlá predchádzajúceho a nasledujúceho mesiaca sú skryté. Keď telefón znova zložíte, zostanete na tom istom mesiaci a dni v jednostĺpcovom zobrazení.
+
 ---
 
 ## Úlohy a termíny

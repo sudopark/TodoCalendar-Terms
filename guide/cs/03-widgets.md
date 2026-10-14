@@ -42,6 +42,18 @@ Ta jedna událost, kterou jste připnuli jako nejdůležitější, pořád na o�
 
 *Vložený na uzamčené obrazovce · Malý · Střední.*
 
+### Odpočet
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-dday.png" alt="Widget Odpočet" width="200">
+
+Odpočet k jedné události, kterou si vyberete — její název, kolik dní zbývá a datum.
+
+- **Vyberte událost** — podržte widget, zvolte Upravit widget a klepněte na **Událost**. V seznamu najdete termíny a svátky kolem dneška.
+- **Připněte události nahoru v tom seznamu** — v nabídce dalších akcí u termínu zvolte **Přidat do widgetu Odpočet**, nebo termín podržte v seznamu událostí dne. Připnuté události se objeví jako první, až budete widget příště upravovat.
+- **Opakující se termíny** — po výběru takového termínu zvolte v **Kolo opakování**, ke kterému výskytu se má odpočítávat.
+
+*Kruhový · obdélníkový · vložený na uzamčené obrazovce · Malý · Střední.*
+
 ### Měsíc a týdny
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-month.png" alt="Widget s měsícem" width="360">
@@ -86,7 +98,7 @@ Jedno klepnutí a jste rovnou v [rychlém zadávání AI](./02-ai-input.md).
 
 ### Widgety na uzamčené obrazovce
 
-Několik widgetů má i podobu pro uzamčenou obrazovku: **Další událost** (vložený a obdélníkový), **Další dnešní události** (obdélníkový), **Nejdůležitější událost** (vložený) a **Přidat pomocí AI** (kruhový).
+Několik widgetů má i podobu pro uzamčenou obrazovku: **Další událost** (vložený a obdélníkový), **Další dnešní události** (obdélníkový), **Nejdůležitější událost** (vložený), **Odpočet** (kruhový, obdélníkový a vložený) a **Přidat pomocí AI** (kruhový).
 
 ### Odpočet v Živé aktivitě
 
@@ -104,9 +116,27 @@ Na iOS 18 a novějším si můžete do Ovládacího centra přidat ovládací pr
 
 ---
 
+## Přizpůsobení widgetů
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-gallery.png" alt="Galerie widgetů" width="280">
+
+Otevřete **Nastavení › Vzhled › Galerie widgetů** a uvidíte všechny widgety a velikosti, ve kterých jsou k dispozici. Vyberte widget a klepněte na **Přizpůsobit**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/widget-style-edit.png" alt="Přizpůsobení widgetu" width="280">
+
+- **Podrobnosti** — zapínejte a vypínejte jednotlivé části widgetu, třeba název svátku, časové pásmo nebo počty událostí. Co jde vypnout, záleží na widgetu.
+- **Barva pozadí** — nechte **Podle společného motivu widgetů**, nebo dejte tomuto stylu vlastní barvu či fotku.
+- **Nový styl** — uložte si pro stejný widget několik vzhledů, každý s vlastním názvem. Přes **Duplikovat** začnete z kopie.
+
+Náhled se mění průběžně s úpravami. Styl použijete tak, že widget na ploše podržíte, zvolíte Upravit widget a vyberete styl v **Styl widgetu** — každá kopie stejného widgetu může mít jiný styl. Když styl smažete, widgety, které ho používaly, se vrátí na **Výchozí**.
+
+Widgety na uzamčené obrazovce si nechávají vzhled, který jim dá systém.
+
+---
+
 ## Vzhled
 
-Widgety se ve výchozím stavu řídí systémovým světlým/tmavým nastavením, nebo si je můžete připnout k barvě pozadí podle svého — aplikace podle jasu té barvy sama zvolí čitelnou barvu textu. Nastavíte to v **Nastavení › Vzhled › Motiv widgetu**. Viz [Přizpůsobení](./05-personalization.md).
+Widgety se ve výchozím stavu řídí systémovým světlým/tmavým nastavením, nebo si je můžete připnout k barvě pozadí podle svého — aplikace podle jasu té barvy sama zvolí čitelnou barvu textu. Nastavíte to v **Motiv widgetu** nahoře v **Nastavení › Vzhled › Galerie widgetů**. Vlastní barva pozadí stylu má před tímto nastavením přednost. Viz [Přizpůsobení](./05-personalization.md).
 
 Widgety se během dne obnovují samy a hned poté, co v aplikaci něco změníte, se aktualizují.
 

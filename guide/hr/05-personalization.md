@@ -35,11 +35,29 @@ Sve na ovom zaslonu odmah se vidi u pregledu dok mijenjate, pa možete vidjeti k
 
 ### Tema boja
 
-Slijedite sustav ili prikvačite aplikaciju na **Svijetlu** ili **Tamnu** bez obzira na to što iOS radi.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/color-theme-select.png" alt="Tema boja" width="280">
 
-### Tema widgeta
+Slijedite sustav, prikvačite aplikaciju na temu **Svijetla** ili **Tamna** bez obzira na to što iOS radi, ili odaberite jednu od ugrađenih tema boja. Dodirnite temu da je primijenite; pregled na vrhu pokazuje kako kalendar izgleda.
 
-Widgeti prema zadanim postavkama slijede temu sustava (**Koristi temu sustava**). Prebacite na **Odaberi prilagođenu boju** i odaberite pozadinu kakvu želite — aplikacija iz svjetline vaše boje zaključi treba li tekst biti svijetao ili taman.
+Za vlastitu temu dodirnite **Nova tema** pod **Moje teme**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hr/color-theme-edit.png" alt="Uređivanje teme" width="280">
+
+| Postavka | Što radi |
+|---|---|
+| Naziv | Kako se tema zove pod **Moje teme** |
+| Pozadina | Pozadina kalendara i zaslona |
+| Naglasak | Gumbi i istaknuti elementi |
+| Stil | **Ispuna**, **Grupirano** ili **Obris** — kako se kartice događaja ističu na pozadini |
+| Detaljne boje | Tekst, kartice, današnji dan, odabrani dan, blagdani i vikendi te gumb za AI. Ako ostanu na **Automatski**, izvode se iz vaše pozadine i naglaska |
+
+Da biste kasnije promijenili ili izbrisali temu, dugo je pritisnite pod **Moje teme** i odaberite **Uredi**.
+
+### Galerija widgeta
+
+Postavke widgeta nalaze se u odjeljku **Galerija widgeta** na ovom zaslonu. Na vrhu **Tema widgeta** određuje pozadinu svih vaših widgeta: prema zadanim postavkama slijede temu sustava, a kad isključite **Koristi temu sustava**, možete odabrati bilo koju boju pozadine — aplikacija iz svjetline vaše boje zaključi treba li tekst biti svijetao ili taman.
+
+Ispod toga svaki widget možete prilagoditi zasebno. Pogledajte [Prilagodbu widgeta](./03-widgets.md#prilagodba-widgeta).
 
 ### Osjećaj
 

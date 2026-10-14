@@ -35,11 +35,29 @@ Tot ce se află pe acest ecran se previzualizează pe loc, pe măsură ce modifi
 
 ### Temă de culoare
 
-Urmați sistemul sau fixați aplicația pe **Deschisă** ori **Întunecată**, indiferent ce face iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/color-theme-select.png" alt="Temă de culoare" width="280">
 
-### Tema widgetului
+Urmați sistemul, fixați aplicația pe **Deschisă** ori **Întunecată**, indiferent ce face iOS, sau alegeți una dintre temele de culoare incluse. Atingeți o temă ca s-o aplicați; previzualizarea de sus arată cum va arăta calendarul.
 
-Implicit, widget-urile rămân pe **Folosește tema sistemului**. Treceți pe **Selectează o culoare personalizată** și alegeți orice fundal doriți — aplicația deduce singură dacă textul trebuie să fie deschis sau închis, după cât de luminoasă e culoarea dvs.
+Ca să vă faceți propria temă, atingeți **Temă nouă** sub **Temele mele**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ro/color-theme-edit.png" alt="Editarea temei" width="280">
+
+| Setare | Ce face |
+|---|---|
+| Nume | Cum se numește tema în **Temele mele** |
+| Fundal | Fundalul calendarului și al ecranului |
+| Accent | Butoane și evidențieri |
+| Stil | **Umplut**, **Grupat** sau **Conturat** — cum se deosebesc cardurile de evenimente de fundal |
+| Culori detaliate | Textul, cardurile, ziua de azi, ziua selectată, sărbătorile și weekendurile, plus butonul AI. Lăsate pe **Automat**, sunt deduse din fundal și accent |
+
+Ca să modificați sau să ștergeți o temă mai târziu, țineți apăsat pe ea în **Temele mele** și alegeți **Editează**.
+
+### Galerie de widgeturi
+
+Setările widget-urilor se află în **Galerie de widgeturi**, pe acest ecran. Sus, **Tema widgetului** stabilește fundalul tuturor widget-urilor dvs.: implicit folosesc tema sistemului, iar dacă dezactivați **Folosește tema sistemului** puteți alege orice culoare de fundal — aplicația deduce singură dacă textul trebuie să fie deschis sau închis, după cât de luminoasă e culoarea dvs.
+
+Mai jos puteți personaliza fiecare widget în parte. Vedeți [Personalizarea widget-urilor](./03-widgets.md#personalizarea-widget-urilor).
 
 ### Senzații
 
