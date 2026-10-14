@@ -35,11 +35,29 @@ Everything on this screen previews live as you change it, so you can see what th
 
 ### Color theme
 
-Follow the system, or pin the app to **Light** or **Dark** regardless of what iOS is doing.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/color-theme-select.png" alt="Color theme" width="280">
 
-### Widget theme
+Follow the system, pin the app to **Light** or **Dark** regardless of what iOS is doing, or pick one of the built-in color themes. Tap a theme to apply it; the preview at the top shows how the calendar looks.
 
-Widgets use the system theme by default. Switch to a custom color and pick any background you like — the app decides whether text should be light or dark from how bright your color is.
+To make your own, tap **New theme** under **My themes**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/color-theme-edit.png" alt="Edit theme" width="280">
+
+| Setting | What it does |
+|---|---|
+| Name | What the theme is called in **My themes** |
+| Background | Calendar and screen background |
+| Accent | Buttons and highlights |
+| Style | **Filled**, **Grouped**, or **Outlined** — how event cards stand out from the background |
+| Detailed colors | Text, cards, today, the selected day, holidays and weekends, and the AI button. Left on **Auto**, they're worked out from your background and accent |
+
+To change or delete a theme later, long-press it in **My themes** and choose **Edit**.
+
+### Widget gallery
+
+Widget settings live in **Widget gallery** on this screen. At the top, **Widget theme** sets the background for all your widgets: they use the system theme by default, and turning off **Use system theme** lets you pick any background color — the app decides whether text should be light or dark from how bright your color is.
+
+Below that you can customize each widget on its own. See [Customizing widgets](./03-widgets.md#customizing-widgets).
 
 ### Feel
 

@@ -42,6 +42,18 @@ The one event you pinned as most important, always in view. See [Foremost event]
 
 *Lock Screen inline · Small · Medium.*
 
+### D-Day
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-dday.png" alt="D-Day widget" width="200">
+
+A countdown to one event you choose — its name, how many days are left, and the date.
+
+- **Pick the event** — long-press the widget, choose Edit Widget, and tap **Event**. Schedules and holidays around today are listed for you.
+- **Pin events to the top of that list** — choose **Add to D-day widget** from a schedule's more menu, or long-press the schedule in the day's event list. Pinned events show up first next time you edit the widget.
+- **Repeating schedules** — after picking one, choose which occurrence to count down to with **Repeat turn**.
+
+*Lock Screen circular · rectangular · inline · Small · Medium.*
+
 ### Month and weeks
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-month.png" alt="Month widget" width="360">
@@ -86,7 +98,7 @@ One tap straight into [AI quick input](./02-ai-input.md).
 
 ### Lock Screen widgets
 
-Several widgets have Lock Screen forms: **Next event** (inline and rectangular), **Today's next events** (rectangular), **Foremost Event** (inline), and **Add with AI** (circular).
+Several widgets have Lock Screen forms: **Next event** (inline and rectangular), **Today's next events** (rectangular), **Foremost Event** (inline), **D-Day** (circular, rectangular, and inline), and **Add with AI** (circular).
 
 ### Live Activity countdown
 
@@ -104,9 +116,27 @@ On iOS 18 and later you can add the **Add with AI** control to Control Center, s
 
 ---
 
+## Customizing widgets
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-gallery.png" alt="Widget gallery" width="280">
+
+Open **Settings › Appearance › Widget gallery** to see every widget and the sizes it comes in. Pick a widget and tap **Customize**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/widget-style-edit.png" alt="Customize widget" width="280">
+
+- **Details** — turn individual parts of the widget on or off, such as the holiday name, time zone, or event counts. What you can turn off depends on the widget.
+- **Background color** — keep **Follow the shared widget theme**, or give this style a color or photo of its own.
+- **New style** — save several looks for the same widget, each with its own name. **Duplicate** one to start from a copy.
+
+The preview updates as you change things. To use a style, long-press the widget on your Home Screen, choose Edit Widget, and pick it under **Widget style** — two copies of the same widget can each have a different style. If you delete a style, widgets using it go back to **Default**.
+
+Lock Screen widgets keep the look the system gives them.
+
+---
+
 ## Appearance
 
-Widgets follow your system light/dark setting by default, or you can pin them to a background color of your choice — the app picks readable text automatically based on how bright that color is. Set it in **Settings › Appearance › Widget theme**. See [Personalization](./05-personalization.md).
+Widgets follow your system light/dark setting by default, or you can pin them to a background color of your choice — the app picks readable text automatically based on how bright that color is. Set it under **Widget theme** at the top of **Settings › Appearance › Widget gallery**. A style's own background color takes priority over this. See [Personalization](./05-personalization.md).
 
 Widgets refresh on their own through the day and update right after you change something in the app.
 

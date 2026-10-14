@@ -16,6 +16,10 @@ The month grid is the home screen. Swipe left and right to move between months, 
 
 How much each day shows is up to you — the amount of detail per event, text size, colors, holiday names, and the lunar calendar. [Personalization](./05-personalization.md) covers each setting by name.
 
+### On a wide screen
+
+When the app gets a wide window, such as on the inner screen of a foldable phone, the calendar splits into two columns: months scroll top to bottom on the left, and the selected day's events sit on the right with the next day's events below them. Scroll the left column to change months; the previous and next month buttons are hidden. Fold the phone back and you're on the same month and day in the single-column layout.
+
 ---
 
 ## To-dos and schedules
