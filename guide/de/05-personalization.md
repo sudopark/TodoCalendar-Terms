@@ -35,11 +35,29 @@ Alles auf diesem Bildschirm zeigt sich live in der Vorschau, während Sie es än
 
 ### Farbschema
 
-Folgen Sie dem System oder legen Sie die App auf **Hell** oder **Dunkel** fest, unabhängig davon, was iOS gerade tut.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/color-theme-select.png" alt="Farbschema" width="280">
 
-### Widget-Design
+Folgen Sie dem System, legen Sie die App unabhängig davon, was iOS gerade tut, auf **Hell** oder **Dunkel** fest, oder wählen Sie eines der integrierten Farbschemas. Tippen Sie auf ein Farbschema, um es anzuwenden; die Vorschau oben zeigt, wie der Kalender aussieht.
 
-Widgets nutzen standardmäßig **Systemdesign verwenden**. Mit **Eigene Farbe auswählen** legen Sie einen beliebigen Hintergrund fest — die App ermittelt anhand der Helligkeit dieser Farbe, ob der Text hell oder dunkel sein sollte.
+Für ein eigenes tippen Sie unter **Meine Farbschemas** auf **Neues Farbschema**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/de/color-theme-edit.png" alt="Farbschema bearbeiten" width="280">
+
+| Einstellung | Wirkung |
+|---|---|
+| Name | Der Name des Farbschemas unter **Meine Farbschemas** |
+| Hintergrund | Hintergrund des Kalenders und der Bildschirme |
+| Akzent | Tasten und Hervorhebungen |
+| Kartenstil | **Gefüllt**, **Gruppiert** oder **Umrandet** — wie sich Ereigniskarten vom Hintergrund abheben |
+| Detailfarben | Text, Karten, heute, der ausgewählte Tag, Feiertage und Wochenenden sowie die KI-Taste. Stehen sie auf **Automatisch**, leitet die App sie aus Hintergrund und Akzent ab |
+
+Um ein Farbschema später zu ändern oder zu löschen, halten Sie es unter **Meine Farbschemas** gedrückt und wählen Sie **Bearbeiten**.
+
+### Widget-Galerie
+
+Die Widget-Einstellungen finden Sie unter **Widget-Galerie** auf diesem Bildschirm. Ganz oben legt **Widget-Design** den Hintergrund all Ihrer Widgets fest: Standardmäßig nutzen sie das Systemdesign, und wenn Sie **Systemdesign verwenden** ausschalten, können Sie eine beliebige Hintergrundfarbe wählen — die App ermittelt anhand der Helligkeit dieser Farbe, ob der Text hell oder dunkel sein sollte.
+
+Darunter können Sie jedes Widget einzeln anpassen. Siehe [Widgets anpassen](./03-widgets.md#widgets-anpassen).
 
 ### Haptik und Bewegung
 

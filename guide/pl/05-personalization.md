@@ -35,11 +35,29 @@ Wszystko na tym ekranie pokazuje się w podglądzie na żywo, w miarę jak to zm
 
 ### Motyw kolorystyczny
 
-Idź za systemem albo przypnij aplikację do trybu **Jasny** czy **Ciemny**, niezależnie od tego, co robi iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/color-theme-select.png" alt="Motyw kolorystyczny" width="280">
 
-### Motyw widżetu
+Idź za systemem, przypnij aplikację do trybu **Jasny** czy **Ciemny** niezależnie od tego, co robi iOS, albo wybierz jeden z wbudowanych motywów kolorystycznych. Stuknij motyw, żeby go zastosować; podgląd na górze pokazuje, jak wygląda kalendarz.
 
-Widżety domyślnie korzystają z ustawienia **Użyj motywu systemowego**. Opcja **Wybierz własny kolor** pozwala ustawić dowolne tło — aplikacja sama wyliczy z jasności tego koloru, czy tekst ma być jasny, czy ciemny.
+Żeby stworzyć własny, stuknij **Nowy motyw** w sekcji **Moje motywy**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/color-theme-edit.png" alt="Edycja motywu" width="280">
+
+| Ustawienie | Do czego służy |
+|---|---|
+| Nazwa | Jak motyw nazywa się w **Moje motywy** |
+| Tło | Tło kalendarza i ekranu |
+| Akcent | Przyciski i wyróżnienia |
+| Styl | **Wypełnienie**, **Grupy** lub **Kontur** — jak karty wydarzeń odcinają się od tła |
+| Kolory szczegółowe | Tekst, karty, dzisiejszy dzień, wybrany dzień, święta i weekendy oraz przycisk AI. Pozostawione na **Auto** są wyliczane z tła i akcentu |
+
+Żeby później zmienić albo usunąć motyw, przytrzymaj go w **Moje motywy** i wybierz **Edytuj**.
+
+### Galeria widżetów
+
+Ustawienia widżetów są w **Galeria widżetów** na tym ekranie. Na górze **Motyw widżetu** ustala tło wszystkich Twoich widżetów: domyślnie korzystają z motywu systemowego, a po wyłączeniu **Użyj motywu systemowego** możesz wybrać dowolny kolor tła — aplikacja sama wyliczy z jasności tego koloru, czy tekst ma być jasny, czy ciemny.
+
+Niżej możesz dostosować każdy widżet z osobna. Zobacz [Dostosowywanie widżetów](./03-widgets.md#dostosowywanie-widżetów).
 
 ### Odczucia
 

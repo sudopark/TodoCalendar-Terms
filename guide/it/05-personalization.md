@@ -35,11 +35,29 @@ Tutto quello che c'è in questa schermata si vede in anteprima dal vivo mentre l
 
 ### Tema colore
 
-Segui il sistema, oppure fissa l'app su **Chiaro** o **Scuro** a prescindere da quello che fa iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/color-theme-select.png" alt="Tema colore" width="280">
 
-### Tema widget
+Segui il sistema, fissa l'app su **Chiaro** o **Scuro** a prescindere da quello che fa iOS, oppure scegli uno dei temi colore integrati. Tocca un tema per applicarlo; l'anteprima in alto mostra come appare il calendario.
 
-Per impostazione predefinita i widget sono su **Usa tema di sistema**. Passa a **Seleziona colore personalizzato** e scegli lo sfondo che preferisci: l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso il tuo colore.
+Per crearne uno tuo, tocca **Nuovo tema** in **I miei temi**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/it/color-theme-edit.png" alt="Modifica tema" width="280">
+
+| Impostazione | Cosa fa |
+|---|---|
+| Nome | Il nome del tema in **I miei temi** |
+| Sfondo | Sfondo del calendario e dello schermo |
+| Accento | Pulsanti ed evidenziazioni |
+| Stile | **Pieno**, **Raggruppato** o **Contornato**: come le schede degli eventi si staccano dallo sfondo |
+| Colori dettagliati | Testo, schede, oggi, il giorno selezionato, festività e fine settimana, e il pulsante IA. Se li lasci su **Auto**, vengono ricavati dal tuo sfondo e dal tuo accento |
+
+Per modificare o eliminare un tema in seguito, tienilo premuto in **I miei temi** e scegli **Modifica**.
+
+### Galleria widget
+
+Le impostazioni dei widget si trovano in **Galleria widget**, in questa schermata. In alto, **Tema widget** imposta lo sfondo di tutti i tuoi widget: per impostazione predefinita usano il tema di sistema, e disattivando **Usa tema di sistema** puoi scegliere il colore di sfondo che preferisci; l'app calcola da sola se il testo debba essere chiaro o scuro in base a quanto è luminoso il tuo colore.
+
+Più sotto puoi personalizzare ogni widget singolarmente. Vedi [Personalizzare i widget](./03-widgets.md#personalizzare-i-widget).
 
 ### Sensazioni
 

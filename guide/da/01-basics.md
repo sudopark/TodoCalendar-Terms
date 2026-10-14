@@ -16,6 +16,10 @@ Månedskalenderen er appens forside. Stryg til venstre og højre for at skifte m
 
 Hvor meget hver dag viser, bestemmer du selv: hvor mange detaljer hver begivenhed får, tekststørrelsen, farverne, navnene på helligdage og månekalenderen. [Tilpasning](./05-personalization.md) gennemgår hver enkelt indstilling ved navn.
 
+### På en bred skærm
+
+Når appen får et bredt vindue, for eksempel på den indre skærm på en foldbar telefon, deler kalenderen sig i to kolonner: til venstre ruller månederne oppefra og ned, og til højre står den valgte dags begivenheder med næste dags begivenheder nedenunder. Rul i venstre kolonne for at skifte måned; knapperne til forrige og næste måned er skjult. Folder du telefonen sammen igen, står du på samme måned og dag i visningen med én kolonne.
+
 ---
 
 ## Opgaver og aftaler

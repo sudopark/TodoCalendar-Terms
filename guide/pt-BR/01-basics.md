@@ -16,6 +16,10 @@ O calendário do mês é a tela inicial. Deslize para a esquerda e para a direit
 
 O quanto cada dia mostra é você quem decide: o nível de detalhe de cada evento, o tamanho do texto, as cores, os nomes dos feriados e o calendário lunar. [Personalização](./05-personalization.md) percorre cada ajuste pelo nome.
 
+### Em uma tela larga
+
+Quando o app ganha uma janela larga, como na tela interna de um celular dobrável, o calendário se divide em duas colunas: à esquerda, os meses rolam de cima para baixo; à direita, ficam os eventos do dia selecionado, com os do dia seguinte logo abaixo. Role a coluna da esquerda para mudar de mês; os botões de mês anterior e próximo ficam ocultos. Dobre o celular de novo e você continua no mesmo mês e dia, no layout de uma coluna.
+
 ---
 
 ## Tarefas e compromissos

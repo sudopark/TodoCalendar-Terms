@@ -16,6 +16,10 @@ Der Monatskalender ist der Startbildschirm. Wischen Sie nach links und rechts, u
 
 Wie viel jeder Tag zeigt, entscheiden Sie: der Detailgrad je Ereignis, die Schriftgröße, die Farben, die Feiertagsnamen und der Mondkalender. [Personalisierung](./05-personalization.md) geht jede Einstellung einzeln durch.
 
+### Auf einem breiten Bildschirm
+
+Bekommt die App ein breites Fenster, etwa auf dem inneren Bildschirm eines faltbaren Telefons, teilt sich der Kalender in zwei Spalten: Links laufen die Monate von oben nach unten, rechts stehen die Ereignisse des ausgewählten Tages und darunter die des nächsten Tages. Den Monat wechseln Sie, indem Sie die linke Spalte scrollen; die Tasten für den vorherigen und den nächsten Monat sind ausgeblendet. Klappen Sie das Telefon wieder zu, sind Sie in der einspaltigen Ansicht beim selben Monat und Tag.
+
 ---
 
 ## Aufgaben und Termine

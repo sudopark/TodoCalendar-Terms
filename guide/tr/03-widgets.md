@@ -42,6 +42,18 @@ En önemli diye sabitlediğiniz tek etkinlik, hep göz önünde. Bkz. [En öneml
 
 *Kilit Ekranı satır içi · Küçük · Orta.*
 
+### Geri Sayım
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-dday.png" alt="Geri Sayım widget'ı" width="200">
+
+Seçtiğiniz tek bir etkinliğe geri sayım — etkinliğin adı, kaç gün kaldığı ve tarihi.
+
+- **Etkinliği seçin** — widget'a uzun basıp Widget'ı Düzenle'yi seçin ve **Etkinlik**'e dokunun. Bugünün çevresindeki randevular ve tatiller listede hazır gelir.
+- **Etkinlikleri listenin başına sabitleyin** — bir randevunun diğer seçenekler menüsünden **Geri Sayım widget'ına ekle**'yi seçin ya da günün etkinlik listesinde randevuya uzun basın. Sabitlenen etkinlikler, widget'ı bir sonraki düzenleyişinizde en üstte çıkar.
+- **Tekrarlayan randevular** — birini seçtikten sonra **Tekrarlama turu** ile hangi tekrara kadar sayılacağını belirleyin.
+
+*Kilit Ekranı dairesel · dikdörtgen · satır içi · Küçük · Orta.*
+
 ### Takvim ve haftalar
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-month.png" alt="Takvim widget'ı" width="360">
@@ -86,7 +98,7 @@ Tek dokunuşla doğrudan [hızlı AI girişine](./02-ai-input.md).
 
 ### Kilit Ekranı widget'ları
 
-Birkaç widget'ın Kilit Ekranı biçimi var: **Sonraki etkinlik** (satır içi ve dikdörtgen), **Bugünün kalan etkinlikleri** (dikdörtgen), **En Önemli Etkinlik** (satır içi) ve **AI ile Ekle** (dairesel).
+Birkaç widget'ın Kilit Ekranı biçimi var: **Sonraki etkinlik** (satır içi ve dikdörtgen), **Bugünün kalan etkinlikleri** (dikdörtgen), **En Önemli Etkinlik** (satır içi), **Geri Sayım** (dairesel, dikdörtgen ve satır içi) ve **AI ile Ekle** (dairesel).
 
 ### Canlı Etkinlik geri sayımı
 
@@ -104,9 +116,27 @@ iOS 18 ve sonrasında **AI ile Ekle** denetimini Kontrol Merkezi'ne ekleyebilirs
 
 ---
 
+## Widget'ları özelleştirme
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-gallery.png" alt="Widget galerisi" width="280">
+
+Tüm widget'ları ve sundukları boyutları görmek için **Ayarlar › Görünüm › Widget galerisi**'ni açın. Bir widget seçip **Özelleştir**'e dokunun.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/widget-style-edit.png" alt="Widget'ı özelleştir" width="280">
+
+- **Ayrıntılar** — tatil adı, saat dilimi ya da etkinlik sayıları gibi widget'ın parçalarını tek tek açıp kapatın. Neyi kapatabileceğiniz widget'a göre değişir.
+- **Arka plan rengi** — **Ortak widget temasını izle** seçili kalsın ya da bu stile kendi rengini veya fotoğrafını verin.
+- **Yeni stil** — aynı widget için her biri kendi adını taşıyan birkaç görünüm kaydedin. Bir kopyadan başlamak için **Çoğalt**'a dokunun.
+
+Önizleme, siz değiştirdikçe güncellenir. Bir stili kullanmak için Ana Ekran'daki widget'a uzun basıp Widget'ı Düzenle'yi seçin ve stili **Widget stili** altından seçin — aynı widget'ın iki kopyası farklı stiller kullanabilir. Bir stili silerseniz onu kullanan widget'lar **Varsayılan**'a döner.
+
+Kilit Ekranı widget'ları sistemin verdiği görünümü korur.
+
+---
+
 ## Görünüm
 
-Widget'lar varsayılan olarak sistemin açık/koyu ayarını izler; dilerseniz seçtiğiniz bir arka plan rengine sabitleyebilirsiniz — uygulama, o rengin ne kadar parlak olduğuna bakarak okunaklı metin rengini kendisi belirler. **Ayarlar › Görünüm › Widget teması**'ndan ayarlayın. Bkz. [Kişiselleştirme](./05-personalization.md).
+Widget'lar varsayılan olarak sistemin açık/koyu ayarını izler; dilerseniz seçtiğiniz bir arka plan rengine sabitleyebilirsiniz — uygulama, o rengin ne kadar parlak olduğuna bakarak okunaklı metin rengini kendisi belirler. **Ayarlar › Görünüm › Widget galerisi**'nin en üstündeki **Widget teması**'ndan ayarlayın. Bir stile ayrı bir arka plan rengi verdiyseniz o renk önce gelir. Bkz. [Kişiselleştirme](./05-personalization.md).
 
 Widget'lar gün boyunca kendiliğinden yenilenir ve uygulamada bir şeyi değiştirdiğinizde hemen güncellenir.
 

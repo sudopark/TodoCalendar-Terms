@@ -35,11 +35,29 @@ Ezen a képernyőn minden élőben mutatja az előnézetet, ahogy változtat raj
 
 ### Színtéma
 
-Kövesse a rendszert, vagy rögzítse az alkalmazást **Világos** vagy **Sötét** módra, függetlenül attól, mit csinál az iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/color-theme-select.png" alt="Színtéma" width="280">
 
-### Widget témája
+Kövesse a rendszert, rögzítse az alkalmazást **Világos** vagy **Sötét** módra, függetlenül attól, mit csinál az iOS, vagy válasszon egyet a beépített színtémák közül. Koppintson egy témára az alkalmazásához; a felül lévő előnézet megmutatja, hogyan néz ki a naptár.
 
-A widgetek alapból a rendszertémát használják. Váltson az **Egyéni szín kiválasztása** lehetőségre, és válasszon tetszőleges hátteret — az alkalmazás a szín világosságából számolja ki, hogy a szövegnek világosnak vagy sötétnek kell-e lennie. A **Rendszertéma használata** visszaállítja az alapértelmezést.
+Saját téma készítéséhez koppintson az **Új téma** elemre a **Saját témáim** részben.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/hu/color-theme-edit.png" alt="Téma szerkesztése" width="280">
+
+| Beállítás | Mire szolgál |
+|---|---|
+| Név | A téma neve a **Saját témáim** listában |
+| Háttér | A naptár és a képernyő háttere |
+| Kiemelőszín | Gombok és kiemelések |
+| Stílus | **Kitöltött**, **Csoportosított** vagy **Körvonalas** — hogyan válnak el az eseménykártyák a háttértől |
+| Részletes színek | Szöveg, kártyák, a mai nap, a kiválasztott nap, ünnepek és hétvégék, valamint az AI gomb. Ha **Automatikus** beállításon hagyja őket, a háttérből és a kiemelőszínből számolódnak |
+
+Ha később módosítaná vagy törölné a témát, nyomja hosszan a **Saját témáim** részben, és válassza a **Szerkesztés** lehetőséget.
+
+### Widgetgaléria
+
+A widgetek beállításai ezen a képernyőn, a **Widgetgaléria** részben találhatók. Legfelül a **Widget témája** határozza meg az összes widget hátterét: alapból a rendszertémát használják, és ha kikapcsolja a **Rendszertéma használata** beállítást, tetszőleges háttérszínt választhat — az alkalmazás a szín világosságából számolja ki, hogy a szövegnek világosnak vagy sötétnek kell-e lennie.
+
+Alatta minden widgetet külön testreszabhat. Lásd: [Widgetek testreszabása](./03-widgets.md#widgetek-testreszabása).
 
 ### Érzet
 

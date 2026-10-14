@@ -19,19 +19,19 @@ Aplikacja działa w pełni offline i bez konta. Zaloguj się tylko wtedy, gdy ch
 ## Przewodnik
 
 ### [1. Podstawy](./01-basics.md)
-Ekran kalendarza, zadania i terminy, dodawanie wydarzeń, wydarzenia powtarzające się, typy wydarzeń i kolory, przypomnienia, najważniejsze wydarzenie, zadania niezakończone i ukończone oraz udostępnianie kalendarza.
+Ekran kalendarza i jego dwukolumnowy układ na szerokich ekranach, zadania i terminy, dodawanie wydarzeń, wydarzenia powtarzające się, typy wydarzeń i kolory, przypomnienia, najważniejsze wydarzenie, zadania niezakończone i ukończone oraz udostępnianie kalendarza.
 
 ### [2. Szybkie wprowadzanie AI](./02-ai-input.md)
 Dodawanie i zmienianie wydarzeń przez samo ich opisanie. Głos, klawiatura, obraz, Siri, przycisk Akcji, widżety, Centrum sterowania i arkusz udostępniania.
 
 ### [3. Widżety i ekran blokady](./03-widgets.md)
-Pełny zestaw widżetów i ich rozmiary, co pokazuje każdy z nich, kończenie zadań prosto z widżetu, odliczanie na ekranie blokady i Centrum sterowania.
+Pełny zestaw widżetów i ich rozmiary, co pokazuje każdy z nich, widżet Odliczanie, dostosowywanie widżetów własnymi stylami, kończenie zadań prosto z widżetu, odliczanie na ekranie blokady i Centrum sterowania.
 
 ### [4. Kalendarze zewnętrzne](./04-external-calendars.md)
 Łączenie Kalendarza Google i Kalendarza Apple, co obsługuje każde z połączeń i jak decydować o tym, co się pojawia.
 
 ### [5. Personalizacja i ustawienia](./05-personalization.md)
-Wygląd kalendarza, motywy, święta, strefa czasowa, domyślne ustawienia wydarzeń i cała reszta w Ustawieniach.
+Wygląd kalendarza, motywy kolorystyczne, w tym własne, święta, strefa czasowa, domyślne ustawienia wydarzeń i cała reszta w Ustawieniach.
 
 ### [6. Konto i synchronizacja](./06-account-sync.md)
 Działanie offline na pierwszym miejscu, co daje zalogowanie, przeniesienie danych utworzonych przed zalogowaniem i zarządzanie kontem.

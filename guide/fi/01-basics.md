@@ -16,6 +16,10 @@ Kuukausikalenteri on sovelluksen aloitusnäkymä. Pyyhkäise vasemmalle ja oikea
 
 Kuinka paljon kukin päivä näyttää, on sinun päätettävissäsi: tapahtumakohtaisen tiedon määrä, tekstin koko, värit, vapaapäivien nimet ja kuukalenteri. [Mukauttaminen](./05-personalization.md) käy jokaisen asetuksen läpi nimeltä.
 
+### Leveällä näytöllä
+
+Kun sovellus saa leveän ikkunan, esimerkiksi taitettavan puhelimen sisänäytöllä, kalenteri jakautuu kahteen sarakkeeseen: vasemmalla kuukaudet vierivät ylhäältä alas, ja oikealla näkyvät valitun päivän tapahtumat ja niiden alla seuraavan päivän tapahtumat. Vaihda kuukautta vierittämällä vasenta saraketta; edellisen ja seuraavan kuukauden painikkeet on piilotettu. Kun taitat puhelimen takaisin, olet samassa kuukaudessa ja päivässä yhden sarakkeen näkymässä.
+
 ---
 
 ## Tehtävät ja aikataulutapahtumat

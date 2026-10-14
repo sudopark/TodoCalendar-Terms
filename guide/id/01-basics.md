@@ -16,6 +16,10 @@ Kalender bulanan adalah layar utamanya. Geser ke kiri dan ke kanan untuk berpind
 
 Seberapa banyak yang ditampilkan tiap tanggal, Anda sendiri yang menentukan — seberapa rinci tiap acara ditampilkan, ukuran teks, warna, nama hari libur, dan kalender lunar. [Personalisasi](./05-personalization.md) membahas tiap pengaturan satu per satu dengan namanya.
 
+### Di layar lebar
+
+Saat aplikasi mendapat jendela yang lebar, misalnya di layar dalam ponsel lipat, kalender terbagi menjadi dua kolom: bulan-bulan bergulir dari atas ke bawah di kiri, sementara acara pada tanggal yang dipilih ada di kanan dengan acara hari berikutnya di bawahnya. Gulir kolom kiri untuk berganti bulan; tombol bulan sebelumnya dan berikutnya disembunyikan. Lipat kembali ponsel Anda dan Anda tetap berada di bulan dan tanggal yang sama dalam tata letak satu kolom.
+
 ---
 
 ## Tugas dan jadwal

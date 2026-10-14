@@ -35,11 +35,29 @@ Alles op dit scherm is meteen zichtbaar in het voorbeeld terwijl je het wijzigt,
 
 ### Kleurthema
 
-Volg het systeem, of zet de app vast op **Licht** of **Donker**, ongeacht wat iOS doet.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/color-theme-select.png" alt="Kleurthema" width="280">
 
-### Widgetthema
+Volg het systeem, zet de app vast op **Licht** of **Donker** ongeacht wat iOS doet, of kies een van de ingebouwde kleurthema's. Tik op een thema om het toe te passen; de voorvertoning bovenaan laat zien hoe de kalender eruitziet.
 
-Widgets gebruiken standaard **Systeemthema gebruiken**. Met **Aangepaste kleur selecteren** kies je elke achtergrond die je wilt — de app leidt uit de helderheid van die kleur af of de tekst licht of donker moet zijn.
+Wil je er zelf een maken, tik dan op **Nieuw thema** onder **Mijn thema's**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/color-theme-edit.png" alt="Thema bewerken" width="280">
+
+| Instelling | Wat het doet |
+|---|---|
+| Naam | Hoe het thema heet in **Mijn thema's** |
+| Achtergrond | Achtergrond van de kalender en het scherm |
+| Accent | Knoppen en markeringen |
+| Kaartstijl | **Gevuld**, **Gegroepeerd** of **Omlijnd** — hoe gebeurteniskaarten zich van de achtergrond onderscheiden |
+| Detailkleuren | Tekst, kaarten, vandaag, de geselecteerde dag, feestdagen en weekenden, en de AI-knop. Laat je ze op **Automatisch** staan, dan leidt de app ze af van je achtergrond en accent |
+
+Om een thema later te wijzigen of te verwijderen, houd je het ingedrukt in **Mijn thema's** en kies je **Bewerken**.
+
+### Widgetgalerij
+
+Widgetinstellingen vind je in **Widgetgalerij** op dit scherm. Bovenaan bepaalt **Widgetthema** de achtergrond van al je widgets: standaard gebruiken ze het systeemthema, en als je **Systeemthema gebruiken** uitzet, kies je elke achtergrondkleur die je wilt — de app leidt uit de helderheid van die kleur af of de tekst licht of donker moet zijn.
+
+Daaronder kun je elke widget apart aanpassen. Zie [Widgets aanpassen](./03-widgets.md#widgets-aanpassen).
 
 ### Bediening en beweging
 

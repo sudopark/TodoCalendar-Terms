@@ -19,19 +19,19 @@ Funciona del tot sense connexió i sense compte. Inicieu sessió només quan vul
 ## Guia
 
 ### [1. Els conceptes bàsics](./01-basics.md)
-La pantalla del calendari, tasques i cites, afegir esdeveniments, esdeveniments repetitius, tipus d'esdeveniment i colors, recordatoris, esdeveniment principal, tasques pendents i tasques completades, i compartir el calendari.
+La pantalla del calendari i la vista de dues columnes en pantalles amples, tasques i cites, afegir esdeveniments, esdeveniments repetitius, tipus d'esdeveniment i colors, recordatoris, esdeveniment principal, tasques pendents i tasques completades, i compartir el calendari.
 
 ### [2. Entrada ràpida amb IA](./02-ai-input.md)
 Afegiu i canvieu esdeveniments descrivint-los. Veu, teclat, imatge, Siri, el botó d'Acció, widgets, Centre de Control i el full de compartir.
 
 ### [3. Widgets i pantalla bloquejada](./03-widgets.md)
-El conjunt complet de widgets i les seves mides, què mostra cadascun, completar tasques directament des d'un widget, el compte enrere a la pantalla bloquejada i el Centre de Control.
+El conjunt complet de widgets i les seves mides, què mostra cadascun, el compte enrere de Dia D, personalitzar els widgets amb estils propis, completar tasques directament des d'un widget, el compte enrere a la pantalla bloquejada i el Centre de Control.
 
 ### [4. Calendaris externs](./04-external-calendars.md)
 Connectar Google Calendar i Apple Calendar, què permet cada connexió i com controlar què es mostra.
 
 ### [5. Personalització i configuració](./05-personalization.md)
-Aparença del calendari, temes, festius, fus horari, valors per defecte dels esdeveniments i tota la resta de la configuració.
+Aparença del calendari, temes de color, inclosos els vostres, festius, fus horari, valors per defecte dels esdeveniments i tota la resta de la configuració.
 
 ### [6. Compte i sincronització](./06-account-sync.md)
 Comportament sense connexió primer, què afegeix iniciar sessió, migrar les dades que vau crear abans d'iniciar sessió i gestionar el compte.

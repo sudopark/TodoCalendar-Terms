@@ -35,11 +35,29 @@ Allt på den här skärmen förhandsvisas direkt medan du ändrar, så du ser hu
 
 ### Färgtema
 
-Följ systemet, eller lås appen till **Ljust** eller **Mörkt** oavsett vad iOS gör.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/color-theme-select.png" alt="Färgtema" width="280">
 
-### Widget-tema
+Följ systemet, lås appen till **Ljust** eller **Mörkt** oavsett vad iOS gör, eller välj ett av de inbyggda färgtemana. Tryck på ett tema för att använda det; förhandsvisningen överst visar hur kalendern ser ut.
 
-Widgetar står på **Använd systemtema** som standard. Byt till **Välj anpassad färg** och välj vilken bakgrund du vill – appen räknar ut om texten ska vara ljus eller mörk utifrån hur ljus din färg är.
+Vill du göra ett eget trycker du på **Nytt tema** under **Mina teman**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/sv/color-theme-edit.png" alt="Redigera tema" width="280">
+
+| Inställning | Vad den gör |
+|---|---|
+| Namn | Vad temat heter under **Mina teman** |
+| Bakgrund | Kalenderns och skärmens bakgrund |
+| Accent | Knappar och markeringar |
+| Kortstil | **Fylld**, **Grupperad** eller **Konturerad** – hur händelsekorten skiljer sig från bakgrunden |
+| Detaljfärger | Text, kort, idag, den valda dagen, helgdagar och helger, samt AI-knappen. Lämnar du dem på **Automatisk** räknar appen ut dem från din bakgrund och accent |
+
+För att ändra eller ta bort ett tema senare håller du in det under **Mina teman** och väljer **Redigera**.
+
+### Widgetgalleri
+
+Widgetinställningarna finns i **Widgetgalleri** på den här skärmen. Överst bestämmer **Widget-tema** bakgrunden för alla dina widgetar: som standard använder de systemtemat, och stänger du av **Använd systemtema** kan du välja vilken bakgrundsfärg du vill – appen räknar ut om texten ska vara ljus eller mörk utifrån hur ljus din färg är.
+
+Under det kan du anpassa varje widget för sig. Se [Anpassa widgetar](./03-widgets.md#anpassa-widgetar).
 
 ### Känsla och rörelse
 

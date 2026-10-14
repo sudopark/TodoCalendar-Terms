@@ -16,6 +16,10 @@ La cuadrícula del mes es la pantalla principal. Desliza a izquierda y derecha p
 
 Cuánto muestra cada día lo decides tú: el nivel de detalle de cada evento, el tamaño del texto, los colores, los nombres de los días festivos y el calendario lunar. [Personalización](./05-personalization.md) repasa cada ajuste por su nombre.
 
+### En una pantalla ancha
+
+Cuando la app tiene una ventana ancha, como en la pantalla interior de un teléfono plegable, el calendario se divide en dos columnas: a la izquierda los meses se desplazan de arriba abajo, y a la derecha están los eventos del día seleccionado, con los del día siguiente debajo. Desplaza la columna izquierda para cambiar de mes; los botones de mes anterior y siguiente se ocultan. Vuelve a plegar el teléfono y seguirás en el mismo mes y día, con el diseño de una sola columna.
+
 ---
 
 ## Tareas y eventos de calendario

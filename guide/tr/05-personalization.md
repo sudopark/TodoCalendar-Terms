@@ -35,11 +35,29 @@ Bu ekrandaki her şey siz değiştirdikçe anlık olarak önizlenir; böylece ka
 
 ### Renk teması
 
-Sistemi izleyin ya da iOS ne yaparsa yapsın uygulamayı **Açık** veya **Koyu**'ya sabitleyin.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/color-theme-select.png" alt="Renk teması" width="280">
 
-### Widget teması
+Sistemi izleyin, iOS ne yaparsa yapsın uygulamayı **Açık** veya **Koyu**'ya sabitleyin ya da hazır renk temalarından birini seçin. Uygulamak için bir temaya dokunun; üstteki önizleme takvimin nasıl görüneceğini gösterir.
 
-Widget'lar varsayılan olarak **Sistem temasını kullan** ayarındadır. **Özel renk seç** seçeneğine geçip dilediğiniz arka planı belirleyin — uygulama, seçtiğiniz rengin parlaklığından metnin açık mı koyu mu olması gerektiğini kendisi çıkarır.
+Kendi temanızı yapmak için **Temalarım** altında **Yeni tema**'ya dokunun.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/tr/color-theme-edit.png" alt="Temayı düzenle" width="280">
+
+| Ayar | Ne işe yarar |
+|---|---|
+| Ad | Temanın **Temalarım**'da görünen adı |
+| Arka plan | Takvimin ve ekranın arka planı |
+| Vurgu rengi | Düğmeler ve vurgular |
+| Stil | **Dolgulu**, **Gruplu** veya **Çerçeveli** — etkinlik kartlarının arka plandan nasıl ayrıldığı |
+| Ayrıntılı renkler | Metin, kartlar, bugün, seçili gün, tatiller ve hafta sonları ile AI düğmesi. **Otomatik** bırakılırsa arka planınızdan ve vurgu renginizden türetilir |
+
+Bir temayı sonradan değiştirmek ya da silmek için **Temalarım**'da ona uzun basıp **Düzenle**'yi seçin.
+
+### Widget galerisi
+
+Widget ayarları bu ekrandaki **Widget galerisi**'nde toplanır. En üstteki **Widget teması** tüm widget'larınızın arka planını belirler: varsayılan olarak sistem temasını izlerler; **Sistem temasını kullan**'ı kapatırsanız dilediğiniz arka plan rengini seçebilirsiniz — uygulama, seçtiğiniz rengin parlaklığından metnin açık mı koyu mu olması gerektiğini kendisi çıkarır.
+
+Bunun altında her widget'ı ayrı ayrı özelleştirebilirsiniz. Bkz. [Widget'ları özelleştirme](./03-widgets.md#widgetları-özelleştirme).
 
 ### Hissiyat
 

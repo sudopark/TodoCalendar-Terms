@@ -35,11 +35,29 @@ Tot el que hi ha en aquesta pantalla es previsualitza en directe a mesura que ho
 
 ### Tema de color
 
-Seguiu el sistema, o fixeu l'aplicació a **Clar** o **Fosc** independentment del que faci iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/color-theme-select.png" alt="Tema de color" width="280">
 
-### Tema del widget
+Seguiu el sistema, fixeu l'aplicació a **Clar** o **Fosc** independentment del que faci iOS, o trieu un dels temes de color integrats. Toqueu un tema per aplicar-lo; la previsualització de dalt mostra com queda el calendari.
 
-Els widgets fan servir **Utilitza el tema del sistema** per defecte. Amb **Selecciona un color personalitzat** podeu triar el fons que vulgueu: l'aplicació dedueix si el text ha de ser clar o fosc segons com de clar sigui aquell color.
+Per fer-ne un de propi, toqueu **Tema nou** a **Els meus temes**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/color-theme-edit.png" alt="Edita el tema" width="280">
+
+| Opció | Què fa |
+|---|---|
+| Nom | Com es diu el tema a **Els meus temes** |
+| Fons | Fons del calendari i de la pantalla |
+| Accent | Botons i elements destacats |
+| Estil | **Ple**, **Agrupat** o **Amb contorn**: com es distingeixen les targetes d'esdeveniment del fons |
+| Colors detallats | Text, targetes, avui, el dia seleccionat, festius i caps de setmana, i el botó d'IA. Si els deixeu en **Automàtic**, es calculen a partir del fons i l'accent |
+
+Per canviar o eliminar un tema més endavant, manteniu-lo premut a **Els meus temes** i trieu **Edita**.
+
+### Galeria de widgets
+
+La configuració dels widgets és a **Galeria de widgets**, en aquesta mateixa pantalla. A dalt de tot, **Tema del widget** defineix el fons de tots els widgets: per defecte fan servir el tema del sistema, i si desactiveu **Utilitza el tema del sistema** podeu triar el color de fons que vulgueu. L'aplicació dedueix si el text ha de ser clar o fosc segons com de clar sigui aquell color.
+
+A sota podeu personalitzar cada widget per separat. Consulteu [Personalitzar els widgets](./03-widgets.md#personalitzar-els-widgets).
 
 ### Sensacions
 

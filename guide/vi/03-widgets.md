@@ -42,6 +42,18 @@ Sự kiện duy nhất bạn đã ghim là quan trọng nhất, luôn nằm tron
 
 *Nội tuyến trên Màn hình khóa · Nhỏ · Vừa.*
 
+### D-Day
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-dday.png" alt="Tiện ích D-Day" width="200">
+
+Đếm ngược tới một sự kiện do bạn chọn — tên sự kiện, số ngày còn lại và ngày diễn ra.
+
+- **Chọn sự kiện** — nhấn giữ tiện ích, chọn Sửa tiện ích, rồi chạm **Sự kiện**. Các lịch trình và ngày lễ quanh hôm nay được liệt kê sẵn cho bạn.
+- **Ghim sự kiện lên đầu danh sách đó** — chọn **Thêm vào tiện ích D-Day** trong menu tùy chọn của một lịch trình, hoặc nhấn giữ lịch trình đó trong danh sách sự kiện của ngày. Lần sau sửa tiện ích, các sự kiện đã ghim sẽ hiện lên đầu tiên.
+- **Lịch trình lặp lại** — sau khi chọn, hãy dùng **Lượt lặp lại** để chọn lần lặp muốn đếm ngược tới.
+
+*Hình tròn · hình chữ nhật · nội tuyến trên Màn hình khóa · Nhỏ · Vừa.*
+
 ### Lịch và tuần
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-month.png" alt="Tiện ích lịch" width="360">
@@ -86,7 +98,7 @@ Chạm một lần là vào thẳng [Nhập nhanh AI](./02-ai-input.md).
 
 ### Tiện ích Màn hình khóa
 
-Nhiều tiện ích có dạng dành cho Màn hình khóa: **Sự kiện tiếp theo** (nội tuyến và hình chữ nhật), **Các sự kiện còn lại hôm nay** (hình chữ nhật), **Sự kiện quan trọng nhất** (nội tuyến) và **Thêm bằng AI** (hình tròn).
+Nhiều tiện ích có dạng dành cho Màn hình khóa: **Sự kiện tiếp theo** (nội tuyến và hình chữ nhật), **Các sự kiện còn lại hôm nay** (hình chữ nhật), **Sự kiện quan trọng nhất** (nội tuyến), **D-Day** (hình tròn, hình chữ nhật và nội tuyến) và **Thêm bằng AI** (hình tròn).
 
 ### Đếm ngược bằng Hoạt động trực tiếp
 
@@ -104,9 +116,27 @@ Từ iOS 18 trở lên, bạn có thể thêm điều khiển **Thêm bằng AI*
 
 ---
 
+## Tùy chỉnh tiện ích
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-gallery.png" alt="Thư viện tiện ích" width="280">
+
+Mở **Cài đặt › Giao diện › Thư viện tiện ích** để xem mọi tiện ích cùng các cỡ của chúng. Chọn một tiện ích rồi chạm **Tùy chỉnh**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/widget-style-edit.png" alt="Tùy chỉnh tiện ích" width="280">
+
+- **Chi tiết** — bật hoặc tắt từng phần của tiện ích, như tên ngày lễ, múi giờ hay số lượng sự kiện. Những gì tắt được tùy vào từng tiện ích.
+- **Màu nền** — giữ **Theo chủ đề tiện ích chung**, hoặc đặt cho kiểu này một màu hay ảnh riêng.
+- **Kiểu mới** — lưu nhiều diện mạo cho cùng một tiện ích, mỗi cái một tên riêng. Dùng **Nhân bản** để bắt đầu từ một bản sao.
+
+Bản xem trước cập nhật ngay khi bạn thay đổi. Để dùng một kiểu, nhấn giữ tiện ích trên Màn hình chính, chọn Sửa tiện ích, rồi chọn kiểu đó ở **Kiểu tiện ích** — hai bản của cùng một tiện ích có thể mỗi bản một kiểu. Nếu bạn xóa một kiểu, các tiện ích đang dùng nó sẽ quay về **Mặc định**.
+
+Tiện ích Màn hình khóa giữ diện mạo do hệ thống quy định.
+
+---
+
 ## Giao diện
 
-Theo mặc định, tiện ích đi theo thiết lập sáng/tối của hệ thống, hoặc bạn có thể cố định chúng ở một màu nền tùy chọn — ứng dụng tự chọn màu chữ dễ đọc dựa trên độ sáng của màu đó. Đặt trong **Cài đặt › Giao diện › Chủ đề tiện ích**. Xem [Cá nhân hóa](./05-personalization.md).
+Theo mặc định, tiện ích đi theo thiết lập sáng/tối của hệ thống, hoặc bạn có thể cố định chúng ở một màu nền tùy chọn — ứng dụng tự chọn màu chữ dễ đọc dựa trên độ sáng của màu đó. Đặt ở **Chủ đề tiện ích** trên cùng trong **Cài đặt › Giao diện › Thư viện tiện ích**. Màu nền riêng của một kiểu được ưu tiên hơn thiết lập này. Xem [Cá nhân hóa](./05-personalization.md).
 
 Tiện ích tự làm mới trong ngày và cập nhật ngay sau khi bạn thay đổi điều gì đó trong ứng dụng.
 

@@ -19,19 +19,19 @@ Uygulama hesapsız ve çevrimdışı olarak eksiksiz çalışır. Yalnızca veri
 ## Rehber
 
 ### [1. Temel özellikler](./01-basics.md)
-Takvim ekranı, görevler ve randevular, etkinlik ekleme, tekrarlayan etkinlikler, etkinlik türleri ve renkler, hatırlatmalar, en önemli etkinlik, tamamlanmamış ve tamamlanan görevler, takviminizi paylaşma.
+Takvim ekranı ve geniş ekranlardaki iki sütunlu düzeni, görevler ve randevular, etkinlik ekleme, tekrarlayan etkinlikler, etkinlik türleri ve renkler, hatırlatmalar, en önemli etkinlik, tamamlanmamış ve tamamlanan görevler, takviminizi paylaşma.
 
 ### [2. Hızlı AI girişi](./02-ai-input.md)
 Etkinlikleri anlatarak ekleyin ve değiştirin. Ses, klavye, görsel, Siri, Aksiyon Düğmesi, widget'lar, Kontrol Merkezi ve paylaşım sayfası.
 
 ### [3. Widget'lar ve Kilit Ekranı](./03-widgets.md)
-Tüm widget seti ve boyutları, her birinin ne gösterdiği, görevleri doğrudan widget'tan tamamlama, Kilit Ekranı geri sayımı ve Kontrol Merkezi.
+Tüm widget seti ve boyutları, her birinin ne gösterdiği, Geri Sayım widget'ı, widget'ları kendi stillerinizle özelleştirme, görevleri doğrudan widget'tan tamamlama, Kilit Ekranı geri sayımı ve Kontrol Merkezi.
 
 ### [4. Harici takvimler](./04-external-calendars.md)
 Google Takvim ve Apple Takvim'i bağlama, her bağlantının neleri desteklediği ve nelerin görüneceğini belirleme.
 
 ### [5. Kişiselleştirme ve ayarlar](./05-personalization.md)
-Takvim görünümü, temalar, tatiller, saat dilimi, etkinlik varsayılanları ve Ayarlar'daki diğer her şey.
+Takvim görünümü, kendi temalarınız dahil renk temaları, tatiller, saat dilimi, etkinlik varsayılanları ve Ayarlar'daki diğer her şey.
 
 ### [6. Hesap ve senkronizasyon](./06-account-sync.md)
 Çevrimdışı öncelikli çalışma, giriş yapmanın kattıkları, giriş yapmadan önce oluşturduğunuz verilerin taşınması ve hesabınızı yönetme.

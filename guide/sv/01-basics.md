@@ -16,6 +16,10 @@ Månadskalendern är appens startvy. Svep åt vänster och höger för att byta 
 
 Hur mycket varje dag visar bestämmer du själv: hur mycket detalj varje händelse får, textstorleken, färgerna, helgdagarnas namn och månkalendern. [Anpassning](./05-personalization.md) går igenom varje inställning vid namn.
 
+### På en bred skärm
+
+När appen får ett brett fönster, till exempel på den inre skärmen på en vikbar telefon, delas kalendern upp i två kolumner: till vänster rullar månaderna uppifrån och ned, och till höger visas den valda dagens händelser med nästa dags händelser under. Rulla den vänstra kolumnen för att byta månad; knapparna för föregående och nästa månad är dolda. Viker du ihop telefonen igen hamnar du på samma månad och dag i vyn med en kolumn.
+
 ---
 
 ## Uppgifter och möten

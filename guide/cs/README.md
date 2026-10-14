@@ -19,19 +19,19 @@ Funguje úplně offline a bez účtu. Přihlaste se jen tehdy, když chcete mít
 ## Průvodce
 
 ### [1. Základy](./01-basics.md)
-Obrazovka kalendáře, úkoly a termíny, přidávání událostí, opakující se události, typy událostí a barvy, připomenutí, nejdůležitější událost, nedokončené a dokončené úkoly a sdílení kalendáře.
+Obrazovka kalendáře a její dvousloupcové rozložení na širokých displejích, úkoly a termíny, přidávání událostí, opakující se události, typy událostí a barvy, připomenutí, nejdůležitější událost, nedokončené a dokončené úkoly a sdílení kalendáře.
 
 ### [2. Rychlé zadávání AI](./02-ai-input.md)
 Přidávejte a měňte události tím, že je popíšete. Hlas, klávesnice, obrázek, Siri, tlačítko Akce, widgety, Ovládací centrum a nabídka sdílení.
 
 ### [3. Widgety a uzamčená obrazovka](./03-widgets.md)
-Kompletní sada widgetů a jejich velikosti, co který ukazuje, dokončování úkolů přímo z widgetu, odpočet na uzamčené obrazovce a Ovládací centrum.
+Kompletní sada widgetů a jejich velikosti, co který ukazuje, widget Odpočet, přizpůsobení widgetů vlastními styly, dokončování úkolů přímo z widgetu, odpočet na uzamčené obrazovce a Ovládací centrum.
 
 ### [4. Externí kalendáře](./04-external-calendars.md)
 Připojení Google Kalendáře a Apple Kalendáře, co která integrace umí a jak řídit, co se zobrazí.
 
 ### [5. Přizpůsobení a nastavení](./05-personalization.md)
-Vzhled kalendáře, motivy, svátky, časové pásmo, výchozí hodnoty událostí a všechno ostatní v Nastavení.
+Vzhled kalendáře, barevná témata včetně vlastních, svátky, časové pásmo, výchozí hodnoty událostí a všechno ostatní v Nastavení.
 
 ### [6. Účet a synchronizace](./06-account-sync.md)
 Chování offline-first, co přidá přihlášení, migrace dat vytvořených před přihlášením a správa účtu.

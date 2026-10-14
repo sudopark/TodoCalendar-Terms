@@ -19,19 +19,19 @@ Funziona del tutto offline e senza account. Accedi solo quando vuoi il backup de
 ## Guida
 
 ### [1. Le basi](./01-basics.md)
-La schermata del calendario, da fare e pianificazioni, aggiungere eventi, eventi ricorrenti, tipi di evento e colori, promemoria, evento principale, da fare non completati e completati, condividere il tuo calendario.
+La schermata del calendario e il suo layout a due colonne sugli schermi ampi, da fare e pianificazioni, aggiungere eventi, eventi ricorrenti, tipi di evento e colori, promemoria, evento principale, da fare non completati e completati, condividere il tuo calendario.
 
 ### [2. Inserimento rapido IA](./02-ai-input.md)
 Aggiungere e modificare eventi descrivendoli. Voce, tastiera, immagine, Siri, tasto Azione, widget, Centro di Controllo e foglio di condivisione.
 
 ### [3. Widget e schermata di blocco](./03-widgets.md)
-La serie completa di widget e le loro dimensioni, cosa mostra ciascuno, completare i da fare direttamente da un widget, il conto alla rovescia sulla schermata di blocco e il Centro di Controllo.
+La serie completa di widget e le loro dimensioni, cosa mostra ciascuno, il conto alla rovescia Giorno X, personalizzare i widget con stili tuoi, completare i da fare direttamente da un widget, il conto alla rovescia sulla schermata di blocco e il Centro di Controllo.
 
 ### [4. Calendari esterni](./04-external-calendars.md)
 Collegare Google Calendar e Apple Calendar, cosa supporta ciascun collegamento e come decidere che cosa compare.
 
 ### [5. Personalizzazione e impostazioni](./05-personalization.md)
-Aspetto del calendario, temi, festività, fuso orario, valori predefiniti degli eventi e tutto il resto nelle Impostazioni.
+Aspetto del calendario, temi colore inclusi quelli creati da te, festività, fuso orario, valori predefiniti degli eventi e tutto il resto nelle Impostazioni.
 
 ### [6. Account e sincronizzazione](./06-account-sync.md)
 Comportamento offline-first, cosa aggiunge l'accesso, migrare i dati creati prima di accedere e gestire il tuo account.
