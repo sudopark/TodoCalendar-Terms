@@ -16,6 +16,10 @@ El calendari del mes és la pantalla principal. Llisqueu cap a l'esquerra i cap 
 
 Sou vosaltres qui decidiu quant mostra cada dia: la quantitat de detall per esdeveniment, la mida del text, els colors, els noms dels festius i el calendari lunar. [Personalització](./05-personalization.md) repassa cada opció pel seu nom.
 
+### En una pantalla ampla
+
+Quan l'aplicació té una finestra ampla, com a la pantalla interior d'un mòbil plegable, el calendari es divideix en dues columnes: a l'esquerra els mesos es desplacen de dalt a baix, i a la dreta hi ha els esdeveniments del dia seleccionat amb els del dia següent a sota. Desplaceu la columna de l'esquerra per canviar de mes; els botons de mes anterior i següent queden amagats. Si torneu a plegar el mòbil, sereu al mateix mes i dia en la vista d'una sola columna.
+
 ---
 
 ## Tasques i cites

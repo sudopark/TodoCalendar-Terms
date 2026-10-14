@@ -42,6 +42,18 @@ To jedno wydarzenie, które przypiąłeś jako najistotniejsze, zawsze na widoku
 
 *Ekran blokady wbudowany · Mały · Średni.*
 
+### Odliczanie
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-dday.png" alt="Widżet Odliczanie" width="200">
+
+Odliczanie do jednego wybranego przez Ciebie wydarzenia — jego nazwa, liczba pozostałych dni i data.
+
+- **Wybierz wydarzenie** — przytrzymaj widżet, wybierz Edytuj widżet i stuknij **Wydarzenie**. Lista podsuwa terminy i święta z okolic dzisiejszego dnia.
+- **Przypnij wydarzenia na górze tej listy** — wybierz **Dodaj do widżetu Odliczanie** z menu terminu albo przytrzymaj termin na liście wydarzeń dnia. Przypięte wydarzenia pojawią się na początku przy następnej edycji widżetu.
+- **Terminy powtarzające się** — po wybraniu takiego terminu wskaż w **Runda powtórzenia**, do którego wystąpienia ma liczyć.
+
+*Ekran blokady kołowy · prostokątny · wbudowany · Mały · Średni.*
+
 ### Kalendarz i tygodnie
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-month.png" alt="Widżet Kalendarz" width="360">
@@ -86,7 +98,7 @@ Jedno stuknięcie i jesteś w [Szybkim wprowadzaniu AI](./02-ai-input.md).
 
 ### Widżety na ekranie blokady
 
-Kilka widżetów ma postać na ekran blokady: **Następne wydarzenie** (wbudowany i prostokątny), **Kolejne dzisiejsze wydarzenia** (prostokątny), **Najważniejsze wydarzenie** (wbudowany) oraz **Dodaj za pomocą AI** (kołowy).
+Kilka widżetów ma postać na ekran blokady: **Następne wydarzenie** (wbudowany i prostokątny), **Kolejne dzisiejsze wydarzenia** (prostokątny), **Najważniejsze wydarzenie** (wbudowany), **Odliczanie** (kołowy, prostokątny i wbudowany) oraz **Dodaj za pomocą AI** (kołowy).
 
 ### Odliczanie w Aktywności na żywo
 
@@ -104,9 +116,27 @@ W iOS 18 i nowszych dodasz do Centrum sterowania element sterujący **Dodaj z AI
 
 ---
 
+## Dostosowywanie widżetów
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-gallery.png" alt="Galeria widżetów" width="280">
+
+Otwórz **Ustawienia › Wygląd › Galeria widżetów**, żeby zobaczyć wszystkie widżety i rozmiary, w jakich są dostępne. Wybierz widżet i stuknij **Dostosuj**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/pl/widget-style-edit.png" alt="Dostosowywanie widżetu" width="280">
+
+- **Szczegóły** — włączaj i wyłączaj poszczególne elementy widżetu, takie jak nazwa święta, strefa czasowa czy liczniki wydarzeń. To, co da się wyłączyć, zależy od widżetu.
+- **Kolor tła** — zostaw **Zgodnie ze wspólnym motywem widżetów** albo nadaj temu stylowi własny kolor lub zdjęcie.
+- **Nowy styl** — zapisz kilka wyglądów tego samego widżetu, każdy pod własną nazwą. **Duplikuj** istniejący, żeby zacząć od kopii.
+
+Podgląd zmienia się na bieżąco. Żeby użyć stylu, przytrzymaj widżet na ekranie początkowym, wybierz Edytuj widżet i wskaż styl w **Styl widżetu** — każda kopia tego samego widżetu może mieć własny styl. Jeśli usuniesz styl, widżety, które go używały, wrócą do stylu **Domyślny**.
+
+Widżety na ekranie blokady zachowują wygląd nadany przez system.
+
+---
+
 ## Wygląd
 
-Widżety domyślnie idą za systemowym ustawieniem jasnego i ciemnego motywu, ale możesz je przypiąć do wybranego koloru tła — aplikacja sama dobierze czytelny kolor tekstu na podstawie tego, jak jasny jest Twój kolor. Ustawisz to w **Ustawienia › Wygląd › Motyw widżetu**. Zajrzyj do [Personalizacji](./05-personalization.md).
+Widżety domyślnie idą za systemowym ustawieniem jasnego i ciemnego motywu, ale możesz je przypiąć do wybranego koloru tła — aplikacja sama dobierze czytelny kolor tekstu na podstawie tego, jak jasny jest Twój kolor. Ustawisz to w **Motyw widżetu** na górze **Ustawienia › Wygląd › Galeria widżetów**. Własny kolor tła stylu ma pierwszeństwo przed tym ustawieniem. Zajrzyj do [Personalizacji](./05-personalization.md).
 
 Widżety odświeżają się same w ciągu dnia i aktualizują się od razu, gdy coś zmienisz w aplikacji.
 

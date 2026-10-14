@@ -35,11 +35,29 @@ Všechno na téhle obrazovce se v náhledu projeví hned, jak to změníte, tak�
 
 ### Barevné téma
 
-Držte se systému, nebo aplikaci připněte na **Světlé** či **Tmavé** bez ohledu na to, co dělá iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/color-theme-select.png" alt="Barevné téma" width="280">
 
-### Motiv widgetu
+Držte se systému, připněte aplikaci na **Světlé** či **Tmavé** bez ohledu na to, co dělá iOS, nebo si vyberte některé z vestavěných barevných témat. Klepnutím na téma ho použijete; náhled nahoře ukazuje, jak bude kalendář vypadat.
 
-Widgety ve výchozím stavu používají **Použít systémový motiv**. Volbou **Vybrat vlastní barvu** si nastavíte jakékoli pozadí — aplikace si podle jasu té barvy sama odvodí, jestli má být text světlý, nebo tmavý.
+Vlastní téma vytvoříte klepnutím na **Nové téma** v části **Moje témata**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/cs/color-theme-edit.png" alt="Úprava tématu" width="280">
+
+| Nastavení | K čemu slouží |
+|---|---|
+| Název | Jak se téma jmenuje v **Moje témata** |
+| Pozadí | Pozadí kalendáře a obrazovky |
+| Zvýraznění | Tlačítka a zvýraznění |
+| Styl | **Výplň**, **Seskupení** nebo **Obrys** — jak se karty událostí odliší od pozadí |
+| Podrobné barvy | Text, karty, dnešek, vybraný den, svátky a víkendy a tlačítko AI. Když je necháte na **Automaticky**, odvodí se z pozadí a zvýraznění |
+
+Pokud chcete téma později změnit nebo smazat, podržte ho v **Moje témata** a zvolte **Upravit**.
+
+### Galerie widgetů
+
+Nastavení widgetů najdete v **Galerie widgetů** na této obrazovce. Nahoře **Motiv widgetu** určuje pozadí všech vašich widgetů: ve výchozím stavu používají systémový motiv, a když vypnete **Použít systémový motiv**, můžete si vybrat jakoukoli barvu pozadí — aplikace si podle jasu té barvy sama odvodí, jestli má být text světlý, nebo tmavý.
+
+Pod tím si můžete přizpůsobit každý widget zvlášť. Viz [Přizpůsobení widgetů](./03-widgets.md#přizpůsobení-widgetů).
 
 ### Pocit
 

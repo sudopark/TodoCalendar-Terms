@@ -16,6 +16,10 @@ Le calendrier du mois est l'écran d'accueil. Balayez vers la gauche ou la droit
 
 C'est vous qui décidez ce que chaque jour affiche : la quantité de détail par événement, la taille du texte, les couleurs, les noms des jours fériés et le calendrier lunaire. [Personnalisation](./05-personalization.md) reprend chaque réglage par son nom.
 
+### Sur un grand écran
+
+Quand l'application dispose d'une fenêtre large, comme sur l'écran intérieur d'un téléphone pliable, le calendrier se divise en deux colonnes : à gauche, les mois défilent de haut en bas ; à droite, les événements du jour sélectionné, avec ceux du lendemain en dessous. Faites défiler la colonne de gauche pour changer de mois ; les boutons mois précédent et mois suivant sont masqués. Repliez le téléphone et vous retrouvez le même mois et le même jour dans la mise en page sur une colonne.
+
 ---
 
 ## Tâches et rendez-vous

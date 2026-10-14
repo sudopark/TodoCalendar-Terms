@@ -16,6 +16,10 @@ Mở ứng dụng là thấy ngay lịch của tháng này. Vuốt sang trái ho
 
 Mỗi ngày hiện chi tiết đến đâu là do bạn quyết định: lượng thông tin của từng sự kiện, cỡ chữ, màu sắc, tên ngày lễ, cho tới âm lịch. [Cá nhân hóa](./05-personalization.md) gọi tên từng cài đặt một.
 
+### Trên màn hình rộng
+
+Khi ứng dụng có cửa sổ rộng, chẳng hạn trên màn hình trong của điện thoại gập, lịch sẽ tách thành hai cột: bên trái là các tháng cuộn từ trên xuống dưới, bên phải là sự kiện của ngày đang chọn, ngay bên dưới là sự kiện của ngày hôm sau. Cuộn cột bên trái để đổi tháng; nút tháng trước và tháng sau sẽ được ẩn đi. Gập điện thoại lại, bạn vẫn ở đúng tháng và ngày đó trong bố cục một cột.
+
 ---
 
 ## Việc cần làm và lịch trình

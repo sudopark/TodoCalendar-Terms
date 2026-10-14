@@ -16,6 +16,10 @@ Kalendarz miesiąca jest ekranem głównym. Przesuwaj w lewo i w prawo, żeby zm
 
 To, ile pokazuje każdy dzień, zależy od Ciebie: ilość szczegółów przy wydarzeniu, wielkość tekstu, kolory, nazwy świąt i kalendarz księżycowy. [Personalizacja](./05-personalization.md) omawia każde ustawienie z nazwy.
 
+### Na szerokim ekranie
+
+Gdy aplikacja dostaje szerokie okno, na przykład na wewnętrznym ekranie składanego telefonu, kalendarz dzieli się na dwie kolumny: po lewej miesiące przewijają się z góry na dół, a po prawej są wydarzenia wybranego dnia, a pod nimi wydarzenia dnia następnego. Miesiąc zmieniasz, przewijając lewą kolumnę; przyciski poprzedniego i następnego miesiąca są ukryte. Kiedy złożysz telefon z powrotem, zostajesz na tym samym miesiącu i dniu w układzie jednokolumnowym.
+
 ---
 
 ## Zadania i terminy

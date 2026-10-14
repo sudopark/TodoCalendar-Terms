@@ -19,19 +19,19 @@ Funcționează complet offline și fără cont. Autentificați-vă doar atunci c
 ## Ghid
 
 ### [1. Noțiuni de bază](./01-basics.md)
-Ecranul calendarului, sarcini și programări, adăugarea evenimentelor, evenimente repetitive, tipuri de evenimente și culori, notificări, evenimentul principal, sarcinile neterminate și cele finalizate, distribuirea calendarului.
+Ecranul calendarului și aspectul lui pe două coloane pe ecranele late, sarcini și programări, adăugarea evenimentelor, evenimente repetitive, tipuri de evenimente și culori, notificări, evenimentul principal, sarcinile neterminate și cele finalizate, distribuirea calendarului.
 
 ### [2. Introducere rapidă AI](./02-ai-input.md)
 Adăugați și modificați evenimente descriindu-le. Voce, tastatură, imagine, Siri, butonul de Acțiune, widget-uri, Centrul de control și fereastra de distribuire.
 
 ### [3. Widget-uri și ecranul de blocare](./03-widgets.md)
-Setul complet de widget-uri și dimensiunile lor, ce arată fiecare, finalizarea sarcinilor direct dintr-un widget, numărătoarea inversă de pe ecranul de blocare și Centrul de control.
+Setul complet de widget-uri și dimensiunile lor, ce arată fiecare, numărătoarea inversă până la un eveniment, personalizarea widget-urilor cu stiluri proprii, finalizarea sarcinilor direct dintr-un widget, numărătoarea inversă de pe ecranul de blocare și Centrul de control.
 
 ### [4. Calendare externe](./04-external-calendars.md)
 Conectarea Google Calendar și Apple Calendar, ce permite fiecare conexiune și cum controlați ce apare.
 
 ### [5. Personalizare și setări](./05-personalization.md)
-Aspectul calendarului, temele, sărbătorile, fusul orar, valorile implicite ale evenimentelor și tot ce se mai găsește în Setări.
+Aspectul calendarului, temele de culoare, inclusiv cele proprii, sărbătorile, fusul orar, valorile implicite ale evenimentelor și tot ce se mai găsește în Setări.
 
 ### [6. Cont și sincronizare](./06-account-sync.md)
 Comportamentul offline-first, ce aduce în plus autentificarea, migrarea datelor create înainte de autentificare și gestionarea contului.

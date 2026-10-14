@@ -19,19 +19,19 @@ Funciona totalmente offline e sem conta. Faça login só quando quiser backup do
 ## Guia
 
 ### [1. Noções básicas](./01-basics.md)
-A tela do calendário, tarefas e compromissos, adicionar eventos, eventos recorrentes, tipos de evento e cores, lembretes, evento principal, tarefas não concluídas e concluídas, e compartilhar seu calendário.
+A tela do calendário e o layout em duas colunas em telas largas, tarefas e compromissos, adicionar eventos, eventos recorrentes, tipos de evento e cores, lembretes, evento principal, tarefas não concluídas e concluídas, e compartilhar seu calendário.
 
 ### [2. Entrada rápida por IA](./02-ai-input.md)
 Adicione e altere eventos descrevendo o que quer. Voz, teclado, imagem, Siri, botão de Ação, widgets, Central de Controle e menu de compartilhamento.
 
 ### [3. Widgets e Tela Bloqueada](./03-widgets.md)
-Todos os widgets e tamanhos, o que cada um mostra, concluir tarefas direto de um widget, a contagem regressiva na Tela Bloqueada e a Central de Controle.
+Todos os widgets e tamanhos, o que cada um mostra, a Contagem Regressiva, personalizar widgets com seus próprios estilos, concluir tarefas direto de um widget, a contagem regressiva na Tela Bloqueada e a Central de Controle.
 
 ### [4. Calendários externos](./04-external-calendars.md)
 Conectar o Google Agenda e o Calendário da Apple, o que cada conexão permite e como controlar o que aparece.
 
 ### [5. Personalização e ajustes](./05-personalization.md)
-Aparência do calendário, temas, feriados, fuso horário, padrões de evento e todo o resto dos Ajustes.
+Aparência do calendário, temas de cores, incluindo os seus, feriados, fuso horário, padrões de evento e todo o resto dos Ajustes.
 
 ### [6. Conta e sincronização](./06-account-sync.md)
 Funcionamento offline em primeiro lugar, o que o login acrescenta, migrar os dados criados antes do login e gerenciar sua conta.

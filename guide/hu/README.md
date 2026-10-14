@@ -19,19 +19,19 @@ Teljesen működik offline és fiók nélkül. Csak akkor jelentkezzen be, ha me
 ## Útmutató
 
 ### [1. Alapok](./01-basics.md)
-A naptárképernyő, feladatok és programok, események hozzáadása, ismétlődő események, eseménytípusok és színek, értesítések, legfontosabb esemény, befejezetlen és befejezett feladatok, valamint a naptár megosztása.
+A naptárképernyő és kétoszlopos elrendezése széles képernyőn, feladatok és programok, események hozzáadása, ismétlődő események, eseménytípusok és színek, értesítések, legfontosabb esemény, befejezetlen és befejezett feladatok, valamint a naptár megosztása.
 
 ### [2. AI gyorsbevitel](./02-ai-input.md)
 Események hozzáadása és módosítása úgy, hogy egyszerűen elmondja őket. Hang, billentyűzet, kép, Siri, az Action gomb, widgetek, Vezérlőközpont és a megosztási lap.
 
 ### [3. Widgetek és zárolási képernyő](./03-widgets.md)
-A teljes widgetkészlet és a méretek, mit mutat mindegyik, feladatok befejezése egyenesen a widgetből, a zárolási képernyős visszaszámlálás és a Vezérlőközpont.
+A teljes widgetkészlet és a méretek, mit mutat mindegyik, a Visszaszámlálás widget, widgetek testreszabása saját stílusokkal, feladatok befejezése egyenesen a widgetből, a zárolási képernyős visszaszámlálás és a Vezérlőközpont.
 
 ### [4. Külső naptárak](./04-external-calendars.md)
 A Google Naptár és az Apple Naptár csatlakoztatása, mit tud az egyes kapcsolatok, és hogyan szabályozhatja, mi jelenjen meg.
 
 ### [5. Személyre szabás és beállítások](./05-personalization.md)
-A naptár megjelenése, témák, ünnepek, időzóna, esemény-alapértelmezések és minden más a Beállításokban.
+A naptár megjelenése, színtémák a sajátokat is beleértve, ünnepek, időzóna, esemény-alapértelmezések és minden más a Beállításokban.
 
 ### [6. Fiók és szinkronizálás](./06-account-sync.md)
 Az offline-first működés, mit ad hozzá a bejelentkezés, a bejelentkezés előtt létrehozott adatok átvitele és a fiók kezelése.

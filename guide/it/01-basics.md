@@ -16,6 +16,10 @@ Il calendario del mese è la schermata principale. Scorri a destra e a sinistra 
 
 Quanto mostrare di ogni giorno lo decidi tu: il livello di dettaglio di ogni evento, la dimensione del testo, i colori, i nomi delle festività e il calendario lunare. [Personalizzazione](./05-personalization.md) passa in rassegna ogni impostazione con il suo nome.
 
+### Su uno schermo ampio
+
+Quando l'app ha a disposizione una finestra ampia, come sullo schermo interno di un telefono pieghevole, il calendario si divide in due colonne: a sinistra i mesi scorrono dall'alto in basso, a destra ci sono gli eventi del giorno selezionato e sotto quelli del giorno dopo. Scorri la colonna di sinistra per cambiare mese; i pulsanti del mese precedente e successivo sono nascosti. Richiudi il telefono e ti ritrovi sullo stesso mese e sullo stesso giorno, nel layout a colonna singola.
+
 ---
 
 ## Da fare e pianificazioni

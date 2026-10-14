@@ -19,19 +19,19 @@ Aplikasi ini berjalan sepenuhnya secara offline dan tanpa akun. Masuk hanya kala
 ## Panduan
 
 ### [1. Dasar-dasarnya](./01-basics.md)
-Layar kalender, tugas dan jadwal, menambahkan acara, acara berulang, jenis acara dan warna, notifikasi, acara terpenting, tugas yang belum selesai dan yang sudah selesai, serta berbagi kalender.
+Layar kalender dan tata letak dua kolomnya di layar lebar, tugas dan jadwal, menambahkan acara, acara berulang, jenis acara dan warna, notifikasi, acara terpenting, tugas yang belum selesai dan yang sudah selesai, serta berbagi kalender.
 
 ### [2. Input cepat AI](./02-ai-input.md)
 Menambah dan mengubah acara hanya dengan menjelaskannya. Suara, papan ketik, gambar, Siri, Tombol Aksi, widget, Pusat Kontrol, dan lembar berbagi.
 
 ### [3. Widget dan Layar Terkunci](./03-widgets.md)
-Rangkaian widget lengkap beserta ukurannya, apa yang ditampilkan masing-masing, menyelesaikan tugas langsung dari widget, hitung mundur di Layar Terkunci, dan Pusat Kontrol.
+Rangkaian widget lengkap beserta ukurannya, apa yang ditampilkan masing-masing, hitung mundur H-Day, menyesuaikan widget dengan gaya Anda sendiri, menyelesaikan tugas langsung dari widget, hitung mundur di Layar Terkunci, dan Pusat Kontrol.
 
 ### [4. Kalender eksternal](./04-external-calendars.md)
 Menghubungkan Google Kalender dan Apple Kalender, apa yang didukung tiap koneksi, dan cara mengatur apa saja yang muncul.
 
 ### [5. Personalisasi dan pengaturan](./05-personalization.md)
-Tampilan kalender, tema, hari libur, zona waktu, nilai bawaan acara, dan semua isi Pengaturan lainnya.
+Tampilan kalender, tema warna termasuk buatan Anda sendiri, hari libur, zona waktu, nilai bawaan acara, dan semua isi Pengaturan lainnya.
 
 ### [6. Akun dan sinkronisasi](./06-account-sync.md)
 Perilaku offline-first, apa yang Anda dapat setelah masuk, memindahkan data yang dibuat sebelum masuk, dan mengelola akun.

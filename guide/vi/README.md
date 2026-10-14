@@ -19,19 +19,19 @@ Cuốn lịch cho bạn thấy các cuộc hẹn, nhưng không thấy những v
 ## Hướng dẫn
 
 ### [1. Kiến thức cơ bản](./01-basics.md)
-Màn hình lịch, việc cần làm và lịch trình, thêm sự kiện, sự kiện lặp lại, loại sự kiện và màu sắc, nhắc nhở, sự kiện quan trọng nhất, việc chưa hoàn thành và việc đã hoàn thành, chia sẻ lịch của bạn.
+Màn hình lịch và bố cục hai cột trên màn hình rộng, việc cần làm và lịch trình, thêm sự kiện, sự kiện lặp lại, loại sự kiện và màu sắc, nhắc nhở, sự kiện quan trọng nhất, việc chưa hoàn thành và việc đã hoàn thành, chia sẻ lịch của bạn.
 
 ### [2. Nhập nhanh AI](./02-ai-input.md)
 Thêm và thay đổi sự kiện bằng cách mô tả. Giọng nói, bàn phím, hình ảnh, Siri, nút Hành động, tiện ích, Trung tâm điều khiển và bảng chia sẻ.
 
 ### [3. Tiện ích và Màn hình khóa](./03-widgets.md)
-Toàn bộ bộ tiện ích và các cỡ, mỗi tiện ích hiển thị gì, hoàn thành việc cần làm ngay trên tiện ích, đếm ngược trên Màn hình khóa và Trung tâm điều khiển.
+Toàn bộ bộ tiện ích và các cỡ, mỗi tiện ích hiển thị gì, đếm ngược D-Day, tùy chỉnh tiện ích bằng kiểu của riêng bạn, hoàn thành việc cần làm ngay trên tiện ích, đếm ngược trên Màn hình khóa và Trung tâm điều khiển.
 
 ### [4. Lịch bên ngoài](./04-external-calendars.md)
 Kết nối Google Calendar và Apple Calendar, mỗi kết nối hỗ trợ những gì, và cách chọn thứ được hiển thị.
 
 ### [5. Cá nhân hóa và cài đặt](./05-personalization.md)
-Giao diện lịch, chủ đề màu, ngày lễ, múi giờ, giá trị mặc định của sự kiện và mọi mục còn lại trong Cài đặt.
+Giao diện lịch, chủ đề màu kể cả chủ đề bạn tự tạo, ngày lễ, múi giờ, giá trị mặc định của sự kiện và mọi mục còn lại trong Cài đặt.
 
 ### [6. Tài khoản và đồng bộ](./06-account-sync.md)
 Cách hoạt động ưu tiên ngoại tuyến, đăng nhập thêm được gì, chuyển dữ liệu bạn đã tạo trước khi đăng nhập, và quản lý tài khoản.

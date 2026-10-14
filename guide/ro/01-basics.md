@@ -16,6 +16,10 @@ Calendarul lunar este ecranul principal. Glisați stânga-dreapta ca să treceț
 
 Cât arată fiecare zi depinde de dvs.: cât de detaliat apare un eveniment, dimensiunea textului, culorile, numele sărbătorilor și calendarul lunar. [Personalizare](./05-personalization.md) trece prin fiecare setare pe nume.
 
+### Pe un ecran lat
+
+Când aplicația are o fereastră lată, de pildă pe ecranul interior al unui telefon pliabil, calendarul se împarte în două coloane: în stânga lunile se derulează de sus în jos, iar în dreapta apar evenimentele zilei selectate, cu evenimentele zilei următoare dedesubt. Derulați coloana din stânga ca să schimbați luna; butoanele pentru luna anterioară și următoare sunt ascunse. Pliați telefonul la loc și veți fi pe aceeași lună și zi, în aspectul cu o singură coloană.
+
 ---
 
 ## Sarcini și programări

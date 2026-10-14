@@ -42,6 +42,18 @@ El único evento que fijaste como el más importante, siempre a la vista. Consul
 
 *Inline de pantalla bloqueada · Pequeño · Mediano.*
 
+### Día D
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/widget-dday.png" alt="Widget de Día D" width="200">
+
+Una cuenta atrás hasta un evento que elijas: su nombre, cuántos días faltan y la fecha.
+
+- **Elegir el evento** — mantén pulsado el widget, elige Editar widget y toca **Evento**. En la lista aparecen los eventos de calendario y los días festivos cercanos a hoy.
+- **Fijar eventos al principio de esa lista** — elige **Añadir al widget de Día D** en el menú de más opciones de un evento de calendario, o mantén pulsado ese evento de calendario en la lista de eventos del día. Los eventos fijados aparecen primero la próxima vez que edites el widget.
+- **Eventos de calendario repetidos** — después de elegir uno, decide con **Turno de repetición** hasta qué repetición contar.
+
+*Circular, rectangular e inline de pantalla bloqueada · Pequeño · Mediano.*
+
 ### Calendario y semanas
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/widget-month.png" alt="Widget de calendario" width="360">
@@ -86,7 +98,7 @@ Un toque y estás directamente en la [Entrada rápida con IA](./02-ai-input.md).
 
 ### Widgets de la pantalla bloqueada
 
-Varios widgets tienen forma para la pantalla bloqueada: **Próximo evento** (inline y rectangular), **Los próximos eventos de hoy** (rectangular), **Evento principal** (inline) y **Añadir con IA** (circular).
+Varios widgets tienen forma para la pantalla bloqueada: **Próximo evento** (inline y rectangular), **Los próximos eventos de hoy** (rectangular), **Evento principal** (inline), **Día D** (circular, rectangular e inline) y **Añadir con IA** (circular).
 
 ### Cuenta atrás en actividad en vivo
 
@@ -104,9 +116,27 @@ En iOS 18 y posteriores puedes añadir el control **Añadir con IA** al Centro d
 
 ---
 
+## Personalizar widgets
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/widget-gallery.png" alt="Galería de widgets" width="280">
+
+Abre **Ajustes › Apariencia › Galería de widgets** para ver todos los widgets y los tamaños en que vienen. Elige un widget y toca **Personalizar**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/widget-style-edit.png" alt="Personalizar widget" width="280">
+
+- **Detalles** — activa o desactiva partes concretas del widget, como el nombre del día festivo, la zona horaria o el número de eventos. Lo que se puede desactivar depende del widget.
+- **Color de fondo** — deja **Seguir el tema de widget compartido** o dale a este estilo un color o una foto propios.
+- **Nuevo estilo** — guarda varios aspectos para el mismo widget, cada uno con su propio nombre. Usa **Duplicar** para partir de una copia.
+
+La vista previa se actualiza a medida que cambias cosas. Para usar un estilo, mantén pulsado el widget en la pantalla de inicio, elige Editar widget y selecciónalo en **Estilo del widget**: dos copias del mismo widget pueden tener cada una un estilo distinto. Si eliminas un estilo, los widgets que lo usaban vuelven a **Predeterminado**.
+
+Los widgets de la pantalla bloqueada mantienen el aspecto que les da el sistema.
+
+---
+
 ## Apariencia
 
-Los widgets siguen por defecto el ajuste claro/oscuro del sistema, o puedes fijarlos a un color de fondo a tu gusto — la app elige automáticamente un texto legible según lo claro que sea ese color. Configúralo en **Ajustes › Apariencia › Tema del widget**. Consulta [Personalización](./05-personalization.md).
+Los widgets siguen por defecto el ajuste claro/oscuro del sistema, o puedes fijarlos a un color de fondo a tu gusto — la app elige automáticamente un texto legible según lo claro que sea ese color. Configúralo en **Tema del widget**, arriba del todo en **Ajustes › Apariencia › Galería de widgets**. El color de fondo propio de un estilo tiene prioridad sobre este ajuste. Consulta [Personalización](./05-personalization.md).
 
 Los widgets se actualizan solos a lo largo del día y se refrescan justo después de que cambies algo en la app.
 

@@ -35,11 +35,29 @@ Alt på denne skærm vises med det samme i forhåndsvisningen, mens du ændrer d
 
 ### Farvetema
 
-Følg systemet, eller lås appen til **Lys** eller **Mørk**, uanset hvad iOS gør.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/color-theme-select.png" alt="Farvetema" width="280">
 
-### Widget-tema
+Følg systemet, lås appen til **Lys** eller **Mørk**, uanset hvad iOS gør, eller vælg et af de indbyggede farvetemaer. Tryk på et tema for at bruge det; forhåndsvisningen øverst viser, hvordan kalenderen ser ud.
 
-Widgets står på **Brug systemtema** som standard. Skift til **Vælg brugerdefineret farve**, og vælg den baggrund, du vil have – appen regner selv ud, om teksten skal være lys eller mørk, ud fra hvor lys din farve er.
+Vil du lave dit eget, trykker du på **Nyt tema** under **Mine temaer**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/da/color-theme-edit.png" alt="Rediger tema" width="280">
+
+| Indstilling | Hvad den gør |
+|---|---|
+| Navn | Hvad temaet hedder under **Mine temaer** |
+| Baggrund | Kalenderens og skærmens baggrund |
+| Accent | Knapper og fremhævninger |
+| Kortstil | **Udfyldt**, **Grupperet** eller **Kontureret** – hvordan begivenhedskort skiller sig ud fra baggrunden |
+| Detaljefarver | Tekst, kort, i dag, den valgte dag, helligdage og weekender samt AI-knappen. Lader du dem stå på **Automatisk**, regner appen dem ud fra din baggrund og accent |
+
+Vil du ændre eller slette et tema senere, holder du fingeren på det under **Mine temaer** og vælger **Rediger**.
+
+### Widget-galleri
+
+Widgetindstillingerne finder du i **Widget-galleri** på denne skærm. Øverst bestemmer **Widget-tema** baggrunden for alle dine widgets: som standard bruger de systemtemaet, og slår du **Brug systemtema** fra, kan du vælge en hvilken som helst baggrundsfarve – appen regner selv ud, om teksten skal være lys eller mørk, ud fra hvor lys din farve er.
+
+Nedenunder kan du tilpasse hver widget for sig. Se [Tilpas widgets](./03-widgets.md#tilpas-widgets).
 
 ### Fornemmelse og bevægelse
 

@@ -42,6 +42,18 @@ De ene gebeurtenis die je als belangrijkste hebt vastgezet, altijd in beeld. Zie
 
 *Inline op het toegangsscherm · Klein · Middelgroot.*
 
+### D-Day
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-dday.png" alt="Widget D-Day" width="200">
+
+Een aftelling naar één gebeurtenis die je zelf kiest — de naam, hoeveel dagen er nog over zijn, en de datum.
+
+- **De gebeurtenis kiezen** — houd de widget ingedrukt, kies Wijzig widget en tik op **Gebeurtenis**. Afspraken en feestdagen rond vandaag staan al voor je in de lijst.
+- **Gebeurtenissen bovenaan die lijst vastzetten** — kies **Toevoegen aan D-Day-widget** in het meer-menu van een afspraak, of houd de afspraak ingedrukt in de gebeurtenislijst van de dag. Vastgezette gebeurtenissen staan bovenaan de volgende keer dat je de widget wijzigt.
+- **Herhalende afspraken** — kies er een en geef daarna bij **Herhalingsbeurt** aan naar welke keer je wilt aftellen.
+
+*Cirkelvormig · rechthoekig · inline op het toegangsscherm · Klein · Middelgroot.*
+
 ### Kalender en weken
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-month.png" alt="Widget Kalender" width="360">
@@ -86,7 +98,7 @@ Met één tik rechtstreeks naar [AI-snelinvoer](./02-ai-input.md).
 
 ### Widgets op het toegangsscherm
 
-Meerdere widgets hebben een vorm voor het toegangsscherm: **Volgende gebeurtenis** (inline en rechthoekig), **Volgende gebeurtenissen van vandaag** (rechthoekig), **Belangrijkste gebeurtenis** (inline) en **Toevoegen met AI** (cirkelvormig).
+Meerdere widgets hebben een vorm voor het toegangsscherm: **Volgende gebeurtenis** (inline en rechthoekig), **Volgende gebeurtenissen van vandaag** (rechthoekig), **Belangrijkste gebeurtenis** (inline), **D-Day** (cirkelvormig, rechthoekig en inline) en **Toevoegen met AI** (cirkelvormig).
 
 ### Aftelling met live-activiteit
 
@@ -104,9 +116,27 @@ Op iOS 18 en later kun je de bediening **Toevoegen met AI** aan het bedieningspa
 
 ---
 
+## Widgets aanpassen
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-gallery.png" alt="Widgetgalerij" width="280">
+
+Open **Instellingen › Weergave › Widgetgalerij** om elke widget te zien met de formaten waarin hij er is. Kies een widget en tik op **Aanpassen**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nl/widget-style-edit.png" alt="Widget aanpassen" width="280">
+
+- **Details** — zet losse onderdelen van de widget aan of uit, zoals de naam van de feestdag, de tijdzone of het aantal gebeurtenissen. Wat je kunt uitzetten, verschilt per widget.
+- **Achtergrondkleur** — laat **Gedeeld widgetthema volgen** staan, of geef deze stijl een eigen kleur of foto.
+- **Nieuwe stijl** — bewaar meerdere looks voor dezelfde widget, elk met een eigen naam. Met **Dupliceren** begin je vanaf een kopie.
+
+De voorvertoning werkt meteen bij terwijl je iets wijzigt. Om een stijl te gebruiken, houd je de widget op je beginscherm ingedrukt, kies je Wijzig widget en selecteer je hem bij **Widgetstijl** — twee exemplaren van dezelfde widget kunnen elk een andere stijl hebben. Verwijder je een stijl, dan gaan widgets die hem gebruiken terug naar **Standaard**.
+
+Widgets op het toegangsscherm houden het uiterlijk dat het systeem ze geeft.
+
+---
+
 ## Weergave
 
-Widgets volgen standaard de licht/donker-instelling van je systeem, of je zet ze vast op een achtergrondkleur naar keuze — de app kiest automatisch leesbare tekst op basis van hoe helder die kleur is. Stel het in bij **Instellingen › Weergave › Widgetthema**. Zie [Personalisatie](./05-personalization.md).
+Widgets volgen standaard de licht/donker-instelling van je systeem, of je zet ze vast op een achtergrondkleur naar keuze — de app kiest automatisch leesbare tekst op basis van hoe helder die kleur is. Stel het in bij **Widgetthema** bovenaan **Instellingen › Weergave › Widgetgalerij**. Heeft een stijl een eigen achtergrondkleur, dan gaat die voor. Zie [Personalisatie](./05-personalization.md).
 
 Widgets vernieuwen zichzelf gedurende de dag en werken meteen bij nadat je iets in de app wijzigt.
 

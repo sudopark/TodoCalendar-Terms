@@ -35,11 +35,29 @@ Todo lo de esta pantalla se previsualiza en vivo mientras lo cambias, así que p
 
 ### Tema de color
 
-Sigue al sistema, o fija la app en **Claro** u **Oscuro** independientemente de lo que haga iOS.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/color-theme-select.png" alt="Tema de color" width="280">
 
-### Tema del widget
+Sigue al sistema, fija la app en **Claro** u **Oscuro** independientemente de lo que haga iOS, o elige uno de los temas de color incluidos. Toca un tema para aplicarlo; la vista previa de arriba muestra cómo se ve el calendario.
 
-Por defecto los widgets están en **Usar tema del sistema**. Cambia a **Seleccionar color personalizado** y elige el fondo que quieras — la app deduce si el texto debe ser claro u oscuro según lo brillante que sea tu color.
+Para crear el tuyo, toca **Nuevo tema** en **Mis temas**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/es/color-theme-edit.png" alt="Editar tema" width="280">
+
+| Ajuste | Qué hace |
+|---|---|
+| Nombre | Cómo se llama el tema en **Mis temas** |
+| Fondo | Fondo del calendario y de la pantalla |
+| Acento | Botones y resaltados |
+| Estilo | **Relleno**, **Agrupado** o **Contorno**: cómo se distinguen del fondo las tarjetas de los eventos |
+| Colores detallados | Texto, tarjetas, hoy, el día seleccionado, días festivos y fines de semana, y el botón de IA. Si los dejas en **Automático**, se calculan a partir de tu fondo y tu acento |
+
+Para cambiar o eliminar un tema más adelante, mantenlo pulsado en **Mis temas** y elige **Editar**.
+
+### Galería de widgets
+
+Los ajustes de los widgets están en **Galería de widgets**, en esta misma pantalla. Arriba, **Tema del widget** define el fondo de todos tus widgets: por defecto usan el tema del sistema, y al desactivar **Usar tema del sistema** puedes elegir el color de fondo que quieras — la app deduce si el texto debe ser claro u oscuro según lo brillante que sea tu color.
+
+Debajo puedes personalizar cada widget por separado. Consulta [Personalizar widgets](./03-widgets.md#personalizar-widgets).
 
 ### Sensación
 

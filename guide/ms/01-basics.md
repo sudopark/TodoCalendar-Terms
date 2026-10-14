@@ -16,6 +16,10 @@ Kalendar bulanan ialah skrin utama. Leret ke kiri dan ke kanan untuk berpindah a
 
 Berapa banyak yang dipaparkan pada setiap hari terpulang kepada anda — tahap perincian bagi setiap acara, saiz teks, warna, nama cuti dan kalendar lunar. [Pemperibadian](./05-personalization.md) menerangkan setiap tetapan mengikut namanya.
 
+### Pada skrin lebar
+
+Apabila aplikasi mendapat tetingkap yang lebar, seperti pada skrin dalam telefon boleh lipat, kalendar terbahagi kepada dua lajur: bulan-bulan ditatal dari atas ke bawah di sebelah kiri, manakala acara hari yang dipilih berada di sebelah kanan dengan acara hari berikutnya di bawahnya. Tatal lajur kiri untuk menukar bulan; butang bulan sebelumnya dan seterusnya disembunyikan. Lipat semula telefon dan anda kekal pada bulan dan hari yang sama dalam susun atur satu lajur.
+
 ---
 
 ## Tugasan dan jadual

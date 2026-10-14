@@ -42,6 +42,18 @@ L'únic esdeveniment que heu fixat com el més important, sempre a la vista. Con
 
 *Pantalla bloquejada en línia · Petit · Mitjà.*
 
+### Dia D
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-dday.png" alt="Widget de Dia D" width="200">
+
+Un compte enrere fins a un esdeveniment que trieu: el nom, quants dies falten i la data.
+
+- **Triar l'esdeveniment** — manteniu premut el widget, trieu Edita el widget i toqueu **Esdeveniment**. Se us llisten les cites i els festius al voltant d'avui.
+- **Fixar esdeveniments a dalt de la llista** — trieu **Afegeix al widget de Dia D** al menú de més opcions d'una cita, o manteniu premuda la cita a la llista d'esdeveniments del dia. Els esdeveniments fixats surten primer la propera vegada que editeu el widget.
+- **Cites repetitives** — després de triar-ne una, escolliu a **Torn de repetició** fins a quina repetició es compta enrere.
+
+*Pantalla bloquejada circular · rectangular · en línia · Petit · Mitjà.*
+
 ### Mes i setmanes
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-month.png" alt="Widget de mes" width="360">
@@ -86,7 +98,7 @@ Un sol toc i sou a l'[entrada ràpida amb IA](./02-ai-input.md).
 
 ### Widgets de pantalla bloquejada
 
-Uns quants widgets tenen forma de pantalla bloquejada: **Esdeveniment següent** (en línia i rectangular), **Els següents esdeveniments d'avui** (rectangular), **Esdeveniment principal** (en línia) i **Afegeix amb IA** (circular).
+Uns quants widgets tenen forma de pantalla bloquejada: **Esdeveniment següent** (en línia i rectangular), **Els següents esdeveniments d'avui** (rectangular), **Esdeveniment principal** (en línia), **Dia D** (circular, rectangular i en línia) i **Afegeix amb IA** (circular).
 
 ### Compte enrere amb Activitat en directe
 
@@ -104,9 +116,27 @@ A iOS 18 i posteriors podeu afegir el control **Afegeix amb IA** al Centre de Co
 
 ---
 
+## Personalitzar els widgets
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-gallery.png" alt="Galeria de widgets" width="280">
+
+Obriu **Configuració › Aparença › Galeria de widgets** per veure tots els widgets i les mides en què es presenten. Trieu un widget i toqueu **Personalitza**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/ca/widget-style-edit.png" alt="Personalitza el widget" width="280">
+
+- **Detalls** — activeu o desactiveu parts concretes del widget, com el nom del festiu, el fus horari o el recompte d'esdeveniments. El que podeu desactivar depèn del widget.
+- **Color de fons** — mantingueu **Segueix el tema de widget compartit**, o doneu a aquest estil un color o una foto propis.
+- **Estil nou** — deseu diversos aspectes per al mateix widget, cadascun amb el seu nom. Feu servir **Duplica** per començar des d'una còpia.
+
+La previsualització s'actualitza a mesura que feu canvis. Per fer servir un estil, manteniu premut el widget a la pantalla d'inici, trieu Edita el widget i seleccioneu-lo a **Estil del widget**: dues còpies del mateix widget poden tenir cadascuna un estil diferent. Si elimineu un estil, els widgets que el feien servir tornen a **Predeterminat**.
+
+Els widgets de la pantalla bloquejada mantenen l'aspecte que els dona el sistema.
+
+---
+
 ## Aparença
 
-Els widgets segueixen per defecte la configuració clara/fosca del sistema, o els podeu fixar a un color de fons de la vostra elecció: l'aplicació tria automàticament un text llegible segons com de clar sigui aquell color. Es configura a **Configuració › Aparença › Tema del widget**. Consulteu [Personalització](./05-personalization.md).
+Els widgets segueixen per defecte la configuració clara/fosca del sistema, o els podeu fixar a un color de fons de la vostra elecció: l'aplicació tria automàticament un text llegible segons com de clar sigui aquell color. Es configura a **Tema del widget**, a dalt de tot de **Configuració › Aparença › Galeria de widgets**. Si un estil té un color de fons propi, aquest color té prioritat. Consulteu [Personalització](./05-personalization.md).
 
 Els widgets es refresquen sols al llarg del dia i s'actualitzen just després que canvieu alguna cosa a l'aplicació.
 

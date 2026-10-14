@@ -42,6 +42,18 @@ L'unique événement que vous avez épinglé comme le plus important, toujours s
 
 *Écran verrouillé en ligne · Petit · Moyen.*
 
+### Jour J
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-dday.png" alt="Widget Jour J" width="200">
+
+Un compte à rebours vers un événement de votre choix : son nom, le nombre de jours restants et la date.
+
+- **Choisir l'événement** — appuyez longuement sur le widget, choisissez Modifier le widget, puis appuyez sur **Événement**. Les rendez-vous et jours fériés proches d'aujourd'hui vous sont proposés.
+- **Épingler des événements en haut de cette liste** — choisissez **Ajouter au widget Jour J** dans le menu « plus » d'un rendez-vous, ou appuyez longuement sur le rendez-vous dans la liste des événements du jour. Les événements épinglés apparaissent en premier la prochaine fois que vous modifiez le widget.
+- **Rendez-vous récurrents** — après en avoir choisi un, indiquez avec **Tour de répétition** l'occurrence vers laquelle compter.
+
+*Écran verrouillé circulaire · rectangulaire · en ligne · Petit · Moyen.*
+
 ### Mois et semaines
 
 <img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-month.png" alt="Widget Calendrier" width="360">
@@ -86,7 +98,7 @@ Un geste et vous êtes dans la [Saisie rapide par IA](./02-ai-input.md).
 
 ### Widgets de l'écran verrouillé
 
-Plusieurs widgets existent en version écran verrouillé : **Prochain événement** (en ligne et rectangulaire), **Les prochains événements du jour** (rectangulaire), **Événement principal** (en ligne) et **Ajouter avec l'IA** (circulaire).
+Plusieurs widgets existent en version écran verrouillé : **Prochain événement** (en ligne et rectangulaire), **Les prochains événements du jour** (rectangulaire), **Événement principal** (en ligne), **Jour J** (circulaire, rectangulaire et en ligne) et **Ajouter avec l'IA** (circulaire).
 
 ### Compte à rebours en Activité en direct
 
@@ -104,9 +116,27 @@ Posez un événement sur votre écran verrouillé et regardez le temps qui vous 
 
 ---
 
+## Personnaliser les widgets
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-gallery.png" alt="Galerie de widgets" width="280">
+
+Ouvrez **Réglages › Apparence › Galerie de widgets** pour voir tous les widgets et les tailles disponibles. Choisissez un widget et appuyez sur **Personnaliser**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/fr/widget-style-edit.png" alt="Personnaliser un widget" width="280">
+
+- **Détails** — affichez ou masquez certains éléments du widget, comme le nom du jour férié, le fuseau horaire ou le nombre d'événements. Ce que l'on peut masquer dépend du widget.
+- **Couleur d'arrière-plan** — gardez **Suivre le thème de widget commun**, ou donnez à ce style sa propre couleur ou sa propre photo.
+- **Nouveau style** — enregistrez plusieurs apparences pour un même widget, chacune avec son nom. Choisissez **Dupliquer** pour partir d'une copie.
+
+L'aperçu se met à jour au fil de vos modifications. Pour utiliser un style, appuyez longuement sur le widget de l'écran d'accueil, choisissez Modifier le widget et sélectionnez-le sous **Style du widget** — deux exemplaires du même widget peuvent avoir chacun leur style. Si vous supprimez un style, les widgets qui l'utilisaient reviennent à **Par défaut**.
+
+Les widgets de l'écran verrouillé gardent l'apparence que leur donne le système.
+
+---
+
 ## Apparence
 
-Par défaut, les widgets suivent le réglage clair/sombre du système ; vous pouvez aussi les fixer sur la couleur de fond de votre choix — l'application détermine toute seule si le texte doit être clair ou foncé selon la luminosité de cette couleur. Cela se règle dans **Réglages › Apparence › Thème du widget**. Voir [Personnalisation](./05-personalization.md).
+Par défaut, les widgets suivent le réglage clair/sombre du système ; vous pouvez aussi les fixer sur la couleur de fond de votre choix — l'application détermine toute seule si le texte doit être clair ou foncé selon la luminosité de cette couleur. Cela se règle dans **Thème du widget**, tout en haut de **Réglages › Apparence › Galerie de widgets**. La couleur d'arrière-plan propre à un style passe avant ce réglage. Voir [Personnalisation](./05-personalization.md).
 
 Les widgets se rafraîchissent tout seuls au fil de la journée et se mettent à jour juste après une modification dans l'application.
 

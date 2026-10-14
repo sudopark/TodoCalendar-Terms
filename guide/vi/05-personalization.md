@@ -35,11 +35,29 @@ Mọi mục trên màn hình này đều hiện xem trước ngay khi bạn thay
 
 ### Chủ đề màu
 
-Đi theo hệ thống, hoặc cố định ứng dụng ở **Sáng** hay **Tối** bất kể iOS đang để gì.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/color-theme-select.png" alt="Chủ đề màu" width="280">
 
-### Chủ đề tiện ích
+Đi theo hệ thống, cố định ứng dụng ở **Sáng** hay **Tối** bất kể iOS đang để gì, hoặc chọn một trong các chủ đề màu có sẵn. Chạm một chủ đề để áp dụng; bản xem trước ở trên cùng cho thấy lịch trông thế nào.
 
-Theo mặc định tiện ích **Dùng chủ đề hệ thống**. Chuyển sang **Chọn màu tùy chỉnh** là bạn chọn được màu nền tùy ý — ứng dụng nhìn độ sáng của màu đó để quyết định chữ nên sáng hay tối.
+Để tự tạo, chạm **Chủ đề mới** trong **Chủ đề của tôi**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/vi/color-theme-edit.png" alt="Chỉnh sửa chủ đề" width="280">
+
+| Cài đặt | Tác dụng |
+|---|---|
+| Tên | Tên của chủ đề trong **Chủ đề của tôi** |
+| Màu nền | Nền của lịch và màn hình |
+| Màu nhấn | Nút và phần làm nổi bật |
+| Kiểu | **Tô màu**, **Nhóm** hoặc **Viền** — cách thẻ sự kiện tách khỏi nền |
+| Màu chi tiết | Chữ, thẻ, hôm nay, ngày đang chọn, ngày lễ và cuối tuần, và nút AI. Để ở **Tự động** thì chúng được tính từ màu nền và màu nhấn của bạn |
+
+Để sửa hoặc xóa một chủ đề sau này, nhấn giữ nó trong **Chủ đề của tôi** rồi chọn **Chỉnh sửa**.
+
+### Thư viện tiện ích
+
+Cài đặt tiện ích nằm trong **Thư viện tiện ích** trên màn hình này. Ở trên cùng, **Chủ đề tiện ích** đặt nền cho mọi tiện ích của bạn: theo mặc định chúng dùng chủ đề hệ thống, và tắt **Dùng chủ đề hệ thống** là bạn chọn được màu nền tùy ý — ứng dụng nhìn độ sáng của màu đó để quyết định chữ nên sáng hay tối.
+
+Bên dưới, bạn có thể tùy chỉnh riêng từng tiện ích. Xem [Tùy chỉnh tiện ích](./03-widgets.md#tùy-chỉnh-tiện-ích).
 
 ### Cảm giác
 

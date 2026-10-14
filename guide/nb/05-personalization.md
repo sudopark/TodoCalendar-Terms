@@ -35,11 +35,29 @@ Alt på denne skjermen forhåndsvises mens du endrer det, så du ser hvordan kal
 
 ### Fargetema
 
-Følg **System**, eller lås appen til **Lyst** eller **Mørkt** uansett hva iOS gjør.
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/color-theme-select.png" alt="Fargetema" width="280">
 
-### Widget-tema
+Følg **System**, lås appen til **Lyst** eller **Mørkt** uansett hva iOS gjør, eller velg et av de innebygde fargetemaene. Trykk på et tema for å bruke det; forhåndsvisningen øverst viser hvordan kalenderen ser ut.
 
-Som standard står **Bruk systemtema** på. Bytt til **Velg egendefinert farge**, og velg akkurat den bakgrunnen du vil – appen finner ut om teksten skal være lys eller mørk ut fra hvor lys fargen din er.
+Vil du lage ditt eget, trykker du på **Nytt tema** under **Mine temaer**.
+
+<img src="https://raw.githubusercontent.com/sudopark/TodoCalendar-Terms/main/guide/images/nb/color-theme-edit.png" alt="Rediger tema" width="280">
+
+| Innstilling | Hva den gjør |
+|---|---|
+| Navn | Hva temaet heter under **Mine temaer** |
+| Bakgrunn | Bakgrunnen for kalenderen og skjermen |
+| Aksent | Knapper og fremhevinger |
+| Kortstil | **Fylt**, **Gruppert** eller **Omriss** – hvordan hendelseskortene skiller seg fra bakgrunnen |
+| Detaljfarger | Tekst, kort, i dag, den valgte dagen, helligdager og helger, og AI-knappen. Lar du dem stå på **Automatisk**, regner appen dem ut fra bakgrunnen og aksenten din |
+
+Vil du endre eller slette et tema senere, holder du det inne under **Mine temaer** og velger **Rediger**.
+
+### Widget-galleri
+
+Widget-innstillingene finner du i **Widget-galleri** på denne skjermen. Øverst bestemmer **Widget-tema** bakgrunnen for alle widgetene dine: som standard bruker de systemtemaet, og slår du av **Bruk systemtema**, kan du velge hvilken som helst bakgrunnsfarge – appen finner ut om teksten skal være lys eller mørk ut fra hvor lys fargen din er.
+
+Under det kan du tilpasse hver widget for seg. Se [Tilpass widgets](./03-widgets.md#tilpass-widgets).
 
 ### Respons og bevegelse
 
